@@ -1,0 +1,230 @@
+
+fastspin_vfx_c_add_02.png
+size: 1714,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fastspin_vfx_c_add_02_00.pn
+  rotate: false
+  xy: 992, 2
+  size: 4, 4
+  orig: 150, 300
+  offset: 83, 5
+  index: -1
+fastspin_vfx_c_add_02_01.pn
+  rotate: false
+  xy: 404, 132
+  size: 34, 42
+  orig: 150, 300
+  offset: 67, 0
+  index: -1
+fastspin_vfx_c_add_02_02.pn
+  rotate: false
+  xy: 78, 34
+  size: 86, 58
+  orig: 150, 300
+  offset: 40, 0
+  index: -1
+fastspin_vfx_c_add_02_03.pn
+  rotate: true
+  xy: 2, 2
+  size: 90, 74
+  orig: 150, 300
+  offset: 38, 0
+  index: -1
+fastspin_vfx_c_add_02_04.pn
+  rotate: false
+  xy: 1554, 18
+  size: 94, 94
+  orig: 150, 300
+  offset: 34, 0
+  index: -1
+fastspin_vfx_c_add_02_05.pn
+  rotate: false
+  xy: 444, 78
+  size: 100, 96
+  orig: 150, 300
+  offset: 30, 0
+  index: -1
+fastspin_vfx_c_add_02_06.pn
+  rotate: false
+  xy: 1440, 20
+  size: 112, 106
+  orig: 150, 300
+  offset: 22, 3
+  index: -1
+fastspin_vfx_c_add_02_07.pn
+  rotate: false
+  xy: 992, 8
+  size: 130, 110
+  orig: 150, 300
+  offset: 12, 10
+  index: -1
+fastspin_vfx_c_add_02_08.pn
+  rotate: false
+  xy: 546, 96
+  size: 140, 114
+  orig: 150, 300
+  offset: 6, 13
+  index: -1
+fastspin_vfx_c_add_02_09.pn
+  rotate: true
+  xy: 688, 156
+  size: 116, 150
+  orig: 150, 300
+  offset: 18, 0
+  index: -1
+fastspin_vfx_c_add_02_10.pn
+  rotate: true
+  xy: 1056, 274
+  size: 120, 162
+  orig: 150, 300
+  offset: 15, 0
+  index: -1
+fastspin_vfx_c_add_02_11.pn
+  rotate: true
+  xy: 258, 2
+  size: 124, 184
+  orig: 150, 300
+  offset: 12, 0
+  index: -1
+fastspin_vfx_c_add_02_12.pn
+  rotate: true
+  xy: 688, 274
+  size: 120, 186
+  orig: 150, 300
+  offset: 10, 0
+  index: -1
+fastspin_vfx_c_add_02_13.pn
+  rotate: false
+  xy: 1372, 270
+  size: 150, 124
+  orig: 150, 300
+  offset: 0, 40
+  index: -1
+fastspin_vfx_c_add_02_14.pn
+  rotate: false
+  xy: 1524, 266
+  size: 150, 128
+  orig: 150, 300
+  offset: 0, 41
+  index: -1
+fastspin_vfx_c_add_02_15.pn
+  rotate: false
+  xy: 840, 136
+  size: 150, 134
+  orig: 150, 300
+  offset: 0, 46
+  index: -1
+fastspin_vfx_c_add_02_16.pn
+  rotate: false
+  xy: 688, 16
+  size: 150, 138
+  orig: 150, 300
+  offset: 0, 52
+  index: -1
+fastspin_vfx_c_add_02_17.pn
+  rotate: true
+  xy: 992, 120
+  size: 150, 142
+  orig: 150, 300
+  offset: 0, 55
+  index: -1
+fastspin_vfx_c_add_02_18.pn
+  rotate: false
+  xy: 258, 128
+  size: 144, 266
+  orig: 150, 300
+  offset: 0, 0
+  index: -1
+fastspin_vfx_c_add_02_19.pn
+  rotate: false
+  xy: 1136, 4
+  size: 150, 122
+  orig: 150, 300
+  offset: 0, 82
+  index: -1
+fastspin_vfx_c_add_02_20.pn
+  rotate: false
+  xy: 132, 94
+  size: 124, 300
+  orig: 150, 300
+  offset: 18, 0
+  index: -1
+fastspin_vfx_c_add_02_21.pn
+  rotate: false
+  xy: 2, 94
+  size: 128, 300
+  orig: 150, 300
+  offset: 16, 0
+  index: -1
+fastspin_vfx_c_add_02_22.pn
+  rotate: false
+  xy: 840, 2
+  size: 150, 132
+  orig: 150, 300
+  offset: 0, 105
+  index: -1
+fastspin_vfx_c_add_02_23.pn
+  rotate: false
+  xy: 1440, 128
+  size: 150, 136
+  orig: 150, 300
+  offset: 0, 110
+  index: -1
+fastspin_vfx_c_add_02_24.pn
+  rotate: false
+  xy: 1136, 128
+  size: 150, 142
+  orig: 150, 300
+  offset: 0, 107
+  index: -1
+fastspin_vfx_c_add_02_25.pn
+  rotate: false
+  xy: 404, 176
+  size: 140, 218
+  orig: 150, 300
+  offset: 10, 82
+  index: -1
+fastspin_vfx_c_add_02_26.pn
+  rotate: false
+  xy: 1288, 128
+  size: 150, 140
+  orig: 150, 300
+  offset: 0, 122
+  index: -1
+fastspin_vfx_c_add_02_27.pn
+  rotate: false
+  xy: 546, 212
+  size: 140, 182
+  orig: 150, 300
+  offset: 10, 118
+  index: -1
+fastspin_vfx_c_add_02_28.pn
+  rotate: false
+  xy: 1288, 4
+  size: 150, 122
+  orig: 150, 300
+  offset: 0, 151
+  index: -1
+fastspin_vfx_c_add_02_29.pn
+  rotate: true
+  xy: 1592, 114
+  size: 150, 120
+  orig: 150, 300
+  offset: 0, 151
+  index: -1
+fastspin_vfx_c_add_02_30.pn
+  rotate: true
+  xy: 876, 272
+  size: 122, 178
+  orig: 150, 300
+  offset: 11, 122
+  index: -1
+fastspin_vfx_c_add_02_31.pn
+  rotate: false
+  xy: 1220, 272
+  size: 150, 122
+  orig: 150, 300
+  offset: 0, 150
+  index: -1

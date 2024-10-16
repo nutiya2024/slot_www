@@ -1,0 +1,153 @@
+
+cabl_buy_feature.png
+size: 2480,762
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_frame
+  rotate: false
+  xy: 0, 144
+  size: 957, 618
+  orig: 963, 625
+  offset: 0, 0
+  index: -1
+cabl_buy_feature_fx_00000
+  rotate: true
+  xy: 2310, 16
+  size: 146, 170
+  orig: 209, 225
+  offset: 0, 55
+  index: -1
+cabl_buy_feature_fx_00002
+  rotate: false
+  xy: 1777, 77
+  size: 155, 189
+  orig: 209, 225
+  offset: 0, 35
+  index: -1
+cabl_buy_feature_fx_00004
+  rotate: true
+  xy: 2118, 0
+  size: 161, 190
+  orig: 209, 225
+  offset: 0, 34
+  index: -1
+cabl_buy_feature_fx_00006
+  rotate: false
+  xy: 2296, 164
+  size: 169, 191
+  orig: 209, 225
+  offset: 0, 0
+  index: -1
+cabl_buy_feature_fx_00008
+  rotate: false
+  xy: 2118, 163
+  size: 176, 192
+  orig: 209, 225
+  offset: 0, 1
+  index: -1
+cabl_buy_feature_fx_00010
+  rotate: false
+  xy: 1934, 120
+  size: 182, 193
+  orig: 209, 225
+  offset: 0, 1
+  index: -1
+cabl_buy_feature_fx_00012
+  rotate: true
+  xy: 1580, 77
+  size: 189, 195
+  orig: 209, 225
+  offset: 0, 1
+  index: -1
+cabl_buy_feature_fx_00014
+  rotate: false
+  xy: 1366, 7
+  size: 195, 197
+  orig: 209, 225
+  offset: 0, 1
+  index: -1
+cabl_buy_feature_fx_00015
+  rotate: false
+  xy: 1166, 6
+  size: 198, 198
+  orig: 209, 225
+  offset: 1, 1
+  index: -1
+cabl_buy_feature_fx_00017
+  rotate: false
+  xy: 2110, 502
+  size: 202, 201
+  orig: 209, 225
+  offset: 3, 0
+  index: -1
+cabl_buy_feature_fx_00019
+  rotate: true
+  xy: 959, 0
+  size: 204, 205
+  orig: 209, 225
+  offset: 3, 0
+  index: -1
+cabl_buy_feature_fx_00021
+  rotate: false
+  xy: 2314, 510
+  size: 139, 193
+  orig: 209, 225
+  offset: 0, 32
+  index: -1
+cabl_buy_feature_fx_00023
+  rotate: true
+  xy: 2110, 357
+  size: 143, 193
+  orig: 209, 225
+  offset: 2, 32
+  index: -1
+frame_01
+  rotate: false
+  xy: 0, 42
+  size: 949, 43
+  orig: 949, 46
+  offset: 0, 0
+  index: -1
+frame_02
+  rotate: true
+  xy: 1831, 705
+  size: 57, 619
+  orig: 57, 622
+  offset: 0, 3
+  index: -1
+frame_03
+  rotate: false
+  xy: 0, 87
+  size: 950, 55
+  orig: 950, 55
+  offset: 0, 0
+  index: -1
+frame_04
+  rotate: true
+  xy: 959, 206
+  size: 60, 619
+  orig: 60, 621
+  offset: 0, 2
+  index: -1
+rays
+  rotate: false
+  xy: 959, 268
+  size: 870, 494
+  orig: 870, 494
+  offset: 0, 0
+  index: -1
+small_frame_bg
+  rotate: false
+  xy: 1831, 315
+  size: 256, 158
+  orig: 256, 158
+  offset: 0, 0
+  index: -1
+small_frme_s
+  rotate: false
+  xy: 1831, 475
+  size: 277, 228
+  orig: 289, 300
+  offset: 0, 0
+  index: -1

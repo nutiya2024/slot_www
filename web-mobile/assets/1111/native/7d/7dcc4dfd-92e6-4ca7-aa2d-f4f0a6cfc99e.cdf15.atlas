@@ -1,0 +1,20 @@
+
+Symbol_00.png
+size: 136,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbol_00
+  rotate: true
+  xy: 77, 4
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+Symbol_00_Light
+  rotate: false
+  xy: 0, 0
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1

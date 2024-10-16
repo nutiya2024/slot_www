@@ -1,0 +1,27 @@
+
+guang.png
+size: 502,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bonus_Game_bow2
+  rotate: false
+  xy: 273, 75
+  size: 229, 196
+  orig: 230, 196
+  offset: 0, 0
+  index: -1
+Egypt_effects_04b
+  rotate: false
+  xy: 0, 0
+  size: 271, 271
+  orig: 271, 271
+  offset: 0, 0
+  index: -1
+Light_01
+  rotate: false
+  xy: 273, 9
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

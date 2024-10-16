@@ -1,0 +1,160 @@
+
+cabl_pic_5_blue_candy.png
+size: 532,995
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+candy
+  rotate: false
+  xy: 267, 414
+  size: 248, 211
+  orig: 248, 211
+  offset: 0, 0
+  index: -1
+candy_outer_line
+  rotate: true
+  xy: 421, 56
+  size: 128, 110
+  orig: 128, 110
+  offset: 0, 0
+  index: -1
+candy_particles
+  rotate: false
+  xy: 0, 326
+  size: 229, 170
+  orig: 231, 170
+  offset: 0, 0
+  index: -1
+candy_shine_1
+  rotate: true
+  xy: 231, 186
+  size: 145, 200
+  orig: 145, 200
+  offset: 0, 0
+  index: -1
+candy_stripes
+  rotate: false
+  xy: 292, 706
+  size: 237, 205
+  orig: 237, 205
+  offset: 0, 0
+  index: -1
+p1
+  rotate: true
+  xy: 0, 0
+  size: 178, 159
+  orig: 178, 159
+  offset: 0, 0
+  index: -1
+pic_01_splash_00001
+  rotate: true
+  xy: 434, 190
+  size: 151, 63
+  orig: 296, 97
+  offset: 73, 7
+  index: -1
+pic_01_splash_00002
+  rotate: false
+  xy: 231, 333
+  size: 201, 79
+  orig: 296, 97
+  offset: 49, 8
+  index: -1
+pic_01_splash_00003
+  rotate: false
+  xy: 298, 913
+  size: 233, 82
+  orig: 296, 97
+  offset: 32, 11
+  index: -1
+pic_01_splash_00004
+  rotate: false
+  xy: 0, 498
+  size: 245, 78
+  orig: 296, 97
+  offset: 27, 17
+  index: -1
+pic_01_splash_00005
+  rotate: false
+  xy: 277, 627
+  size: 255, 77
+  orig: 296, 97
+  offset: 22, 18
+  index: -1
+pic_01_splash_00006
+  rotate: false
+  xy: 0, 578
+  size: 265, 74
+  orig: 296, 97
+  offset: 17, 20
+  index: -1
+pic_01_splash_00007
+  rotate: false
+  xy: 0, 654
+  size: 275, 70
+  orig: 296, 97
+  offset: 12, 20
+  index: -1
+pic_01_splash_00008
+  rotate: false
+  xy: 0, 726
+  size: 281, 61
+  orig: 296, 97
+  offset: 9, 25
+  index: -1
+pic_01_splash_00009
+  rotate: false
+  xy: 0, 789
+  size: 287, 62
+  orig: 296, 97
+  offset: 6, 17
+  index: -1
+pic_01_splash_00010
+  rotate: false
+  xy: 0, 887
+  size: 290, 62
+  orig: 296, 97
+  offset: 3, 9
+  index: -1
+pic_01_splash_00011
+  rotate: false
+  xy: 0, 951
+  size: 296, 44
+  orig: 296, 97
+  offset: 0, 5
+  index: -1
+pic_01_splash_00012
+  rotate: false
+  xy: 0, 853
+  size: 289, 32
+  orig: 296, 97
+  offset: 5, 5
+  index: -1
+pic_1_shadow1
+  rotate: true
+  xy: 293, 46
+  size: 138, 126
+  orig: 138, 126
+  offset: 0, 0
+  index: -1
+r1
+  rotate: false
+  xy: 0, 180
+  size: 191, 144
+  orig: 191, 144
+  offset: 0, 0
+  index: -1
+sparks
+  rotate: false
+  xy: 434, 343
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+y1
+  rotate: true
+  xy: 161, 2
+  size: 176, 130
+  orig: 176, 130
+  offset: 0, 0
+  index: -1

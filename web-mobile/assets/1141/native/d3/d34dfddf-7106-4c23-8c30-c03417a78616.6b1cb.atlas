@@ -1,0 +1,369 @@
+
+tucl_banner.png
+size: 2016,1999
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1234_frame
+  rotate: false
+  xy: 2, 950
+  size: 699, 237
+  orig: 756, 237
+  offset: 29, 0
+  index: -1
+1234_frame_base
+  rotate: true
+  xy: 1220, 1683
+  size: 132, 616
+  orig: 132, 616
+  offset: 0, 0
+  index: -1
+back_gems_01
+  rotate: false
+  xy: 1201, 1481
+  size: 239, 200
+  orig: 239, 200
+  offset: 0, 0
+  index: -1
+back_gems_01_grass
+  rotate: false
+  xy: 2, 1876
+  size: 166, 86
+  orig: 171, 96
+  offset: 5, 1
+  index: -1
+back_gems_02
+  rotate: false
+  xy: 1442, 1481
+  size: 239, 200
+  orig: 239, 200
+  offset: 0, 0
+  index: -1
+back_gems_02_grass
+  rotate: false
+  xy: 939, 1690
+  size: 279, 137
+  orig: 282, 138
+  offset: 0, 0
+  index: -1
+congratulations_text_glow_01
+  rotate: false
+  xy: 1838, 1651
+  size: 175, 164
+  orig: 175, 164
+  offset: 0, 0
+  index: -1
+dust_base_00000
+  rotate: true
+  xy: 2, 1964
+  size: 33, 114
+  orig: 138, 284
+  offset: 96, 65
+  index: -1
+dust_base_00002
+  rotate: false
+  xy: 660, 1939
+  size: 149, 58
+  orig: 284, 138
+  offset: 44, 9
+  index: -1
+dust_base_00004
+  rotate: true
+  xy: 1251, 1928
+  size: 69, 172
+  orig: 138, 284
+  offset: 60, 47
+  index: -1
+dust_base_00006
+  rotate: false
+  xy: 1043, 1929
+  size: 206, 68
+  orig: 284, 138
+  offset: 44, 9
+  index: -1
+dust_base_00008
+  rotate: true
+  xy: 1543, 1917
+  size: 80, 215
+  orig: 138, 284
+  offset: 49, 54
+  index: -1
+dust_base_00010
+  rotate: true
+  xy: 282, 1853
+  size: 95, 227
+  orig: 138, 284
+  offset: 34, 51
+  index: -1
+dust_base_00012
+  rotate: true
+  xy: 511, 1834
+  size: 103, 225
+  orig: 138, 284
+  offset: 26, 54
+  index: -1
+dust_base_00014
+  rotate: false
+  xy: 2, 1751
+  size: 223, 107
+  orig: 284, 138
+  offset: 56, 9
+  index: -1
+dust_base_00016
+  rotate: true
+  xy: 227, 1740
+  size: 111, 233
+  orig: 138, 284
+  offset: 18, 46
+  index: -1
+dust_base_00018
+  rotate: true
+  xy: 701, 1713
+  size: 114, 236
+  orig: 138, 284
+  offset: 15, 43
+  index: -1
+dust_base_00020
+  rotate: false
+  xy: 462, 1719
+  size: 237, 113
+  orig: 284, 138
+  offset: 42, 9
+  index: -1
+extra_grass
+  rotate: false
+  xy: 2, 1567
+  size: 1197, 121
+  orig: 1197, 121
+  offset: 0, 0
+  index: -1
+frame_01
+  rotate: true
+  xy: 1338, 1817
+  size: 98, 598
+  orig: 98, 598
+  offset: 0, 0
+  index: -1
+frame_02
+  rotate: true
+  xy: 738, 1829
+  size: 97, 598
+  orig: 97, 598
+  offset: 0, 0
+  index: -1
+gem_01
+  rotate: false
+  xy: 1425, 1927
+  size: 116, 70
+  orig: 116, 70
+  offset: 0, 0
+  index: -1
+gem_01_grass
+  rotate: false
+  xy: 538, 1944
+  size: 120, 53
+  orig: 121, 56
+  offset: 0, 2
+  index: -1
+gem_02
+  rotate: false
+  xy: 359, 1953
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+gem_02_grass
+  rotate: true
+  xy: 445, 1950
+  size: 47, 91
+  orig: 49, 91
+  offset: 1, 0
+  index: -1
+gem_03
+  rotate: false
+  xy: 170, 1860
+  size: 110, 92
+  orig: 110, 92
+  offset: 0, 0
+  index: -1
+gem_03_grass
+  rotate: false
+  xy: 194, 1954
+  size: 89, 43
+  orig: 91, 45
+  offset: 1, 1
+  index: -1
+gem_04
+  rotate: false
+  xy: 811, 1937
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+gem_04_grass
+  rotate: false
+  xy: 923, 1936
+  size: 118, 61
+  orig: 122, 62
+  offset: 4, 0
+  index: -1
+gem_05
+  rotate: false
+  xy: 285, 1954
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+gem_05_grass
+  rotate: false
+  xy: 118, 1964
+  size: 74, 33
+  orig: 75, 33
+  offset: 1, 0
+  index: -1
+gem_06
+  rotate: false
+  xy: 1668, 1115
+  size: 315, 302
+  orig: 315, 302
+  offset: 0, 0
+  index: -1
+gem_07
+  rotate: true
+  xy: 1683, 1419
+  size: 230, 330
+  orig: 230, 330
+  offset: 0, 0
+  index: -1
+glow_1
+  rotate: false
+  xy: 1641, 686
+  size: 373, 427
+  orig: 401, 428
+  offset: 28, 1
+  index: -1
+ground
+  rotate: false
+  xy: 2, 2
+  size: 889, 263
+  orig: 889, 278
+  offset: 0, 0
+  index: -1
+particles_00000
+  rotate: true
+  xy: 2, 699
+  size: 249, 423
+  orig: 256, 499
+  offset: 0, 76
+  index: -1
+particles_00002
+  rotate: true
+  xy: 2, 432
+  size: 254, 459
+  orig: 256, 499
+  offset: 0, 27
+  index: -1
+particles_00004
+  rotate: true
+  xy: 427, 688
+  size: 250, 491
+  orig: 256, 499
+  offset: 0, 2
+  index: -1
+particles_00006
+  rotate: true
+  xy: 1405, 430
+  size: 254, 475
+  orig: 256, 499
+  offset: 0, 15
+  index: -1
+particles_00008
+  rotate: false
+  xy: 954, 172
+  size: 486, 256
+  orig: 499, 256
+  offset: 3, 0
+  index: -1
+particles_00010
+  rotate: false
+  xy: 1173, 1253
+  size: 493, 226
+  orig: 499, 256
+  offset: 1, 0
+  index: -1
+particles_00012
+  rotate: false
+  xy: 1146, 1018
+  size: 493, 233
+  orig: 499, 256
+  offset: 5, 0
+  index: -1
+particles_00014
+  rotate: true
+  xy: 1127, 775
+  size: 241, 499
+  orig: 256, 499
+  offset: 0, 0
+  index: -1
+particles_00016
+  rotate: true
+  xy: 920, 523
+  size: 250, 483
+  orig: 256, 499
+  offset: 0, 0
+  index: -1
+particles_00018
+  rotate: true
+  xy: 463, 267
+  size: 254, 489
+  orig: 256, 499
+  offset: 0, 2
+  index: -1
+particles_00020
+  rotate: true
+  xy: 703, 940
+  size: 247, 422
+  orig: 256, 499
+  offset: 0, 77
+  index: -1
+plank
+  rotate: false
+  xy: 2, 1189
+  size: 1142, 200
+  orig: 1142, 200
+  offset: 0, 0
+  index: -1
+plank_shadow
+  rotate: true
+  xy: 1760, 1917
+  size: 80, 223
+  orig: 87, 225
+  offset: 1, 1
+  index: -1
+wall
+  rotate: false
+  xy: 2, 1391
+  size: 1169, 174
+  orig: 1169, 213
+  offset: 0, 31
+  index: -1
+
+tucl_banner2.png
+size: 975,1203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame_bg
+  rotate: false
+  xy: 2, 504
+  size: 971, 697
+  orig: 971, 698
+  offset: 0, 1
+  index: -1
+rays
+  rotate: false
+  xy: 2, 2
+  size: 856, 500
+  orig: 856, 500
+  offset: 0, 0
+  index: -1

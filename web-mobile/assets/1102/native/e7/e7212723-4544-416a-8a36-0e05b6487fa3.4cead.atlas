@@ -1,0 +1,258 @@
+
+a6d212f0945ec4044ba87c83bcb99b5a.png
+size: 1394,1350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_fire_bigwin_00017
+  rotate: false
+  xy: 929, 388
+  size: 230, 191
+  orig: 436, 281
+  offset: -8, -5
+  index: -1
+s_fire_bigwin_00022
+  rotate: false
+  xy: 696, 195
+  size: 230, 188
+  orig: 436, 281
+  offset: -8, -5
+  index: -1
+s_fire_bigwin_00018
+  rotate: false
+  xy: 232, 195
+  size: 230, 191
+  orig: 436, 281
+  offset: -8, -5
+  index: -1
+s_fire_bigwin_00025
+  rotate: false
+  xy: 233, 969
+  size: 230, 190
+  orig: 436, 281
+  offset: -8, -7
+  index: -1
+s_fire_bigwin_00019
+  rotate: false
+  xy: 929, 194
+  size: 230, 192
+  orig: 436, 281
+  offset: -8, -6
+  index: -1
+s_fire_bigwin_00024
+  rotate: false
+  xy: 464, 385
+  size: 230, 191
+  orig: 436, 281
+  offset: -8, -6
+  index: -1
+s_fire_bigwin_00020
+  rotate: false
+  xy: 697, 1161
+  size: 230, 189
+  orig: 436, 281
+  offset: -8, -6
+  index: -1
+s_fire_bigwin_00021
+  rotate: false
+  xy: 929, 774
+  size: 230, 189
+  orig: 436, 281
+  offset: -8, -5
+  index: -1
+s_fire_bigwin_00023
+  rotate: false
+  xy: 0, 967
+  size: 231, 190
+  orig: 436, 281
+  offset: -9, -7
+  index: -1
+s_fire_bigwin_00026
+  rotate: false
+  xy: 233, 1161
+  size: 230, 189
+  orig: 436, 281
+  offset: -8, -6
+  index: -1
+s_fire_bigwin_00027
+  rotate: false
+  xy: 232, 388
+  size: 230, 192
+  orig: 436, 281
+  offset: -8, -8
+  index: -1
+s_fire_bigwin_00028
+  rotate: false
+  xy: 0, 195
+  size: 230, 192
+  orig: 436, 281
+  offset: -8, -7
+  index: -1
+s_fire_bigwin_00029
+  rotate: false
+  xy: 465, 1158
+  size: 230, 192
+  orig: 436, 281
+  offset: -8, -6
+  index: -1
+s_fire_bigwin_00030
+  rotate: false
+  xy: 696, 2
+  size: 229, 191
+  orig: 436, 281
+  offset: -8, -6
+  index: -1
+s_fire_bigwin_00045
+  rotate: false
+  xy: 928, 965
+  size: 231, 192
+  orig: 436, 281
+  offset: -9, -6
+  index: -1
+s_fire_bigwin_00031
+  rotate: false
+  xy: 1161, 193
+  size: 231, 191
+  orig: 436, 281
+  offset: -8, -5
+  index: -1
+s_fire_bigwin_00044
+  rotate: false
+  xy: 0, 582
+  size: 231, 191
+  orig: 436, 281
+  offset: -9, -5
+  index: -1
+s_fire_bigwin_00032
+  rotate: false
+  xy: 1161, 966
+  size: 231, 191
+  orig: 436, 281
+  offset: -8, -5
+  index: -1
+s_fire_bigwin_00047
+  rotate: false
+  xy: 0, 389
+  size: 230, 191
+  orig: 436, 281
+  offset: -8, -5
+  index: -1
+s_fire_bigwin_00033
+  rotate: false
+  xy: 233, 582
+  size: 231, 192
+  orig: 436, 281
+  offset: -9, -6
+  index: -1
+s_fire_bigwin_00046
+  rotate: false
+  xy: 233, 776
+  size: 230, 191
+  orig: 436, 281
+  offset: -8, -6
+  index: -1
+s_fire_bigwin_00034
+  rotate: false
+  xy: 464, 192
+  size: 230, 191
+  orig: 436, 281
+  offset: -8, -5
+  index: -1
+s_fire_bigwin_00041
+  rotate: false
+  xy: 1161, 773
+  size: 231, 191
+  orig: 436, 281
+  offset: -9, -5
+  index: -1
+s_fire_bigwin_00035
+  rotate: false
+  xy: 465, 963
+  size: 230, 193
+  orig: 436, 281
+  offset: -8, -5
+  index: -1
+s_fire_bigwin_00040
+  rotate: false
+  xy: 0, 775
+  size: 231, 190
+  orig: 436, 281
+  offset: -9, -5
+  index: -1
+s_fire_bigwin_00036
+  rotate: false
+  xy: 698, 577
+  size: 229, 193
+  orig: 436, 281
+  offset: -9, -5
+  index: -1
+s_fire_bigwin_00043
+  rotate: false
+  xy: 0, 1159
+  size: 231, 191
+  orig: 436, 281
+  offset: -9, -5
+  index: -1
+s_fire_bigwin_00037
+  rotate: false
+  xy: 697, 968
+  size: 229, 191
+  orig: 436, 281
+  offset: -9, -6
+  index: -1
+s_fire_bigwin_00042
+  rotate: false
+  xy: 1160, 1159
+  size: 231, 191
+  orig: 436, 281
+  offset: -9, -5
+  index: -1
+s_fire_bigwin_00038
+  rotate: false
+  xy: 1162, 580
+  size: 229, 191
+  orig: 436, 281
+  offset: -9, -5
+  index: -1
+s_fire_bigwin_00039
+  rotate: false
+  xy: 929, 1159
+  size: 229, 191
+  orig: 436, 281
+  offset: -9, -5
+  index: -1
+s_fire_bigwin_00048
+  rotate: false
+  xy: 1161, 386
+  size: 231, 192
+  orig: 436, 281
+  offset: -9, -5
+  index: -1
+s_fire_bigwin_00049
+  rotate: false
+  xy: 929, 581
+  size: 231, 190
+  orig: 436, 281
+  offset: -9, -5
+  index: -1
+s_fire_bigwin_00050
+  rotate: false
+  xy: 696, 385
+  size: 231, 190
+  orig: 436, 281
+  offset: -8, -5
+  index: -1
+s_fire_bigwin_00051
+  rotate: false
+  xy: 466, 578
+  size: 230, 192
+  orig: 436, 281
+  offset: -8, -4
+  index: -1
+s_fire_bigwin_00052
+  rotate: false
+  xy: 697, 772
+  size: 230, 191
+  orig: 436, 281
+  offset: -8, -4
+  index: -1

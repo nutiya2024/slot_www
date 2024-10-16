@@ -1,0 +1,90 @@
+
+huoyan_sd.png
+size: 1146,1144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoyan_sd000
+  rotate: false
+  xy: 0, 422
+  size: 285, 360
+  orig: 285, 360
+  offset: 0, 0
+  index: -1
+huoyan_sd001
+  rotate: false
+  xy: 287, 784
+  size: 285, 360
+  orig: 285, 360
+  offset: 0, 0
+  index: -1
+huoyan_sd002
+  rotate: false
+  xy: 0, 60
+  size: 285, 360
+  orig: 285, 360
+  offset: 0, 0
+  index: -1
+huoyan_sd003
+  rotate: false
+  xy: 287, 422
+  size: 285, 360
+  orig: 285, 360
+  offset: 0, 0
+  index: -1
+huoyan_sd004
+  rotate: false
+  xy: 574, 784
+  size: 285, 360
+  orig: 285, 360
+  offset: 0, 0
+  index: -1
+huoyan_sd005
+  rotate: false
+  xy: 287, 60
+  size: 285, 360
+  orig: 285, 360
+  offset: 0, 0
+  index: -1
+huoyan_sd006
+  rotate: false
+  xy: 574, 422
+  size: 285, 360
+  orig: 285, 360
+  offset: 0, 0
+  index: -1
+huoyan_sd007
+  rotate: false
+  xy: 861, 784
+  size: 285, 360
+  orig: 285, 360
+  offset: 0, 0
+  index: -1
+huoyan_sd008
+  rotate: false
+  xy: 574, 60
+  size: 285, 360
+  orig: 285, 360
+  offset: 0, 0
+  index: -1
+huoyan_sd009
+  rotate: false
+  xy: 861, 422
+  size: 285, 360
+  orig: 285, 360
+  offset: 0, 0
+  index: -1
+huoyan_sd010
+  rotate: false
+  xy: 861, 60
+  size: 285, 360
+  orig: 285, 360
+  offset: 0, 0
+  index: -1
+huoyan_sd011
+  rotate: false
+  xy: 0, 784
+  size: 285, 360
+  orig: 285, 360
+  offset: 0, 0
+  index: -1

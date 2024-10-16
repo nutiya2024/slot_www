@@ -1,0 +1,34 @@
+
+pai_g2.png
+size: 194,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eft2_p001
+  rotate: false
+  xy: 101, 101
+  size: 93, 93
+  orig: 100, 100
+  offset: 4, 3
+  index: -1
+eft2_p002
+  rotate: false
+  xy: 0, 104
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+eft2_p003
+  rotate: false
+  xy: 38, 111
+  size: 29, 29
+  orig: 38, 37
+  offset: 5, 3
+  index: -1
+eft_str_m03
+  rotate: false
+  xy: 0, 142
+  size: 99, 52
+  orig: 99, 52
+  offset: 0, 0
+  index: -1

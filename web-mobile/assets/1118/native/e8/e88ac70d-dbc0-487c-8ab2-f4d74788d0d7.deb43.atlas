@@ -1,0 +1,119 @@
+
+stpr_character_ol_fx.png
+size: 1965,970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_00044
+  rotate: false
+  xy: 1572, 462
+  size: 146, 160
+  orig: 420, 500
+  offset: 12, 18
+  index: -1
+fx_00046
+  rotate: false
+  xy: 1352, 0
+  size: 187, 252
+  orig: 420, 500
+  offset: 1, 16
+  index: -1
+fx_00060
+  rotate: false
+  xy: 397, 8
+  size: 389, 480
+  orig: 420, 500
+  offset: -8, 10
+  index: -1
+fx_00048
+  rotate: false
+  xy: 1182, 585
+  size: 261, 385
+  orig: 420, 500
+  offset: -7, 17
+  index: -1
+fx_00050
+  rotate: false
+  xy: 788, 8
+  size: 335, 480
+  orig: 420, 500
+  offset: -7, 10
+  index: -1
+fx_00058
+  rotate: false
+  xy: 398, 490
+  size: 395, 480
+  orig: 420, 500
+  offset: -11, 10
+  index: -1
+fx_00052
+  rotate: false
+  xy: 795, 490
+  size: 385, 480
+  orig: 420, 500
+  offset: -7, 10
+  index: -1
+fx_00054
+  rotate: false
+  xy: 0, 8
+  size: 395, 480
+  orig: 420, 500
+  offset: -11, 10
+  index: -1
+fx_00056
+  rotate: false
+  xy: 0, 490
+  size: 396, 480
+  orig: 420, 500
+  offset: -10, 10
+  index: -1
+fx_00064
+  rotate: false
+  xy: 1445, 624
+  size: 274, 346
+  orig: 420, 500
+  offset: -11, -19
+  index: -1
+fx_00066
+  rotate: false
+  xy: 1721, 623
+  size: 244, 347
+  orig: 420, 500
+  offset: -17, -19
+  index: -1
+fx_00068
+  rotate: false
+  xy: 1125, 142
+  size: 225, 346
+  orig: 420, 500
+  offset: -8, -18
+  index: -1
+fx_00070
+  rotate: false
+  xy: 1352, 254
+  size: 218, 329
+  orig: 420, 500
+  offset: -4, -10
+  index: -1
+fx_00072
+  rotate: false
+  xy: 1720, 407
+  size: 221, 214
+  orig: 500, 420
+  offset: -45, -7
+  index: -1
+fx_00074
+  rotate: false
+  xy: 1755, 190
+  size: 204, 215
+  orig: 420, 500
+  offset: -9, 42
+  index: -1
+fx_00076
+  rotate: false
+  xy: 1541, 36
+  size: 212, 216
+  orig: 420, 500
+  offset: -10, 42
+  index: -1
+

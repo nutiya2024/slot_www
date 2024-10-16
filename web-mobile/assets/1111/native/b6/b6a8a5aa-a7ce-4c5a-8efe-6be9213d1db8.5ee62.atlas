@@ -1,0 +1,76 @@
+
+yanwu.png
+size: 294,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke/1/Smoke_000
+  rotate: true
+  xy: 282, 5
+  size: 29, 11
+  orig: 108, 52
+  offset: 44, 4
+  index: -1
+smoke/1/Smoke_001
+  rotate: false
+  xy: 199, 2
+  size: 81, 32
+  orig: 108, 52
+  offset: 20, 3
+  index: -1
+smoke/1/Smoke_002
+  rotate: false
+  xy: 0, 0
+  size: 90, 39
+  orig: 108, 52
+  offset: 9, 2
+  index: -1
+smoke/1/Smoke_003
+  rotate: false
+  xy: 100, 3
+  size: 97, 46
+  orig: 108, 52
+  offset: 5, 2
+  index: -1
+smoke/1/Smoke_004
+  rotate: false
+  xy: 0, 41
+  size: 98, 47
+  orig: 108, 52
+  offset: 4, 2
+  index: -1
+smoke/1/Smoke_005
+  rotate: false
+  xy: 105, 51
+  size: 100, 48
+  orig: 108, 52
+  offset: 4, 2
+  index: -1
+smoke/1/Smoke_006
+  rotate: false
+  xy: 0, 90
+  size: 103, 48
+  orig: 108, 52
+  offset: 3, 3
+  index: -1
+smoke/1/Smoke_007
+  rotate: true
+  xy: 210, 37
+  size: 101, 48
+  orig: 108, 52
+  offset: 5, 3
+  index: -1
+smoke/1/Smoke_008
+  rotate: false
+  xy: 105, 101
+  size: 103, 37
+  orig: 108, 52
+  offset: 2, 3
+  index: -1
+smoke/1/Smoke_009
+  rotate: true
+  xy: 260, 36
+  size: 102, 34
+  orig: 108, 52
+  offset: 4, 3
+  index: -1

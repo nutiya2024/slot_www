@@ -1,0 +1,438 @@
+
+stpr_multiplier_meter_fx.png
+size: 1996,1948
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_fx_00011
+  rotate: true
+  xy: 1285, 1832
+  size: 116, 120
+  orig: 475, 450
+  offset: 0, 110
+  index: -1
+blue_fx_00013
+  rotate: true
+  xy: 456, 1902
+  size: 46, 165
+  orig: 450, 475
+  offset: 0, 7
+  index: -1
+blue_fx_00015
+  rotate: true
+  xy: 824, 1885
+  size: 63, 210
+  orig: 450, 475
+  offset: 0, 0
+  index: -1
+blue_fx_00017
+  rotate: true
+  xy: 0, 1747
+  size: 168, 266
+  orig: 450, 475
+  offset: 0, 0
+  index: -1
+blue_fx_00019
+  rotate: true
+  xy: 1562, 1571
+  size: 232, 269
+  orig: 450, 475
+  offset: 0, 0
+  index: -1
+blue_fx_00021
+  rotate: false
+  xy: 1034, 1333
+  size: 279, 267
+  orig: 450, 475
+  offset: 7, 0
+  index: -1
+blue_fx_00023
+  rotate: true
+  xy: 400, 1107
+  size: 343, 352
+  orig: 450, 475
+  offset: 0, 0
+  index: -1
+blue_fx_00025
+  rotate: false
+  xy: 0, 131
+  size: 454, 439
+  orig: 475, 450
+  offset: 0, 6
+  index: -1
+blue_fx_00039
+  rotate: false
+  xy: 1142, 1844
+  size: 141, 104
+  orig: 450, 475
+  offset: 0, 21
+  index: -1
+green_fx_00010
+  rotate: true
+  xy: 1036, 1862
+  size: 86, 104
+  orig: 519, 462
+  offset: 0, 119
+  index: -1
+green_fx_00012
+  rotate: false
+  xy: 1407, 1824
+  size: 163, 124
+  orig: 519, 462
+  offset: 0, 109
+  index: -1
+green_fx_00014
+  rotate: false
+  xy: 1572, 1814
+  size: 170, 134
+  orig: 519, 462
+  offset: 0, 104
+  index: -1
+green_fx_00016
+  rotate: false
+  xy: 268, 1728
+  size: 235, 172
+  orig: 519, 462
+  offset: 0, 85
+  index: -1
+green_fx_00018
+  rotate: true
+  xy: 1056, 1610
+  size: 220, 253
+  orig: 462, 519
+  offset: 0, 0
+  index: -1
+green_fx_00020
+  rotate: false
+  xy: 760, 1403
+  size: 272, 254
+  orig: 462, 519
+  offset: 0, 0
+  index: -1
+green_fx_00022
+  rotate: true
+  xy: 1315, 1276
+  size: 293, 296
+  orig: 462, 519
+  offset: 0, 0
+  index: -1
+green_fx_00024
+  rotate: true
+  xy: 1611, 882
+  size: 367, 384
+  orig: 462, 519
+  offset: 0, 0
+  index: -1
+green_fx_00026
+  rotate: true
+  xy: 898, 3
+  size: 442, 469
+  orig: 462, 519
+  offset: 0, 0
+  index: -1
+green_fx_00037
+  rotate: false
+  xy: 1369, 0
+  size: 449, 445
+  orig: 519, 462
+  offset: 8, 9
+  index: -1
+idle_00001
+  rotate: false
+  xy: 0, 1113
+  size: 398, 342
+  orig: 436, 371
+  offset: 1, 29
+  index: -1
+idle_00029
+  rotate: false
+  xy: 1211, 917
+  size: 398, 357
+  orig: 436, 371
+  offset: 1, 7
+  index: -1
+pink_fx_00013
+  rotate: true
+  xy: 95, 1920
+  size: 28, 158
+  orig: 466, 515
+  offset: 0, 6
+  index: -1
+pink_fx_00015
+  rotate: true
+  xy: 623, 1901
+  size: 47, 199
+  orig: 466, 515
+  offset: 0, 0
+  index: -1
+pink_fx_00017
+  rotate: false
+  xy: 1311, 1602
+  size: 249, 220
+  orig: 515, 466
+  offset: 0, 62
+  index: -1
+pink_fx_00019
+  rotate: false
+  xy: 0, 1494
+  size: 251, 251
+  orig: 515, 466
+  offset: 0, 34
+  index: -1
+pink_fx_00021
+  rotate: true
+  xy: 253, 1457
+  size: 269, 248
+  orig: 466, 515
+  offset: 4, 0
+  index: -1
+pink_fx_00023
+  rotate: true
+  xy: 1613, 1251
+  size: 318, 331
+  orig: 466, 515
+  offset: 0, 0
+  index: -1
+pink_fx_00025
+  rotate: true
+  xy: 392, 572
+  size: 410, 428
+  orig: 466, 515
+  offset: 0, 0
+  index: -1
+pink_fx_00037
+  rotate: false
+  xy: 456, 51
+  size: 440, 440
+  orig: 515, 466
+  offset: 7, 13
+  index: -1
+pink_fx_00039
+  rotate: true
+  xy: 505, 1705
+  size: 194, 293
+  orig: 515, 466
+  offset: 33, 23
+  index: -1
+yellow_fx_00013
+  rotate: true
+  xy: 0, 1938
+  size: 10, 93
+  orig: 502, 518
+  offset: 0, 70
+  index: -1
+yellow_fx_00015
+  rotate: true
+  xy: 255, 1917
+  size: 31, 199
+  orig: 502, 518
+  offset: 0, 0
+  index: -1
+yellow_fx_00017
+  rotate: true
+  xy: 1744, 1805
+  size: 143, 252
+  orig: 502, 518
+  offset: 0, 0
+  index: -1
+yellow_fx_00019
+  rotate: true
+  xy: 800, 1659
+  size: 201, 254
+  orig: 502, 518
+  offset: 0, 0
+  index: -1
+yellow_fx_00021
+  rotate: false
+  xy: 503, 1452
+  size: 255, 251
+  orig: 502, 518
+  offset: 0, 0
+  index: -1
+yellow_fx_00023
+  rotate: true
+  xy: 0, 737
+  size: 374, 390
+  orig: 518, 502
+  offset: 0, 49
+  index: -1
+yellow_fx_00025
+  rotate: true
+  xy: 1300, 447
+  size: 433, 434
+  orig: 518, 502
+  offset: 1, 34
+  index: -1
+yellow_fx_00037
+  rotate: true
+  xy: 822, 493
+  size: 422, 476
+  orig: 502, 518
+  offset: 0, 0
+  index: -1
+yellow_fx_00039
+  rotate: true
+  xy: 754, 984
+  size: 347, 455
+  orig: 518, 502
+  offset: 7, 24
+  index: -1
+
+stpr_multiplier_meter_fx2.png
+size: 2040,1846
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_fx_00027
+  rotate: false
+  xy: 499, 1396
+  size: 475, 450
+  orig: 475, 450
+  offset: 0, 0
+  index: -1
+blue_fx_00029
+  rotate: false
+  xy: 976, 1396
+  size: 475, 450
+  orig: 475, 450
+  offset: 0, 0
+  index: -1
+blue_fx_00031
+  rotate: false
+  xy: 1453, 1396
+  size: 475, 450
+  orig: 475, 450
+  offset: 0, 0
+  index: -1
+blue_fx_00033
+  rotate: false
+  xy: 0, 949
+  size: 475, 450
+  orig: 475, 450
+  offset: 0, 0
+  index: -1
+blue_fx_00035
+  rotate: false
+  xy: 477, 944
+  size: 475, 450
+  orig: 475, 450
+  offset: 0, 0
+  index: -1
+blue_fx_00037
+  rotate: true
+  xy: 954, 944
+  size: 450, 475
+  orig: 450, 475
+  offset: 0, 0
+  index: -1
+green_fx_00028
+  rotate: true
+  xy: 1431, 932
+  size: 462, 512
+  orig: 462, 519
+  offset: 0, 0
+  index: -1
+green_fx_00030
+  rotate: false
+  xy: 0, 480
+  size: 519, 462
+  orig: 519, 462
+  offset: 0, 0
+  index: -1
+green_fx_00032
+  rotate: false
+  xy: 521, 480
+  size: 519, 462
+  orig: 519, 462
+  offset: 0, 0
+  index: -1
+green_fx_00034
+  rotate: false
+  xy: 1042, 468
+  size: 513, 462
+  orig: 519, 462
+  offset: 0, 0
+  index: -1
+green_fx_00036
+  rotate: false
+  xy: 1557, 468
+  size: 483, 462
+  orig: 519, 462
+  offset: 4, 0
+  index: -1
+pink_fx_00027
+  rotate: true
+  xy: 0, 15
+  size: 463, 490
+  orig: 466, 515
+  offset: 0, 0
+  index: -1
+pink_fx_00029
+  rotate: true
+  xy: 492, 12
+  size: 466, 513
+  orig: 466, 515
+  offset: 0, 0
+  index: -1
+pink_fx_00031
+  rotate: true
+  xy: 1007, 0
+  size: 466, 515
+  orig: 466, 515
+  offset: 0, 0
+  index: -1
+pink_fx_00033
+  rotate: true
+  xy: 1524, 0
+  size: 466, 511
+  orig: 466, 515
+  offset: 0, 0
+  index: -1
+yellow_fx_00027
+  rotate: true
+  xy: 0, 1401
+  size: 445, 497
+  orig: 502, 518
+  offset: 0, 2
+  index: -1
+
+stpr_multiplier_meter_fx3.png
+size: 1509,943
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pink_fx_00035
+  rotate: false
+  xy: 0, 2
+  size: 495, 466
+  orig: 515, 466
+  offset: 1, 0
+  index: -1
+yellow_fx_00029
+  rotate: true
+  xy: 520, 471
+  size: 472, 518
+  orig: 502, 518
+  offset: 0, 0
+  index: -1
+yellow_fx_00031
+  rotate: true
+  xy: 0, 470
+  size: 473, 518
+  orig: 502, 518
+  offset: 0, 0
+  index: -1
+yellow_fx_00033
+  rotate: false
+  xy: 1040, 425
+  size: 469, 518
+  orig: 502, 518
+  offset: 0, 0
+  index: -1
+yellow_fx_00035
+  rotate: false
+  xy: 520, 0
+  size: 509, 469
+  orig: 518, 502
+  offset: 0, 20
+  index: -1

@@ -1,0 +1,111 @@
+
+suru_overlay_effect.png
+size: 663,885
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_00000
+  rotate: false
+  xy: 0, 606
+  size: 211, 139
+  orig: 214, 140
+  offset: 2, 0
+  index: -1
+effect_00001
+  rotate: false
+  xy: 0, 747
+  size: 211, 138
+  orig: 214, 140
+  offset: 2, 1
+  index: -1
+effect_00002
+  rotate: false
+  xy: 213, 747
+  size: 211, 138
+  orig: 214, 140
+  offset: 2, 1
+  index: -1
+effect_00003
+  rotate: false
+  xy: 426, 747
+  size: 210, 138
+  orig: 214, 139
+  offset: 3, 1
+  index: -1
+effect_00004
+  rotate: false
+  xy: 213, 601
+  size: 210, 144
+  orig: 214, 145
+  offset: 3, 0
+  index: -1
+effect_00005
+  rotate: false
+  xy: 425, 593
+  size: 210, 152
+  orig: 213, 154
+  offset: 2, 1
+  index: -1
+effect_00006
+  rotate: false
+  xy: 0, 442
+  size: 205, 162
+  orig: 214, 162
+  offset: 3, 0
+  index: -1
+effect_00007
+  rotate: false
+  xy: 207, 429
+  size: 207, 170
+  orig: 213, 171
+  offset: 2, 1
+  index: -1
+effect_00008
+  rotate: false
+  xy: 416, 415
+  size: 208, 176
+  orig: 212, 176
+  offset: 1, 0
+  index: -1
+effect_00009
+  rotate: false
+  xy: 0, 255
+  size: 205, 185
+  orig: 211, 186
+  offset: 1, 1
+  index: -1
+effect_00010
+  rotate: false
+  xy: 416, 226
+  size: 217, 187
+  orig: 233, 193
+  offset: 15, 1
+  index: -1
+effect_00011
+  rotate: false
+  xy: 207, 227
+  size: 207, 200
+  orig: 210, 202
+  offset: 1, 1
+  index: -1
+effect_00012
+  rotate: false
+  xy: 0, 14
+  size: 214, 211
+  orig: 214, 217
+  offset: 0, 4
+  index: -1
+effect_00013
+  rotate: false
+  xy: 439, 0
+  size: 224, 224
+  orig: 224, 229
+  offset: 0, 0
+  index: -1
+effect_00014
+  rotate: false
+  xy: 216, 11
+  size: 221, 213
+  orig: 235, 223
+  offset: 12, 10
+  index: -1

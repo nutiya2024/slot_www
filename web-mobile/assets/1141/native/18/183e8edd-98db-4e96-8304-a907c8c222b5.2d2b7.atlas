@@ -1,0 +1,202 @@
+
+tucl_side_gem.png
+size: 1831,1554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/gem
+  rotate: false
+  xy: 1513, 30
+  size: 204, 357
+  orig: 204, 357
+  offset: 0, 0
+  index: -1
+blue/glow_1
+  rotate: true
+  xy: 181, 60
+  size: 386, 189
+  orig: 420, 257
+  offset: 26, 28
+  index: -1
+blue/glow_2
+  rotate: true
+  xy: 444, 121
+  size: 360, 243
+  orig: 365, 247
+  offset: 1, 2
+  index: -1
+magenta/stone_01
+  rotate: false
+  xy: 1370, 627
+  size: 123, 198
+  orig: 125, 200
+  offset: 1, 1
+  index: -1
+magenta/stone_02
+  rotate: true
+  xy: 505, 56
+  size: 63, 167
+  orig: 65, 170
+  offset: 1, 2
+  index: -1
+red/base
+  rotate: true
+  xy: 2, 19
+  size: 427, 177
+  orig: 429, 178
+  offset: 1, 1
+  index: -1
+red/base_shadow
+  rotate: true
+  xy: 372, 105
+  size: 376, 70
+  orig: 382, 79
+  offset: 5, 5
+  index: -1
+red/bg_particles_00001
+  rotate: false
+  xy: 826, 519
+  size: 268, 515
+  orig: 326, 678
+  offset: 30, 35
+  index: -1
+red/bg_particles_00003
+  rotate: false
+  xy: 963, 5
+  size: 276, 512
+  orig: 326, 678
+  offset: 26, 14
+  index: -1
+red/bg_particles_00005
+  rotate: false
+  xy: 2, 448
+  size: 273, 545
+  orig: 326, 678
+  offset: 30, 17
+  index: -1
+red/bg_particles_00007
+  rotate: false
+  xy: 1241, 35
+  size: 270, 484
+  orig: 326, 678
+  offset: 29, 22
+  index: -1
+red/bg_particles_00009
+  rotate: true
+  xy: 1327, 1027
+  size: 271, 486
+  orig: 326, 678
+  offset: 29, 24
+  index: -1
+red/bg_particles_00011
+  rotate: false
+  xy: 796, 1036
+  size: 271, 516
+  orig: 326, 678
+  offset: 29, 29
+  index: -1
+red/bg_particles_00013
+  rotate: false
+  xy: 2, 995
+  size: 272, 557
+  orig: 326, 678
+  offset: 29, 26
+  index: -1
+red/bg_particles_00015
+  rotate: false
+  xy: 1096, 521
+  size: 272, 504
+  orig: 326, 678
+  offset: 29, 29
+  index: -1
+red/bg_particles_00017
+  rotate: false
+  xy: 277, 483
+  size: 273, 531
+  orig: 326, 678
+  offset: 29, 37
+  index: -1
+red/bg_particles_00019
+  rotate: false
+  xy: 689, 2
+  size: 272, 501
+  orig: 326, 678
+  offset: 30, 48
+  index: -1
+red/bg_particles_00021
+  rotate: false
+  xy: 552, 505
+  size: 272, 516
+  orig: 326, 678
+  offset: 30, 18
+  index: -1
+red/bg_particles_00023
+  rotate: false
+  xy: 531, 1023
+  size: 263, 529
+  orig: 326, 678
+  offset: 30, 21
+  index: -1
+red/bg_particles_00025
+  rotate: true
+  xy: 1327, 1300
+  size: 252, 502
+  orig: 326, 678
+  offset: 41, 28
+  index: -1
+red/bg_particles_00027
+  rotate: false
+  xy: 276, 1016
+  size: 253, 536
+  orig: 326, 678
+  offset: 41, 31
+  index: -1
+red/bg_particles_00029
+  rotate: false
+  xy: 1069, 1042
+  size: 256, 510
+  orig: 326, 678
+  offset: 41, 28
+  index: -1
+red/big_off
+  rotate: true
+  xy: 1370, 900
+  size: 125, 127
+  orig: 127, 128
+  offset: 1, 0
+  index: -1
+red/designcenter_glow_renamed
+  rotate: true
+  xy: 1513, 389
+  size: 317, 267
+  orig: 317, 267
+  offset: 0, 0
+  index: -1
+red/designcenter_renamed
+  rotate: true
+  xy: 1513, 708
+  size: 317, 267
+  orig: 317, 267
+  offset: 0, 0
+  index: -1
+red/gem_shadow
+  rotate: false
+  xy: 372, 7
+  size: 131, 96
+  orig: 133, 98
+  offset: 1, 1
+  index: -1
+yellow/design_1
+  rotate: true
+  xy: 1370, 562
+  size: 63, 120
+  orig: 65, 122
+  offset: 1, 1
+  index: -1
+yellow/design_2
+  rotate: true
+  xy: 1370, 827
+  size: 71, 124
+  orig: 74, 126
+  offset: 2, 1
+  index: -1

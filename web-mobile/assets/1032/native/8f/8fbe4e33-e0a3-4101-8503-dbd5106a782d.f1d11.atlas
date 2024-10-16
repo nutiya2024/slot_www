@@ -1,0 +1,209 @@
+
+02_WILD.png
+size: 283,741
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+06-4_Light
+  rotate: true
+  xy: 2, 243
+  size: 184, 195
+  orig: 184, 195
+  offset: 0, 0
+  index: -1
+06-5_LighPo
+  rotate: true
+  xy: 71, 62
+  size: 60, 65
+  orig: 60, 70
+  offset: 0, 1
+  index: -1
+06-6_QustMark
+  rotate: true
+  xy: 225, 497
+  size: 35, 55
+  orig: 60, 70
+  offset: 12, 6
+  index: -1
+B_touch_01
+  rotate: true
+  xy: 2, 190
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+B_touch_02
+  rotate: false
+  xy: 225, 340
+  size: 53, 96
+  orig: 53, 96
+  offset: 0, 0
+  index: -1
+B_touch_03
+  rotate: true
+  xy: 225, 534
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+B_touch_04
+  rotate: false
+  xy: 199, 264
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+LightGlow
+  rotate: false
+  xy: 69, 9
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+w101_sleeve_Alpha_L
+  rotate: false
+  xy: 2, 8
+  size: 48, 34
+  orig: 127, 55
+  offset: 79, 21
+  index: -1
+w102_sleeve_Alpha_R
+  rotate: false
+  xy: 239, 638
+  size: 39, 28
+  orig: 137, 55
+  offset: 0, 25
+  index: -1
+w103_Cap
+  rotate: false
+  xy: 239, 713
+  size: 41, 26
+  orig: 41, 30
+  offset: 0, 4
+  index: -1
+w103_Head_Woo
+  rotate: true
+  xy: 194, 83
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+w104_Head_Laugh
+  rotate: true
+  xy: 2, 44
+  size: 49, 65
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+w104_Head_teeth
+  rotate: true
+  xy: 199, 356
+  size: 32, 16
+  orig: 49, 68
+  offset: 7, 27
+  index: -1
+w105_Up_Arm_L
+  rotate: true
+  xy: 194, 134
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+w105_Up_Arm_R
+  rotate: true
+  xy: 104, 124
+  size: 58, 88
+  orig: 58, 88
+  offset: 0, 0
+  index: -1
+w106_Up_Arm_R
+  rotate: true
+  xy: 2, 141
+  size: 47, 100
+  orig: 47, 100
+  offset: 0, 0
+  index: -1
+w107_UpShoulder_L
+  rotate: false
+  xy: 225, 438
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+w107_UpShoulder_R
+  rotate: true
+  xy: 138, 2
+  size: 60, 51
+  orig: 60, 55
+  offset: 0, 4
+  index: -1
+w108_Body
+  rotate: true
+  xy: 2, 621
+  size: 118, 235
+  orig: 118, 235
+  offset: 0, 0
+  index: -1
+w108_DonShoulder_L
+  rotate: false
+  xy: 138, 64
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+w109_DonArm_L
+  rotate: true
+  xy: 2, 95
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+w201_sleeve
+  rotate: false
+  xy: 239, 599
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+w202_Arm_Up_Rd
+  rotate: false
+  xy: 199, 194
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+w202_Arm_Up_Rt
+  rotate: true
+  xy: 199, 390
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+w203_Cap
+  rotate: true
+  xy: 239, 668
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+w203_face
+  rotate: true
+  xy: 192, 37
+  size: 44, 63
+  orig: 44, 85
+  offset: 0, 0
+  index: -1
+w204_Arm_Don_L
+  rotate: true
+  xy: 118, 184
+  size: 57, 74
+  orig: 57, 74
+  offset: 0, 0
+  index: -1
+w205_Body
+  rotate: true
+  xy: 2, 429
+  size: 190, 221
+  orig: 190, 221
+  offset: 0, 0
+  index: -1

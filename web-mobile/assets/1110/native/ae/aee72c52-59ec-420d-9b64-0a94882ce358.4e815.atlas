@@ -1,0 +1,13 @@
+
+symbol00.png
+size: 210,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol00
+  rotate: false
+  xy: 0, 0
+  size: 210, 88
+  orig: 210, 155
+  offset: 0, 34
+  index: -1

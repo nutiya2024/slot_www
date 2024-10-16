@@ -1,0 +1,34 @@
+
+congrats.png
+size: 416,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FG_text_03
+  rotate: false
+  xy: 0, 271
+  size: 416, 145
+  orig: 416, 145
+  offset: 0, 0
+  index: -1
+FG_text_e1
+  rotate: false
+  xy: 319, 132
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+FG_text_light_01
+  rotate: false
+  xy: 0, 6
+  size: 317, 263
+  orig: 317, 263
+  offset: 0, 0
+  index: -1
+deal_NW_nef_03
+  rotate: true
+  xy: 319, 170
+  size: 99, 52
+  orig: 99, 52
+  offset: 0, 0
+  index: -1

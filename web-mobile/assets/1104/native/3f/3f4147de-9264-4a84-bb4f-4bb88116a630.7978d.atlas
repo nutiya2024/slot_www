@@ -1,0 +1,111 @@
+
+01zoushitu.png
+size: 549,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5xian_z000
+  rotate: false
+  xy: 361, 211
+  size: 54, 18
+  orig: 646, 43
+  offset: 1, 13
+  index: -1
+5xian_z001
+  rotate: false
+  xy: 0, 52
+  size: 90, 21
+  orig: 646, 43
+  offset: 3, 10
+  index: -1
+5xian_z002
+  rotate: false
+  xy: 0, 75
+  size: 155, 22
+  orig: 646, 43
+  offset: 3, 9
+  index: -1
+5xian_z003
+  rotate: false
+  xy: 0, 99
+  size: 227, 23
+  orig: 646, 43
+  offset: 4, 9
+  index: -1
+5xian_z004
+  rotate: false
+  xy: 0, 124
+  size: 291, 32
+  orig: 646, 43
+  offset: 4, 0
+  index: -1
+5xian_z005
+  rotate: false
+  xy: 0, 158
+  size: 351, 34
+  orig: 646, 43
+  offset: 4, 0
+  index: -1
+5xian_z006
+  rotate: false
+  xy: 0, 231
+  size: 416, 36
+  orig: 646, 43
+  offset: 5, 0
+  index: -1
+5xian_z007
+  rotate: false
+  xy: 0, 347
+  size: 482, 37
+  orig: 646, 43
+  offset: 5, 0
+  index: -1
+5xian_z008
+  rotate: false
+  xy: 0, 509
+  size: 549, 38
+  orig: 646, 43
+  offset: 5, 0
+  index: -1
+5xian_z009
+  rotate: false
+  xy: 0, 468
+  size: 543, 39
+  orig: 646, 43
+  offset: 66, 0
+  index: -1
+5xian_z010
+  rotate: false
+  xy: 0, 386
+  size: 503, 39
+  orig: 646, 43
+  offset: 120, 0
+  index: -1
+5xian_z011
+  rotate: false
+  xy: 0, 427
+  size: 507, 39
+  orig: 646, 43
+  offset: 128, 1
+  index: -1
+5xian_z012
+  rotate: false
+  xy: 0, 307
+  size: 437, 38
+  orig: 646, 43
+  offset: 207, 2
+  index: -1
+5xian_z013
+  rotate: false
+  xy: 0, 269
+  size: 432, 36
+  orig: 646, 43
+  offset: 214, 4
+  index: -1
+5xian_z014
+  rotate: false
+  xy: 0, 194
+  size: 359, 35
+  orig: 646, 43
+  offset: 281, 4
+  index: -1

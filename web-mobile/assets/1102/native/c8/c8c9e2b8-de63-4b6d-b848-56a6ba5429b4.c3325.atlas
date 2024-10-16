@@ -1,0 +1,62 @@
+
+d1a5de730344f9142af46de33ee6a007.png
+size: 817,836
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_S02_00
+  rotate: false
+  xy: 0, 231
+  size: 411, 344
+  orig: 530, 530
+  offset: 1, -1
+  index: -1
+s_S11_00
+  rotate: false
+  xy: 0, 577
+  size: 247, 259
+  orig: 530, 530
+  offset: -1, -1
+  index: -1
+s_star_00001
+  rotate: false
+  xy: 413, 514
+  size: 320, 322
+  orig: 400, 400
+  offset: 0, 5
+  index: -1
+s_S06_00
+  rotate: false
+  xy: 413, 246
+  size: 284, 266
+  orig: 530, 530
+  offset: 1, -2
+  index: -1
+s_S07_00
+  rotate: false
+  xy: 0, 4
+  size: 187, 225
+  orig: 530, 530
+  offset: 1, 1
+  index: -1
+s_S08_00
+  rotate: false
+  xy: 413, 7
+  size: 212, 237
+  orig: 530, 530
+  offset: 3, -2
+  index: -1
+s_S09_00
+  rotate: false
+  xy: 627, 2
+  size: 188, 242
+  orig: 530, 530
+  offset: -1, -18
+  index: -1
+s_S10_00
+  rotate: false
+  xy: 189, 32
+  size: 188, 197
+  orig: 530, 530
+  offset: 0, -1
+  index: -1

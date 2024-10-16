@@ -1,0 +1,27 @@
+
+Spine_ball.png
+size: 303,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spot
+  rotate: false
+  xy: 221, 46
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+T_Circle
+  rotate: false
+  xy: 221, 84
+  size: 80, 135
+  orig: 80, 135
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 2, 2
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: -1

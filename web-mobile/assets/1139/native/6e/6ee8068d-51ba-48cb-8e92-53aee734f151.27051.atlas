@@ -1,0 +1,223 @@
+
+cabl_multiplier_gumball_all.png
+size: 939,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/gumball_highlight_2
+  rotate: false
+  xy: 185, 430
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+blue/red_gumball_highlight1
+  rotate: true
+  xy: 545, 158
+  size: 134, 133
+  orig: 134, 133
+  offset: 0, 0
+  index: -1
+cyan/cabl_pic_5_blue_candy
+  rotate: false
+  xy: 790, 239
+  size: 104, 85
+  orig: 104, 85
+  offset: 0, 0
+  index: -1
+cyan/gumball_highlight_12
+  rotate: true
+  xy: 137, 105
+  size: 135, 134
+  orig: 135, 134
+  offset: 0, 0
+  index: -1
+green/cabl_pic_4_green_candy
+  rotate: false
+  xy: 228, 18
+  size: 104, 85
+  orig: 104, 85
+  offset: 0, 0
+  index: -1
+green/gumball_highlight_13
+  rotate: false
+  xy: 545, 294
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+magenta/cabl_pic_3_purple_candy
+  rotate: false
+  xy: 122, 18
+  size: 104, 85
+  orig: 104, 85
+  offset: 0, 0
+  index: -1
+magenta/gumball_highlight_3
+  rotate: false
+  xy: 273, 294
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+magenta/gumball_highlight_4
+  rotate: false
+  xy: 321, 430
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+red/back_particle_00000
+  rotate: false
+  xy: 789, 326
+  size: 111, 114
+  orig: 131, 134
+  offset: 9, 11
+  index: -1
+red/back_particle_00001
+  rotate: false
+  xy: 718, 49
+  size: 109, 115
+  orig: 131, 134
+  offset: 8, 10
+  index: -1
+red/back_particle_00002
+  rotate: false
+  xy: 835, 446
+  size: 104, 118
+  orig: 131, 134
+  offset: 18, 9
+  index: -1
+red/back_particle_00003
+  rotate: true
+  xy: 0, 3
+  size: 100, 120
+  orig: 131, 134
+  offset: 17, 8
+  index: -1
+red/back_particle_00004
+  rotate: false
+  xy: 729, 442
+  size: 104, 122
+  orig: 131, 134
+  offset: 16, 7
+  index: -1
+red/back_particle_00005
+  rotate: false
+  xy: 681, 304
+  size: 106, 124
+  orig: 131, 134
+  offset: 15, 6
+  index: -1
+red/back_particle_00006
+  rotate: false
+  xy: 680, 166
+  size: 108, 126
+  orig: 131, 134
+  offset: 14, 5
+  index: -1
+red/back_particle_00007
+  rotate: false
+  xy: 606, 27
+  size: 110, 129
+  orig: 131, 134
+  offset: 13, 3
+  index: -1
+red/cabl_pic_1_red_candy
+  rotate: false
+  xy: 790, 166
+  size: 93, 71
+  orig: 93, 71
+  offset: 0, 0
+  index: -1
+red/gumball_highlight_16
+  rotate: false
+  xy: 0, 105
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+red/gumball_highlight_5
+  rotate: false
+  xy: 273, 158
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+red/gumball_highlight_6
+  rotate: false
+  xy: 334, 22
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+red/gumball_highlight_7
+  rotate: false
+  xy: 409, 294
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+red/red_gumball_shadow
+  rotate: true
+  xy: 829, 0
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+red/starspark_1
+  rotate: true
+  xy: 0, 379
+  size: 185, 183
+  orig: 185, 183
+  offset: 0, 0
+  index: -1
+yellow/cabl_pic_2_yellow_candy
+  rotate: false
+  xy: 829, 85
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+yellow/gumball_highlight_10
+  rotate: false
+  xy: 470, 22
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+yellow/gumball_highlight_11
+  rotate: true
+  xy: 137, 242
+  size: 135, 134
+  orig: 135, 134
+  offset: 0, 0
+  index: -1
+yellow/gumball_highlight_14
+  rotate: false
+  xy: 593, 430
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+yellow/gumball_highlight_15
+  rotate: false
+  xy: 0, 242
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+yellow/gumball_highlight_8
+  rotate: false
+  xy: 457, 430
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+yellow/gumball_highlight_9
+  rotate: false
+  xy: 409, 158
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1

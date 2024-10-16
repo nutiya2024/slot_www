@@ -1,0 +1,13 @@
+
+K.png
+size: 100,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层_24
+  rotate: false
+  xy: 2, 2
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1

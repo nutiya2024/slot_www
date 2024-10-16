@@ -1,0 +1,83 @@
+
+freegame.png
+size: 1183,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4win
+  rotate: true
+  xy: 626, 125
+  size: 89, 84
+  orig: 100, 87
+  offset: 6, 1
+  index: -1
+Add_Spin_BG
+  rotate: true
+  xy: 702, 0
+  size: 123, 147
+  orig: 123, 147
+  offset: 0, 0
+  index: -1
+BigWin_BG
+  rotate: false
+  xy: 0, 14
+  size: 220, 264
+  orig: 220, 264
+  offset: 0, 0
+  index: -1
+Declare_again_txt_FREE_GAME
+  rotate: false
+  xy: 702, 216
+  size: 481, 62
+  orig: 481, 62
+  offset: 0, 0
+  index: -1
+Declare_again_txt_WON
+  rotate: false
+  xy: 712, 152
+  size: 416, 62
+  orig: 416, 62
+  offset: 0, 0
+  index: -1
+GoldRing_W
+  rotate: false
+  xy: 222, 22
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Light_02
+  rotate: false
+  xy: 994, 22
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PP_Star_01
+  rotate: false
+  xy: 851, 1
+  size: 141, 149
+  orig: 142, 158
+  offset: 0, 9
+  index: -1
+PP_Star_02
+  rotate: false
+  xy: 480, 120
+  size: 144, 158
+  orig: 145, 159
+  offset: 1, 1
+  index: -1
+SmallSpots_02
+  rotate: false
+  xy: 480, 4
+  size: 114, 114
+  orig: 128, 128
+  offset: 8, 9
+  index: -1
+W_Light01
+  rotate: false
+  xy: 596, 8
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1

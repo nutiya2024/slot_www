@@ -1,0 +1,13 @@
+
+10.png
+size: 126,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 24
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1

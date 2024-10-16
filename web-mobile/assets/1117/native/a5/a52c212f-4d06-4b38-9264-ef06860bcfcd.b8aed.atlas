@@ -1,0 +1,769 @@
+
+zeus_pose_all.png
+size: 1174,1174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zeus_pose_all_texture/effect_ball_00000
+  rotate: false
+  xy: 537, 612
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/effect_ball_00001
+  rotate: false
+  xy: 1036, 299
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/effect_ball_00002
+  rotate: false
+  xy: 1106, 326
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/effect_ball_00003
+  rotate: true
+  xy: 1106, 255
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/effect_ball_00004
+  rotate: false
+  xy: 935, 248
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/effect_ball_00005
+  rotate: false
+  xy: 1006, 229
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/effect_ball_00006
+  rotate: true
+  xy: 889, 175
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/effect_ball_00007
+  rotate: false
+  xy: 889, 105
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/effect_ball_00008
+  rotate: false
+  xy: 871, 35
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/effect_ball_00009
+  rotate: false
+  xy: 942, 35
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/effect_ball_00010
+  rotate: true
+  xy: 1002, 159
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/effect_ball_00011
+  rotate: false
+  xy: 1013, 88
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/effect_ball_00012
+  rotate: false
+  xy: 1013, 18
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/effect_ball_00013
+  rotate: false
+  xy: 1073, 159
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/effect_ball_00014
+  rotate: false
+  xy: 1083, 88
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00000
+  rotate: true
+  xy: 941, 698
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00002
+  rotate: true
+  xy: 442, 624
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00004
+  rotate: false
+  xy: 773, 309
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00006
+  rotate: true
+  xy: 470, 380
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00008
+  rotate: true
+  xy: 881, 231
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00010
+  rotate: true
+  xy: 765, 570
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00012
+  rotate: true
+  xy: 646, 716
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00014
+  rotate: false
+  xy: 788, 309
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00016
+  rotate: true
+  xy: 470, 365
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00018
+  rotate: true
+  xy: 765, 555
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00020
+  rotate: false
+  xy: 803, 309
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00022
+  rotate: true
+  xy: 470, 350
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00024
+  rotate: true
+  xy: 470, 335
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00026
+  rotate: true
+  xy: 765, 540
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00028
+  rotate: true
+  xy: 470, 320
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/eye_fire_00030
+  rotate: false
+  xy: 0, 5
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/glow
+  rotate: false
+  xy: 912, 821
+  size: 214, 96
+  orig: 214, 96
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_armour_back_1
+  rotate: false
+  xy: 923, 275
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_armour_back_2
+  rotate: true
+  xy: 1165, 1161
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_armour_back_3
+  rotate: false
+  xy: 834, 119
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_back_cloth
+  rotate: false
+  xy: 0, 936
+  size: 220, 238
+  orig: 220, 238
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_beard
+  rotate: false
+  xy: 912, 922
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_body
+  rotate: true
+  xy: 941, 577
+  size: 108, 139
+  orig: 108, 139
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_crown
+  rotate: true
+  xy: 439, 333
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_face
+  rotate: true
+  xy: 1128, 874
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_front_cloth_bottom
+  rotate: false
+  xy: 881, 246
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_front_cloth_shadow_02
+  rotate: true
+  xy: 450, 612
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_hair
+  rotate: false
+  xy: 938, 318
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_hair_l
+  rotate: false
+  xy: 439, 288
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_hair_r
+  rotate: true
+  xy: 1082, 577
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_hair_shadow
+  rotate: true
+  xy: 834, 134
+  size: 88, 53
+  orig: 88, 53
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_inner
+  rotate: true
+  xy: 758, 208
+  size: 99, 60
+  orig: 99, 60
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_left_bichep_armour
+  rotate: false
+  xy: 1036, 370
+  size: 57, 116
+  orig: 57, 116
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_left_leg
+  rotate: true
+  xy: 185, 395
+  size: 65, 291
+  orig: 65, 291
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_left_lower_arm
+  rotate: true
+  xy: 871, 0
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_left_palm
+  rotate: false
+  xy: 737, 545
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_left_palm_open
+  rotate: true
+  xy: 450, 769
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_left_upper_arm
+  rotate: true
+  xy: 1109, 696
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_lower_cloth
+  rotate: true
+  xy: 0, 13
+  size: 154, 190
+  orig: 154, 190
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_lower_cloth_right
+  rotate: true
+  xy: 450, 682
+  size: 48, 194
+  orig: 48, 194
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_mustache_l
+  rotate: false
+  xy: 608, 612
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_mustache_r
+  rotate: true
+  xy: 1127, 577
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_right_arm_armour
+  rotate: false
+  xy: 874, 475
+  size: 56, 135
+  orig: 56, 135
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_right_leg
+  rotate: true
+  xy: 192, 5
+  size: 65, 228
+  orig: 65, 228
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_right_palm
+  rotate: true
+  xy: 737, 585
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_shoulder_armour
+  rotate: true
+  xy: 1060, 488
+  size: 87, 67
+  orig: 87, 67
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_upper_cloth
+  rotate: false
+  xy: 1082, 602
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_upper_cloth_shadow
+  rotate: true
+  xy: 782, 24
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/idle_waist_armour
+  rotate: true
+  xy: 820, 224
+  size: 91, 59
+  orig: 91, 59
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_body
+  rotate: true
+  xy: 949, 687
+  size: 132, 158
+  orig: 132, 158
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_crown
+  rotate: true
+  xy: 192, 886
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_face
+  rotate: false
+  xy: 1128, 825
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_face_beard_back
+  rotate: true
+  xy: 1109, 738
+  size: 81, 64
+  orig: 81, 64
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_face_beard_bottom
+  rotate: true
+  xy: 422, 6
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_face_inner_mouth
+  rotate: true
+  xy: 782, 9
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_face_lower_mouth
+  rotate: false
+  xy: 905, 13
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_hair
+  rotate: true
+  xy: 1095, 397
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_left_hair_bunch
+  rotate: true
+  xy: 959, 194
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_left_moustache
+  rotate: false
+  xy: 1153, 574
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_left_palm
+  rotate: true
+  xy: 608, 639
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_left_palm_finger
+  rotate: false
+  xy: 1006, 301
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_left_upper_arm_armour
+  rotate: false
+  xy: 874, 351
+  size: 62, 122
+  orig: 62, 122
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_palm_glow
+  rotate: false
+  xy: 959, 211
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_right_arm_armour
+  rotate: false
+  xy: 938, 396
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_right_hair_bunch
+  rotate: true
+  xy: 960, 166
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_right_moustache
+  rotate: true
+  xy: 463, 179
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_right_palm
+  rotate: false
+  xy: 442, 462
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_upper_cloth
+  rotate: true
+  xy: 932, 488
+  size: 87, 126
+  orig: 87, 126
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_waist_armour
+  rotate: true
+  xy: 782, 115
+  size: 91, 50
+  orig: 91, 50
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/pose_2_weapon_tip
+  rotate: false
+  xy: 182, 173
+  size: 279, 49
+  orig: 279, 49
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/shoulder_armour
+  rotate: false
+  xy: 881, 287
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_00000
+  rotate: false
+  xy: 480, 732
+  size: 172, 255
+  orig: 172, 255
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_00001
+  rotate: true
+  xy: 185, 462
+  size: 175, 255
+  orig: 175, 255
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_00002
+  rotate: false
+  xy: 0, 423
+  size: 183, 256
+  orig: 183, 256
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_00003
+  rotate: true
+  xy: 480, 989
+  size: 185, 251
+  orig: 185, 251
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_00004
+  rotate: false
+  xy: 0, 681
+  size: 190, 253
+  orig: 190, 253
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_00005
+  rotate: true
+  xy: 733, 988
+  size: 186, 251
+  orig: 186, 251
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_00006
+  rotate: true
+  xy: 222, 990
+  size: 184, 256
+  orig: 184, 256
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_00007
+  rotate: false
+  xy: 0, 169
+  size: 180, 252
+  orig: 180, 252
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_00008
+  rotate: false
+  xy: 986, 919
+  size: 177, 255
+  orig: 177, 255
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_00009
+  rotate: true
+  xy: 222, 814
+  size: 174, 256
+  orig: 174, 256
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_00010
+  rotate: true
+  xy: 192, 639
+  size: 173, 256
+  orig: 173, 256
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_00011
+  rotate: true
+  xy: 654, 814
+  size: 172, 256
+  orig: 172, 256
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_00012
+  rotate: true
+  xy: 182, 224
+  size: 169, 255
+  orig: 169, 255
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_ylw_00000
+  rotate: false
+  xy: 654, 713
+  size: 293, 99
+  orig: 293, 99
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_ylw_00001
+  rotate: false
+  xy: 192, 72
+  size: 293, 99
+  orig: 293, 99
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_ylw_00002
+  rotate: false
+  xy: 646, 612
+  size: 293, 99
+  orig: 293, 99
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_ylw_00003
+  rotate: false
+  xy: 442, 511
+  size: 293, 99
+  orig: 293, 99
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_ylw_00004
+  rotate: false
+  xy: 478, 410
+  size: 293, 99
+  orig: 293, 99
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_ylw_00005
+  rotate: false
+  xy: 478, 309
+  size: 293, 99
+  orig: 293, 99
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_ylw_00006
+  rotate: false
+  xy: 463, 208
+  size: 293, 99
+  orig: 293, 99
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_ylw_00007
+  rotate: false
+  xy: 487, 107
+  size: 293, 99
+  orig: 293, 99
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_ylw_00008
+  rotate: false
+  xy: 487, 6
+  size: 293, 99
+  orig: 293, 99
+  offset: 0, 0
+  index: -1
+zeus_pose_all_texture/thunder_ylw_00009
+  rotate: true
+  xy: 773, 317
+  size: 293, 99
+  orig: 293, 99
+  offset: 0, 0
+  index: -1

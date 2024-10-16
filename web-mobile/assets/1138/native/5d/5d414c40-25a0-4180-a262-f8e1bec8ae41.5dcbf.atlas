@@ -1,0 +1,258 @@
+
+S12.png
+size: 2016,1546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S12_2_split/yellow/fire_blast_fx_00008
+  rotate: true
+  xy: 1580, 10
+  size: 300, 221
+  orig: 300, 222
+  offset: 0, 1
+  index: -1
+S12_2_split/yellow/fire_blast_fx_00010
+  rotate: true
+  xy: 1742, 323
+  size: 328, 237
+  orig: 379, 251
+  offset: 12, 10
+  index: -1
+S12_2_split/yellow/glow_02
+  rotate: false
+  xy: 1523, 986
+  size: 348, 322
+  orig: 348, 322
+  offset: 0, 0
+  index: -1
+S12_2_split/yellow/hamer_part_2
+  rotate: true
+  xy: 1879, 1172
+  size: 190, 116
+  orig: 190, 116
+  offset: 0, 0
+  index: -1
+S12_2_split/yellow/hamer_part_4
+  rotate: true
+  xy: 1879, 1364
+  size: 180, 135
+  orig: 186, 139
+  offset: 2, 4
+  index: -1
+S12_2_split/yellow/hamer_part_7
+  rotate: false
+  xy: 51, 9
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+S12_2_split/yellow/hamer_part_77
+  rotate: true
+  xy: 396, 4
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+S12_3_split/blue/electric_00009
+  rotate: false
+  xy: 1523, 1310
+  size: 354, 234
+  orig: 381, 279
+  offset: 10, 20
+  index: -1
+S12_3_split/blue/electric_00013
+  rotate: true
+  xy: 1219, 1124
+  size: 420, 302
+  orig: 546, 354
+  offset: 40, 19
+  index: -1
+S12_3_split/blue/electric_00017
+  rotate: true
+  xy: 538, 116
+  size: 453, 308
+  orig: 504, 349
+  offset: 25, 11
+  index: -1
+S12_3_split/blue/electric_00021
+  rotate: true
+  xy: 2, 540
+  size: 499, 303
+  orig: 546, 354
+  offset: 6, 12
+  index: -1
+S12_3_split/blue/electric_00025
+  rotate: true
+  xy: 212, 1046
+  size: 498, 291
+  orig: 534, 327
+  offset: 5, 19
+  index: -1
+S12_3_split/blue/electric_00029
+  rotate: true
+  xy: 2, 49
+  size: 489, 235
+  orig: 536, 319
+  offset: 11, 22
+  index: -1
+S12_3_split/blue/electric_00033
+  rotate: true
+  xy: 239, 56
+  size: 482, 297
+  orig: 546, 354
+  offset: 20, 27
+  index: -1
+S12_3_split/blue/electric_00037
+  rotate: true
+  xy: 631, 627
+  size: 452, 277
+  orig: 518, 304
+  offset: 28, 27
+  index: -1
+S12_3_split/blue/electric_00041
+  rotate: true
+  xy: 505, 1081
+  size: 463, 287
+  orig: 546, 354
+  offset: 41, 67
+  index: -1
+S12_3_split/blue/electric_00045
+  rotate: true
+  xy: 307, 571
+  size: 473, 322
+  orig: 521, 354
+  offset: 28, 32
+  index: -1
+S12_3_split/blue/electric_00049
+  rotate: true
+  xy: 2, 1041
+  size: 503, 208
+  orig: 512, 261
+  offset: 7, 20
+  index: -1
+S12_3_split/blue/hamer_part_1
+  rotate: false
+  xy: 837, 54
+  size: 148, 60
+  orig: 148, 60
+  offset: 0, 0
+  index: -1
+S12_3_split/blue/hamer_part_5
+  rotate: false
+  xy: 2, 4
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+S12_split/red/fire_blast_fx_00002
+  rotate: true
+  xy: 1803, 40
+  size: 281, 201
+  orig: 281, 201
+  offset: 0, 0
+  index: -1
+S12_split/red/fire_blast_fx_00004
+  rotate: true
+  xy: 1269, 829
+  size: 293, 247
+  orig: 379, 251
+  offset: 0, 2
+  index: -1
+S12_split/red/fire_blast_fx_00005
+  rotate: true
+  xy: 1351, 5
+  size: 304, 227
+  orig: 304, 227
+  offset: 0, 0
+  index: -1
+S12_split/red/fire_blast_fx_00006
+  rotate: true
+  xy: 1525, 312
+  size: 332, 215
+  orig: 379, 251
+  offset: 0, 31
+  index: -1
+S12_split/red/fire_blast_fx_00007
+  rotate: true
+  xy: 1527, 653
+  size: 331, 227
+  orig: 331, 227
+  offset: 0, 0
+  index: -1
+S12_split/red/fire_blast_fx_00009
+  rotate: true
+  xy: 1756, 671
+  size: 313, 226
+  orig: 314, 227
+  offset: 1, 0
+  index: -1
+S12_split/red/glow_01
+  rotate: false
+  xy: 538, 7
+  size: 205, 107
+  orig: 205, 107
+  offset: 0, 0
+  index: -1
+S12_split/red/glow_03
+  rotate: true
+  xy: 848, 180
+  size: 445, 419
+  orig: 445, 419
+  offset: 0, 0
+  index: -1
+S12_split/red/glow_04
+  rotate: true
+  xy: 1269, 311
+  size: 333, 254
+  orig: 333, 254
+  offset: 0, 0
+  index: -1
+S12_split/red/glow_05
+  rotate: true
+  xy: 794, 1095
+  size: 449, 423
+  orig: 449, 423
+  offset: 0, 0
+  index: -1
+S12_split/red/hamer_part_3
+  rotate: true
+  xy: 1226, 14
+  size: 164, 123
+  orig: 164, 123
+  offset: 0, 0
+  index: -1
+S12_split/red/hamer_part_6
+  rotate: true
+  xy: 745, 7
+  size: 107, 90
+  orig: 107, 91
+  offset: 0, 0
+  index: -1
+S12_split/red/sprak
+  rotate: false
+  xy: 987, 4
+  size: 237, 174
+  orig: 237, 174
+  offset: 0, 0
+  index: -1
+S12_split/red/sprak_01
+  rotate: true
+  xy: 910, 659
+  size: 434, 330
+  orig: 434, 330
+  offset: 0, 0
+  index: -1
+S12_split/red/stone
+  rotate: false
+  xy: 1242, 646
+  size: 283, 181
+  orig: 283, 181
+  offset: 0, 0
+  index: -1
+S12_split/red/stone_shadow
+  rotate: false
+  xy: 239, 2
+  size: 155, 52
+  orig: 155, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,223 @@
+
+bg_fs_landscape_idle.png
+size: 1871,1221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/ringoffire/ring_simple
+  rotate: false
+  xy: 1186, 632
+  size: 297, 291
+  orig: 297, 291
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_00
+  rotate: true
+  xy: 2, 919
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_01
+  rotate: true
+  xy: 2, 617
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_02
+  rotate: true
+  xy: 2, 315
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_03
+  rotate: true
+  xy: 2, 13
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_04
+  rotate: true
+  xy: 298, 919
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_05
+  rotate: true
+  xy: 298, 617
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_06
+  rotate: true
+  xy: 298, 315
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_07
+  rotate: true
+  xy: 298, 13
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_08
+  rotate: true
+  xy: 594, 919
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_09
+  rotate: true
+  xy: 594, 617
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_10
+  rotate: true
+  xy: 594, 315
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_11
+  rotate: true
+  xy: 594, 13
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_12
+  rotate: false
+  xy: 890, 925
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_13
+  rotate: false
+  xy: 1192, 925
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_14
+  rotate: false
+  xy: 1494, 925
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_15
+  rotate: true
+  xy: 890, 623
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_16
+  rotate: true
+  xy: 890, 321
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/ringoffire/ringoffire_17
+  rotate: true
+  xy: 890, 19
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+Images/stars/stars_01
+  rotate: false
+  xy: 1485, 734
+  size: 191, 189
+  orig: 191, 189
+  offset: 0, 0
+  index: -1
+Images/stars/stars_02
+  rotate: true
+  xy: 1568, 2
+  size: 162, 170
+  orig: 189, 191
+  offset: 27, 21
+  index: -1
+Images/stars/stars_03
+  rotate: false
+  xy: 1678, 734
+  size: 191, 189
+  orig: 191, 189
+  offset: 0, 0
+  index: -1
+Images/stars/stars_04
+  rotate: true
+  xy: 1485, 543
+  size: 189, 191
+  orig: 189, 191
+  offset: 0, 0
+  index: -1
+Images/stars/stars_05
+  rotate: true
+  xy: 1678, 543
+  size: 189, 191
+  orig: 189, 191
+  offset: 0, 0
+  index: -1
+Images/stars/stars_06
+  rotate: true
+  xy: 1186, 441
+  size: 189, 191
+  orig: 189, 191
+  offset: 0, 0
+  index: -1
+Images/stars/stars_07
+  rotate: false
+  xy: 1379, 352
+  size: 191, 189
+  orig: 191, 189
+  offset: 0, 0
+  index: -1
+Images/stars/stars_08
+  rotate: false
+  xy: 1186, 250
+  size: 191, 189
+  orig: 191, 189
+  offset: 0, 0
+  index: -1
+Images/stars/stars_09
+  rotate: false
+  xy: 1572, 352
+  size: 191, 189
+  orig: 191, 189
+  offset: 0, 0
+  index: -1
+Images/stars/stars_10
+  rotate: true
+  xy: 1186, 57
+  size: 191, 189
+  orig: 191, 189
+  offset: 0, 0
+  index: -1
+Images/stars/stars_11
+  rotate: false
+  xy: 1568, 166
+  size: 186, 184
+  orig: 191, 189
+  offset: 5, 5
+  index: -1
+Images/stars/stars_12
+  rotate: false
+  xy: 1377, 57
+  size: 189, 191
+  orig: 189, 191
+  offset: 0, 0
+  index: -1

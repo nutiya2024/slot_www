@@ -1,0 +1,167 @@
+
+10_GrandBonus.png
+size: 968,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_0001
+  rotate: true
+  xy: 445, 130
+  size: 137, 146
+  orig: 137, 146
+  offset: 0, 0
+  index: -1
+10_0002
+  rotate: false
+  xy: 2, 120
+  size: 137, 147
+  orig: 137, 147
+  offset: 0, 0
+  index: -1
+10_0003
+  rotate: true
+  xy: 141, 132
+  size: 135, 149
+  orig: 135, 149
+  offset: 0, 0
+  index: -1
+10_0004
+  rotate: true
+  xy: 292, 135
+  size: 132, 151
+  orig: 132, 151
+  offset: 0, 0
+  index: -1
+10_0005
+  rotate: true
+  xy: 593, 141
+  size: 126, 152
+  orig: 126, 152
+  offset: 0, 0
+  index: -1
+10_0006
+  rotate: true
+  xy: 141, 8
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+10_0007
+  rotate: true
+  xy: 442, 7
+  size: 121, 149
+  orig: 121, 149
+  offset: 0, 0
+  index: -1
+10_0008
+  rotate: true
+  xy: 747, 142
+  size: 125, 149
+  orig: 125, 149
+  offset: 0, 0
+  index: -1
+10_0009
+  rotate: true
+  xy: 293, 6
+  size: 127, 147
+  orig: 127, 147
+  offset: 0, 0
+  index: -1
+10_0010
+  rotate: true
+  xy: 717, 12
+  size: 127, 146
+  orig: 127, 146
+  offset: 0, 0
+  index: -1
+10_Body
+  rotate: false
+  xy: 593, 2
+  size: 122, 137
+  orig: 151, 160
+  offset: 0, 23
+  index: -1
+10_Pickaxe1
+  rotate: false
+  xy: 865, 4
+  size: 51, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+10_Pickaxe1_pick
+  rotate: true
+  xy: 865, 37
+  size: 103, 79
+  orig: 103, 79
+  offset: 0, 0
+  index: -1
+10_hand_L
+  rotate: false
+  xy: 898, 157
+  size: 66, 110
+  orig: 66, 110
+  offset: 0, 0
+  index: -1
+10_hand_R
+  rotate: false
+  xy: 2, 22
+  size: 87, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+10_hand_R_forefinger
+  rotate: false
+  xy: 946, 106
+  size: 20, 17
+  orig: 20, 21
+  offset: 0, 4
+  index: -1
+10_hand_thumb
+  rotate: true
+  xy: 898, 142
+  size: 13, 22
+  orig: 13, 26
+  offset: 0, 4
+  index: -1
+10_head_Cap
+  rotate: false
+  xy: 91, 21
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+10_head_Cap_bk
+  rotate: false
+  xy: 918, 12
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+10_head_hat Oral
+  rotate: true
+  xy: 946, 125
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+10_head_tooth_Don
+  rotate: true
+  xy: 946, 77
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+10_head_tooth_Up
+  rotate: false
+  xy: 2, 9
+  size: 27, 11
+  orig: 28, 15
+  offset: 1, 4
+  index: -1
+10_headface
+  rotate: false
+  xy: 91, 47
+  size: 45, 71
+  orig: 47, 71
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,42 @@
+
+gool_basegame_0.png
+size: 847,611
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud_01
+  rotate: false
+  xy: 725, 175
+  size: 122, 200
+  orig: 122, 200
+  offset: 0, 0
+  index: -1
+cloud_02
+  rotate: false
+  xy: 564, 377
+  size: 238, 234
+  orig: 238, 234
+  offset: 0, 0
+  index: -1
+cloud_03
+  rotate: false
+  xy: 0, 7
+  size: 401, 329
+  orig: 401, 329
+  offset: 0, 0
+  index: -1
+cloud_04
+  rotate: false
+  xy: 403, 0
+  size: 320, 336
+  orig: 320, 336
+  offset: 0, 0
+  index: -1
+cloud_05
+  rotate: false
+  xy: 0, 338
+  size: 562, 273
+  orig: 562, 273
+  offset: 0, 0
+  index: -1
+

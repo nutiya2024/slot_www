@@ -1,0 +1,245 @@
+
+gool_summon_effect.png
+size: 1961,1682
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+updated/effect_lightning_00
+  rotate: false
+  xy: 0, 1188
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_08
+  rotate: false
+  xy: 825, 1188
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_01
+  rotate: false
+  xy: 0, 692
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_02
+  rotate: false
+  xy: 275, 1188
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_03
+  rotate: false
+  xy: 0, 196
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_04
+  rotate: false
+  xy: 275, 692
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_05
+  rotate: false
+  xy: 550, 1188
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_06
+  rotate: false
+  xy: 275, 196
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_07
+  rotate: false
+  xy: 550, 692
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_09
+  rotate: false
+  xy: 550, 196
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_10
+  rotate: false
+  xy: 825, 692
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_11
+  rotate: false
+  xy: 1100, 1188
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_12
+  rotate: false
+  xy: 825, 196
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_13
+  rotate: false
+  xy: 1100, 692
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_14
+  rotate: false
+  xy: 1375, 1188
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_lightning_15
+  rotate: false
+  xy: 1100, 196
+  size: 273, 494
+  orig: 273, 494
+  offset: 0, 0
+  index: -1
+updated/effect_sparks1_00
+  rotate: false
+  xy: 1767, 705
+  size: 168, 151
+  orig: 168, 151
+  offset: 0, 0
+  index: -1
+updated/effect_sparks1_01
+  rotate: false
+  xy: 1767, 552
+  size: 168, 151
+  orig: 168, 151
+  offset: 0, 0
+  index: -1
+updated/effect_sparks1_02
+  rotate: false
+  xy: 1767, 399
+  size: 168, 151
+  orig: 168, 151
+  offset: 0, 0
+  index: -1
+updated/effect_sparks1_03
+  rotate: false
+  xy: 1788, 229
+  size: 151, 168
+  orig: 151, 168
+  offset: 0, 0
+  index: -1
+updated/effect_sparks1_04
+  rotate: false
+  xy: 1788, 76
+  size: 168, 151
+  orig: 168, 151
+  offset: 0, 0
+  index: -1
+updated/effect_sparks1_05
+  rotate: false
+  xy: 1239, 13
+  size: 168, 151
+  orig: 168, 151
+  offset: 0, 0
+  index: -1
+updated/effect_sparks1_06
+  rotate: false
+  xy: 1409, 13
+  size: 168, 151
+  orig: 168, 151
+  offset: 0, 0
+  index: -1
+updated/effect_sparks1_07
+  rotate: false
+  xy: 1579, 13
+  size: 168, 151
+  orig: 168, 151
+  offset: 0, 0
+  index: -1
+updated/effectsparks2_00
+  rotate: false
+  xy: 1375, 775
+  size: 194, 411
+  orig: 194, 411
+  offset: 0, 0
+  index: -1
+updated/effectsparks2_01
+  rotate: false
+  xy: 1650, 1271
+  size: 194, 411
+  orig: 194, 411
+  offset: 0, 0
+  index: -1
+updated/effectsparks2_02
+  rotate: false
+  xy: 413, 0
+  size: 411, 194
+  orig: 411, 194
+  offset: 0, 0
+  index: -1
+updated/effectsparks2_03
+  rotate: false
+  xy: 1375, 362
+  size: 194, 411
+  orig: 194, 411
+  offset: 0, 0
+  index: -1
+updated/effectsparks2_04
+  rotate: false
+  xy: 826, 0
+  size: 411, 194
+  orig: 411, 194
+  offset: 0, 0
+  index: -1
+updated/effectsparks2_05
+  rotate: false
+  xy: 1571, 775
+  size: 194, 411
+  orig: 194, 411
+  offset: 0, 0
+  index: -1
+updated/effectsparks2_06
+  rotate: false
+  xy: 1571, 362
+  size: 194, 411
+  orig: 194, 411
+  offset: 0, 0
+  index: -1
+updated/effectsparks2_07
+  rotate: false
+  xy: 1375, 166
+  size: 411, 194
+  orig: 411, 194
+  offset: 0, 0
+  index: -1
+updated/effectsparks2_08
+  rotate: false
+  xy: 1767, 858
+  size: 194, 411
+  orig: 194, 411
+  offset: 0, 0
+  index: -1
+updated/effectsparks2_09
+  rotate: false
+  xy: 0, 0
+  size: 411, 194
+  orig: 411, 194
+  offset: 0, 0
+  index: -1
+

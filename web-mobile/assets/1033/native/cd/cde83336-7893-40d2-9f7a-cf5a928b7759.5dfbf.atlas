@@ -1,0 +1,62 @@
+
+BisonRun.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 259
+  size: 290, 249
+  orig: 290, 250
+  offset: 0, 1
+  index: -1
+Butt
+  rotate: false
+  xy: 2, 2
+  size: 245, 255
+  orig: 247, 257
+  offset: 1, 0
+  index: -1
+Butt_Fur
+  rotate: false
+  xy: 383, 39
+  size: 37, 50
+  orig: 38, 51
+  offset: 0, 1
+  index: -1
+Hair
+  rotate: false
+  xy: 431, 438
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 294, 267
+  size: 135, 241
+  orig: 135, 241
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 249, 36
+  size: 132, 221
+  orig: 135, 222
+  offset: 1, 0
+  index: -1
+Horn
+  rotate: true
+  xy: 249, 2
+  size: 32, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 383, 91
+  size: 103, 174
+  orig: 103, 174
+  offset: 0, 0
+  index: -1

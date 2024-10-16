@@ -1,0 +1,167 @@
+
+h_angbao_atlas_symbols.png
+size: 1706,403
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_abL
+  rotate: false
+  xy: 2, 153
+  size: 187, 248
+  orig: 187, 248
+  offset: 0, 0
+  index: -1
+h_abL_fx001
+  rotate: true
+  xy: 2, 2
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx002
+  rotate: true
+  xy: 202, 4
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx003
+  rotate: false
+  xy: 365, 203
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx004
+  rotate: false
+  xy: 402, 3
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx005
+  rotate: false
+  xy: 516, 203
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx006
+  rotate: false
+  xy: 553, 3
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx007
+  rotate: false
+  xy: 667, 203
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx008
+  rotate: false
+  xy: 704, 3
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx009
+  rotate: false
+  xy: 818, 203
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx010
+  rotate: false
+  xy: 855, 3
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abLflap
+  rotate: false
+  xy: 1669, 350
+  size: 24, 51
+  orig: 28, 54
+  offset: 2, 1
+  index: -1
+h_abR
+  rotate: false
+  xy: 191, 155
+  size: 172, 246
+  orig: 172, 246
+  offset: 0, 0
+  index: -1
+h_abR_fx001
+  rotate: false
+  xy: 969, 204
+  size: 138, 197
+  orig: 138, 197
+  offset: 0, 0
+  index: -1
+h_abR_fx002
+  rotate: false
+  xy: 1006, 5
+  size: 138, 197
+  orig: 138, 197
+  offset: 0, 0
+  index: -1
+h_abR_fx003
+  rotate: false
+  xy: 1109, 204
+  size: 138, 197
+  orig: 138, 197
+  offset: 0, 0
+  index: -1
+h_abR_fx004
+  rotate: false
+  xy: 1146, 5
+  size: 138, 197
+  orig: 138, 197
+  offset: 0, 0
+  index: -1
+h_abR_fx005
+  rotate: false
+  xy: 1249, 204
+  size: 138, 197
+  orig: 138, 197
+  offset: 0, 0
+  index: -1
+h_abR_fx006
+  rotate: false
+  xy: 1286, 5
+  size: 138, 197
+  orig: 138, 197
+  offset: 0, 0
+  index: -1
+h_abR_fx007
+  rotate: false
+  xy: 1389, 204
+  size: 138, 197
+  orig: 138, 197
+  offset: 0, 0
+  index: -1
+h_abR_fx008
+  rotate: false
+  xy: 1426, 5
+  size: 138, 197
+  orig: 138, 197
+  offset: 0, 0
+  index: -1
+h_abR_fx009
+  rotate: false
+  xy: 1529, 204
+  size: 138, 197
+  orig: 138, 197
+  offset: 0, 0
+  index: -1
+h_abR_fx010
+  rotate: false
+  xy: 1566, 5
+  size: 138, 197
+  orig: 138, 197
+  offset: 0, 0
+  index: -1

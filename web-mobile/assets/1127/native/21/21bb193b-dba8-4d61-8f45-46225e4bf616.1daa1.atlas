@@ -1,0 +1,20 @@
+
+bg_screen_glow.png
+size: 1013,460
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lib_bw/bw_flash.pn
+  rotate: true
+  xy: 788, 234
+  size: 224, 223
+  orig: 729, 223
+  offset: 252, 0
+  index: -1
+lib_vfx/bg_glow
+  rotate: false
+  xy: 2, 2
+  size: 784, 456
+  orig: 784, 456
+  offset: 0, 0
+  index: -1

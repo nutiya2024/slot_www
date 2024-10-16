@@ -1,0 +1,111 @@
+
+bff361bed5d15fb419d33ecbf3f6a2f7.png
+size: 1048,1052
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_bulbuci_ciorba_00
+  rotate: false
+  xy: 524, 528
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1
+s_bulbuci_ciorba_08
+  rotate: false
+  xy: 262, 2
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1
+s_bulbuci_ciorba_01
+  rotate: false
+  xy: 0, 2
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1
+s_bulbuci_ciorba_02
+  rotate: false
+  xy: 524, 265
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1
+s_bulbuci_ciorba_03
+  rotate: false
+  xy: 0, 265
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1
+s_bulbuci_ciorba_04
+  rotate: false
+  xy: 786, 528
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1
+s_bulbuci_ciorba_05
+  rotate: false
+  xy: 786, 791
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1
+s_bulbuci_ciorba_06
+  rotate: false
+  xy: 524, 791
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1
+s_bulbuci_ciorba_07
+  rotate: false
+  xy: 0, 528
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1
+s_bulbuci_ciorba_09
+  rotate: false
+  xy: 262, 528
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1
+s_bulbuci_ciorba_10
+  rotate: false
+  xy: 262, 265
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1
+s_bulbuci_ciorba_11
+  rotate: false
+  xy: 524, 2
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1
+s_bulbuci_ciorba_12
+  rotate: false
+  xy: 786, 265
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1
+s_bulbuci_ciorba_13
+  rotate: false
+  xy: 0, 791
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1
+s_bulbuci_ciorba_14
+  rotate: false
+  xy: 262, 791
+  size: 260, 261
+  orig: 260, 261
+  offset: 0, 0
+  index: -1

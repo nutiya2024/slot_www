@@ -1,0 +1,55 @@
+
+win.png
+size: 869,869
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/XSGKH_JS_gm
+  rotate: false
+  xy: 0, 416
+  size: 869, 453
+  orig: 928, 488
+  offset: 30, 14
+  index: -1
+fx/glow01
+  rotate: false
+  xy: 258, 185
+  size: 229, 229
+  orig: 256, 256
+  offset: 15, 15
+  index: -1
+fx/huan001
+  rotate: false
+  xy: 489, 195
+  size: 219, 219
+  orig: 256, 256
+  offset: 19, 18
+  index: -1
+fx/jb1
+  rotate: false
+  xy: 338, 104
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+fx/jb2
+  rotate: true
+  xy: 489, 118
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+fx/jb3
+  rotate: true
+  xy: 258, 108
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+fx/lizi_01
+  rotate: false
+  xy: 0, 159
+  size: 256, 255
+  orig: 256, 256
+  offset: 0, 1
+  index: -1

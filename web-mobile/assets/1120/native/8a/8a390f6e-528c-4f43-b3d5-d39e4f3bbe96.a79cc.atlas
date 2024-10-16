@@ -1,0 +1,335 @@
+
+swbx_multiplier.png
+size: 1983,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 40
+  rotate: false
+  xy: 398, 343
+  size: 39, 34
+  orig: 42, 35
+  offset: 1, 1
+  index: -1
+Starspark_00007
+  rotate: false
+  xy: 947, 75
+  size: 342, 345
+  orig: 370, 366
+  offset: 11, 5
+  index: -1
+ball_blast_00000
+  rotate: true
+  xy: 1759, 360
+  size: 214, 224
+  orig: 223, 240
+  offset: 8, 4
+  index: -1
+ball_blast_00001
+  rotate: false
+  xy: 1003, 1023
+  size: 237, 263
+  orig: 241, 300
+  offset: 3, 0
+  index: -1
+ball_blast_00002
+  rotate: false
+  xy: 308, 12
+  size: 279, 327
+  orig: 282, 328
+  offset: 2, 1
+  index: -1
+ball_blast_00003
+  rotate: false
+  xy: 589, 8
+  size: 356, 369
+  orig: 357, 385
+  offset: 0, 0
+  index: -1
+ball_blast_00004
+  rotate: true
+  xy: 769, 422
+  size: 420, 389
+  orig: 447, 399
+  offset: 27, 7
+  index: -1
+ball_blast_00005
+  rotate: true
+  xy: 398, 379
+  size: 433, 369
+  orig: 483, 378
+  offset: 34, 4
+  index: -1
+ball_blast_00006
+  rotate: true
+  xy: 0, 814
+  size: 472, 395
+  orig: 498, 399
+  offset: 11, 2
+  index: -1
+ball_blast_00007
+  rotate: true
+  xy: 397, 844
+  size: 442, 391
+  orig: 444, 399
+  offset: 1, 7
+  index: -1
+ball_blast_00008
+  rotate: true
+  xy: 0, 341
+  size: 471, 396
+  orig: 481, 399
+  offset: 7, 1
+  index: -1
+ball_red
+  rotate: true
+  xy: 1536, 420
+  size: 184, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+blast_cracker_00000
+  rotate: false
+  xy: 1160, 429
+  size: 173, 161
+  orig: 188, 175
+  offset: 7, 8
+  index: -1
+blast_cracker_00001
+  rotate: false
+  xy: 957, 847
+  size: 165, 166
+  orig: 177, 174
+  offset: 9, 4
+  index: -1
+blast_cracker_00002
+  rotate: false
+  xy: 1335, 433
+  size: 150, 157
+  orig: 179, 177
+  offset: 16, 10
+  index: -1
+blast_cracker_00003
+  rotate: true
+  xy: 1313, 850
+  size: 174, 161
+  orig: 193, 179
+  offset: 11, 16
+  index: -1
+blast_cracker_00004
+  rotate: true
+  xy: 1411, 9
+  size: 171, 156
+  orig: 177, 185
+  offset: 1, 22
+  index: -1
+blast_cracker_00005
+  rotate: true
+  xy: 790, 844
+  size: 169, 165
+  orig: 192, 178
+  offset: 15, 11
+  index: -1
+blast_particles_00001
+  rotate: false
+  xy: 947, 0
+  size: 89, 73
+  orig: 97, 81
+  offset: 5, 5
+  index: -1
+blast_particles_00002
+  rotate: true
+  xy: 1476, 871
+  size: 153, 146
+  orig: 159, 154
+  offset: 3, 4
+  index: -1
+blast_particles_00003
+  rotate: true
+  xy: 1759, 164
+  size: 194, 201
+  orig: 200, 208
+  offset: 3, 4
+  index: -1
+blast_particles_00004
+  rotate: true
+  xy: 1536, 189
+  size: 229, 221
+  orig: 235, 227
+  offset: 3, 3
+  index: -1
+blast_particles_00005
+  rotate: true
+  xy: 1291, 182
+  size: 245, 243
+  orig: 252, 250
+  offset: 4, 3
+  index: -1
+blast_particles_00006
+  rotate: false
+  xy: 1242, 1026
+  size: 256, 260
+  orig: 262, 267
+  offset: 3, 4
+  index: -1
+blast_particles_00007
+  rotate: false
+  xy: 790, 1015
+  size: 211, 271
+  orig: 218, 275
+  offset: 3, 3
+  index: -1
+blast_particles_00008
+  rotate: true
+  xy: 1160, 592
+  size: 250, 199
+  orig: 253, 207
+  offset: 0, 4
+  index: -1
+gift_box
+  rotate: true
+  xy: 1291, 84
+  size: 96, 109
+  orig: 96, 109
+  offset: 0, 0
+  index: -1
+multiplier
+  rotate: true
+  xy: 1124, 844
+  size: 177, 187
+  orig: 177, 187
+  offset: 0, 0
+  index: -1
+multiplier_blast_00000
+  rotate: false
+  xy: 1197, 3
+  size: 70, 70
+  orig: 76, 74
+  offset: 3, 2
+  index: -1
+multiplier_blast_00001
+  rotate: true
+  xy: 1599, 743
+  size: 126, 127
+  orig: 140, 138
+  offset: 7, 5
+  index: -1
+multiplier_blast_00002
+  rotate: false
+  xy: 1728, 576
+  size: 236, 234
+  orig: 240, 236
+  offset: 1, 2
+  index: -1
+multiplier_blast_00003
+  rotate: false
+  xy: 1361, 606
+  size: 236, 242
+  orig: 236, 242
+  offset: 0, 0
+  index: -1
+multiplier_blast_00004
+  rotate: true
+  xy: 1500, 1044
+  size: 242, 236
+  orig: 242, 236
+  offset: 0, 0
+  index: -1
+multiplier_blast_00005
+  rotate: true
+  xy: 1738, 1050
+  size: 236, 242
+  orig: 236, 242
+  offset: 0, 0
+  index: -1
+multiplier_blast_00006
+  rotate: true
+  xy: 1738, 812
+  size: 236, 240
+  orig: 236, 242
+  offset: 0, 0
+  index: -1
+particles
+  rotate: true
+  xy: 0, 5
+  size: 334, 306
+  orig: 344, 310
+  offset: 2, 4
+  index: -1
+rope_00000
+  rotate: true
+  xy: 1038, 1
+  size: 72, 51
+  orig: 100, 69
+  offset: 14, 9
+  index: -1
+rope_00001
+  rotate: true
+  xy: 1091, 1
+  size: 72, 51
+  orig: 100, 69
+  offset: 14, 9
+  index: -1
+rope_00002
+  rotate: true
+  xy: 1144, 1
+  size: 72, 51
+  orig: 100, 69
+  offset: 14, 9
+  index: -1
+rope_00003
+  rotate: true
+  xy: 1269, 6
+  size: 67, 51
+  orig: 100, 69
+  offset: 14, 9
+  index: -1
+rope_00004
+  rotate: true
+  xy: 1487, 539
+  size: 65, 44
+  orig: 100, 69
+  offset: 13, 15
+  index: -1
+rope_00005
+  rotate: false
+  xy: 439, 344
+  size: 64, 33
+  orig: 100, 69
+  offset: 13, 24
+  index: -1
+rope_00006
+  rotate: false
+  xy: 397, 814
+  size: 58, 28
+  orig: 100, 69
+  offset: 13, 30
+  index: -1
+rope_00007
+  rotate: false
+  xy: 457, 814
+  size: 46, 28
+  orig: 100, 69
+  offset: 13, 29
+  index: -1
+rope_00008
+  rotate: false
+  xy: 505, 815
+  size: 35, 27
+  orig: 100, 69
+  offset: 12, 29
+  index: -1
+rope_00009
+  rotate: true
+  xy: 542, 816
+  size: 26, 23
+  orig: 100, 69
+  offset: 12, 29
+  index: -1
+star
+  rotate: false
+  xy: 1322, 2
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1

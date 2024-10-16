@@ -1,0 +1,230 @@
+
+tucl_royal_03.png
+size: 1922,1405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common_star_spk
+  rotate: false
+  xy: 874, 4
+  size: 185, 172
+  orig: 185, 172
+  offset: 0, 0
+  index: -1
+design_01
+  rotate: false
+  xy: 1599, 545
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+design_02
+  rotate: true
+  xy: 1809, 660
+  size: 176, 84
+  orig: 176, 84
+  offset: 0, 0
+  index: -1
+design_03
+  rotate: false
+  xy: 1583, 1056
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+design_shadow
+  rotate: true
+  xy: 1631, 490
+  size: 157, 180
+  orig: 165, 181
+  offset: 8, 1
+  index: -1
+gem
+  rotate: true
+  xy: 1061, 11
+  size: 165, 183
+  orig: 165, 183
+  offset: 0, 0
+  index: -1
+particles_00000
+  rotate: false
+  xy: 1579, 27
+  size: 163, 146
+  orig: 182, 164
+  offset: 11, 9
+  index: -1
+particles_00002
+  rotate: false
+  xy: 1246, 121
+  size: 164, 149
+  orig: 182, 164
+  offset: 10, 9
+  index: -1
+particles_00004
+  rotate: false
+  xy: 1246, 272
+  size: 165, 149
+  orig: 182, 164
+  offset: 9, 9
+  index: -1
+particles_00006
+  rotate: false
+  xy: 1259, 423
+  size: 168, 152
+  orig: 182, 164
+  offset: 6, 6
+  index: -1
+particles_00008
+  rotate: false
+  xy: 1429, 423
+  size: 168, 152
+  orig: 182, 164
+  offset: 6, 6
+  index: -1
+particles_00010
+  rotate: false
+  xy: 1769, 332
+  size: 151, 156
+  orig: 164, 182
+  offset: 7, 7
+  index: -1
+particles_00012
+  rotate: true
+  xy: 1413, 272
+  size: 149, 164
+  orig: 164, 182
+  offset: 8, 7
+  index: -1
+particles_00014
+  rotate: true
+  xy: 1412, 122
+  size: 148, 165
+  orig: 164, 182
+  offset: 9, 7
+  index: -1
+particles_00016
+  rotate: false
+  xy: 1579, 175
+  size: 147, 166
+  orig: 164, 182
+  offset: 10, 6
+  index: -1
+particles_00018
+  rotate: true
+  xy: 1728, 186
+  size: 144, 167
+  orig: 164, 182
+  offset: 12, 6
+  index: -1
+particles_00020
+  rotate: true
+  xy: 1599, 343
+  size: 145, 168
+  orig: 164, 182
+  offset: 10, 5
+  index: -1
+particles_00022
+  rotate: false
+  xy: 1744, 21
+  size: 145, 163
+  orig: 164, 182
+  offset: 9, 11
+  index: -1
+symbol_shadow_02
+  rotate: false
+  xy: 1631, 649
+  size: 176, 187
+  orig: 176, 187
+  offset: 0, 0
+  index: -1
+tucl_royal_02_00032
+  rotate: false
+  xy: 1246, 66
+  size: 53, 53
+  orig: 656, 652
+  offset: 271, 233
+  index: -1
+tucl_royal_02_00033
+  rotate: false
+  xy: 1631, 838
+  size: 253, 253
+  orig: 656, 652
+  offset: 167, 157
+  index: -1
+tucl_royal_02_00034
+  rotate: false
+  xy: 1583, 1093
+  size: 323, 310
+  orig: 656, 652
+  offset: 135, 136
+  index: -1
+tucl_royal_02_00035
+  rotate: false
+  xy: 874, 178
+  size: 370, 346
+  orig: 656, 652
+  offset: 116, 127
+  index: -1
+tucl_royal_02_00036
+  rotate: true
+  xy: 1259, 577
+  size: 408, 370
+  orig: 656, 652
+  offset: 101, 123
+  index: -1
+tucl_royal_02_00037
+  rotate: true
+  xy: 871, 526
+  size: 434, 386
+  orig: 656, 652
+  offset: 89, 121
+  index: -1
+tucl_royal_02_00038
+  rotate: false
+  xy: 2, 5
+  size: 468, 405
+  orig: 656, 652
+  offset: 78, 113
+  index: -1
+tucl_royal_02_00039
+  rotate: true
+  xy: 446, 450
+  size: 499, 423
+  orig: 656, 652
+  offset: 66, 105
+  index: -1
+tucl_royal_02_00040
+  rotate: false
+  xy: 538, 962
+  size: 521, 441
+  orig: 656, 652
+  offset: 56, 95
+  index: -1
+tucl_royal_02_00041
+  rotate: true
+  xy: 2, 412
+  size: 537, 442
+  orig: 656, 652
+  offset: 43, 84
+  index: -1
+tucl_royal_02_00042
+  rotate: false
+  xy: 2, 951
+  size: 534, 452
+  orig: 656, 652
+  offset: 29, 82
+  index: -1
+tucl_royal_02_00043
+  rotate: true
+  xy: 1061, 987
+  size: 416, 520
+  orig: 652, 656
+  offset: 136, 41
+  index: -1
+tucl_royal_02_00044
+  rotate: true
+  xy: 472, 2
+  size: 446, 400
+  orig: 656, 652
+  offset: 105, 103
+  index: -1

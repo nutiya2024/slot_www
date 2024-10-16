@@ -1,0 +1,118 @@
+
+gfs_vfx_b_screen.png
+size: 1958,980
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gfs_vfx_b_screen_00.pn
+  rotate: false
+  xy: 2, 328
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 93
+  index: -1
+gfs_vfx_b_screen_01.pn
+  rotate: false
+  xy: 328, 654
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 111
+  index: -1
+gfs_vfx_b_screen_02.pn
+  rotate: false
+  xy: 2, 2
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 102
+  index: -1
+gfs_vfx_b_screen_03.pn
+  rotate: false
+  xy: 328, 328
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 97
+  index: -1
+gfs_vfx_b_screen_04.pn
+  rotate: false
+  xy: 654, 654
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 86
+  index: -1
+gfs_vfx_b_screen_05.pn
+  rotate: false
+  xy: 328, 2
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 86
+  index: -1
+gfs_vfx_b_screen_06.pn
+  rotate: false
+  xy: 654, 328
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 87
+  index: -1
+gfs_vfx_b_screen_07.pn
+  rotate: false
+  xy: 980, 654
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 87
+  index: -1
+gfs_vfx_b_screen_08.pn
+  rotate: false
+  xy: 654, 2
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 88
+  index: -1
+gfs_vfx_b_screen_09.pn
+  rotate: false
+  xy: 980, 328
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 90
+  index: -1
+gfs_vfx_b_screen_10.pn
+  rotate: false
+  xy: 1306, 654
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 91
+  index: -1
+gfs_vfx_b_screen_11.pn
+  rotate: false
+  xy: 980, 2
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 93
+  index: -1
+gfs_vfx_b_screen_12.pn
+  rotate: false
+  xy: 1306, 328
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 93
+  index: -1
+gfs_vfx_b_screen_13.pn
+  rotate: false
+  xy: 1632, 654
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 93
+  index: -1
+gfs_vfx_b_screen_14.pn
+  rotate: false
+  xy: 1306, 2
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 93
+  index: -1
+gfs_vfx_b_screen_15.pn
+  rotate: false
+  xy: 2, 654
+  size: 324, 324
+  orig: 324, 510
+  offset: 0, 93
+  index: -1

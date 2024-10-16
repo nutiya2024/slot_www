@@ -1,0 +1,111 @@
+
+jinzita_kuang.png
+size: 1568,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Scatter_BG-2
+  rotate: true
+  xy: 2, 2
+  size: 110, 210
+  orig: 110, 210
+  offset: 0, 0
+  index: -1
+Scatter_BG-3
+  rotate: true
+  xy: 430, 2
+  size: 110, 140
+  orig: 110, 140
+  offset: 0, 0
+  index: -1
+Scatter_BG-4
+  rotate: true
+  xy: 719, 2
+  size: 110, 105
+  orig: 110, 105
+  offset: 0, 0
+  index: -1
+Scatter_BG-5
+  rotate: true
+  xy: 928, 2
+  size: 110, 84
+  orig: 110, 84
+  offset: 0, 0
+  index: -1
+Scatter_BG-6
+  rotate: true
+  xy: 1101, 2
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+Scatter_BG-7
+  rotate: true
+  xy: 1250, 2
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+Scatter_Frame_7
+  rotate: true
+  xy: 1312, 2
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+Scatter_pyramid_2
+  rotate: true
+  xy: 214, 12
+  size: 100, 214
+  orig: 100, 215
+  offset: 0, 0
+  index: -1
+Scatter_pyramid_3
+  rotate: true
+  xy: 572, 12
+  size: 100, 145
+  orig: 100, 146
+  offset: 0, 0
+  index: -1
+Scatter_pyramid_4
+  rotate: false
+  xy: 826, 2
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+Scatter_pyramid_5
+  rotate: true
+  xy: 1014, 13
+  size: 99, 85
+  orig: 99, 85
+  offset: 0, 0
+  index: -1
+Scatter_pyramid_6
+  rotate: true
+  xy: 1173, 12
+  size: 100, 75
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+Scatter_pyramid_7
+  rotate: true
+  xy: 1374, 12
+  size: 100, 63
+  orig: 100, 63
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: true
+  xy: 1439, 35
+  size: 31, 112
+  orig: 31, 112
+  offset: 0, 0
+  index: -1
+wenzi_g
+  rotate: true
+  xy: 1439, 68
+  size: 44, 127
+  orig: 47, 129
+  offset: 3, 0
+  index: -1

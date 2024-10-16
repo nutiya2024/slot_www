@@ -1,0 +1,83 @@
+
+dogZB.png
+size: 1023,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bd
+  rotate: false
+  xy: 546, 12
+  size: 468, 513
+  orig: 468, 513
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 2, 64
+  size: 542, 461
+  orig: 542, 461
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 577, 640
+  size: 102, 33
+  orig: 102, 33
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 2, 527
+  size: 573, 494
+  orig: 573, 494
+  offset: 0, 0
+  index: -1
+k2
+  rotate: false
+  xy: 2, 25
+  size: 514, 37
+  orig: 514, 37
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 801, 877
+  size: 95, 144
+  orig: 95, 144
+  offset: 0, 0
+  index: -1
+oo
+  rotate: false
+  xy: 2, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+oo2
+  rotate: false
+  xy: 801, 829
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+xb1
+  rotate: false
+  xy: 577, 826
+  size: 222, 195
+  orig: 222, 195
+  offset: 0, 0
+  index: -1
+xb2
+  rotate: false
+  xy: 577, 675
+  size: 126, 149
+  orig: 126, 149
+  offset: 0, 0
+  index: -1
+xb3
+  rotate: false
+  xy: 705, 764
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1

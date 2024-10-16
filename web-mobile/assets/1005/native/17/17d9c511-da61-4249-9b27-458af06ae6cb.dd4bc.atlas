@@ -1,0 +1,27 @@
+
+yy.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ku
+  rotate: false
+  xy: 246, 22
+  size: 223, 180
+  orig: 223, 180
+  offset: 0, 0
+  index: -1
+xing_00000
+  rotate: false
+  xy: 471, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+yi
+  rotate: false
+  xy: 2, 12
+  size: 242, 190
+  orig: 242, 190
+  offset: 0, 0
+  index: -1

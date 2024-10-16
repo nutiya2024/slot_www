@@ -1,0 +1,167 @@
+
+suru_pic03_purple.png
+size: 1128,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+splash_00000
+  rotate: false
+  xy: 716, 124
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+splash_00001
+  rotate: false
+  xy: 777, 124
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+splash_00002
+  rotate: true
+  xy: 838, 124
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+splash_00003
+  rotate: true
+  xy: 838, 124
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+splash_00004
+  rotate: false
+  xy: 899, 124
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+splash_00005
+  rotate: false
+  xy: 960, 119
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+splash_00006
+  rotate: true
+  xy: 1016, 119
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+splash_00007
+  rotate: false
+  xy: 1072, 119
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+splash_00008
+  rotate: true
+  xy: 716, 68
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+splash_00009
+  rotate: false
+  xy: 777, 68
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+splash_00010
+  rotate: true
+  xy: 838, 63
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+splash_00011
+  rotate: false
+  xy: 716, 12
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+splash_00012
+  rotate: true
+  xy: 777, 7
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+splash_00013
+  rotate: true
+  xy: 894, 63
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+splash_00014
+  rotate: false
+  xy: 950, 63
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+splash_00015
+  rotate: true
+  xy: 1011, 63
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+splash_00016
+  rotate: false
+  xy: 1072, 58
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+splash_00017
+  rotate: true
+  xy: 833, 7
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+splash_00018
+  rotate: false
+  xy: 894, 7
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+splash_00019
+  rotate: false
+  xy: 955, 7
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+suru_candy
+  rotate: true
+  xy: 490, 8
+  size: 170, 224
+  orig: 171, 224
+  offset: 1, 0
+  index: -1
+suru_shadow
+  rotate: true
+  xy: 2, 2
+  size: 176, 254
+  orig: 176, 254
+  offset: 0, 0
+  index: -1
+suru_sweets
+  rotate: true
+  xy: 258, 2
+  size: 176, 230
+  orig: 177, 230
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+free_game.png
+size: 418,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ray02s_EXP_00000
+  rotate: false
+  xy: 298, 0
+  size: 120, 118
+  orig: 122, 122
+  offset: 1, 2
+  index: -1
+free_game
+  rotate: false
+  xy: 0, 120
+  size: 372, 81
+  orig: 372, 81
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 0, 21
+  size: 296, 97
+  orig: 296, 98
+  offset: 0, 1
+  index: -1

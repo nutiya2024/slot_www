@@ -1,0 +1,76 @@
+
+gongrats.png
+size: 645,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FG_BG_2
+  rotate: false
+  xy: 0, 275
+  size: 428, 93
+  orig: 435, 95
+  offset: 3, 0
+  index: -1
+FG_BG_3
+  rotate: false
+  xy: 0, 187
+  size: 421, 86
+  orig: 432, 88
+  offset: 5, 2
+  index: -1
+FG_BG_4
+  rotate: false
+  xy: 0, 103
+  size: 389, 82
+  orig: 390, 82
+  offset: 1, 0
+  index: -1
+GaoGuangDian2
+  rotate: false
+  xy: 391, 40
+  size: 232, 118
+  orig: 244, 125
+  offset: 0, 5
+  index: -1
+JP_word_1
+  rotate: false
+  xy: 0, 370
+  size: 622, 153
+  orig: 624, 154
+  offset: 1, 0
+  index: -1
+Star_11
+  rotate: false
+  xy: 430, 160
+  size: 215, 208
+  orig: 227, 228
+  offset: 6, 10
+  index: -1
+TOTAL_WIN
+  rotate: false
+  xy: 0, 66
+  size: 205, 35
+  orig: 206, 36
+  offset: 1, 0
+  index: -1
+WinMore_LT_05
+  rotate: false
+  xy: 207, 0
+  size: 101, 101
+  orig: 102, 103
+  offset: 0, 1
+  index: -1
+glow
+  rotate: false
+  xy: 310, 44
+  size: 55, 57
+  orig: 66, 59
+  offset: 4, 1
+  index: -1
+light_010
+  rotate: false
+  xy: 0, 27
+  size: 104, 37
+  orig: 104, 37
+  offset: 0, 0
+  index: -1

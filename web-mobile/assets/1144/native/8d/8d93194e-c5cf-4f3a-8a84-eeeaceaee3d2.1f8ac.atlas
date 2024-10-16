@@ -1,0 +1,293 @@
+
+bg_normal_landscape_idle.png
+size: 1620,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 342, 343
+  size: 336, 295
+  orig: 336, 304
+  offset: 0, 3
+  index: -1
+firefly_00000
+  rotate: false
+  xy: 632, 50
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+firefly_00001
+  rotate: false
+  xy: 176, 34
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+firefly_00002
+  rotate: false
+  xy: 632, 28
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+firefly_00003
+  rotate: false
+  xy: 657, 50
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+left_tree_dark
+  rotate: false
+  xy: 2, 59
+  size: 338, 579
+  orig: 342, 579
+  offset: 0, 0
+  index: -1
+right_tree_dark
+  rotate: false
+  xy: 342, 87
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+smoke_00000
+  rotate: false
+  xy: 1493, 370
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+smoke_00002
+  rotate: false
+  xy: 1252, 254
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+smoke_00004
+  rotate: false
+  xy: 1252, 139
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+smoke_00006
+  rotate: false
+  xy: 1363, 254
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+smoke_00008
+  rotate: false
+  xy: 1363, 139
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+smoke_00010
+  rotate: true
+  xy: 710, 26
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+smoke_00012
+  rotate: true
+  xy: 825, 26
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+smoke_00014
+  rotate: true
+  xy: 940, 26
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+smoke_00016
+  rotate: true
+  xy: 1055, 26
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+smoke_00018
+  rotate: false
+  xy: 1170, 22
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+smoke_00020
+  rotate: false
+  xy: 1281, 24
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+smoke_00022
+  rotate: false
+  xy: 1392, 24
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+smoke_00024
+  rotate: false
+  xy: 1474, 254
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+smoke_00026
+  rotate: false
+  xy: 1474, 139
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+smoke_00028
+  rotate: false
+  xy: 1503, 24
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 140, 24
+  size: 34, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+star_01
+  rotate: false
+  xy: 1604, 469
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+star_02
+  rotate: false
+  xy: 1604, 469
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+star_011
+  rotate: false
+  xy: 480, 11
+  size: 79, 74
+  orig: 82, 83
+  offset: 0, 3
+  index: -1
+star_022
+  rotate: false
+  xy: 561, 2
+  size: 69, 68
+  orig: 75, 70
+  offset: 4, 2
+  index: -1
+star_03
+  rotate: false
+  xy: 140, 8
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+star_04
+  rotate: true
+  xy: 680, 343
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+stars_00000
+  rotate: false
+  xy: 680, 369
+  size: 269, 114
+  orig: 269, 114
+  offset: 0, 0
+  index: -1
+stars_00002
+  rotate: false
+  xy: 951, 369
+  size: 269, 114
+  orig: 269, 114
+  offset: 0, 0
+  index: -1
+stars_00004
+  rotate: false
+  xy: 1222, 369
+  size: 269, 114
+  orig: 269, 114
+  offset: 0, 0
+  index: -1
+stars_00006
+  rotate: true
+  xy: 594, 72
+  size: 269, 114
+  orig: 269, 114
+  offset: 0, 0
+  index: -1
+stars_00008
+  rotate: false
+  xy: 710, 253
+  size: 269, 114
+  orig: 269, 114
+  offset: 0, 0
+  index: -1
+stars_00010
+  rotate: false
+  xy: 710, 137
+  size: 269, 114
+  orig: 269, 114
+  offset: 0, 0
+  index: -1
+stars_00012
+  rotate: false
+  xy: 981, 253
+  size: 269, 114
+  orig: 269, 114
+  offset: 0, 0
+  index: -1
+stars_00014
+  rotate: false
+  xy: 981, 137
+  size: 269, 114
+  orig: 269, 114
+  offset: 0, 0
+  index: -1
+wagon
+  rotate: true
+  xy: 680, 485
+  size: 153, 468
+  orig: 153, 468
+  offset: 0, 0
+  index: -1
+wagon_light
+  rotate: true
+  xy: 1150, 485
+  size: 153, 468
+  orig: 153, 470
+  offset: 0, 0
+  index: -1
+wagon_window
+  rotate: true
+  xy: 2, 7
+  size: 50, 136
+  orig: 50, 136
+  offset: 0, 0
+  index: -1
+window_light
+  rotate: true
+  xy: 342, 69
+  size: 16, 136
+  orig: 17, 136
+  offset: 0, 0
+  index: -1

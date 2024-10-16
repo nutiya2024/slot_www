@@ -1,0 +1,209 @@
+
+gool_wild_multiplier.png
+size: 426,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gool_wild_multiplier_texture/blue_orb
+  rotate: false
+  xy: 0, 46
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/circle
+  rotate: false
+  xy: 150, 306
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/circle_Glow_01
+  rotate: false
+  xy: 0, 152
+  size: 122, 123
+  orig: 122, 123
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/circle_Glow_02
+  rotate: false
+  xy: 0, 277
+  size: 148, 149
+  orig: 148, 149
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/circle_shadow_02
+  rotate: false
+  xy: 286, 72
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/fx_00020
+  rotate: false
+  xy: 344, 79
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/fx_00021
+  rotate: true
+  xy: 208, 41
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/fx_00023
+  rotate: true
+  xy: 286, 17
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/fx_00025
+  rotate: false
+  xy: 261, 200
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/fx_00027
+  rotate: true
+  xy: 339, 259
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/fx_00029
+  rotate: true
+  xy: 348, 131
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/fx_00031
+  rotate: false
+  xy: 286, 129
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/fx_00033
+  rotate: true
+  xy: 321, 195
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/fx_00035
+  rotate: false
+  xy: 271, 259
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/green_orb
+  rotate: false
+  xy: 271, 322
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/pink_orb
+  rotate: false
+  xy: 150, 200
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/red_orb
+  rotate: false
+  xy: 124, 94
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/spark_00001
+  rotate: false
+  xy: 66, 7
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/spark_00002
+  rotate: false
+  xy: 382, 323
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/spark_00004
+  rotate: true
+  xy: 391, 92
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/spark_00006
+  rotate: false
+  xy: 391, 53
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/wing_Glow_01
+  rotate: true
+  xy: 103, 12
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/wing_Glow_02
+  rotate: false
+  xy: 382, 362
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/wing_l
+  rotate: true
+  xy: 111, 42
+  size: 50, 95
+  orig: 50, 95
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/wing_l_glow_01
+  rotate: true
+  xy: 206, 11
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/wing_l_glow_02
+  rotate: true
+  xy: 0, 3
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/wing_l_shadow
+  rotate: true
+  xy: 156, 15
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/wing_r
+  rotate: false
+  xy: 235, 103
+  size: 49, 95
+  orig: 49, 95
+  offset: 0, 0
+  index: -1
+gool_wild_multiplier_texture/wing_r_shadow
+  rotate: false
+  xy: 258, 53
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1

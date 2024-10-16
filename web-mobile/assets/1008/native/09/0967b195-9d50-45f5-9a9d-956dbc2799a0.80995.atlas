@@ -1,0 +1,160 @@
+
+jinbi.png
+size: 1337,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JB1
+  rotate: false
+  xy: 84, 2
+  size: 78, 81
+  orig: 80, 83
+  offset: 1, 1
+  index: -1
+JB10
+  rotate: false
+  xy: 708, 5
+  size: 70, 78
+  orig: 72, 80
+  offset: 1, 1
+  index: -1
+JB11
+  rotate: false
+  xy: 405, 4
+  size: 78, 79
+  orig: 80, 81
+  offset: 1, 1
+  index: -1
+JB12
+  rotate: false
+  xy: 245, 3
+  size: 78, 80
+  orig: 83, 82
+  offset: 4, 1
+  index: -1
+JB13
+  rotate: false
+  xy: 2, 3
+  size: 80, 80
+  orig: 82, 82
+  offset: 1, 1
+  index: -1
+JB14
+  rotate: false
+  xy: 780, 5
+  size: 70, 78
+  orig: 76, 80
+  offset: 5, 1
+  index: -1
+JB15
+  rotate: false
+  xy: 981, 4
+  size: 56, 79
+  orig: 58, 81
+  offset: 1, 1
+  index: -1
+JB16
+  rotate: false
+  xy: 1269, 4
+  size: 36, 79
+  orig: 38, 81
+  offset: 1, 1
+  index: -1
+JB17
+  rotate: false
+  xy: 1322, 4
+  size: 13, 79
+  orig: 15, 81
+  offset: 1, 1
+  index: -1
+JB18
+  rotate: false
+  xy: 1192, 4
+  size: 37, 79
+  orig: 39, 81
+  offset: 1, 1
+  index: -1
+JB19
+  rotate: false
+  xy: 1096, 4
+  size: 55, 79
+  orig: 57, 81
+  offset: 1, 1
+  index: -1
+JB2
+  rotate: false
+  xy: 164, 4
+  size: 79, 79
+  orig: 81, 81
+  offset: 1, 1
+  index: -1
+JB20
+  rotate: false
+  xy: 637, 3
+  size: 69, 80
+  orig: 71, 82
+  offset: 1, 1
+  index: -1
+JB21
+  rotate: false
+  xy: 565, 3
+  size: 70, 80
+  orig: 72, 83
+  offset: 1, 2
+  index: -1
+JB22
+  rotate: false
+  xy: 485, 4
+  size: 78, 79
+  orig: 80, 81
+  offset: 1, 1
+  index: -1
+JB3
+  rotate: false
+  xy: 325, 4
+  size: 78, 79
+  orig: 80, 81
+  offset: 1, 1
+  index: -1
+JB4
+  rotate: false
+  xy: 852, 5
+  size: 69, 78
+  orig: 71, 80
+  offset: 1, 1
+  index: -1
+JB5
+  rotate: false
+  xy: 923, 4
+  size: 56, 79
+  orig: 58, 81
+  offset: 1, 1
+  index: -1
+JB6
+  rotate: false
+  xy: 1231, 3
+  size: 36, 80
+  orig: 38, 82
+  offset: 1, 1
+  index: -1
+JB7
+  rotate: false
+  xy: 1307, 4
+  size: 13, 79
+  orig: 15, 81
+  offset: 1, 1
+  index: -1
+JB8
+  rotate: false
+  xy: 1153, 3
+  size: 37, 80
+  orig: 39, 82
+  offset: 1, 1
+  index: -1
+JB9
+  rotate: false
+  xy: 1039, 3
+  size: 55, 80
+  orig: 57, 82
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,118 @@
+
+DD_POT_BelowBowl.png
+size: 753,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FUBat_Coin
+  rotate: false
+  xy: 31, 29
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 2, 5
+  size: 193, 18
+  orig: 195, 20
+  offset: 1, 1
+  index: -1
+jinbi10
+  rotate: false
+  xy: 495, 281
+  size: 249, 86
+  orig: 251, 88
+  offset: 1, 1
+  index: -1
+jinbi2
+  rotate: true
+  xy: 2, 25
+  size: 207, 27
+  orig: 209, 29
+  offset: 1, 1
+  index: -1
+jinbi3
+  rotate: false
+  xy: 507, 369
+  size: 236, 33
+  orig: 238, 35
+  offset: 1, 1
+  index: -1
+jinbi4
+  rotate: false
+  xy: 254, 3
+  size: 236, 42
+  orig: 238, 44
+  offset: 1, 1
+  index: -1
+jinbi5
+  rotate: false
+  xy: 507, 404
+  size: 236, 52
+  orig: 238, 54
+  offset: 1, 1
+  index: -1
+jinbi6
+  rotate: true
+  xy: 507, 33
+  size: 246, 60
+  orig: 248, 62
+  offset: 1, 1
+  index: -1
+jinbi7
+  rotate: false
+  xy: 507, 458
+  size: 244, 64
+  orig: 246, 66
+  offset: 1, 1
+  index: -1
+jinbi8
+  rotate: true
+  xy: 650, 34
+  size: 245, 74
+  orig: 247, 76
+  offset: 1, 1
+  index: -1
+jinbi9
+  rotate: true
+  xy: 569, 34
+  size: 245, 79
+  orig: 247, 81
+  offset: 1, 1
+  index: -1
+wandi
+  rotate: true
+  xy: 2, 234
+  size: 288, 149
+  orig: 290, 151
+  offset: 1, 1
+  index: -1
+wangai
+  rotate: true
+  xy: 153, 237
+  size: 285, 156
+  orig: 287, 158
+  offset: 1, 1
+  index: -1
+wangai2
+  rotate: true
+  xy: 311, 255
+  size: 267, 182
+  orig: 269, 184
+  offset: 1, 1
+  index: -1
+wangai2-2
+  rotate: false
+  xy: 236, 47
+  size: 269, 188
+  orig: 271, 190
+  offset: 1, 1
+  index: -1
+wanguang
+  rotate: false
+  xy: 197, 2
+  size: 55, 25
+  orig: 57, 27
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,174 @@
+
+suru_pic05_red_gummy.png
+size: 691,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+particles
+  rotate: false
+  xy: 474, 38
+  size: 137, 167
+  orig: 137, 167
+  offset: 0, 0
+  index: -1
+red_gummy_bear
+  rotate: false
+  xy: 179, 11
+  size: 171, 194
+  orig: 171, 194
+  offset: 0, 0
+  index: -1
+red_gummy_bear_stroke
+  rotate: false
+  xy: 0, 5
+  size: 177, 200
+  orig: 177, 200
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 352, 28
+  size: 177, 120
+  orig: 177, 120
+  offset: 0, 0
+  index: -1
+spalsh_00000
+  rotate: false
+  xy: 191, 4
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+spalsh_00001
+  rotate: true
+  xy: 179, 2
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+spalsh_00002
+  rotate: false
+  xy: 613, 123
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+spalsh_00003
+  rotate: false
+  xy: 613, 136
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+spalsh_00004
+  rotate: false
+  xy: 352, 0
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+spalsh_00005
+  rotate: true
+  xy: 644, 12
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+spalsh_00006
+  rotate: true
+  xy: 649, 50
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+spalsh_00007
+  rotate: false
+  xy: 613, 49
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+spalsh_00008
+  rotate: true
+  xy: 605, 1
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+spalsh_00009
+  rotate: true
+  xy: 563, 1
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+spalsh_00010
+  rotate: true
+  xy: 520, 1
+  size: 35, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+spalsh_00011
+  rotate: true
+  xy: 476, 0
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+spalsh_00012
+  rotate: true
+  xy: 644, 86
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+spalsh_00013
+  rotate: true
+  xy: 644, 126
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+spalsh_00014
+  rotate: true
+  xy: 644, 166
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+spalsh_00015
+  rotate: false
+  xy: 392, 3
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+spalsh_00016
+  rotate: false
+  xy: 434, 3
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+spalsh_00017
+  rotate: true
+  xy: 613, 168
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+spalsh_00018
+  rotate: false
+  xy: 613, 151
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+spalsh_00019
+  rotate: true
+  xy: 373, 0
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1

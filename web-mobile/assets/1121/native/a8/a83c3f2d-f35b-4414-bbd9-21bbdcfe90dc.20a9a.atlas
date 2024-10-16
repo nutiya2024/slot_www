@@ -1,0 +1,20 @@
+
+suru_big_win_5.png
+size: 890,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer_3656
+  rotate: false
+  xy: 0, 0
+  size: 444, 250
+  orig: 444, 250
+  offset: 0, 0
+  index: -1
+colour_effects
+  rotate: false
+  xy: 446, 0
+  size: 444, 250
+  orig: 444, 250
+  offset: 0, 0
+  index: -1

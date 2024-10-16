@@ -1,0 +1,62 @@
+
+6c532987a26c7f84e8ee355378587cc1.png
+size: 874,794
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_S02_blurred
+  rotate: false
+  xy: 464, 207
+  size: 408, 344
+  orig: 530, 530
+  offset: 0, 0
+  index: -1
+s_S11_blurred
+  rotate: false
+  xy: 0, 528
+  size: 268, 266
+  orig: 530, 530
+  offset: 0, 0
+  index: -1
+s_S06_blurred
+  rotate: false
+  xy: 0, 2
+  size: 291, 272
+  orig: 530, 530
+  offset: 2, -1
+  index: -1
+s_S07_blurred
+  rotate: false
+  xy: 270, 359
+  size: 192, 230
+  orig: 530, 530
+  offset: 0, 0
+  index: -1
+s_S08_blurred
+  rotate: false
+  xy: 466, 553
+  size: 217, 241
+  orig: 530, 530
+  offset: 4, -2
+  index: -1
+s_S09_blurred
+  rotate: false
+  xy: 0, 276
+  size: 194, 250
+  orig: 530, 530
+  offset: -1, -18
+  index: -1
+s_S12_blurred
+  rotate: false
+  xy: 685, 627
+  size: 174, 167
+  orig: 174, 167
+  offset: 0, 0
+  index: -1
+s_S10_blurred
+  rotate: false
+  xy: 270, 591
+  size: 194, 203
+  orig: 530, 530
+  offset: 1, -1
+  index: -1

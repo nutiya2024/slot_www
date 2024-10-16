@@ -1,0 +1,111 @@
+
+jinbi.png
+size: 179,179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Icon_BuyBonus
+  rotate: false
+  xy: 0, 129
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Icon_BuyBonus4
+  rotate: true
+  xy: 27, 17
+  size: 6, 57
+  orig: 6, 57
+  offset: 0, 0
+  index: -1
+eft2_p005
+  rotate: false
+  xy: 0, 0
+  size: 25, 23
+  orig: 30, 26
+  offset: 2, 1
+  index: -1
+jb_000
+  rotate: false
+  xy: 149, 147
+  size: 25, 32
+  orig: 50, 50
+  offset: 0, 18
+  index: -1
+jb_001
+  rotate: false
+  xy: 144, 55
+  size: 32, 38
+  orig: 50, 50
+  offset: 0, 12
+  index: -1
+jb_002
+  rotate: false
+  xy: 102, 43
+  size: 38, 43
+  orig: 50, 50
+  offset: 0, 7
+  index: -1
+jb_003
+  rotate: false
+  xy: 100, 88
+  size: 42, 46
+  orig: 50, 50
+  offset: 0, 4
+  index: -1
+jb_004
+  rotate: false
+  xy: 52, 130
+  size: 46, 49
+  orig: 50, 50
+  offset: 0, 1
+  index: -1
+jb_005
+  rotate: false
+  xy: 0, 25
+  size: 49, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+jb_006
+  rotate: false
+  xy: 0, 77
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+jb_007
+  rotate: false
+  xy: 51, 25
+  size: 49, 50
+  orig: 50, 50
+  offset: 1, 0
+  index: -1
+jb_008
+  rotate: false
+  xy: 52, 79
+  size: 46, 49
+  orig: 50, 50
+  offset: 4, 0
+  index: -1
+jb_009
+  rotate: true
+  xy: 100, 136
+  size: 43, 47
+  orig: 50, 50
+  offset: 7, 0
+  index: -1
+jb_010
+  rotate: true
+  xy: 102, 3
+  size: 38, 43
+  orig: 50, 50
+  offset: 12, 0
+  index: -1
+jb_011
+  rotate: false
+  xy: 144, 95
+  size: 33, 39
+  orig: 50, 50
+  offset: 17, 0
+  index: -1

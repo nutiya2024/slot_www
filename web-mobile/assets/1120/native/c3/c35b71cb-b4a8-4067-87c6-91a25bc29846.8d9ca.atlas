@@ -1,0 +1,27 @@
+
+swbx_banana.png
+size: 380,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banana
+  rotate: true
+  xy: 162, 23
+  size: 120, 117
+  orig: 120, 117
+  offset: 0, 0
+  index: -1
+banana_Ice
+  rotate: false
+  xy: 281, 43
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+file
+  rotate: false
+  xy: 0, 0
+  size: 160, 143
+  orig: 160, 143
+  offset: 0, 0
+  index: -1

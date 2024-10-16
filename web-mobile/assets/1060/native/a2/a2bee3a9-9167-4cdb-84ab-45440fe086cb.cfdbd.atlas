@@ -1,0 +1,90 @@
+
+gun.png
+size: 1157,1157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 2, 820
+  size: 350, 335
+  orig: 350, 335
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 483
+  size: 350, 335
+  orig: 350, 335
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 354, 820
+  size: 350, 335
+  orig: 350, 335
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 146
+  size: 350, 335
+  orig: 350, 335
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 354, 483
+  size: 350, 335
+  orig: 350, 335
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 706, 820
+  size: 350, 335
+  orig: 350, 335
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 354, 146
+  size: 350, 335
+  orig: 350, 335
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 706, 483
+  size: 350, 335
+  orig: 350, 335
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 706, 146
+  size: 350, 335
+  orig: 350, 335
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 1058, 1105
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 2, 2
+  size: 161, 142
+  orig: 161, 142
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 165, 108
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1

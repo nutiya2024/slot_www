@@ -1,0 +1,118 @@
+
+explosion.png
+size: 1772,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+explosion_2_split/red/fx_00001
+  rotate: false
+  xy: 1652, 375
+  size: 108, 108
+  orig: 262, 263
+  offset: 76, 81
+  index: -1
+explosion_2_split/red/fx_00002
+  rotate: false
+  xy: 1474, 307
+  size: 176, 176
+  orig: 262, 263
+  offset: 42, 46
+  index: -1
+explosion_2_split/red/fx_00003
+  rotate: false
+  xy: 1139, 25
+  size: 214, 214
+  orig: 262, 263
+  offset: 24, 25
+  index: -1
+explosion_2_split/red/fx_00008
+  rotate: false
+  xy: 494, 239
+  size: 243, 244
+  orig: 262, 263
+  offset: 11, 11
+  index: -1
+explosion_2_split/red/fx_00009
+  rotate: false
+  xy: 2, 239
+  size: 244, 244
+  orig: 262, 263
+  offset: 10, 11
+  index: -1
+explosion_2_split/red/fx_00010
+  rotate: false
+  xy: 248, 239
+  size: 244, 244
+  orig: 262, 263
+  offset: 10, 11
+  index: -1
+explosion_2_split/red/fx_00011
+  rotate: false
+  xy: 739, 240
+  size: 243, 243
+  orig: 262, 263
+  offset: 10, 11
+  index: -1
+explosion_2_split/red/fx_00012
+  rotate: true
+  xy: 1228, 243
+  size: 240, 244
+  orig: 262, 263
+  offset: 12, 10
+  index: -1
+explosion_2_split/red/fx_00013
+  rotate: false
+  xy: 2, 2
+  size: 233, 235
+  orig: 262, 263
+  offset: 15, 16
+  index: -1
+explosion_2_split/red/fx_00014
+  rotate: false
+  xy: 700, 9
+  size: 224, 228
+  orig: 262, 263
+  offset: 19, 19
+  index: -1
+explosion_2_split/red/fx_00015
+  rotate: false
+  xy: 926, 20
+  size: 211, 218
+  orig: 263, 262
+  offset: 24, 22
+  index: -1
+explosion_2_split/red/fx_00016
+  rotate: false
+  xy: 1597, 143
+  size: 173, 162
+  orig: 262, 263
+  offset: 53, 50
+  index: -1
+explosion_split/yellow/fx_00004
+  rotate: false
+  xy: 472, 11
+  size: 226, 226
+  orig: 262, 263
+  offset: 19, 20
+  index: -1
+explosion_split/yellow/fx_00005
+  rotate: true
+  xy: 237, 3
+  size: 234, 233
+  orig: 262, 263
+  offset: 15, 16
+  index: -1
+explosion_split/yellow/fx_00006
+  rotate: true
+  xy: 1355, 2
+  size: 239, 240
+  orig: 263, 262
+  offset: 11, 13
+  index: -1
+explosion_split/yellow/fx_00007
+  rotate: false
+  xy: 984, 241
+  size: 242, 242
+  orig: 262, 263
+  offset: 11, 12
+  index: -1

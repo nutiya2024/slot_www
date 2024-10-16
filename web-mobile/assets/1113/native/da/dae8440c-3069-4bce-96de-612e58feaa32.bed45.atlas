@@ -1,0 +1,90 @@
+
+xuanwo.png
+size: 511,310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lib/b1
+  rotate: true
+  xy: 147, 192
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+lib/bao
+  rotate: true
+  xy: 147, 81
+  size: 109, 136
+  orig: 109, 136
+  offset: 0, 0
+  index: -1
+lib/bao_1
+  rotate: true
+  xy: 285, 85
+  size: 105, 126
+  orig: 105, 126
+  offset: 0, 0
+  index: -1
+lib/bao_2
+  rotate: true
+  xy: 413, 93
+  size: 97, 93
+  orig: 97, 93
+  offset: 0, 0
+  index: -1
+lib/bao_3
+  rotate: true
+  xy: 110, 9
+  size: 70, 83
+  orig: 73, 83
+  offset: 3, 0
+  index: -1
+lib/g
+  rotate: false
+  xy: 2, 53
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+lib/light
+  rotate: false
+  xy: 2, 165
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+lib/shou
+  rotate: false
+  xy: 285, 5
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+lib/shou_1
+  rotate: false
+  xy: 195, 13
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+lib/star
+  rotate: true
+  xy: 413, 2
+  size: 89, 94
+  orig: 89, 94
+  offset: 0, 0
+  index: -1
+lib/xuan_1
+  rotate: false
+  xy: 395, 192
+  size: 114, 116
+  orig: 115, 120
+  offset: 0, 2
+  index: -1
+lib/xuan_2
+  rotate: false
+  xy: 278, 192
+  size: 115, 116
+  orig: 118, 118
+  offset: 2, 0
+  index: -1

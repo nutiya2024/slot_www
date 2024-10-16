@@ -1,0 +1,174 @@
+
+womanZB.png
+size: 1627,1625
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 425, 71
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1379, 466
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 528, 74
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1436, 467
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1502, 468
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 577, 154
+  size: 503, 467
+  orig: 503, 467
+  offset: 0, 0
+  index: -1
+bodu2
+  rotate: true
+  xy: 268, 9
+  size: 116, 155
+  orig: 116, 155
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1004, 1118
+  size: 462, 505
+  orig: 462, 505
+  offset: 0, 0
+  index: -1
+er
+  rotate: true
+  xy: 1468, 1138
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+f1
+  rotate: true
+  xy: 2, 5
+  size: 120, 264
+  orig: 120, 264
+  offset: 0, 0
+  index: -1
+f2
+  rotate: true
+  xy: 1082, 466
+  size: 181, 295
+  orig: 181, 295
+  offset: 0, 0
+  index: -1
+fa
+  rotate: true
+  xy: 1082, 293
+  size: 171, 286
+  orig: 171, 286
+  offset: 0, 0
+  index: -1
+fb
+  rotate: true
+  xy: 1468, 1194
+  size: 139, 133
+  orig: 139, 133
+  offset: 0, 0
+  index: -1
+fddd
+  rotate: true
+  xy: 1370, 203
+  size: 261, 237
+  orig: 261, 237
+  offset: 0, 0
+  index: -1
+g
+  rotate: true
+  xy: 1256, 120
+  size: 171, 100
+  orig: 171, 100
+  offset: 0, 0
+  index: -1
+houfa1
+  rotate: true
+  xy: 1004, 649
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+houfa2
+  rotate: false
+  xy: 1093, 18
+  size: 161, 273
+  orig: 161, 273
+  offset: 0, 0
+  index: -1
+houfa3
+  rotate: true
+  xy: 1379, 500
+  size: 147, 233
+  orig: 147, 233
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 2, 127
+  size: 573, 494
+  orig: 573, 494
+  offset: 0, 0
+  index: -1
+k2
+  rotate: false
+  xy: 577, 104
+  size: 514, 48
+  orig: 514, 48
+  offset: 0, 0
+  index: -1
+r
+  rotate: false
+  xy: 1004, 907
+  size: 523, 209
+  orig: 523, 209
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 1468, 1335
+  size: 157, 288
+  orig: 157, 288
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1409, 663
+  size: 210, 242
+  orig: 210, 242
+  offset: 0, 0
+  index: -1
+zzz
+  rotate: false
+  xy: 2, 623
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1

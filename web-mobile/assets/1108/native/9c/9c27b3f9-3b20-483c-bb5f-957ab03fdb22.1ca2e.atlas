@@ -1,0 +1,167 @@
+
+fanpai_hong.png
+size: 466,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BaseGoldCard
+  rotate: true
+  xy: 21, 347
+  size: 119, 153
+  orig: 119, 153
+  offset: 0, 0
+  index: -1
+PokerSymbol_wild_c1
+  rotate: false
+  xy: 331, 359
+  size: 132, 107
+  orig: 132, 107
+  offset: 0, 0
+  index: -1
+PokerSymbol_wild_c2
+  rotate: true
+  xy: 306, 184
+  size: 107, 39
+  orig: 107, 39
+  offset: 0, 0
+  index: -1
+PokerSymbol_wild_c3
+  rotate: false
+  xy: 365, 324
+  size: 101, 33
+  orig: 101, 33
+  offset: 0, 0
+  index: -1
+Poker_03_2GR
+  rotate: true
+  xy: 176, 347
+  size: 119, 153
+  orig: 119, 153
+  offset: 0, 0
+  index: -1
+card_frame_1
+  rotate: true
+  xy: 211, 22
+  size: 98, 166
+  orig: 98, 166
+  offset: 0, 0
+  index: -1
+card_frame_2
+  rotate: false
+  xy: 212, 122
+  size: 92, 167
+  orig: 92, 168
+  offset: 0, 0
+  index: -1
+card_frame_3
+  rotate: true
+  xy: 21, 286
+  size: 59, 176
+  orig: 59, 178
+  offset: 0, 1
+  index: -1
+card_frame_4
+  rotate: false
+  xy: 166, 7
+  size: 43, 186
+  orig: 43, 187
+  offset: 0, 0
+  index: -1
+card_frame_5
+  rotate: false
+  xy: 0, 271
+  size: 19, 195
+  orig: 19, 196
+  offset: 0, 1
+  index: -1
+card_frame_6
+  rotate: true
+  xy: 211, 12
+  size: 8, 188
+  orig: 8, 188
+  offset: 0, 0
+  index: -1
+card_frame_6_GD
+  rotate: false
+  xy: 155, 5
+  size: 9, 188
+  orig: 9, 188
+  offset: 0, 0
+  index: -1
+card_frame_6_jack
+  rotate: true
+  xy: 21, 275
+  size: 9, 189
+  orig: 9, 191
+  offset: 0, 0
+  index: -1
+card_frame_close
+  rotate: true
+  xy: 0, 23
+  size: 119, 153
+  orig: 119, 153
+  offset: 0, 0
+  index: -1
+deal_NW_c02B
+  rotate: true
+  xy: 199, 291
+  size: 54, 63
+  orig: 56, 65
+  offset: 2, 1
+  index: -1
+deal_NW_nef_03
+  rotate: false
+  xy: 264, 293
+  size: 99, 52
+  orig: 99, 52
+  offset: 0, 0
+  index: -1
+eft_bol_02
+  rotate: false
+  xy: 306, 146
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+eft_exp_02
+  rotate: true
+  xy: 347, 191
+  size: 100, 97
+  orig: 100, 98
+  offset: 0, 1
+  index: -1
+eft_exp_06
+  rotate: false
+  xy: 379, 113
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+eft_moon_04
+  rotate: false
+  xy: 131, 195
+  size: 78, 78
+  orig: 80, 80
+  offset: 1, 1
+  index: -1
+eft_sc_moon01
+  rotate: false
+  xy: 365, 294
+  size: 47, 28
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+eft_spe02
+  rotate: false
+  xy: 0, 144
+  size: 129, 125
+  orig: 129, 143
+  offset: 0, 15
+  index: -1
+pok_FOut_k2
+  rotate: false
+  xy: 379, 27
+  size: 68, 84
+  orig: 68, 85
+  offset: 0, 1
+  index: -1

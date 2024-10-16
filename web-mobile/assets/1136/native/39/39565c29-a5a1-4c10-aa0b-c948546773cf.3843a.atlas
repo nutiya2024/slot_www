@@ -1,0 +1,125 @@
+
+stpr_symbol_all_fx_disappearance.png
+size: 313,1061
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_00120
+  rotate: true
+  xy: 0, 901
+  size: 160, 168
+  orig: 228, 229
+  offset: 21, 38
+  index: -1
+effect_00121
+  rotate: true
+  xy: 0, 739
+  size: 160, 168
+  orig: 228, 229
+  offset: 21, 38
+  index: -1
+effect_00122
+  rotate: true
+  xy: 0, 583
+  size: 154, 166
+  orig: 228, 229
+  offset: 23, 35
+  index: -1
+effect_00123
+  rotate: true
+  xy: 0, 429
+  size: 152, 157
+  orig: 228, 229
+  offset: 26, 40
+  index: -1
+effect_00124
+  rotate: true
+  xy: 159, 336
+  size: 147, 152
+  orig: 228, 229
+  offset: 28, 41
+  index: -1
+effect_00125
+  rotate: false
+  xy: 170, 915
+  size: 141, 146
+  orig: 228, 229
+  offset: 32, 42
+  index: -1
+effect_00126
+  rotate: false
+  xy: 170, 767
+  size: 141, 146
+  orig: 228, 229
+  offset: 32, 42
+  index: -1
+effect_00127
+  rotate: false
+  xy: 170, 620
+  size: 138, 145
+  orig: 228, 229
+  offset: 33, 41
+  index: -1
+effect_00128
+  rotate: true
+  xy: 168, 485
+  size: 133, 141
+  orig: 228, 229
+  offset: 36, 41
+  index: -1
+effect_00129
+  rotate: true
+  xy: 0, 295
+  size: 132, 134
+  orig: 228, 229
+  offset: 40, 43
+  index: -1
+effect_00130
+  rotate: false
+  xy: 136, 211
+  size: 124, 123
+  orig: 228, 229
+  offset: 46, 47
+  index: -1
+effect_00131
+  rotate: false
+  xy: 0, 170
+  size: 124, 123
+  orig: 228, 229
+  offset: 46, 47
+  index: -1
+effect_00132
+  rotate: false
+  xy: 126, 99
+  size: 116, 110
+  orig: 228, 229
+  offset: 53, 52
+  index: -1
+effect_00133
+  rotate: false
+  xy: 0, 66
+  size: 107, 102
+  orig: 228, 229
+  offset: 58, 56
+  index: -1
+effect_00134
+  rotate: false
+  xy: 109, 0
+  size: 102, 97
+  orig: 228, 229
+  offset: 61, 59
+  index: -1
+effect_00135
+  rotate: false
+  xy: 244, 53
+  size: 67, 77
+  orig: 228, 229
+  offset: 77, 77
+  index: -1
+effect_00136
+  rotate: false
+  xy: 244, 132
+  size: 69, 77
+  orig: 228, 229
+  offset: 76, 77
+  index: -1

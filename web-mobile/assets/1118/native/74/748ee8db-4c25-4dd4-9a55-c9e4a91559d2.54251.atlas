@@ -1,0 +1,104 @@
+
+stpr_basegame_idle.png
+size: 699,699
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud_1
+  rotate: false
+  xy: 20, 665
+  size: 270, 34
+  orig: 270, 34
+  offset: 0, 0
+  index: -1
+cloud_2
+  rotate: false
+  xy: 240, 608
+  size: 160, 50
+  orig: 160, 50
+  offset: 0, 0
+  index: -1
+cloud_20
+  rotate: false
+  xy: 137, 610
+  size: 101, 53
+  orig: 101, 53
+  offset: 0, 0
+  index: -1
+cloud_3
+  rotate: false
+  xy: 581, 656
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+cloud_4
+  rotate: false
+  xy: 292, 660
+  size: 240, 39
+  orig: 240, 39
+  offset: 0, 0
+  index: -1
+cloud_5
+  rotate: false
+  xy: 402, 578
+  size: 241, 76
+  orig: 241, 76
+  offset: 0, 0
+  index: -1
+cloud_52
+  rotate: false
+  xy: 528, 474
+  size: 122, 102
+  orig: 122, 102
+  offset: 0, 0
+  index: -1
+cloud_54
+  rotate: false
+  xy: 0, 620
+  size: 135, 43
+  orig: 135, 43
+  offset: 0, 0
+  index: -1
+shooting stars
+  rotate: false
+  xy: 534, 657
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+star2
+  rotate: true
+  xy: 0, 682
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+star3
+  rotate: false
+  xy: 428, 484
+  size: 98, 92
+  orig: 98, 92
+  offset: 0, 0
+  index: -1
+tower_1
+  rotate: true
+  xy: 0, 487
+  size: 46, 426
+  orig: 46, 426
+  offset: 0, 0
+  index: -1
+tower_2
+  rotate: true
+  xy: 0, 375
+  size: 97, 699
+  orig: 97, 699
+  offset: 0, 0
+  index: -1
+tower_3
+  rotate: true
+  xy: 0, 535
+  size: 71, 358
+  orig: 71, 358
+  offset: 0, 0
+  index: -1

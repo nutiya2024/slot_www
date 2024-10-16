@@ -1,0 +1,62 @@
+
+h_cash_a_atlas_symbols.png
+size: 424,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_suitcase_case
+  rotate: true
+  xy: 184, 9
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+h_suitcase_cash
+  rotate: false
+  xy: 367, 40
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+h_suitcase_cover
+  rotate: true
+  xy: 277, 16
+  size: 154, 88
+  orig: 154, 88
+  offset: 0, 0
+  index: -1
+h_suitcase_filler_01
+  rotate: false
+  xy: 277, 6
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+h_suitcase_filler_02
+  rotate: true
+  xy: 286, 6
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+h_suitcase_handle
+  rotate: true
+  xy: 367, 2
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+h_suitcase_pile_cash
+  rotate: true
+  xy: 367, 87
+  size: 83, 54
+  orig: 83, 54
+  offset: 0, 0
+  index: -1
+h_suitcase_shdw
+  rotate: false
+  xy: 2, 7
+  size: 180, 163
+  orig: 184, 179
+  offset: 2, 2
+  index: -1

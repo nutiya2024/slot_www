@@ -1,0 +1,279 @@
+
+S05.png
+size: 1474,1540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_chain_dark
+  rotate: false
+  xy: 1251, 166
+  size: 124, 102
+  orig: 124, 102
+  offset: 0, 0
+  index: -1
+bottle_back
+  rotate: true
+  xy: 1211, 1222
+  size: 316, 261
+  orig: 316, 264
+  offset: 0, 1
+  index: -1
+bottom_gold
+  rotate: false
+  xy: 374, 9
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+bottom_lid
+  rotate: true
+  xy: 449, 4
+  size: 61, 54
+  orig: 62, 54
+  offset: 1, 0
+  index: -1
+bottom_liquid
+  rotate: false
+  xy: 1026, 854
+  size: 177, 312
+  orig: 177, 312
+  offset: 0, 0
+  index: -1
+bubbles
+  rotate: true
+  xy: 331, 967
+  size: 199, 295
+  orig: 213, 300
+  offset: 4, 5
+  index: -1
+chain_shadow
+  rotate: true
+  xy: 304, 2
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+common_star_spk
+  rotate: false
+  xy: 1211, 945
+  size: 256, 275
+  orig: 256, 275
+  offset: 0, 0
+  index: -1
+front_chain
+  rotate: true
+  xy: 1143, 104
+  size: 164, 106
+  orig: 164, 106
+  offset: 0, 0
+  index: -1
+front_chain_01
+  rotate: false
+  xy: 331, 956
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+gold_frame
+  rotate: false
+  xy: 2, 219
+  size: 347, 321
+  orig: 348, 321
+  offset: 1, 0
+  index: -1
+key
+  rotate: false
+  xy: 971, 740
+  size: 50, 95
+  orig: 50, 95
+  offset: 0, 0
+  index: -1
+layer_2
+  rotate: true
+  xy: 617, 495
+  size: 340, 352
+  orig: 346, 397
+  offset: 6, 0
+  index: -1
+lid
+  rotate: true
+  xy: 1143, 11
+  size: 91, 87
+  orig: 91, 87
+  offset: 0, 0
+  index: -1
+lid_01
+  rotate: true
+  xy: 971, 675
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+lid_shadow
+  rotate: true
+  xy: 1251, 54
+  size: 110, 103
+  orig: 114, 106
+  offset: 2, 1
+  index: -1
+magic_effects
+  rotate: false
+  xy: 628, 837
+  size: 396, 329
+  orig: 396, 329
+  offset: 0, 0
+  index: -1
+particles_00000
+  rotate: true
+  xy: 374, 742
+  size: 223, 241
+  orig: 223, 241
+  offset: 0, 0
+  index: -1
+particles_00001
+  rotate: true
+  xy: 1205, 720
+  size: 223, 241
+  orig: 223, 241
+  offset: 0, 0
+  index: -1
+particles_00002
+  rotate: true
+  xy: 1192, 495
+  size: 223, 241
+  orig: 223, 241
+  offset: 0, 0
+  index: -1
+particles_00003
+  rotate: true
+  xy: 1191, 270
+  size: 223, 241
+  orig: 223, 241
+  offset: 0, 0
+  index: -1
+particles_00004
+  rotate: true
+  xy: 374, 517
+  size: 223, 241
+  orig: 223, 241
+  offset: 0, 0
+  index: -1
+particles_00005
+  rotate: true
+  xy: 351, 292
+  size: 223, 241
+  orig: 223, 241
+  offset: 0, 0
+  index: -1
+particles_00006
+  rotate: true
+  xy: 594, 270
+  size: 223, 241
+  orig: 223, 241
+  offset: 0, 0
+  index: -1
+particles_00007
+  rotate: true
+  xy: 351, 67
+  size: 223, 241
+  orig: 223, 241
+  offset: 0, 0
+  index: -1
+particles_00008
+  rotate: false
+  xy: 837, 38
+  size: 223, 241
+  orig: 223, 241
+  offset: 0, 0
+  index: -1
+particles_00009
+  rotate: true
+  xy: 594, 45
+  size: 223, 241
+  orig: 223, 241
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 27
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+size_2
+  rotate: true
+  xy: 2, 954
+  size: 212, 327
+  orig: 212, 327
+  offset: 0, 0
+  index: -1
+size_3
+  rotate: true
+  xy: 971, 426
+  size: 212, 218
+  orig: 212, 218
+  offset: 0, 0
+  index: -1
+size_4
+  rotate: false
+  xy: 1026, 640
+  size: 164, 212
+  orig: 164, 212
+  offset: 0, 0
+  index: -1
+size_5
+  rotate: true
+  xy: 837, 281
+  size: 212, 130
+  orig: 212, 130
+  offset: 0, 0
+  index: -1
+size_6
+  rotate: false
+  xy: 193, 5
+  size: 109, 212
+  orig: 109, 212
+  offset: 0, 0
+  index: -1
+size_7
+  rotate: true
+  xy: 969, 330
+  size: 94, 212
+  orig: 94, 212
+  offset: 0, 0
+  index: -1
+stroke_00000
+  rotate: false
+  xy: 2, 1168
+  size: 401, 370
+  orig: 401, 370
+  offset: 0, 0
+  index: -1
+stroke_00001
+  rotate: false
+  xy: 405, 1168
+  size: 401, 370
+  orig: 401, 370
+  offset: 0, 0
+  index: -1
+stroke_00002
+  rotate: false
+  xy: 808, 1168
+  size: 401, 370
+  orig: 401, 370
+  offset: 0, 0
+  index: -1
+stroke_00003
+  rotate: true
+  xy: 2, 542
+  size: 401, 370
+  orig: 401, 370
+  offset: 0, 0
+  index: -1
+top_liquid
+  rotate: true
+  xy: 1062, 19
+  size: 309, 79
+  orig: 309, 79
+  offset: 0, 0
+  index: -1

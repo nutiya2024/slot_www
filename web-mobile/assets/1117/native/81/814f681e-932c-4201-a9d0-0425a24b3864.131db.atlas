@@ -1,0 +1,42 @@
+
+gool_buy_feature_popup.png
+size: 557,829
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bbbggg
+  rotate: false
+  xy: 0, 148
+  size: 437, 681
+  orig: 437, 681
+  offset: 0, 0
+  index: -1
+f_1
+  rotate: false
+  xy: 518, 124
+  size: 39, 705
+  orig: 39, 705
+  offset: 0, 0
+  index: -1
+f_2
+  rotate: false
+  xy: 0, 58
+  size: 456, 64
+  orig: 456, 64
+  offset: 0, 0
+  index: -1
+f_3
+  rotate: false
+  xy: 439, 124
+  size: 77, 705
+  orig: 77, 705
+  offset: 0, 0
+  index: -1
+f_4
+  rotate: false
+  xy: 0, 0
+  size: 456, 56
+  orig: 456, 56
+  offset: 0, 0
+  index: -1
+

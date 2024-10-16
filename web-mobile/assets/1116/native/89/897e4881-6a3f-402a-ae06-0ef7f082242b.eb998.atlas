@@ -1,0 +1,13 @@
+
+dhme_lightbulbs.png
+size: 94,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/bulb_02
+  rotate: false
+  xy: 0, 2
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+Symbol_bar_green.png
+size: 204,689
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green-1
+  rotate: true
+  xy: 2, 230
+  size: 238, 149
+  orig: 241, 151
+  offset: 2, 1
+  index: -1
+green-2
+  rotate: true
+  xy: 153, 246
+  size: 222, 49
+  orig: 224, 51
+  offset: 1, 1
+  index: -1
+green-3
+  rotate: true
+  xy: 67, 17
+  size: 211, 63
+  orig: 213, 65
+  offset: 1, 1
+  index: -1
+green-4
+  rotate: false
+  xy: 2, 635
+  size: 200, 52
+  orig: 204, 54
+  offset: 1, 1
+  index: -1
+green-5
+  rotate: true
+  xy: 2, 2
+  size: 226, 63
+  orig: 229, 65
+  offset: 2, 1
+  index: -1
+green-6
+  rotate: true
+  xy: 132, 5
+  size: 223, 61
+  orig: 226, 64
+  offset: 2, 2
+  index: -1
+shan
+  rotate: false
+  xy: 2, 470
+  size: 176, 163
+  orig: 179, 169
+  offset: 2, 5
+  index: -1

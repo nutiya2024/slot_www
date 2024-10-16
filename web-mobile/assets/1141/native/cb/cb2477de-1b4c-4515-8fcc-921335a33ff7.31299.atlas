@@ -1,0 +1,13 @@
+
+tucl_basegame.png
+size: 1781,775
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tucl_basegame_split/bg
+  rotate: false
+  xy: 2, 2
+  size: 1777, 771
+  orig: 1779, 773
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,139 @@
+
+button_sb.png
+size: 1969,571
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sb_arrow.pn
+  rotate: false
+  xy: 1550, 31
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+sb_arrow_blur.pn
+  rotate: false
+  xy: 1658, 31
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+sb_arrow_grey.pn
+  rotate: false
+  xy: 1766, 31
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+sb_button.pn
+  rotate: false
+  xy: 1549, 345
+  size: 224, 224
+  orig: 238, 238
+  offset: 7, 7
+  index: -1
+sb_hover_vfx_b_screen.pn
+  rotate: false
+  xy: 1775, 209
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+sb_vfx_b_screen_00.pn
+  rotate: false
+  xy: 1775, 381
+  size: 192, 188
+  orig: 300, 300
+  offset: 52, 56
+  index: -1
+sb_vfx_b_screen_01.pn
+  rotate: true
+  xy: 1315, 335
+  size: 234, 232
+  orig: 300, 300
+  offset: 31, 34
+  index: -1
+sb_vfx_b_screen_02.pn
+  rotate: true
+  xy: 1300, 53
+  size: 252, 248
+  orig: 300, 300
+  offset: 22, 26
+  index: -1
+sb_vfx_b_screen_03.pn
+  rotate: true
+  xy: 1063, 307
+  size: 262, 250
+  orig: 300, 300
+  offset: 17, 25
+  index: -1
+sb_vfx_b_screen_04.pn
+  rotate: true
+  xy: 1046, 33
+  size: 266, 252
+  orig: 300, 300
+  offset: 15, 24
+  index: -1
+sb_vfx_b_screen_05.pn
+  rotate: true
+  xy: 571, 299
+  size: 270, 252
+  orig: 300, 300
+  offset: 13, 24
+  index: -1
+sb_vfx_b_screen_06.pn
+  rotate: true
+  xy: 792, 27
+  size: 270, 252
+  orig: 300, 300
+  offset: 13, 24
+  index: -1
+sb_vfx_b_screen_07.pn
+  rotate: false
+  xy: 317, 297
+  size: 252, 272
+  orig: 300, 300
+  offset: 22, 14
+  index: -1
+sb_vfx_b_screen_08.pn
+  rotate: false
+  xy: 2, 2
+  size: 274, 252
+  orig: 300, 300
+  offset: 11, 24
+  index: -1
+sb_vfx_b_screen_09.pn
+  rotate: false
+  xy: 278, 2
+  size: 274, 252
+  orig: 300, 300
+  offset: 11, 25
+  index: -1
+sb_vfx_b_screen_10.pn
+  rotate: true
+  xy: 554, 23
+  size: 272, 236
+  orig: 300, 300
+  offset: 13, 40
+  index: -1
+sb_vfx_b_screen_11.pn
+  rotate: true
+  xy: 825, 301
+  size: 268, 236
+  orig: 300, 300
+  offset: 13, 41
+  index: -1
+sb_vfx_b_screen_12.pn
+  rotate: false
+  xy: 1550, 139
+  size: 220, 204
+  orig: 300, 300
+  offset: 35, 63
+  index: -1
+sb_vfx_c_screen.pn
+  rotate: false
+  xy: 2, 256
+  size: 313, 313
+  orig: 313, 313
+  offset: 0, 0
+  index: -1

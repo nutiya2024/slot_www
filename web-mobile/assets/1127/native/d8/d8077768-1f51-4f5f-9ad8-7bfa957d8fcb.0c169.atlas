@@ -1,0 +1,13 @@
+
+l_q_c_atlas_symbols.png
+size: 128,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_q_front
+  rotate: false
+  xy: 2, 2
+  size: 124, 168
+  orig: 177, 214
+  offset: 26, 22
+  index: -1

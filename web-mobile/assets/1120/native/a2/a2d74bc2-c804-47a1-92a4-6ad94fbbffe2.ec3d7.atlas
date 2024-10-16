@@ -1,0 +1,418 @@
+
+swbx_freegame.png
+size: 2007,1636
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1471452 copy
+  rotate: false
+  xy: 0, 0
+  size: 1777, 929
+  orig: 1777, 929
+  offset: 0, 0
+  index: -1
+Reflaction
+  rotate: false
+  xy: 543, 1072
+  size: 232, 208
+  orig: 234, 209
+  offset: 2, 1
+  index: -1
+bar
+  rotate: true
+  xy: 0, 1633
+  size: 3, 16
+  orig: 3, 20
+  offset: 0, 2
+  index: -1
+bubble
+  rotate: true
+  xy: 1610, 1547
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+bulb
+  rotate: false
+  xy: 793, 1566
+  size: 138, 70
+  orig: 138, 70
+  offset: 0, 0
+  index: -1
+bulb_shadow
+  rotate: false
+  xy: 1410, 1554
+  size: 198, 82
+  orig: 198, 82
+  offset: 0, 0
+  index: -1
+bulbs
+  rotate: false
+  xy: 933, 1560
+  size: 176, 76
+  orig: 176, 76
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 1111, 1555
+  size: 297, 81
+  orig: 297, 81
+  offset: 0, 0
+  index: -1
+cloud_1
+  rotate: false
+  xy: 1044, 1432
+  size: 259, 121
+  orig: 259, 121
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: true
+  xy: 248, 1598
+  size: 38, 39
+  orig: 44, 45
+  offset: 3, 3
+  index: -1
+light_10
+  rotate: true
+  xy: 560, 1588
+  size: 48, 54
+  orig: 50, 55
+  offset: 1, 0
+  index: -1
+light_11
+  rotate: true
+  xy: 54, 1605
+  size: 31, 34
+  orig: 33, 36
+  offset: 1, 2
+  index: -1
+light_12
+  rotate: false
+  xy: 673, 1583
+  size: 56, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+light_13
+  rotate: false
+  xy: 18, 1606
+  size: 34, 30
+  orig: 36, 32
+  offset: 2, 1
+  index: -1
+light_17
+  rotate: false
+  xy: 18, 1606
+  size: 34, 30
+  orig: 36, 32
+  offset: 2, 1
+  index: -1
+light_14
+  rotate: false
+  xy: 731, 1583
+  size: 60, 53
+  orig: 62, 55
+  offset: 1, 1
+  index: -1
+light_15
+  rotate: false
+  xy: 90, 1605
+  size: 34, 31
+  orig: 36, 32
+  offset: 2, 0
+  index: -1
+light_16
+  rotate: true
+  xy: 616, 1585
+  size: 51, 55
+  orig: 54, 56
+  offset: 1, 0
+  index: -1
+light_18
+  rotate: true
+  xy: 331, 1598
+  size: 38, 47
+  orig: 39, 49
+  offset: 1, 1
+  index: -1
+light_2
+  rotate: true
+  xy: 169, 1599
+  size: 37, 38
+  orig: 44, 44
+  offset: 3, 3
+  index: -1
+light_3
+  rotate: false
+  xy: 209, 1599
+  size: 37, 37
+  orig: 42, 43
+  offset: 2, 3
+  index: -1
+light_4
+  rotate: true
+  xy: 126, 1600
+  size: 36, 41
+  orig: 42, 45
+  offset: 3, 2
+  index: -1
+light_5
+  rotate: true
+  xy: 466, 1594
+  size: 42, 45
+  orig: 48, 51
+  offset: 3, 3
+  index: -1
+light_6
+  rotate: false
+  xy: 513, 1592
+  size: 45, 44
+  orig: 50, 49
+  offset: 2, 2
+  index: -1
+light_7
+  rotate: true
+  xy: 421, 1595
+  size: 41, 43
+  orig: 46, 49
+  offset: 2, 3
+  index: -1
+light_8
+  rotate: false
+  xy: 380, 1597
+  size: 39, 39
+  orig: 45, 45
+  offset: 3, 3
+  index: -1
+light_9
+  rotate: false
+  xy: 289, 1598
+  size: 40, 38
+  orig: 44, 44
+  offset: 2, 2
+  index: -1
+moon
+  rotate: true
+  xy: 1039, 997
+  size: 242, 277
+  orig: 242, 278
+  offset: 0, 0
+  index: -1
+shine
+  rotate: true
+  xy: 1318, 945
+  size: 250, 338
+  orig: 259, 346
+  offset: 2, 3
+  index: -1
+snow/snow_00000
+  rotate: false
+  xy: 1820, 1362
+  size: 187, 163
+  orig: 211, 183
+  offset: 12, 10
+  index: -1
+snow/snow_00001
+  rotate: false
+  xy: 382, 1305
+  size: 189, 165
+  orig: 211, 183
+  offset: 11, 9
+  index: -1
+snow/snow_00002
+  rotate: false
+  xy: 573, 1288
+  size: 189, 165
+  orig: 211, 183
+  offset: 11, 9
+  index: -1
+snow/snow_00003
+  rotate: false
+  xy: 764, 1282
+  size: 191, 165
+  orig: 211, 183
+  offset: 10, 9
+  index: -1
+snow/snow_00004
+  rotate: false
+  xy: 0, 1322
+  size: 191, 163
+  orig: 211, 183
+  offset: 10, 10
+  index: -1
+snow/snow_00005
+  rotate: false
+  xy: 957, 1265
+  size: 191, 165
+  orig: 211, 183
+  offset: 10, 9
+  index: -1
+snow/snow_00006
+  rotate: false
+  xy: 374, 1137
+  size: 167, 166
+  orig: 211, 183
+  offset: 11, 9
+  index: -1
+snow/snow_00007
+  rotate: false
+  xy: 1653, 1364
+  size: 165, 165
+  orig: 211, 183
+  offset: 13, 10
+  index: -1
+snow/snow_00008
+  rotate: false
+  xy: 1150, 1241
+  size: 190, 165
+  orig: 211, 183
+  offset: 11, 9
+  index: -1
+snow/snow_00009
+  rotate: false
+  xy: 1342, 1222
+  size: 189, 165
+  orig: 211, 183
+  offset: 12, 9
+  index: -1
+snow/snow_00010
+  rotate: false
+  xy: 1533, 1197
+  size: 188, 165
+  orig: 211, 183
+  offset: 12, 9
+  index: -1
+snow/snow_00011
+  rotate: false
+  xy: 1723, 1195
+  size: 182, 165
+  orig: 211, 183
+  offset: 12, 9
+  index: -1
+snow/snow_00012
+  rotate: false
+  xy: 0, 1155
+  size: 183, 165
+  orig: 211, 183
+  offset: 14, 9
+  index: -1
+snow/snow_00013
+  rotate: false
+  xy: 185, 1149
+  size: 187, 165
+  orig: 211, 183
+  offset: 12, 9
+  index: -1
+snow/snow_00014
+  rotate: false
+  xy: 193, 1316
+  size: 187, 163
+  orig: 211, 183
+  offset: 12, 10
+  index: -1
+snowmen body
+  rotate: false
+  xy: 1658, 931
+  size: 285, 262
+  orig: 285, 262
+  offset: 0, 0
+  index: -1
+snowmen body_2
+  rotate: false
+  xy: 777, 1051
+  size: 260, 212
+  orig: 260, 231
+  offset: 0, 19
+  index: -1
+snowmen face
+  rotate: true
+  xy: 1475, 1389
+  size: 156, 176
+  orig: 156, 176
+  offset: 0, 0
+  index: -1
+snowmen face2
+  rotate: true
+  xy: 1305, 1408
+  size: 144, 168
+  orig: 144, 168
+  offset: 0, 0
+  index: -1
+snowmen stick
+  rotate: true
+  xy: 1703, 1531
+  size: 105, 119
+  orig: 105, 119
+  offset: 0, 0
+  index: -1
+stars/star_00000
+  rotate: false
+  xy: 1824, 1527
+  size: 172, 109
+  orig: 188, 119
+  offset: 8, 5
+  index: -1
+stars/star_00014
+  rotate: false
+  xy: 1824, 1527
+  size: 172, 109
+  orig: 188, 119
+  offset: 8, 5
+  index: -1
+stars/star_00002
+  rotate: false
+  xy: 0, 1488
+  size: 172, 109
+  orig: 188, 119
+  offset: 8, 5
+  index: -1
+stars/star_00004
+  rotate: false
+  xy: 174, 1487
+  size: 172, 109
+  orig: 188, 119
+  offset: 8, 5
+  index: -1
+stars/star_00006
+  rotate: false
+  xy: 348, 1481
+  size: 172, 109
+  orig: 188, 119
+  offset: 8, 5
+  index: -1
+stars/star_00008
+  rotate: false
+  xy: 522, 1472
+  size: 172, 109
+  orig: 188, 119
+  offset: 8, 5
+  index: -1
+stars/star_00010
+  rotate: false
+  xy: 696, 1455
+  size: 172, 109
+  orig: 188, 119
+  offset: 8, 5
+  index: -1
+stars/star_00012
+  rotate: false
+  xy: 870, 1449
+  size: 172, 109
+  orig: 188, 119
+  offset: 8, 5
+  index: -1
+
+swbx_freegame2.png
+size: 1777,999
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sky
+  rotate: false
+  xy: 0, 0
+  size: 1777, 999
+  orig: 1777, 999
+  offset: 0, 0
+  index: -1

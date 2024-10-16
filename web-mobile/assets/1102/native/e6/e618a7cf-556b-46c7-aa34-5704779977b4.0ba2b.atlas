@@ -1,0 +1,251 @@
+
+a5786e3a44c683741999a1134117c3cc.png
+size: 698,666
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_S10_overlay_01
+  rotate: false
+  xy: 418, 575
+  size: 136, 91
+  orig: 265, 265
+  offset: -4, -18
+  index: -1
+s_S10_overlay_30
+  rotate: false
+  xy: 418, 97
+  size: 138, 93
+  orig: 265, 265
+  offset: -3, -19
+  index: -1
+s_S10_overlay_09
+  rotate: false
+  xy: 280, 98
+  size: 137, 93
+  orig: 265, 265
+  offset: -2, -20
+  index: -1
+s_S10_overlay_02
+  rotate: false
+  xy: 418, 192
+  size: 137, 93
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S10_overlay_03
+  rotate: false
+  xy: 556, 573
+  size: 137, 93
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S10_overlay_04
+  rotate: false
+  xy: 279, 573
+  size: 137, 93
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S10_overlay_05
+  rotate: false
+  xy: 139, 3
+  size: 137, 93
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S10_overlay_06
+  rotate: false
+  xy: 279, 478
+  size: 137, 93
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S10_overlay_07
+  rotate: false
+  xy: 557, 192
+  size: 137, 93
+  orig: 265, 265
+  offset: -2, -20
+  index: -1
+s_S10_overlay_08
+  rotate: false
+  xy: 0, 574
+  size: 137, 92
+  orig: 265, 265
+  offset: -2, -20
+  index: -1
+s_S10_overlay_31
+  rotate: false
+  xy: 557, 478
+  size: 138, 93
+  orig: 265, 265
+  offset: -3, -19
+  index: -1
+s_S10_overlay_10
+  rotate: false
+  xy: 559, 383
+  size: 137, 93
+  orig: 265, 265
+  offset: -2, -20
+  index: -1
+s_S10_overlay_11
+  rotate: false
+  xy: 418, 287
+  size: 137, 94
+  orig: 265, 265
+  offset: -2, -20
+  index: -1
+s_S10_overlay_12
+  rotate: false
+  xy: 557, 287
+  size: 137, 94
+  orig: 265, 265
+  offset: -2, -20
+  index: -1
+s_S10_overlay_13
+  rotate: false
+  xy: 418, 2
+  size: 137, 93
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S10_overlay_14
+  rotate: false
+  xy: 279, 288
+  size: 137, 93
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S10_overlay_15
+  rotate: false
+  xy: 418, 478
+  size: 137, 93
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S10_overlay_16
+  rotate: false
+  xy: 0, 478
+  size: 137, 94
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S10_overlay_17
+  rotate: false
+  xy: 0, 3
+  size: 137, 93
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S10_overlay_18
+  rotate: false
+  xy: 0, 193
+  size: 137, 93
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S10_overlay_19
+  rotate: false
+  xy: 139, 193
+  size: 137, 93
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S10_overlay_20
+  rotate: false
+  xy: 0, 98
+  size: 138, 93
+  orig: 265, 265
+  offset: -3, -19
+  index: -1
+s_S10_overlay_21
+  rotate: false
+  xy: 139, 288
+  size: 138, 93
+  orig: 265, 265
+  offset: -3, -19
+  index: -1
+s_S10_overlay_22
+  rotate: false
+  xy: 279, 383
+  size: 138, 93
+  orig: 265, 265
+  offset: -3, -19
+  index: -1
+s_S10_overlay_23
+  rotate: false
+  xy: 278, 4
+  size: 138, 93
+  orig: 265, 265
+  offset: -3, -19
+  index: -1
+s_S10_overlay_24
+  rotate: false
+  xy: 140, 99
+  size: 138, 92
+  orig: 265, 265
+  offset: -3, -20
+  index: -1
+s_S10_overlay_25
+  rotate: false
+  xy: 558, 4
+  size: 138, 92
+  orig: 265, 265
+  offset: -3, -20
+  index: -1
+s_S10_overlay_26
+  rotate: false
+  xy: 139, 478
+  size: 138, 93
+  orig: 265, 265
+  offset: -3, -19
+  index: -1
+s_S10_overlay_27
+  rotate: false
+  xy: 0, 383
+  size: 137, 93
+  orig: 265, 265
+  offset: -3, -19
+  index: -1
+s_S10_overlay_28
+  rotate: false
+  xy: 558, 98
+  size: 138, 92
+  orig: 265, 265
+  offset: -3, -20
+  index: -1
+s_S10_overlay_29
+  rotate: false
+  xy: 139, 383
+  size: 138, 93
+  orig: 265, 265
+  offset: -3, -19
+  index: -1
+s_S10_overlay_32
+  rotate: false
+  xy: 419, 383
+  size: 138, 93
+  orig: 265, 265
+  offset: -3, -19
+  index: -1
+s_S10_overlay_33
+  rotate: false
+  xy: 139, 573
+  size: 138, 93
+  orig: 265, 265
+  offset: -3, -19
+  index: -1
+s_S10_overlay_34
+  rotate: false
+  xy: 278, 193
+  size: 138, 93
+  orig: 265, 265
+  offset: -3, -19
+  index: -1
+s_S10_overlay_35
+  rotate: false
+  xy: 0, 288
+  size: 137, 93
+  orig: 265, 265
+  offset: -3, -19
+  index: -1

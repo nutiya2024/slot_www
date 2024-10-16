@@ -1,0 +1,27 @@
+
+swbx_watermelon.png
+size: 387,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+file
+  rotate: false
+  xy: 0, 3
+  size: 160, 143
+  orig: 160, 143
+  offset: 0, 0
+  index: -1
+watermelon
+  rotate: false
+  xy: 162, 0
+  size: 151, 146
+  orig: 159, 158
+  offset: 0, 6
+  index: -1
+watermelon_ice
+  rotate: true
+  xy: 315, 35
+  size: 111, 72
+  orig: 111, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+swbx_grape.png
+size: 412,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+file
+  rotate: false
+  xy: 0, 0
+  size: 160, 143
+  orig: 160, 143
+  offset: 0, 0
+  index: -1
+grape
+  rotate: true
+  xy: 162, 11
+  size: 132, 122
+  orig: 132, 122
+  offset: 0, 0
+  index: -1
+grape_ice
+  rotate: false
+  xy: 286, 2
+  size: 103, 65
+  orig: 103, 65
+  offset: 0, 0
+  index: -1
+grape_leaf
+  rotate: false
+  xy: 286, 69
+  size: 126, 74
+  orig: 126, 74
+  offset: 0, 0
+  index: -1

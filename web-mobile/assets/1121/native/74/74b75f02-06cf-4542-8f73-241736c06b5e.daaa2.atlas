@@ -1,0 +1,62 @@
+
+frame.png
+size: 1058,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_Frame_0_p0
+  rotate: false
+  xy: 422, 4
+  size: 210, 165
+  orig: 211, 165
+  offset: 0, 0
+  index: -1
+s_Frame_1_p0
+  rotate: false
+  xy: 634, 4
+  size: 209, 165
+  orig: 210, 165
+  offset: 1, 0
+  index: -1
+s_Frame_2_p0
+  rotate: false
+  xy: 845, 5
+  size: 105, 164
+  orig: 105, 165
+  offset: 0, 1
+  index: -1
+s_Frame_2_p1
+  rotate: true
+  xy: 1005, 33
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+s_Frame_2_p2
+  rotate: false
+  xy: 952, 1
+  size: 51, 84
+  orig: 51, 84
+  offset: 0, 0
+  index: -1
+s_Frame_2_p3
+  rotate: false
+  xy: 952, 87
+  size: 102, 82
+  orig: 102, 82
+  offset: 0, 0
+  index: -1
+s_Frame_3_p0
+  rotate: false
+  xy: 211, 2
+  size: 209, 167
+  orig: 210, 167
+  offset: 1, 0
+  index: -1
+s_Frame_4_p0
+  rotate: false
+  xy: 0, 0
+  size: 209, 169
+  orig: 210, 169
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,152 @@
+
+win_character.png
+size: 2047,1962
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin_01.pn
+  rotate: false
+  xy: 2, 544
+  size: 732, 447
+  orig: 732, 447
+  offset: 0, 0
+  index: -1
+bigwin_02.pn
+  rotate: false
+  xy: 1481, 1720
+  size: 449, 240
+  orig: 449, 240
+  offset: 0, 0
+  index: -1
+bigwin_character.pn
+  rotate: false
+  xy: 1373, 789
+  size: 589, 527
+  orig: 589, 527
+  offset: 0, 0
+  index: -1
+bw_vfx_a_screen_01.pn
+  rotate: true
+  xy: 1431, 1318
+  size: 400, 424
+  orig: 400, 424
+  offset: 0, 0
+  index: -1
+bw_vfx_a_screen_02.pn
+  rotate: true
+  xy: 2, 1181
+  size: 400, 424
+  orig: 400, 424
+  offset: 0, 0
+  index: -1
+bw_vfx_a_screen_03.pn
+  rotate: true
+  xy: 428, 993
+  size: 400, 424
+  orig: 400, 424
+  offset: 0, 0
+  index: -1
+bw_vfx_b_screen_01.pn
+  rotate: false
+  xy: 453, 1503
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+bw_vfx_b_screen_02.pn
+  rotate: false
+  xy: 779, 1395
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+bw_vfx_c_screen_01.pn
+  rotate: true
+  xy: 736, 348
+  size: 540, 572
+  orig: 540, 572
+  offset: 0, 0
+  index: -1
+bw_vfx_c_screen_02.pn
+  rotate: true
+  xy: 2, 2
+  size: 540, 572
+  orig: 540, 572
+  offset: 0, 0
+  index: -1
+bw_vfx_d_add.pn
+  rotate: false
+  xy: 1105, 1395
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+bw_vfx_f_screen.pn
+  rotate: false
+  xy: 817, 1721
+  size: 662, 239
+  orig: 662, 239
+  offset: 0, 0
+  index: -1
+megawin_01.pn
+  rotate: false
+  xy: 1310, 317
+  size: 735, 470
+  orig: 735, 470
+  offset: 0, 0
+  index: -1
+megawin_02.pn
+  rotate: true
+  xy: 435, 1829
+  size: 131, 380
+  orig: 131, 380
+  offset: 0, 0
+  index: -1
+megawin_character.pn
+  rotate: false
+  xy: 854, 890
+  size: 517, 503
+  orig: 517, 503
+  offset: 0, 0
+  index: -1
+supermegawin_02.pn
+  rotate: true
+  xy: 2, 1843
+  size: 117, 431
+  orig: 117, 431
+  offset: 0, 0
+  index: -1
+supermegawin_03.pn
+  rotate: false
+  xy: 2, 1583
+  size: 449, 244
+  orig: 449, 244
+  offset: 0, 0
+  index: -1
+
+win_character2.png
+size: 1906,752
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_vfx_c_screen_03.pn
+  rotate: false
+  xy: 1364, 178
+  size: 540, 572
+  orig: 540, 572
+  offset: 0, 0
+  index: -1
+supermegawin_01.pn
+  rotate: true
+  xy: 835, 2
+  size: 748, 527
+  orig: 748, 527
+  offset: 0, 0
+  index: -1
+supermegawin_character.pn
+  rotate: true
+  xy: 2, 61
+  size: 689, 831
+  orig: 689, 831
+  offset: 0, 0
+  index: -1

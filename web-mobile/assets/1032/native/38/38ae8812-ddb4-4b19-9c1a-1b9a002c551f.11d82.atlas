@@ -1,0 +1,286 @@
+
+11_MiningLeave.png
+size: 279,932
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B1_cabin_L
+  rotate: false
+  xy: 2, 720
+  size: 239, 210
+  orig: 239, 210
+  offset: 0, 0
+  index: -1
+B1_cabin_L_Shader
+  rotate: true
+  xy: 269, 167
+  size: 100, 8
+  orig: 100, 8
+  offset: 0, 0
+  index: -1
+B2_cabin_middle
+  rotate: true
+  xy: 2, 524
+  size: 194, 208
+  orig: 194, 208
+  offset: 0, 0
+  index: -1
+Block_01_collar_T
+  rotate: true
+  xy: 243, 822
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+Block_02_head_front
+  rotate: false
+  xy: 119, 173
+  size: 41, 79
+  orig: 41, 79
+  offset: 0, 0
+  index: -1
+Block_03_head_Real_open
+  rotate: true
+  xy: 2, 88
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+Block_04_head_Real_open teeth
+  rotate: true
+  xy: 148, 355
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Block_05_head_Real_bite
+  rotate: false
+  xy: 235, 56
+  size: 41, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+Block_07_foot_L_shoe
+  rotate: false
+  xy: 218, 2
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Block_08_foot_L_Calf
+  rotate: true
+  xy: 72, 21
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+Block_09_foot_L_thigh
+  rotate: false
+  xy: 212, 595
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+Block_10_foot_R
+  rotate: false
+  xy: 212, 457
+  size: 62, 136
+  orig: 62, 136
+  offset: 0, 0
+  index: -1
+Block_11_body
+  rotate: true
+  xy: 2, 254
+  size: 129, 144
+  orig: 129, 144
+  offset: 0, 0
+  index: -1
+Block_12_body_arm_L
+  rotate: true
+  xy: 2, 182
+  size: 70, 115
+  orig: 70, 122
+  offset: 0, 7
+  index: -1
+Block_13_body_arm_R
+  rotate: true
+  xy: 165, 269
+  size: 70, 111
+  orig: 70, 111
+  offset: 0, 0
+  index: -1
+Fire_00
+  rotate: false
+  xy: 172, 428
+  size: 102, 27
+  orig: 102, 27
+  offset: 0, 0
+  index: -1
+Fire_05
+  rotate: false
+  xy: 172, 428
+  size: 102, 27
+  orig: 102, 27
+  offset: 0, 0
+  index: -1
+Fire_01
+  rotate: false
+  xy: 172, 399
+  size: 102, 27
+  orig: 102, 27
+  offset: 0, 0
+  index: -1
+Fire_02
+  rotate: false
+  xy: 172, 370
+  size: 102, 27
+  orig: 102, 27
+  offset: 0, 0
+  index: -1
+Fire_03
+  rotate: false
+  xy: 171, 341
+  size: 102, 27
+  orig: 102, 27
+  offset: 0, 0
+  index: -1
+Fire_08
+  rotate: false
+  xy: 171, 341
+  size: 102, 27
+  orig: 102, 27
+  offset: 0, 0
+  index: -1
+Fire_04
+  rotate: false
+  xy: 165, 240
+  size: 102, 27
+  orig: 102, 27
+  offset: 0, 0
+  index: -1
+Fire_09
+  rotate: false
+  xy: 165, 240
+  size: 102, 27
+  orig: 102, 27
+  offset: 0, 0
+  index: -1
+Fire_06
+  rotate: false
+  xy: 162, 211
+  size: 102, 27
+  orig: 102, 27
+  offset: 0, 0
+  index: -1
+Fire_07
+  rotate: false
+  xy: 162, 182
+  size: 102, 27
+  orig: 102, 27
+  offset: 0, 0
+  index: -1
+panic01_hand_L
+  rotate: true
+  xy: 243, 719
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+panic02_hand_R
+  rotate: true
+  xy: 243, 770
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+panic03_cap_L_T
+  rotate: true
+  xy: 172, 478
+  size: 44, 32
+  orig: 44, 34
+  offset: 0, 2
+  index: -1
+panic04_face_L_1
+  rotate: true
+  xy: 160, 80
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+panic05_face_L_2
+  rotate: true
+  xy: 81, 122
+  size: 49, 77
+  orig: 49, 78
+  offset: 0, 1
+  index: -1
+panic06_cap_L_B
+  rotate: true
+  xy: 148, 310
+  size: 43, 15
+  orig: 43, 15
+  offset: 0, 0
+  index: -1
+panic07_cap_R_T
+  rotate: true
+  xy: 243, 886
+  size: 44, 33
+  orig: 44, 34
+  offset: 0, 1
+  index: -1
+panic08_face_R_1
+  rotate: true
+  xy: 2, 130
+  size: 50, 77
+  orig: 50, 80
+  offset: 0, 3
+  index: -1
+panic09_face_R_2
+  rotate: true
+  xy: 162, 131
+  size: 49, 78
+  orig: 49, 79
+  offset: 0, 1
+  index: -1
+panic10_cap_R_B
+  rotate: true
+  xy: 148, 266
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+panic11_foot_R
+  rotate: true
+  xy: 212, 667
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+panic12_foot_L
+  rotate: true
+  xy: 150, 21
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+panic13_body
+  rotate: true
+  xy: 2, 385
+  size: 137, 168
+  orig: 137, 168
+  offset: 0, 0
+  index: -1
+panic14_arm_L
+  rotate: false
+  xy: 80, 68
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+panic15_arm_R
+  rotate: false
+  xy: 2, 34
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1

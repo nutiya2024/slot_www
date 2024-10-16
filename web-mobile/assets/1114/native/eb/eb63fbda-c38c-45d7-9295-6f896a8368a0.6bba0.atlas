@@ -1,0 +1,27 @@
+
+guang2.png
+size: 322,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light_01
+  rotate: false
+  xy: 258, 66
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+WinMore_LT_09
+  rotate: true
+  xy: 143, 15
+  size: 115, 113
+  orig: 117, 115
+  offset: 1, 1
+  index: -1
+shinning_light
+  rotate: false
+  xy: 0, 0
+  size: 141, 130
+  orig: 142, 133
+  offset: 0, 2
+  index: -1

@@ -1,0 +1,118 @@
+
+fastspin_vfx_a_screen.png
+size: 1980,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fastspin_vfx_a_screen_00.pn
+  rotate: true
+  xy: 1112, 2
+  size: 135, 110
+  orig: 135, 300
+  offset: 0, 95
+  index: -1
+fastspin_vfx_a_screen_01.pn
+  rotate: true
+  xy: 1446, 2
+  size: 135, 106
+  orig: 135, 300
+  offset: 0, 97
+  index: -1
+fastspin_vfx_a_screen_02.pn
+  rotate: true
+  xy: 1336, 2
+  size: 135, 108
+  orig: 135, 300
+  offset: 0, 96
+  index: -1
+fastspin_vfx_a_screen_03.pn
+  rotate: true
+  xy: 1770, 2
+  size: 135, 104
+  orig: 135, 300
+  offset: 0, 98
+  index: -1
+fastspin_vfx_a_screen_04.pn
+  rotate: true
+  xy: 1876, 2
+  size: 135, 102
+  orig: 135, 300
+  offset: 0, 99
+  index: -1
+fastspin_vfx_a_screen_05.pn
+  rotate: true
+  xy: 1554, 2
+  size: 135, 106
+  orig: 135, 300
+  offset: 0, 97
+  index: -1
+fastspin_vfx_a_screen_06.pn
+  rotate: true
+  xy: 1662, 2
+  size: 135, 106
+  orig: 135, 300
+  offset: 0, 97
+  index: -1
+fastspin_vfx_a_screen_07.pn
+  rotate: true
+  xy: 2, 29
+  size: 108, 300
+  orig: 135, 300
+  offset: 16, 0
+  index: -1
+fastspin_vfx_a_screen_08.pn
+  rotate: true
+  xy: 1224, 2
+  size: 135, 110
+  orig: 135, 300
+  offset: 0, 95
+  index: -1
+fastspin_vfx_a_screen_09.pn
+  rotate: true
+  xy: 998, 2
+  size: 135, 112
+  orig: 135, 300
+  offset: 0, 94
+  index: -1
+fastspin_vfx_a_screen_10.pn
+  rotate: true
+  xy: 304, 2
+  size: 135, 114
+  orig: 135, 300
+  offset: 0, 93
+  index: -1
+fastspin_vfx_a_screen_11.pn
+  rotate: true
+  xy: 420, 2
+  size: 135, 114
+  orig: 135, 300
+  offset: 0, 93
+  index: -1
+fastspin_vfx_a_screen_12.pn
+  rotate: true
+  xy: 536, 2
+  size: 135, 114
+  orig: 135, 300
+  offset: 0, 93
+  index: -1
+fastspin_vfx_a_screen_13.pn
+  rotate: true
+  xy: 652, 2
+  size: 135, 114
+  orig: 135, 300
+  offset: 0, 93
+  index: -1
+fastspin_vfx_a_screen_14.pn
+  rotate: true
+  xy: 768, 2
+  size: 135, 114
+  orig: 135, 300
+  offset: 0, 93
+  index: -1
+fastspin_vfx_a_screen_15.pn
+  rotate: true
+  xy: 884, 2
+  size: 135, 112
+  orig: 135, 300
+  offset: 0, 94
+  index: -1

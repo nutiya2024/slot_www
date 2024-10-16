@@ -1,0 +1,132 @@
+
+shengdanlaoren.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beibao
+  rotate: false
+  xy: 1, 903
+  size: 1110, 1076
+  orig: 1110, 1076
+  offset: 0, 0
+  index: -1
+hongdai
+  rotate: false
+  xy: 654, 161
+  size: 234, 230
+  orig: 234, 230
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: true
+  xy: 1221, 88
+  size: 336, 498
+  orig: 336, 498
+  offset: 0, 0
+  index: -1
+huzi_1
+  rotate: true
+  xy: 1849, 1496
+  size: 198, 73
+  orig: 198, 73
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 1, 283
+  size: 316, 289
+  orig: 327, 289
+  offset: 0, 0
+  index: -1
+lihe
+  rotate: false
+  xy: 616, 668
+  size: 300, 234
+  orig: 300, 234
+  offset: 0, 0
+  index: -1
+maizi
+  rotate: false
+  xy: 291, 302
+  size: 362, 267
+  orig: 362, 267
+  offset: 0, 0
+  index: -1
+maizi_3
+  rotate: true
+  xy: 320, 570
+  size: 332, 295
+  orig: 332, 295
+  offset: 0, 0
+  index: -1
+maozi_4
+  rotate: false
+  xy: 291, 43
+  size: 228, 258
+  orig: 228, 258
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1112, 931
+  size: 736, 1048
+  orig: 736, 1076
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 1720, 1
+  size: 250, 92
+  orig: 253, 96
+  offset: 2, 3
+  index: -1
+yanjingyingzi
+  rotate: true
+  xy: 1849, 1282
+  size: 213, 64
+  orig: 213, 64
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 1112, 392
+  size: 538, 108
+  orig: 538, 108
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 1221, 425
+  size: 346, 505
+  orig: 346, 505
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 1849, 1695
+  size: 284, 172
+  orig: 284, 172
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 1, 600
+  size: 302, 318
+  orig: 302, 318
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 1568, 440
+  size: 282, 490
+  orig: 282, 490
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1720, 94
+  size: 310, 345
+  orig: 310, 345
+  offset: 0, 0
+  index: -1

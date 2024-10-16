@@ -1,0 +1,139 @@
+
+s_wild_b_atlas_symbols.png
+size: 1093,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_w_7_L
+  rotate: true
+  xy: 873, 9
+  size: 32, 41
+  orig: 34, 43
+  offset: 1, 1
+  index: -1
+s_w_7_M
+  rotate: true
+  xy: 829, 9
+  size: 32, 42
+  orig: 34, 44
+  offset: 1, 1
+  index: -1
+s_w_7_R
+  rotate: true
+  xy: 916, 9
+  size: 32, 41
+  orig: 34, 43
+  offset: 1, 1
+  index: -1
+s_w_bg
+  rotate: true
+  xy: 580, 43
+  size: 160, 421
+  orig: 160, 604
+  offset: 0, 148
+  index: -1
+s_w_frame_L
+  rotate: true
+  xy: 237, 16
+  size: 12, 555
+  orig: 12, 555
+  offset: 0, 0
+  index: -1
+s_w_frame_R
+  rotate: true
+  xy: 237, 2
+  size: 12, 555
+  orig: 12, 555
+  offset: 0, 0
+  index: -1
+s_w_frame_bot
+  rotate: true
+  xy: 110, 27
+  size: 176, 41
+  orig: 176, 41
+  offset: 0, 0
+  index: -1
+s_w_frame_top
+  rotate: true
+  xy: 153, 27
+  size: 176, 41
+  orig: 176, 41
+  offset: 0, 0
+  index: -1
+s_w_fx_lights01
+  rotate: true
+  xy: 1003, 46
+  size: 157, 27
+  orig: 157, 27
+  offset: 0, 0
+  index: -1
+s_w_fx_lights02
+  rotate: false
+  xy: 959, 14
+  size: 125, 27
+  orig: 125, 27
+  offset: 0, 0
+  index: -1
+s_w_handle
+  rotate: false
+  xy: 794, 7
+  size: 33, 34
+  orig: 35, 36
+  offset: 1, 1
+  index: -1
+s_w_handle2
+  rotate: true
+  xy: 191, 11
+  size: 14, 44
+  orig: 16, 46
+  offset: 1, 1
+  index: -1
+s_w_handle3
+  rotate: true
+  xy: 141, 9
+  size: 16, 11
+  orig: 18, 13
+  offset: 1, 1
+  index: -1
+s_w_handle4
+  rotate: true
+  xy: 110, 7
+  size: 18, 29
+  orig: 20, 31
+  offset: 1, 1
+  index: -1
+s_w_machine
+  rotate: true
+  xy: 196, 30
+  size: 173, 227
+  orig: 173, 376
+  offset: 0, 149
+  index: -1
+s_w_multiply
+  rotate: true
+  xy: 1032, 65
+  size: 138, 59
+  orig: 138, 59
+  offset: 0, 0
+  index: -1
+s_w_ray
+  rotate: true
+  xy: 425, 34
+  size: 169, 153
+  orig: 169, 221
+  offset: 0, 0
+  index: -1
+s_w_reel
+  rotate: false
+  xy: 154, 10
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+s_w_wild
+  rotate: true
+  xy: 2, 11
+  size: 192, 106
+  orig: 200, 112
+  offset: 4, 3
+  index: -1

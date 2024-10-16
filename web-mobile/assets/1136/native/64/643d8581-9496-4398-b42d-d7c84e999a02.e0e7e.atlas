@@ -1,0 +1,258 @@
+
+stpr_lv1.png
+size: 2017,681
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 0, 182
+  size: 216, 231
+  orig: 216, 231
+  offset: 0, 0
+  index: -1
+hit_00018
+  rotate: true
+  xy: 0, 415
+  size: 266, 253
+  orig: 266, 253
+  offset: 0, 0
+  index: -1
+particle_00000
+  rotate: true
+  xy: 1867, 552
+  size: 129, 150
+  orig: 160, 167
+  offset: 14, 9
+  index: -1
+particle_00002
+  rotate: true
+  xy: 1858, 35
+  size: 131, 151
+  orig: 160, 167
+  offset: 13, 9
+  index: -1
+particle_00004
+  rotate: false
+  xy: 1704, 145
+  size: 152, 122
+  orig: 167, 160
+  offset: 8, 24
+  index: -1
+particle_00006
+  rotate: false
+  xy: 1867, 168
+  size: 146, 124
+  orig: 167, 160
+  offset: 10, 22
+  index: -1
+particle_00008
+  rotate: true
+  xy: 1867, 294
+  size: 126, 148
+  orig: 160, 167
+  offset: 14, 9
+  index: -1
+particle_00010
+  rotate: false
+  xy: 1867, 422
+  size: 149, 128
+  orig: 167, 160
+  offset: 9, 18
+  index: -1
+rays_00000
+  rotate: false
+  xy: 1043, 233
+  size: 215, 222
+  orig: 327, 350
+  offset: 57, 71
+  index: -1
+rays_00002
+  rotate: false
+  xy: 678, 0
+  size: 215, 224
+  orig: 327, 350
+  offset: 57, 70
+  index: -1
+rays_00004
+  rotate: false
+  xy: 826, 230
+  size: 215, 224
+  orig: 327, 350
+  offset: 57, 69
+  index: -1
+rays_00006
+  rotate: false
+  xy: 1051, 459
+  size: 215, 222
+  orig: 327, 350
+  offset: 57, 72
+  index: -1
+rays_00008
+  rotate: false
+  xy: 1464, 243
+  size: 214, 217
+  orig: 327, 350
+  offset: 57, 73
+  index: -1
+rays_00009
+  rotate: false
+  xy: 1268, 462
+  size: 215, 219
+  orig: 327, 350
+  offset: 57, 72
+  index: -1
+shadow
+  rotate: false
+  xy: 1704, 30
+  size: 107, 113
+  orig: 107, 113
+  offset: 0, 0
+  index: -1
+snow
+  rotate: true
+  xy: 1690, 487
+  size: 194, 89
+  orig: 194, 89
+  offset: 0, 0
+  index: -1
+snow_drop
+  rotate: false
+  xy: 332, 3
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+snowfall_0111
+  rotate: false
+  xy: 255, 417
+  size: 31, 33
+  orig: 211, 241
+  offset: 30, 207
+  index: -1
+snowfall_01110
+  rotate: false
+  xy: 1485, 467
+  size: 203, 214
+  orig: 211, 241
+  offset: 2, 12
+  index: -1
+snowfall_01111
+  rotate: false
+  xy: 1260, 237
+  size: 202, 220
+  orig: 211, 241
+  offset: 4, 6
+  index: -1
+snowfall_01112
+  rotate: false
+  xy: 851, 457
+  size: 198, 224
+  orig: 211, 241
+  offset: 8, 2
+  index: -1
+snowfall_01113
+  rotate: false
+  xy: 649, 456
+  size: 200, 225
+  orig: 211, 241
+  offset: 7, 1
+  index: -1
+snowfall_01114
+  rotate: false
+  xy: 1296, 17
+  size: 201, 218
+  orig: 211, 241
+  offset: 6, 8
+  index: -1
+snowfall_01115
+  rotate: true
+  xy: 1098, 10
+  size: 221, 196
+  orig: 241, 211
+  offset: 15, 6
+  index: -1
+snowfall_0112
+  rotate: false
+  xy: 421, 222
+  size: 199, 228
+  orig: 211, 241
+  offset: 6, 9
+  index: -1
+snowfall_0113
+  rotate: false
+  xy: 218, 182
+  size: 201, 231
+  orig: 211, 241
+  offset: 6, 2
+  index: -1
+snowfall_0114
+  rotate: false
+  xy: 474, 0
+  size: 202, 220
+  orig: 211, 241
+  offset: 5, 7
+  index: -1
+snowfall_0115
+  rotate: false
+  xy: 895, 5
+  size: 201, 223
+  orig: 211, 241
+  offset: 5, 3
+  index: -1
+snowfall_0116
+  rotate: false
+  xy: 448, 453
+  size: 199, 228
+  orig: 211, 241
+  offset: 4, 5
+  index: -1
+snowfall_0117
+  rotate: false
+  xy: 255, 452
+  size: 191, 229
+  orig: 211, 241
+  offset: 3, 1
+  index: -1
+snowfall_0118
+  rotate: false
+  xy: 622, 226
+  size: 202, 225
+  orig: 211, 241
+  offset: 2, 1
+  index: -1
+snowfall_0119
+  rotate: false
+  xy: 1499, 32
+  size: 203, 209
+  orig: 211, 241
+  offset: 2, 17
+  index: -1
+star_spk
+  rotate: true
+  xy: 145, 8
+  size: 172, 185
+  orig: 172, 185
+  offset: 0, 0
+  index: -1
+sweep_00000
+  rotate: false
+  xy: 332, 17
+  size: 140, 163
+  orig: 302, 323
+  offset: 45, 55
+  index: -1
+sweep_00001
+  rotate: true
+  xy: 1680, 269
+  size: 196, 185
+  orig: 302, 323
+  offset: 47, 72
+  index: -1
+sweep_00002
+  rotate: true
+  xy: 0, 7
+  size: 173, 143
+  orig: 302, 323
+  offset: 83, 114
+  index: -1

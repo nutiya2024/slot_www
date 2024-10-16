@@ -1,0 +1,13 @@
+
+l_a_atlas_symbols.png
+size: 156,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_a
+  rotate: false
+  xy: 2, 2
+  size: 152, 173
+  orig: 154, 175
+  offset: 1, 1
+  index: -1

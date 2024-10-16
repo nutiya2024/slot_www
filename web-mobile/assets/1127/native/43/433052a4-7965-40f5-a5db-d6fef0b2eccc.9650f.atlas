@@ -1,0 +1,104 @@
+
+h_lady_a_atlas_symbols.png
+size: 235,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_g_body
+  rotate: false
+  xy: 152, 215
+  size: 81, 52
+  orig: 176, 510
+  offset: 51, 458
+  index: -1
+h_g_ear_L
+  rotate: true
+  xy: 115, 2
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+h_g_earing
+  rotate: true
+  xy: 73, 6
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+h_g_earing_R
+  rotate: false
+  xy: 204, 3
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+h_g_earing_sha
+  rotate: true
+  xy: 155, 3
+  size: 21, 24
+  orig: 26, 31
+  offset: 3, 4
+  index: -1
+h_g_eye_L
+  rotate: false
+  xy: 50, 4
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+h_g_eye_R
+  rotate: true
+  xy: 36, 3
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+h_g_eyelid_L
+  rotate: false
+  xy: 2, 2
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+h_g_fx_glitter
+  rotate: false
+  xy: 181, 3
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+h_g_hair_L
+  rotate: false
+  xy: 2, 23
+  size: 111, 143
+  orig: 118, 239
+  offset: 7, 96
+  index: -1
+h_g_hair_R
+  rotate: true
+  xy: 2, 168
+  size: 99, 148
+  orig: 100, 188
+  offset: 0, 40
+  index: -1
+h_g_hair_back_L
+  rotate: true
+  xy: 152, 174
+  size: 39, 74
+  orig: 39, 103
+  offset: 0, 29
+  index: -1
+h_g_hair_back_R
+  rotate: true
+  xy: 115, 26
+  size: 51, 113
+  orig: 51, 136
+  offset: 0, 23
+  index: -1
+h_g_head
+  rotate: true
+  xy: 115, 79
+  size: 87, 117
+  orig: 87, 121
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+S06.png
+size: 662,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S06_2_split/blue/gem
+  rotate: true
+  xy: 533, 91
+  size: 129, 127
+  orig: 129, 132
+  offset: 0, 0
+  index: -1
+S06_2_split/blue/glow_light_02
+  rotate: false
+  xy: 314, 34
+  size: 15, 15
+  orig: 39, 23
+  offset: 12, 4
+  index: -1
+S06_2_split/blue/ring_shadow
+  rotate: true
+  xy: 391, 3
+  size: 75, 161
+  orig: 75, 161
+  offset: 0, 0
+  index: -1
+S06_3_split/cyan/glow_light_01
+  rotate: false
+  xy: 246, 2
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+S06_split/red/glow_star
+  rotate: false
+  xy: 391, 80
+  size: 140, 140
+  orig: 150, 148
+  offset: 4, 2
+  index: -1
+S06_split/red/ring_bottom
+  rotate: true
+  xy: 246, 51
+  size: 169, 143
+  orig: 186, 143
+  offset: 0, 0
+  index: -1
+S06_split/red/ring_top
+  rotate: true
+  xy: 2, 2
+  size: 218, 242
+  orig: 218, 242
+  offset: 0, 0
+  index: -1

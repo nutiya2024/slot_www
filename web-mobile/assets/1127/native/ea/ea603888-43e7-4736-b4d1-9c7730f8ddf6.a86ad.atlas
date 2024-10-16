@@ -1,0 +1,13 @@
+
+l_k_c_atlas_symbols.png
+size: 128,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_k_front
+  rotate: false
+  xy: 2, 2
+  size: 124, 153
+  orig: 177, 214
+  offset: 26, 31
+  index: -1

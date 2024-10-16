@@ -1,0 +1,55 @@
+
+guang.png
+size: 678,678
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: false
+  xy: 398, 278
+  size: 280, 400
+  orig: 298, 413
+  offset: 8, 6
+  index: -1
+g2
+  rotate: false
+  xy: 0, 116
+  size: 396, 562
+  orig: 420, 577
+  offset: 13, 7
+  index: -1
+g_s000
+  rotate: false
+  xy: 457, 71
+  size: 119, 33
+  orig: 119, 94
+  offset: 0, 2
+  index: -1
+g_s001
+  rotate: true
+  xy: 398, 90
+  size: 119, 57
+  orig: 119, 94
+  offset: 0, 13
+  index: -1
+g_s002
+  rotate: false
+  xy: 398, 211
+  size: 119, 65
+  orig: 119, 94
+  offset: 0, 15
+  index: -1
+g_s003
+  rotate: true
+  xy: 457, 106
+  size: 103, 56
+  orig: 119, 94
+  offset: 6, 14
+  index: -1
+gxx1
+  rotate: false
+  xy: 519, 172
+  size: 91, 104
+  orig: 93, 112
+  offset: 0, 4
+  index: -1

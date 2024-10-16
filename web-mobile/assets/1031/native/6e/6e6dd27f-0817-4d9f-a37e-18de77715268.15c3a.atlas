@@ -1,0 +1,104 @@
+
+Spine_Book.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 690, 733
+  size: 281, 281
+  orig: 281, 281
+  offset: 0, 0
+  index: -1
+BallGlow
+  rotate: false
+  xy: 696, 481
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+BookLight
+  rotate: false
+  xy: 2, 610
+  size: 485, 216
+  orig: 485, 216
+  offset: 0, 0
+  index: -1
+Eff_01
+  rotate: false
+  xy: 2, 224
+  size: 288, 384
+  orig: 288, 384
+  offset: 0, 0
+  index: -1
+Eff_03
+  rotate: false
+  xy: 292, 224
+  size: 288, 384
+  orig: 288, 384
+  offset: 0, 0
+  index: -1
+L1
+  rotate: false
+  xy: 489, 726
+  size: 194, 100
+  orig: 194, 100
+  offset: 0, 0
+  index: -1
+L2
+  rotate: false
+  xy: 2, 2
+  size: 143, 76
+  orig: 143, 76
+  offset: 0, 0
+  index: -1
+L3
+  rotate: false
+  xy: 147, 15
+  size: 156, 63
+  orig: 156, 63
+  offset: 0, 0
+  index: -1
+L4
+  rotate: true
+  xy: 948, 566
+  size: 165, 48
+  orig: 165, 48
+  offset: 0, 0
+  index: -1
+L5
+  rotate: true
+  xy: 973, 835
+  size: 179, 37
+  orig: 179, 37
+  offset: 0, 0
+  index: -1
+R1
+  rotate: false
+  xy: 304, 115
+  size: 220, 107
+  orig: 220, 107
+  offset: 0, 0
+  index: -1
+R2
+  rotate: false
+  xy: 489, 637
+  size: 205, 87
+  orig: 205, 87
+  offset: 0, 0
+  index: -1
+book
+  rotate: false
+  xy: 2, 828
+  size: 686, 186
+  orig: 686, 186
+  offset: 0, 0
+  index: -1
+bookRay
+  rotate: false
+  xy: 2, 80
+  size: 300, 142
+  orig: 300, 142
+  offset: 0, 0
+  index: -1

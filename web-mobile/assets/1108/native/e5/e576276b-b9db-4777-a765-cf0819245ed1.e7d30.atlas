@@ -1,0 +1,27 @@
+
+x2.png
+size: 131,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eft2_p001
+  rotate: false
+  xy: 0, 0
+  size: 93, 93
+  orig: 100, 100
+  offset: 4, 3
+  index: -1
+eft2_p002
+  rotate: false
+  xy: 52, 95
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+eft2_p004
+  rotate: false
+  xy: 0, 104
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1

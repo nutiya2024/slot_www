@@ -1,0 +1,132 @@
+
+S02_multiplier.png
+size: 708,706
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2x
+  rotate: false
+  xy: 448, 554
+  size: 183, 152
+  orig: 183, 152
+  offset: 0, 0
+  index: -1
+3x
+  rotate: false
+  xy: 259, 557
+  size: 187, 149
+  orig: 187, 149
+  offset: 0, 0
+  index: -1
+particles/particles_004
+  rotate: false
+  xy: 153, 426
+  size: 101, 21
+  orig: 101, 21
+  offset: 0, 0
+  index: -1
+particles/particles_006
+  rotate: true
+  xy: 633, 600
+  size: 106, 51
+  orig: 106, 51
+  offset: 0, 0
+  index: -1
+particles/particles_008
+  rotate: true
+  xy: 0, 6
+  size: 82, 113
+  orig: 82, 113
+  offset: 0, 0
+  index: -1
+particles/particles_010
+  rotate: true
+  xy: 153, 4
+  size: 112, 116
+  orig: 112, 116
+  offset: 0, 0
+  index: -1
+particles/particles_012
+  rotate: false
+  xy: 576, 414
+  size: 132, 138
+  orig: 132, 138
+  offset: 0, 0
+  index: -1
+particles/particles_014
+  rotate: false
+  xy: 569, 134
+  size: 134, 138
+  orig: 134, 138
+  offset: 0, 0
+  index: -1
+particles/particles_016
+  rotate: true
+  xy: 153, 118
+  size: 154, 140
+  orig: 154, 140
+  offset: 0, 0
+  index: -1
+particles/particles_018
+  rotate: false
+  xy: 464, 274
+  size: 154, 138
+  orig: 154, 138
+  offset: 0, 0
+  index: -1
+particles/particles_020
+  rotate: false
+  xy: 307, 279
+  size: 155, 138
+  orig: 155, 138
+  offset: 0, 0
+  index: -1
+particles/particles_022
+  rotate: false
+  xy: 259, 420
+  size: 157, 135
+  orig: 157, 135
+  offset: 0, 0
+  index: -1
+particles/particles_024
+  rotate: true
+  xy: 295, 115
+  size: 157, 128
+  orig: 157, 128
+  offset: 0, 0
+  index: -1
+particles/particles_026
+  rotate: false
+  xy: 418, 419
+  size: 156, 133
+  orig: 156, 133
+  offset: 0, 0
+  index: -1
+particles/particles_028
+  rotate: false
+  xy: 425, 134
+  size: 142, 138
+  orig: 142, 138
+  offset: 0, 0
+  index: -1
+particles/particles_030
+  rotate: false
+  xy: 153, 274
+  size: 152, 144
+  orig: 152, 144
+  offset: 0, 0
+  index: -1
+text_glow
+  rotate: false
+  xy: 0, 449
+  size: 257, 257
+  orig: 257, 257
+  offset: 0, 0
+  index: -1
+wild_text
+  rotate: true
+  xy: 0, 90
+  size: 357, 151
+  orig: 357, 151
+  offset: 0, 0
+  index: -1

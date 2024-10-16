@@ -1,0 +1,27 @@
+
+zhongjiang_g.png
+size: 118,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ray02s_EXP_00000
+  rotate: true
+  xy: 0, 154
+  size: 120, 118
+  orig: 122, 122
+  offset: 1, 2
+  index: -1
+WinMore_LT_09
+  rotate: false
+  xy: 0, 39
+  size: 115, 113
+  orig: 117, 115
+  offset: 1, 1
+  index: -1
+light_010
+  rotate: false
+  xy: 0, 0
+  size: 104, 37
+  orig: 104, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+UI_Game_XuLie.png
+size: 582,891
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bagua
+  rotate: false
+  xy: 392, 731
+  size: 160, 158
+  orig: 165, 164
+  offset: 3, 1
+  index: -1
+bagua2
+  rotate: true
+  xy: 2, 612
+  size: 168, 195
+  orig: 170, 197
+  offset: 1, 1
+  index: -1
+bagua3
+  rotate: false
+  xy: 370, 560
+  size: 199, 169
+  orig: 201, 173
+  offset: 1, 1
+  index: -1
+bagua5
+  rotate: true
+  xy: 199, 587
+  size: 193, 169
+  orig: 195, 171
+  offset: 1, 1
+  index: -1
+baguaguang2
+  rotate: false
+  xy: 2, 2
+  size: 578, 556
+  orig: 612, 564
+  offset: 33, 1
+  index: -1
+baguaguang3
+  rotate: false
+  xy: 2, 782
+  size: 388, 107
+  orig: 388, 107
+  offset: 0, 0
+  index: -1

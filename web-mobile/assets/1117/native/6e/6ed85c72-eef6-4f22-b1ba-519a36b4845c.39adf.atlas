@@ -1,0 +1,279 @@
+
+gool_bigwin.png
+size: 1017,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gool_bigwin_texture/circle_gem
+  rotate: false
+  xy: 781, 121
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/circle_gem_glow
+  rotate: false
+  xy: 343, 437
+  size: 237, 237
+  orig: 237, 237
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/design
+  rotate: false
+  xy: 0, 637
+  size: 280, 380
+  orig: 280, 380
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/design_circle
+  rotate: false
+  xy: 849, 631
+  size: 154, 153
+  orig: 154, 153
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/gem_stroke
+  rotate: true
+  xy: 781, 55
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/glow_01
+  rotate: true
+  xy: 772, 210
+  size: 116, 97
+  orig: 116, 97
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/glow_fx_00000
+  rotate: true
+  xy: 829, 333
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/glow_fx_00001
+  rotate: true
+  xy: 829, 333
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/glow_fx_00002
+  rotate: false
+  xy: 936, 407
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/glow_fx_00003
+  rotate: false
+  xy: 730, 29
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/glow_fx_00004
+  rotate: false
+  xy: 201, 25
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/glow_fx_00005
+  rotate: false
+  xy: 246, 25
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/glow_fx_00006
+  rotate: false
+  xy: 246, 25
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/glow_fx_00007
+  rotate: false
+  xy: 775, 10
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/glow_fx_00008
+  rotate: false
+  xy: 820, 10
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/glow_fx_00009
+  rotate: false
+  xy: 282, 640
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/glow_fx_00010
+  rotate: false
+  xy: 206, 338
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/left_design
+  rotate: false
+  xy: 420, 5
+  size: 129, 181
+  orig: 129, 181
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/right_design
+  rotate: false
+  xy: 291, 0
+  size: 127, 186
+  orig: 127, 186
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wing_back_1
+  rotate: true
+  xy: 551, 4
+  size: 68, 177
+  orig: 68, 177
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wing_back_2
+  rotate: false
+  xy: 936, 452
+  size: 69, 177
+  orig: 69, 177
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wing_back_glow_1
+  rotate: false
+  xy: 880, 786
+  size: 131, 231
+  orig: 131, 231
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wing_back_glow_2
+  rotate: true
+  xy: 596, 328
+  size: 130, 231
+  orig: 130, 231
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_01_l
+  rotate: false
+  xy: 343, 336
+  size: 251, 99
+  orig: 251, 99
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_01_l_glow
+  rotate: true
+  xy: 835, 378
+  size: 251, 99
+  orig: 251, 99
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_01_r
+  rotate: true
+  xy: 201, 70
+  size: 257, 88
+  orig: 257, 88
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_01_r_glow
+  rotate: false
+  xy: 282, 676
+  size: 279, 135
+  orig: 279, 135
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_02_l
+  rotate: false
+  xy: 542, 201
+  size: 228, 125
+  orig: 228, 125
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_02_l_glow
+  rotate: true
+  xy: 0, 39
+  size: 288, 199
+  orig: 288, 199
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_02_r
+  rotate: false
+  xy: 291, 188
+  size: 249, 146
+  orig: 249, 146
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_02_r_glow
+  rotate: true
+  xy: 0, 329
+  size: 306, 204
+  orig: 306, 204
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_03_l
+  rotate: false
+  xy: 582, 460
+  size: 251, 118
+  orig: 251, 118
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_03_l_glow
+  rotate: true
+  xy: 871, 125
+  size: 251, 99
+  orig: 251, 99
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_03_r
+  rotate: false
+  xy: 590, 728
+  size: 257, 88
+  orig: 257, 88
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_03_r_glow
+  rotate: true
+  xy: 206, 356
+  size: 279, 135
+  orig: 279, 135
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_04_l
+  rotate: false
+  xy: 551, 74
+  size: 228, 125
+  orig: 228, 125
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_04_l_glow
+  rotate: false
+  xy: 590, 818
+  size: 288, 199
+  orig: 288, 199
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_04_r
+  rotate: false
+  xy: 582, 580
+  size: 249, 146
+  orig: 249, 146
+  offset: 0, 0
+  index: -1
+gool_bigwin_texture/wings_04_r_glow
+  rotate: false
+  xy: 282, 813
+  size: 306, 204
+  orig: 306, 204
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+384039521fb7e744cad1eccf444bb89e.png
+size: 1424,795
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_level_1
+  rotate: false
+  xy: 687, 532
+  size: 565, 263
+  orig: 1777, 554
+  offset: 0, -10
+  index: -1
+s_level_2
+  rotate: false
+  xy: 0, 532
+  size: 685, 263
+  orig: 1777, 554
+  offset: 0, -6
+  index: -1
+s_level_3
+  rotate: false
+  xy: 0, 2
+  size: 929, 263
+  orig: 1777, 554
+  offset: 0, -10
+  index: -1
+s_level_4
+  rotate: false
+  xy: 0, 267
+  size: 1422, 263
+  orig: 1777, 554
+  offset: 1, -10
+  index: -1

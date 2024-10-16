@@ -1,0 +1,27 @@
+
+swbx_heart.png
+size: 374,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+file
+  rotate: true
+  xy: 0, 10
+  size: 160, 143
+  orig: 160, 143
+  offset: 0, 0
+  index: -1
+heart
+  rotate: true
+  xy: 145, 24
+  size: 146, 131
+  orig: 146, 131
+  offset: 0, 0
+  index: -1
+ice
+  rotate: true
+  xy: 278, 0
+  size: 170, 96
+  orig: 170, 96
+  offset: 0, 0
+  index: -1

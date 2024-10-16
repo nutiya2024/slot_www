@@ -1,0 +1,147 @@
+
+gool_lv_5_blue.png
+size: 838,563
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+particle_00004
+  rotate: false
+  xy: 375, 4
+  size: 90, 109
+  orig: 90, 111
+  offset: 0, -1
+  index: -1
+1
+  rotate: false
+  xy: 0, 0
+  size: 281, 267
+  orig: 281, 268
+  offset: 0, -1
+  index: -1
+hit_00014
+  rotate: false
+  xy: 269, 411
+  size: 142, 152
+  orig: 149, 152
+  offset: -1, 0
+  index: -1
+common_star_spk
+  rotate: false
+  xy: 723, 339
+  size: 90, 84
+  orig: 91, 84
+  offset: -1, 0
+  index: -1
+particle_00002
+  rotate: false
+  xy: 559, 6
+  size: 90, 108
+  orig: 90, 111
+  offset: 0, -2
+  index: -1
+hit_00012
+  rotate: false
+  xy: 283, 115
+  size: 139, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+hit_00008
+  rotate: false
+  xy: 695, 425
+  size: 139, 138
+  orig: 152, 149
+  offset: 1, 1
+  index: -1
+hit_00009
+  rotate: false
+  xy: 577, 270
+  size: 144, 139
+  orig: 152, 149
+  offset: 1, 0
+  index: -1
+hit_00010
+  rotate: false
+  xy: 565, 117
+  size: 139, 151
+  orig: 149, 152
+  offset: 0, 1
+  index: -1
+particle_00000
+  rotate: false
+  xy: 743, 16
+  size: 90, 107
+  orig: 90, 111
+  offset: 0, -1
+  index: -1
+hit_00011
+  rotate: false
+  xy: 413, 411
+  size: 139, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+hit_00013
+  rotate: false
+  xy: 269, 269
+  size: 152, 140
+  orig: 152, 149
+  offset: 0, 1
+  index: -1
+hit_00015
+  rotate: false
+  xy: 423, 270
+  size: 152, 139
+  orig: 152, 149
+  offset: 0, 0
+  index: -1
+hit_00016
+  rotate: false
+  xy: 554, 411
+  size: 139, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+particle_00006
+  rotate: false
+  xy: 283, 3
+  size: 90, 110
+  orig: 90, 111
+  offset: 0, -1
+  index: -1
+hit_00017
+  rotate: false
+  xy: 424, 116
+  size: 139, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 269
+  size: 267, 294
+  orig: 268, 294
+  offset: -1, 0
+  index: -1
+hit_00018
+  rotate: false
+  xy: 706, 125
+  size: 132, 143
+  orig: 149, 152
+  offset: 4, 5
+  index: -1
+particle_00008
+  rotate: false
+  xy: 467, 5
+  size: 90, 109
+  orig: 90, 111
+  offset: 0, -1
+  index: -1
+particle_00010
+  rotate: false
+  xy: 651, 7
+  size: 90, 108
+  orig: 90, 111
+  offset: 0, -2
+  index: -1
+

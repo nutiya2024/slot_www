@@ -1,0 +1,27 @@
+
+symbol09.png
+size: 297,207
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbol10_e1
+  rotate: true
+  xy: 157, 38
+  size: 169, 140
+  orig: 169, 143
+  offset: 0, 2
+  index: -1
+eft_lw_bol_02
+  rotate: false
+  xy: 157, 0
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+symbol09
+  rotate: true
+  xy: 0, 5
+  size: 202, 155
+  orig: 210, 155
+  offset: 3, 0
+  index: -1

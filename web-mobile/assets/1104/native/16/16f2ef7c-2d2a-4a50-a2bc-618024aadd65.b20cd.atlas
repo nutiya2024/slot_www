@@ -1,0 +1,20 @@
+
+zhuanchang.png
+size: 585,583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow1
+  rotate: false
+  xy: 0, 214
+  size: 585, 369
+  orig: 585, 369
+  offset: 0, 0
+  index: -1
+glow_001
+  rotate: false
+  xy: 0, 114
+  size: 95, 98
+  orig: 100, 100
+  offset: 2, 1
+  index: -1

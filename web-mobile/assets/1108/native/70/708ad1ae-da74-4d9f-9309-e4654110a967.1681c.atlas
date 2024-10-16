@@ -1,0 +1,104 @@
+
+fanpai_lv.png
+size: 394,394
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BaseGoldCard
+  rotate: false
+  xy: 0, 241
+  size: 119, 153
+  orig: 119, 153
+  offset: 0, 0
+  index: -1
+PokerSymbol_wild_b1
+  rotate: false
+  xy: 0, 45
+  size: 107, 39
+  orig: 107, 39
+  offset: 0, 0
+  index: -1
+PokerSymbol_wild_b2
+  rotate: true
+  xy: 221, 94
+  size: 131, 107
+  orig: 131, 107
+  offset: 0, 0
+  index: -1
+PokerSymbol_wild_c3
+  rotate: false
+  xy: 0, 10
+  size: 101, 33
+  orig: 101, 33
+  offset: 0, 0
+  index: -1
+Poker_03_1GB
+  rotate: false
+  xy: 121, 242
+  size: 119, 152
+  orig: 119, 153
+  offset: 0, 0
+  index: -1
+card_frame_1
+  rotate: false
+  xy: 121, 74
+  size: 98, 166
+  orig: 98, 166
+  offset: 0, 0
+  index: -1
+card_frame_2
+  rotate: false
+  xy: 242, 227
+  size: 92, 167
+  orig: 92, 168
+  offset: 0, 0
+  index: -1
+card_frame_3
+  rotate: true
+  xy: 109, 13
+  size: 59, 176
+  orig: 59, 178
+  offset: 0, 1
+  index: -1
+card_frame_4
+  rotate: false
+  xy: 336, 208
+  size: 43, 186
+  orig: 43, 187
+  offset: 0, 0
+  index: -1
+card_frame_5
+  rotate: false
+  xy: 330, 11
+  size: 19, 195
+  orig: 19, 196
+  offset: 0, 1
+  index: -1
+card_frame_6
+  rotate: true
+  xy: 0, 0
+  size: 8, 188
+  orig: 8, 188
+  offset: 0, 0
+  index: -1
+card_frame_6_GD
+  rotate: false
+  xy: 381, 206
+  size: 9, 188
+  orig: 9, 188
+  offset: 0, 0
+  index: -1
+card_frame_6_jack
+  rotate: true
+  xy: 190, 0
+  size: 9, 189
+  orig: 9, 191
+  offset: 0, 0
+  index: -1
+card_frame_close
+  rotate: false
+  xy: 0, 86
+  size: 119, 153
+  orig: 119, 153
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+buy_option.png
+size: 507,1034
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buy_option_2_split/blue/multipliers_base_3
+  rotate: true
+  xy: 188, 2
+  size: 212, 85
+  orig: 214, 87
+  offset: 1, 1
+  index: -1
+buy_option_3_split/green/base_1
+  rotate: false
+  xy: 2, 507
+  size: 184, 220
+  orig: 186, 222
+  offset: 1, 1
+  index: -1
+buy_option_3_split/green/multipliers_base_1
+  rotate: false
+  xy: 275, 42
+  size: 85, 212
+  orig: 87, 214
+  offset: 1, 1
+  index: -1
+buy_option_4_split/yellow/left_frame_1
+  rotate: false
+  xy: 478, 630
+  size: 27, 188
+  orig: 28, 194
+  offset: 1, 0
+  index: -1
+buy_option_4_split/yellow/lower_frame_1
+  rotate: true
+  xy: 260, 256
+  size: 224, 88
+  orig: 224, 88
+  offset: 0, 0
+  index: -1
+buy_option_4_split/yellow/right_frame_1
+  rotate: false
+  xy: 437, 359
+  size: 26, 181
+  orig: 27, 194
+  offset: 0, 10
+  index: -1
+buy_option_4_split/yellow/upper_frame_1
+  rotate: true
+  xy: 188, 216
+  size: 264, 70
+  orig: 264, 70
+  offset: 0, 0
+  index: -1
+buy_option_4_split/yellow/upper_frame_multipliers
+  rotate: true
+  xy: 451, 542
+  size: 219, 24
+  orig: 219, 25
+  offset: 0, 1
+  index: -1
+buy_option_5_split/cyan/base_3
+  rotate: false
+  xy: 292, 812
+  size: 184, 220
+  orig: 186, 222
+  offset: 1, 1
+  index: -1
+buy_option_6_split/magenta/base_2
+  rotate: false
+  xy: 2, 285
+  size: 184, 220
+  orig: 186, 222
+  offset: 1, 1
+  index: -1
+buy_option_6_split/magenta/multipliers_base_2
+  rotate: false
+  xy: 306, 549
+  size: 85, 212
+  orig: 87, 214
+  offset: 1, 1
+  index: -1
+buy_option_split/red/base_4
+  rotate: false
+  xy: 2, 63
+  size: 184, 220
+  orig: 186, 222
+  offset: 1, 1
+  index: -1
+buy_option_split/red/frame_1_drop_shadow_1
+  rotate: false
+  xy: 2, 729
+  size: 288, 303
+  orig: 294, 308
+  offset: 3, 3
+  index: -1
+buy_option_split/red/frame_1_shadow_2
+  rotate: true
+  xy: 188, 482
+  size: 245, 116
+  orig: 249, 120
+  offset: 2, 2
+  index: -1
+buy_option_split/red/glow_star
+  rotate: false
+  xy: 362, 184
+  size: 140, 142
+  orig: 150, 148
+  offset: 4, 1
+  index: -1
+buy_option_split/red/left_frame_1_shadow
+  rotate: false
+  xy: 413, 21
+  size: 41, 161
+  orig: 45, 169
+  offset: 0, 4
+  index: -1
+buy_option_split/red/left_frame_multipliers
+  rotate: false
+  xy: 306, 485
+  size: 13, 62
+  orig: 15, 64
+  offset: 0, 2
+  index: -1
+buy_option_split/red/left_frame_multipliers_shadow
+  rotate: true
+  xy: 275, 13
+  size: 27, 85
+  orig: 40, 87
+  offset: 1, 1
+  index: -1
+buy_option_split/red/lower_frame_1_shadow
+  rotate: false
+  xy: 292, 763
+  size: 184, 47
+  orig: 186, 68
+  offset: 1, 1
+  index: -1
+buy_option_split/red/lower_frame_multipliers
+  rotate: true
+  xy: 424, 542
+  size: 219, 25
+  orig: 221, 28
+  offset: 1, 1
+  index: -1
+buy_option_split/red/lower_frame_multipliers_shadow
+  rotate: true
+  xy: 478, 820
+  size: 212, 27
+  orig: 214, 34
+  offset: 1, 1
+  index: -1
+buy_option_split/red/multipliers_base_4
+  rotate: true
+  xy: 350, 328
+  size: 212, 85
+  orig: 214, 87
+  offset: 1, 1
+  index: -1
+buy_option_split/red/right_frame_1_shadow
+  rotate: false
+  xy: 362, 25
+  size: 49, 157
+  orig: 52, 183
+  offset: 3, 25
+  index: -1
+buy_option_split/red/right_frame_multipliers
+  rotate: false
+  xy: 456, 36
+  size: 18, 67
+  orig: 18, 68
+  offset: 0, 1
+  index: -1
+buy_option_split/red/right_frame_multipliers_shadow
+  rotate: false
+  xy: 456, 105
+  size: 26, 77
+  orig: 32, 87
+  offset: 5, 1
+  index: -1
+buy_option_split/red/upper_frame_1_shadow
+  rotate: false
+  xy: 2, 10
+  size: 184, 51
+  orig: 186, 56
+  offset: 1, 4
+  index: -1
+buy_option_split/red/upper_frame_multipliers_shadow
+  rotate: true
+  xy: 393, 549
+  size: 212, 29
+  orig: 214, 34
+  offset: 1, 4
+  index: -1

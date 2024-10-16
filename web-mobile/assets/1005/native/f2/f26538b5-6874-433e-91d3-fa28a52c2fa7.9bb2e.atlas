@@ -1,0 +1,145 @@
+
+shuiqiang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shui/shui_00000
+  rotate: true
+  xy: 920, 128
+  size: 122, 96
+  orig: 700, 700
+  offset: 426, 279
+  index: -1
+shui/shui_00001
+  rotate: true
+  xy: 851, 252
+  size: 362, 103
+  orig: 700, 700
+  offset: 183, 281
+  index: -1
+shui/shui_00002
+  rotate: true
+  xy: 857, 616
+  size: 387, 164
+  orig: 700, 700
+  offset: 161, 258
+  index: -1
+shui/shui_00004
+  rotate: false
+  xy: 421, 258
+  size: 408, 235
+  orig: 700, 700
+  offset: 137, 225
+  index: -1
+shui/shui_00005
+  rotate: false
+  xy: 432, 495
+  size: 417, 251
+  orig: 700, 700
+  offset: 126, 216
+  index: -1
+shui/shui_00006
+  rotate: false
+  xy: 2, 509
+  size: 414, 230
+  orig: 700, 700
+  offset: 135, 226
+  index: -1
+shui/shui_00007
+  rotate: false
+  xy: 418, 9
+  size: 412, 241
+  orig: 700, 700
+  offset: 136, 221
+  index: -1
+shui/shui_00008
+  rotate: false
+  xy: 2, 256
+  size: 417, 237
+  orig: 700, 700
+  offset: 130, 223
+  index: -1
+shui/shui_00009
+  rotate: false
+  xy: 2, 2
+  size: 414, 248
+  orig: 700, 700
+  offset: 131, 218
+  index: -1
+shui/shui_00012
+  rotate: false
+  xy: 432, 748
+  size: 423, 255
+  orig: 700, 700
+  offset: 125, 213
+  index: -1
+shui/shui_00015
+  rotate: false
+  xy: 2, 741
+  size: 428, 262
+  orig: 700, 700
+  offset: 120, 211
+  index: -1
+shui/shui_00017
+  rotate: true
+  xy: 832, 50
+  size: 200, 86
+  orig: 700, 700
+  offset: 176, 296
+  index: -1
+
+shuiqiang2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shui/shui_00003
+  rotate: true
+  xy: 217, 9
+  size: 402, 210
+  orig: 700, 700
+  offset: 136, 234
+  index: -1
+shui/shui_00010
+  rotate: false
+  xy: 417, 657
+  size: 408, 216
+  orig: 700, 700
+  offset: 140, 233
+  index: -1
+shui/shui_00011
+  rotate: true
+  xy: 2, 2
+  size: 409, 213
+  orig: 700, 700
+  offset: 139, 234
+  index: -1
+shui/shui_00013
+  rotate: false
+  xy: 417, 431
+  size: 398, 224
+  orig: 700, 700
+  offset: 142, 229
+  index: -1
+shui/shui_00014
+  rotate: false
+  xy: 2, 644
+  size: 413, 229
+  orig: 700, 700
+  offset: 137, 229
+  index: -1
+shui/shui_00016
+  rotate: false
+  xy: 2, 413
+  size: 403, 229
+  orig: 700, 700
+  offset: 140, 228
+  index: -1
+shuiqiang
+  rotate: false
+  xy: 429, 199
+  size: 274, 230
+  orig: 290, 290
+  offset: 10, 23
+  index: -1

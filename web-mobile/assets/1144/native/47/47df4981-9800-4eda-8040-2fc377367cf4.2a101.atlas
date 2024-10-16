@@ -1,0 +1,83 @@
+
+lanterns_idle.png
+size: 1263,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laltain1
+  rotate: false
+  xy: 1163, 158
+  size: 98, 206
+  orig: 98, 206
+  offset: 0, 0
+  index: -1
+left_side_lamp_glow1
+  rotate: false
+  xy: 2, 14
+  size: 349, 350
+  orig: 482, 422
+  offset: 65, 7
+  index: -1
+moth_00000
+  rotate: false
+  xy: 353, 164
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+moth_00002
+  rotate: true
+  xy: 353, 2
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+moth_00004
+  rotate: true
+  xy: 515, 164
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+moth_00006
+  rotate: false
+  xy: 555, 2
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+moth_00008
+  rotate: true
+  xy: 677, 164
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+moth_00010
+  rotate: true
+  xy: 757, 2
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+moth_00012
+  rotate: true
+  xy: 839, 164
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+moth_00014
+  rotate: false
+  xy: 959, 2
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+moth_00015
+  rotate: true
+  xy: 1001, 164
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1

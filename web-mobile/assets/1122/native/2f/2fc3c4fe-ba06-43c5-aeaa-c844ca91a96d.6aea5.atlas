@@ -1,0 +1,97 @@
+
+bg_gold_door.png
+size: 653,653
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_01
+  rotate: false
+  xy: 465, 277
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+coin_02
+  rotate: false
+  xy: 322, 32
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+coin_03
+  rotate: false
+  xy: 465, 258
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+coin_04
+  rotate: false
+  xy: 32, 4
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+coin_05
+  rotate: false
+  xy: 2, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+coin_06
+  rotate: false
+  xy: 495, 308
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+coin_07
+  rotate: false
+  xy: 495, 293
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+coin_08
+  rotate: false
+  xy: 62, 9
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+coin_09
+  rotate: false
+  xy: 465, 303
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 218
+  size: 461, 433
+  orig: 462, 433
+  offset: 1, 0
+  index: -1
+fx_star
+  rotate: false
+  xy: 322, 48
+  size: 167, 168
+  orig: 167, 168
+  offset: 0, 0
+  index: -1
+gold_back
+  rotate: false
+  xy: 2, 31
+  size: 318, 185
+  orig: 324, 185
+  offset: 6, 0
+  index: -1
+gold_front
+  rotate: true
+  xy: 465, 332
+  size: 319, 182
+  orig: 319, 293
+  offset: 0, 0
+  index: -1

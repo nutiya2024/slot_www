@@ -1,0 +1,48 @@
+
+gool_bigwin.png
+size: 466,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/count_base
+  rotate: false
+  xy: 0, 362
+  size: 241, 41
+  orig: 241, 41
+  offset: 0, 0
+  index: -1
+images/count_shadow
+  rotate: false
+  xy: 0, 407
+  size: 128, 25
+  orig: 128, 25
+  offset: 0, 0
+  index: -1
+images/f_01
+  rotate: true
+  xy: 216, 405
+  size: 27, 84
+  orig: 27, 84
+  offset: 0, 0
+  index: -1
+images/f_02
+  rotate: false
+  xy: 0, 452
+  size: 465, 14
+  orig: 465, 14
+  offset: 0, 0
+  index: -1
+images/f_03
+  rotate: true
+  xy: 130, 406
+  size: 26, 84
+  orig: 26, 84
+  offset: 0, 0
+  index: -1
+images/f_04
+  rotate: false
+  xy: 0, 434
+  size: 466, 16
+  orig: 466, 16
+  offset: 0, 0
+  index: -1

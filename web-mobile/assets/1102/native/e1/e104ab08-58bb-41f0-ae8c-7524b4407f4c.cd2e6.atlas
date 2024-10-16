@@ -1,0 +1,27 @@
+
+44eb65cbafd7eec48ae2944bdd6db2a6.png
+size: 759,423
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_game_title
+  rotate: false
+  xy: 0, 204
+  size: 757, 219
+  orig: 759, 219
+  offset: -1, 0
+  index: -1
+s_game_title2
+  rotate: false
+  xy: 0, 0
+  size: 301, 202
+  orig: 301, 202
+  offset: 0, 0
+  index: -1
+s_game_title_portrait_noBkg
+  rotate: false
+  xy: 303, 55
+  size: 317, 147
+  orig: 337, 172
+  offset: -3, -1
+  index: -1

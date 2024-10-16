@@ -1,0 +1,55 @@
+
+bde78da64eb693946a0705127113b39c.png
+size: 1962,2002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_chilli_00
+  rotate: false
+  xy: 1607, 1887
+  size: 128, 115
+  orig: 128, 115
+  offset: 0, 0
+  index: -1
+s_chilli_01
+  rotate: false
+  xy: 1855, 1903
+  size: 105, 99
+  orig: 109, 107
+  offset: 0, 0
+  index: -1
+s_chilli_02
+  rotate: false
+  xy: 1855, 1784
+  size: 87, 117
+  orig: 87, 117
+  offset: 0, 0
+  index: -1
+s_chilli_03
+  rotate: false
+  xy: 1737, 1902
+  size: 116, 100
+  orig: 116, 100
+  offset: 0, 0
+  index: -1
+s_reels_bkg_static
+  rotate: false
+  xy: 0, 14
+  size: 817, 817
+  orig: 817, 817
+  offset: 0, 0
+  index: -1
+s_reels_frame
+  rotate: false
+  xy: 0, 833
+  size: 1605, 1169
+  orig: 1777, 1243
+  offset: 0, 0
+  index: -1
+s_reels_separator
+  rotate: false
+  xy: 0, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

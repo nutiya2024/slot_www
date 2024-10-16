@@ -1,0 +1,244 @@
+
+jinzita.png
+size: 1197,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lib/bglight
+  rotate: false
+  xy: 1025, 187
+  size: 170, 162
+  orig: 170, 162
+  offset: 0, 0
+  index: -1
+lib/g
+  rotate: true
+  xy: 1025, 79
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+lib/kh_1
+  rotate: false
+  xy: 933, 275
+  size: 90, 74
+  orig: 92, 86
+  offset: 0, 7
+  index: -1
+lib/kh_10
+  rotate: false
+  xy: 175, 4
+  size: 64, 68
+  orig: 75, 78
+  offset: 5, 5
+  index: -1
+lib/kh_11
+  rotate: false
+  xy: 825, 2
+  size: 42, 83
+  orig: 47, 83
+  offset: 0, 0
+  index: -1
+lib/kh_12
+  rotate: false
+  xy: 523, 12
+  size: 75, 60
+  orig: 84, 76
+  offset: 4, 8
+  index: -1
+lib/kh_13
+  rotate: false
+  xy: 600, 12
+  size: 75, 60
+  orig: 90, 79
+  offset: 4, 10
+  index: -1
+lib/kh_14
+  rotate: false
+  xy: 300, 5
+  size: 42, 67
+  orig: 49, 67
+  offset: 7, 0
+  index: -1
+lib/kh_15
+  rotate: false
+  xy: 715, 85
+  size: 37, 55
+  orig: 39, 55
+  offset: 2, 0
+  index: -1
+lib/kh_16
+  rotate: false
+  xy: 584, 74
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+lib/kh_17
+  rotate: true
+  xy: 754, 86
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+lib/kh_18
+  rotate: false
+  xy: 677, 4
+  size: 92, 78
+  orig: 92, 82
+  offset: 0, 4
+  index: -1
+lib/kh_19
+  rotate: true
+  xy: 791, 87
+  size: 72, 83
+  orig: 78, 83
+  offset: 6, 0
+  index: -1
+lib/kh_2
+  rotate: true
+  xy: 933, 181
+  size: 92, 84
+  orig: 92, 86
+  offset: 0, 2
+  index: -1
+lib/kh_20
+  rotate: false
+  xy: 418, 7
+  size: 54, 65
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+lib/kh_21
+  rotate: true
+  xy: 522, 74
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+lib/kh_22
+  rotate: false
+  xy: 474, 8
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+lib/kh_23
+  rotate: false
+  xy: 1025, 5
+  size: 72, 72
+  orig: 83, 77
+  offset: 0, 3
+  index: -1
+lib/kh_24
+  rotate: true
+  xy: 457, 74
+  size: 54, 63
+  orig: 59, 63
+  offset: 1, 0
+  index: -1
+lib/kh_25
+  rotate: false
+  xy: 621, 84
+  size: 45, 56
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+lib/kh_26
+  rotate: false
+  xy: 668, 84
+  size: 45, 56
+  orig: 52, 56
+  offset: 4, 0
+  index: -1
+lib/kh_3
+  rotate: false
+  xy: 344, 7
+  size: 72, 65
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+lib/kh_4
+  rotate: true
+  xy: 2, 2
+  size: 70, 55
+  orig: 83, 74
+  offset: 3, 12
+  index: -1
+lib/kh_5
+  rotate: true
+  xy: 59, 2
+  size: 70, 45
+  orig: 81, 62
+  offset: 0, 9
+  index: -1
+lib/kh_6
+  rotate: true
+  xy: 771, 6
+  size: 78, 52
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+lib/kh_7
+  rotate: true
+  xy: 380, 74
+  size: 54, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+lib/kh_8
+  rotate: true
+  xy: 241, 5
+  size: 67, 57
+  orig: 74, 67
+  offset: 5, 5
+  index: -1
+lib/kh_9
+  rotate: false
+  xy: 106, 4
+  size: 67, 68
+  orig: 71, 72
+  offset: 4, 4
+  index: -1
+lib/rao
+  rotate: false
+  xy: 876, 11
+  size: 147, 148
+  orig: 155, 151
+  offset: 2, 1
+  index: -1
+lib/shan
+  rotate: true
+  xy: 380, 130
+  size: 219, 217
+  orig: 219, 220
+  offset: 0, 3
+  index: -1
+lib/ta
+  rotate: true
+  xy: 2, 74
+  size: 461, 376
+  orig: 465, 378
+  offset: 1, 2
+  index: -1
+lib/ta_bg
+  rotate: false
+  xy: 380, 351
+  size: 802, 184
+  orig: 802, 184
+  offset: 0, 0
+  index: -1
+lib/ta_y
+  rotate: true
+  xy: 599, 142
+  size: 207, 161
+  orig: 207, 161
+  offset: 0, 0
+  index: -1
+lib/ta_y_1
+  rotate: true
+  xy: 762, 161
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1

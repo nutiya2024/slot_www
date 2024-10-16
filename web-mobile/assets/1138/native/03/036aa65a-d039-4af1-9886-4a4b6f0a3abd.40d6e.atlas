@@ -1,0 +1,1124 @@
+
+character.png
+size: 2044,2015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+character_2_split/green/sparks_00005
+  rotate: false
+  xy: 2, 2012
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+character_3_split/red/hair_3
+  rotate: false
+  xy: 882, 1590
+  size: 183, 153
+  orig: 199, 153
+  offset: 0, 0
+  index: -1
+character_3_split/red/pose4_fx2_00053
+  rotate: false
+  xy: 1267, 421
+  size: 248, 205
+  orig: 270, 205
+  offset: 0, 0
+  index: -1
+character_3_split/red/pose4_fx2_00055
+  rotate: false
+  xy: 1014, 454
+  size: 251, 203
+  orig: 270, 205
+  offset: 0, 1
+  index: -1
+character_3_split/red/pose4_fx2_00057
+  rotate: false
+  xy: 426, 463
+  size: 250, 202
+  orig: 270, 205
+  offset: 0, 2
+  index: -1
+character_3_split/red/pose4_fx2_00059
+  rotate: false
+  xy: 2, 953
+  size: 229, 193
+  orig: 270, 205
+  offset: 2, 6
+  index: -1
+character_3_split/red/pose4_fx2_00060
+  rotate: false
+  xy: 455, 872
+  size: 228, 194
+  orig: 270, 205
+  offset: 3, 5
+  index: -1
+character_3_split/red/right_palm_pose_01
+  rotate: true
+  xy: 1366, 1720
+  size: 131, 150
+  orig: 149, 184
+  offset: 0, 17
+  index: -1
+character_3_split/red/sparklz_00033
+  rotate: false
+  xy: 1267, 628
+  size: 267, 192
+  orig: 269, 214
+  offset: 0, 22
+  index: -1
+character_3_split/red/sparklz_00035
+  rotate: false
+  xy: 454, 667
+  size: 267, 190
+  orig: 269, 214
+  offset: 0, 22
+  index: -1
+character_3_split/red/sparklz_00036
+  rotate: false
+  xy: 685, 859
+  size: 267, 188
+  orig: 269, 214
+  offset: 0, 22
+  index: -1
+character_3_split/red/sparklz_00038
+  rotate: false
+  xy: 1430, 1012
+  size: 260, 186
+  orig: 269, 214
+  offset: 0, 22
+  index: -1
+character_3_split/red/sparklz_00040
+  rotate: false
+  xy: 455, 1068
+  size: 257, 183
+  orig: 269, 214
+  offset: 0, 22
+  index: -1
+character_3_split/red/sparklz_00042
+  rotate: false
+  xy: 1183, 1231
+  size: 260, 178
+  orig: 269, 214
+  offset: 0, 23
+  index: -1
+character_3_split/red/sparklz_00043
+  rotate: false
+  xy: 919, 1234
+  size: 262, 175
+  orig: 269, 214
+  offset: 0, 22
+  index: -1
+character_3_split/red/sparklz_00045
+  rotate: false
+  xy: 654, 1253
+  size: 263, 170
+  orig: 269, 214
+  offset: 0, 23
+  index: -1
+character_3_split/red/sparklz_00047
+  rotate: false
+  xy: 655, 1425
+  size: 265, 163
+  orig: 269, 214
+  offset: 0, 24
+  index: -1
+character_3_split/red/sparklz_00049
+  rotate: false
+  xy: 1323, 1559
+  size: 266, 156
+  orig: 269, 214
+  offset: 0, 24
+  index: -1
+character_4_split/red/beard_3
+  rotate: true
+  xy: 900, 1872
+  size: 84, 117
+  orig: 84, 117
+  offset: 0, 0
+  index: -1
+character_4_split/red/beard_4
+  rotate: true
+  xy: 240, 1911
+  size: 74, 148
+  orig: 74, 148
+  offset: 0, 0
+  index: -1
+character_4_split/red/beard_5
+  rotate: true
+  xy: 2, 1927
+  size: 69, 150
+  orig: 69, 158
+  offset: 0, 4
+  index: -1
+character_4_split/red/beard_6
+  rotate: true
+  xy: 693, 1877
+  size: 79, 123
+  orig: 79, 123
+  offset: 0, 0
+  index: -1
+character_4_split/red/beard_7
+  rotate: true
+  xy: 1019, 1861
+  size: 88, 132
+  orig: 214, 138
+  offset: 63, 3
+  index: -1
+character_4_split/red/chest_pose_01
+  rotate: true
+  xy: 255, 13
+  size: 237, 358
+  orig: 669, 420
+  offset: 18, 6
+  index: -1
+character_4_split/red/elbow_pose_01
+  rotate: true
+  xy: 954, 851
+  size: 188, 312
+  orig: 234, 317
+  offset: 3, 0
+  index: -1
+character_4_split/red/eye_braw_1
+  rotate: false
+  xy: 292, 1987
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+character_4_split/red/eye_braw_2
+  rotate: false
+  xy: 245, 1988
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+character_4_split/red/eye_glow_1
+  rotate: false
+  xy: 139, 1998
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+character_4_split/red/eye_glow_2
+  rotate: false
+  xy: 170, 1996
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+character_4_split/red/finger_1_copy
+  rotate: false
+  xy: 340, 1987
+  size: 49, 26
+  orig: 93, 48
+  offset: 22, 11
+  index: -1
+character_4_split/red/finger_1_pose_01
+  rotate: true
+  xy: 1283, 1948
+  size: 65, 92
+  orig: 65, 92
+  offset: 0, 0
+  index: -1
+character_4_split/red/finger_2_copy
+  rotate: true
+  xy: 813, 1958
+  size: 55, 56
+  orig: 55, 80
+  offset: 0, 12
+  index: -1
+character_4_split/red/finger_2_copy_2
+  rotate: false
+  xy: 542, 1969
+  size: 90, 44
+  orig: 90, 44
+  offset: 0, 0
+  index: -1
+character_4_split/red/finger_2_pose_01
+  rotate: true
+  xy: 1119, 1951
+  size: 62, 90
+  orig: 62, 90
+  offset: 0, 0
+  index: -1
+character_4_split/red/finger_3_copy
+  rotate: false
+  xy: 634, 1968
+  size: 74, 45
+  orig: 74, 45
+  offset: 0, 0
+  index: -1
+character_4_split/red/finger_3_pose_01
+  rotate: true
+  xy: 1039, 1957
+  size: 56, 78
+  orig: 56, 78
+  offset: 0, 0
+  index: -1
+character_4_split/red/finger_4_pose_01
+  rotate: false
+  xy: 498, 1971
+  size: 42, 42
+  orig: 84, 42
+  offset: 21, 0
+  index: -1
+character_4_split/red/gem
+  rotate: false
+  xy: 611, 1886
+  size: 80, 80
+  orig: 106, 80
+  offset: 13, 0
+  index: -1
+character_4_split/red/gold_bar_1
+  rotate: false
+  xy: 678, 461
+  size: 334, 196
+  orig: 334, 196
+  offset: 0, 0
+  index: -1
+character_4_split/red/hair_1
+  rotate: false
+  xy: 818, 1876
+  size: 80, 80
+  orig: 80, 104
+  offset: 0, 12
+  index: -1
+character_4_split/red/hair_5
+  rotate: false
+  xy: 1655, 1713
+  size: 183, 133
+  orig: 275, 149
+  offset: 63, 0
+  index: -1
+character_4_split/red/hair_7
+  rotate: false
+  xy: 2, 1673
+  size: 157, 138
+  orig: 214, 138
+  offset: 37, 0
+  index: -1
+character_4_split/red/head
+  rotate: true
+  xy: 1591, 1552
+  size: 159, 193
+  orig: 169, 193
+  offset: 3, 0
+  index: -1
+character_4_split/red/inner_mouth
+  rotate: false
+  xy: 1739, 1848
+  size: 143, 97
+  orig: 143, 97
+  offset: 0, 0
+  index: -1
+character_4_split/red/jaw
+  rotate: true
+  xy: 1377, 1948
+  size: 65, 67
+  orig: 123, 73
+  offset: 26, 5
+  index: -1
+character_4_split/red/left_eye
+  rotate: false
+  xy: 16, 2005
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+character_4_split/red/left_feet
+  rotate: false
+  xy: 1807, 811
+  size: 223, 194
+  orig: 223, 195
+  offset: 0, 1
+  index: -1
+character_4_split/red/left_leg
+  rotate: true
+  xy: 615, 2
+  size: 238, 381
+  orig: 340, 387
+  offset: 60, 2
+  index: -1
+character_4_split/red/left_mustauche
+  rotate: true
+  xy: 391, 1973
+  size: 40, 60
+  orig: 58, 88
+  offset: 9, 14
+  index: -1
+character_4_split/red/left_palm
+  rotate: false
+  xy: 2, 287
+  size: 211, 243
+  orig: 215, 243
+  offset: 4, 0
+  index: -1
+character_4_split/red/lower_teeth
+  rotate: false
+  xy: 89, 2000
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1
+character_4_split/red/nose
+  rotate: true
+  xy: 453, 1973
+  size: 40, 43
+  orig: 40, 45
+  offset: 0, 2
+  index: -1
+character_4_split/red/pose4_fx2_00043
+  rotate: false
+  xy: 233, 924
+  size: 220, 202
+  orig: 222, 204
+  offset: 0, 0
+  index: -1
+character_4_split/red/pose4_fx2_00044
+  rotate: false
+  xy: 2, 748
+  size: 220, 203
+  orig: 270, 205
+  offset: 0, 0
+  index: -1
+character_4_split/red/pose4_fx2_00045
+  rotate: false
+  xy: 224, 717
+  size: 228, 205
+  orig: 270, 205
+  offset: 0, 0
+  index: -1
+character_4_split/red/pose4_fx2_00047
+  rotate: false
+  xy: 1805, 604
+  size: 237, 205
+  orig: 238, 205
+  offset: 0, 0
+  index: -1
+character_4_split/red/pose4_fx2_00049
+  rotate: true
+  xy: 219, 475
+  size: 240, 205
+  orig: 270, 205
+  offset: 0, 0
+  index: -1
+character_4_split/red/pose4_fx2_00051
+  rotate: false
+  xy: 1517, 415
+  size: 248, 205
+  orig: 270, 205
+  offset: 0, 0
+  index: -1
+character_4_split/red/right_arm_2
+  rotate: true
+  xy: 1707, 1196
+  size: 180, 312
+  orig: 208, 365
+  offset: 28, 53
+  index: -1
+character_4_split/red/right_eye
+  rotate: false
+  xy: 5, 2008
+  size: 9, 5
+  orig: 19, 9
+  offset: 5, 2
+  index: -1
+character_4_split/red/right_feet
+  rotate: false
+  xy: 215, 259
+  size: 293, 202
+  orig: 293, 203
+  offset: 0, 0
+  index: -1
+character_4_split/red/right_hand_pose_03
+  rotate: false
+  xy: 1786, 1543
+  size: 224, 159
+  orig: 242, 493
+  offset: 0, 209
+  index: -1
+character_4_split/red/right_leg
+  rotate: true
+  xy: 1310, 190
+  size: 223, 428
+  orig: 244, 429
+  offset: 19, 0
+  index: -1
+character_4_split/red/right_mustauche
+  rotate: true
+  xy: 154, 1917
+  size: 72, 84
+  orig: 72, 84
+  offset: 0, 0
+  index: -1
+character_4_split/red/right_palm_copy
+  rotate: false
+  xy: 1840, 1704
+  size: 135, 135
+  orig: 173, 156
+  offset: 21, 8
+  index: -1
+character_4_split/red/shoulder_shadow
+  rotate: false
+  xy: 2, 532
+  size: 215, 214
+  orig: 215, 296
+  offset: 0, 42
+  index: -1
+character_4_split/red/sparklz_00015
+  rotate: false
+  xy: 710, 1959
+  size: 101, 54
+  orig: 269, 214
+  offset: 8, 5
+  index: -1
+character_4_split/red/sparklz_00017
+  rotate: false
+  xy: 1518, 1717
+  size: 135, 131
+  orig: 269, 214
+  offset: 0, 2
+  index: -1
+character_4_split/red/sparklz_00019
+  rotate: false
+  xy: 493, 1614
+  size: 232, 141
+  orig: 269, 214
+  offset: 0, 15
+  index: -1
+character_4_split/red/sparklz_00021
+  rotate: false
+  xy: 1757, 1378
+  size: 255, 163
+  orig: 256, 165
+  offset: 0, 2
+  index: -1
+character_4_split/red/sparklz_00022
+  rotate: false
+  xy: 1445, 1200
+  size: 260, 178
+  orig: 269, 214
+  offset: 0, 24
+  index: -1
+character_4_split/red/sparklz_00024
+  rotate: false
+  xy: 962, 1044
+  size: 250, 185
+  orig: 269, 214
+  offset: 0, 26
+  index: -1
+character_4_split/red/sparklz_00026
+  rotate: false
+  xy: 2, 1148
+  size: 256, 180
+  orig: 266, 183
+  offset: 0, 2
+  index: -1
+character_4_split/red/sparklz_00028
+  rotate: false
+  xy: 1692, 1007
+  size: 263, 187
+  orig: 269, 189
+  offset: 0, 1
+  index: -1
+character_4_split/red/sparklz_00029
+  rotate: false
+  xy: 723, 659
+  size: 266, 190
+  orig: 269, 192
+  offset: 0, 1
+  index: -1
+character_4_split/red/sparklz_00031
+  rotate: false
+  xy: 1536, 622
+  size: 267, 192
+  orig: 269, 193
+  offset: 0, 1
+  index: -1
+character_4_split/red/sword
+  rotate: false
+  xy: 922, 1411
+  size: 637, 146
+  orig: 637, 146
+  offset: 0, 0
+  index: -1
+character_4_split/red/sword_shadow
+  rotate: false
+  xy: 390, 1897
+  size: 219, 70
+  orig: 219, 70
+  offset: 0, 0
+  index: -1
+character_4_split/red/thumb_copy
+  rotate: true
+  xy: 1410, 1853
+  size: 92, 114
+  orig: 93, 122
+  offset: 1, 0
+  index: -1
+character_4_split/red/thumb_pose_01
+  rotate: true
+  xy: 227, 1802
+  size: 107, 118
+  orig: 107, 118
+  offset: 0, 0
+  index: -1
+character_4_split/red/tongue
+  rotate: false
+  xy: 197, 1991
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+character_4_split/red/torso_part_2
+  rotate: true
+  xy: 161, 1661
+  size: 135, 330
+  orig: 155, 342
+  offset: 2, 8
+  index: -1
+character_4_split/red/torso_pose_03
+  rotate: true
+  xy: 2, 1498
+  size: 161, 304
+  orig: 195, 336
+  offset: 0, 0
+  index: -1
+character_4_split/red/upper_teeth
+  rotate: false
+  xy: 38, 2001
+  size: 49, 12
+  orig: 49, 12
+  offset: 0, 0
+  index: -1
+character_split/yellow/beard_1
+  rotate: false
+  xy: 871, 1958
+  size: 55, 55
+  orig: 55, 65
+  offset: 0, 5
+  index: -1
+character_split/yellow/beard_2
+  rotate: true
+  xy: 1269, 1856
+  size: 90, 139
+  orig: 90, 139
+  offset: 0, 0
+  index: -1
+character_split/yellow/frame_013
+  rotate: false
+  xy: 1740, 162
+  size: 257, 231
+  orig: 270, 330
+  offset: 8, 42
+  index: -1
+character_split/yellow/frame_024
+  rotate: false
+  xy: 2, 22
+  size: 251, 235
+  orig: 270, 330
+  offset: 11, 43
+  index: -1
+character_split/yellow/gold_bar_2
+  rotate: true
+  xy: 928, 1958
+  size: 55, 109
+  orig: 55, 109
+  offset: 0, 0
+  index: -1
+character_split/yellow/hair_2
+  rotate: false
+  xy: 1639, 1850
+  size: 98, 95
+  orig: 98, 96
+  offset: 0, 1
+  index: -1
+character_split/yellow/hammer_pose_03
+  rotate: true
+  xy: 1191, 1725
+  size: 129, 173
+  orig: 135, 179
+  offset: 6, 6
+  index: -1
+character_split/yellow/pose3_fx_00043
+  rotate: true
+  xy: 1153, 1858
+  size: 90, 114
+  orig: 286, 190
+  offset: 157, 22
+  index: -1
+character_split/yellow/pose3_fx_00044
+  rotate: false
+  xy: 308, 1495
+  size: 177, 164
+  orig: 286, 190
+  offset: 92, 6
+  index: -1
+character_split/yellow/pose3_fx_00045
+  rotate: false
+  xy: 714, 1049
+  size: 246, 183
+  orig: 286, 190
+  offset: 31, 0
+  index: -1
+character_split/yellow/pose3_fx_00046
+  rotate: false
+  xy: 1268, 822
+  size: 273, 188
+  orig: 286, 190
+  offset: 10, 0
+  index: -1
+character_split/yellow/pose3_fx_00047
+  rotate: false
+  xy: 991, 659
+  size: 274, 190
+  orig: 286, 190
+  offset: 10, 0
+  index: -1
+character_split/yellow/pose3_fx_00053
+  rotate: false
+  xy: 2, 1330
+  size: 259, 166
+  orig: 284, 190
+  offset: 12, 22
+  index: -1
+character_split/yellow/pose3_fx_00054
+  rotate: true
+  xy: 1767, 395
+  size: 207, 262
+  orig: 246, 289
+  offset: 39, 0
+  index: -1
+character_split/yellow/pose3_fx_00055
+  rotate: true
+  xy: 774, 242
+  size: 210, 266
+  orig: 247, 289
+  offset: 37, 1
+  index: -1
+character_split/yellow/pose4_fx1_00039
+  rotate: false
+  xy: 464, 1260
+  size: 188, 184
+  orig: 289, 379
+  offset: 21, 99
+  index: -1
+character_split/yellow/pose4_fx1_00053
+  rotate: true
+  xy: 1543, 816
+  size: 189, 262
+  orig: 379, 289
+  offset: 185, 0
+  index: -1
+character_split/yellow/pose4_fx1_00054
+  rotate: false
+  xy: 510, 252
+  size: 262, 207
+  orig: 289, 379
+  offset: 27, 172
+  index: -1
+character_split/yellow/pose4_fx1_00055
+  rotate: false
+  xy: 1042, 209
+  size: 266, 210
+  orig: 289, 379
+  offset: 22, 169
+  index: -1
+character_split/yellow/pose4_fx1_00056
+  rotate: false
+  xy: 1067, 1570
+  size: 254, 153
+  orig: 289, 379
+  offset: 33, 226
+  index: -1
+character_split/yellow/pose4_fx2_00039
+  rotate: false
+  xy: 1884, 1841
+  size: 106, 100
+  orig: 270, 205
+  offset: 42, 36
+  index: -1
+character_split/yellow/pose4_fx2_00040
+  rotate: false
+  xy: 2, 1825
+  size: 106, 100
+  orig: 270, 205
+  offset: 42, 36
+  index: -1
+character_split/yellow/pose4_fx2_00041
+  rotate: true
+  xy: 727, 1596
+  size: 147, 153
+  orig: 270, 205
+  offset: 23, 16
+  index: -1
+character_split/yellow/pose4_fx2_00042
+  rotate: false
+  xy: 260, 1128
+  size: 193, 185
+  orig: 270, 205
+  offset: 8, 4
+  index: -1
+character_split/yellow/sparks_00000
+  rotate: false
+  xy: 1214, 1041
+  size: 214, 188
+  orig: 268, 260
+  offset: 54, 47
+  index: -1
+character_split/yellow/sparks_00001
+  rotate: true
+  xy: 263, 1315
+  size: 178, 199
+  orig: 268, 260
+  offset: 69, 60
+  index: -1
+character_split/yellow/sparks_00002
+  rotate: false
+  xy: 1561, 1380
+  size: 194, 170
+  orig: 268, 260
+  offset: 54, 49
+  index: -1
+character_split/yellow/sparks_00003
+  rotate: true
+  xy: 347, 1798
+  size: 97, 181
+  orig: 260, 268
+  offset: 95, 57
+  index: -1
+character_split/yellow/sparks_00004
+  rotate: false
+  xy: 487, 1446
+  size: 166, 166
+  orig: 268, 260
+  offset: 29, 42
+  index: -1
+character_split/yellow/sword_shine
+  rotate: false
+  xy: 1446, 1947
+  size: 453, 66
+  orig: 453, 66
+  offset: 0, 0
+  index: -1
+character_split/yellow/sword_shine_2
+  rotate: false
+  xy: 770, 1745
+  size: 419, 111
+  orig: 419, 111
+  offset: 0, 0
+  index: -1
+character_split/yellow/tattoo_01_pose_01
+  rotate: false
+  xy: 639, 1757
+  size: 129, 118
+  orig: 129, 118
+  offset: 0, 0
+  index: -1
+character_split/yellow/tattoo_01_pose_03
+  rotate: true
+  xy: 110, 1813
+  size: 102, 115
+  orig: 130, 117
+  offset: 8, 0
+  index: -1
+character_split/yellow/tattoo_2_pose_01
+  rotate: false
+  xy: 530, 1777
+  size: 107, 107
+  orig: 107, 127
+  offset: 0, 10
+  index: -1
+character_split/yellow/tattoo_2_pose_02
+  rotate: false
+  xy: 1901, 1943
+  size: 84, 70
+  orig: 136, 83
+  offset: 0, 0
+  index: -1
+character_split/yellow/tattoo_2_pose_03
+  rotate: true
+  xy: 1211, 1950
+  size: 63, 70
+  orig: 95, 131
+  offset: 0, 18
+  index: -1
+character_split/yellow/tattoo_3_pose_02
+  rotate: true
+  xy: 1526, 1851
+  size: 94, 111
+  orig: 131, 113
+  offset: 17, 0
+  index: -1
+
+character2.png
+size: 1981,1930
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+character_4_split/red/base
+  rotate: false
+  xy: 2, 1000
+  size: 1081, 928
+  orig: 1081, 928
+  offset: 0, 0
+  index: -1
+character_4_split/red/fire_in_crack
+  rotate: false
+  xy: 1085, 1175
+  size: 894, 753
+  orig: 894, 753
+  offset: 0, 0
+  index: -1
+character_4_split/red/hammer_copy_16
+  rotate: true
+  xy: 1071, 385
+  size: 312, 455
+  orig: 349, 605
+  offset: 0, 128
+  index: -1
+character_4_split/red/hammer_pose_01
+  rotate: false
+  xy: 478, 609
+  size: 591, 389
+  orig: 591, 389
+  offset: 0, 0
+  index: -1
+character_4_split/red/left_hand
+  rotate: true
+  xy: 608, 359
+  size: 248, 416
+  orig: 261, 420
+  offset: 13, 4
+  index: -1
+character_4_split/red/left_thigh
+  rotate: true
+  xy: 2, 455
+  size: 242, 474
+  orig: 313, 474
+  offset: 32, 0
+  index: -1
+character_4_split/red/right_arm_pose_03
+  rotate: true
+  xy: 2, 734
+  size: 264, 395
+  orig: 267, 397
+  offset: 0, 2
+  index: -1
+character_4_split/red/right_shoulder
+  rotate: true
+  xy: 608, 71
+  size: 286, 346
+  orig: 287, 349
+  offset: 0, 0
+  index: -1
+character_4_split/red/right_thigh
+  rotate: true
+  xy: 1528, 112
+  size: 334, 389
+  orig: 350, 389
+  offset: 0, 0
+  index: -1
+character_4_split/red/torso_part
+  rotate: true
+  xy: 2, 2
+  size: 444, 604
+  orig: 523, 651
+  offset: 28, 10
+  index: -1
+character_split/yellow/fire_shine
+  rotate: true
+  xy: 1085, 699
+  size: 474, 574
+  orig: 516, 574
+  offset: 29, 0
+  index: -1
+character_split/yellow/sword_glow
+  rotate: true
+  xy: 1661, 448
+  size: 725, 300
+  orig: 725, 300
+  offset: 0, 0
+  index: -1
+character_split/yellow/tattoo_3
+  rotate: true
+  xy: 1026, 41
+  size: 342, 294
+  orig: 412, 311
+  offset: 70, 0
+  index: -1
+
+character3.png
+size: 2001,1070
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+character_4_split/red/frame_017
+  rotate: false
+  xy: 1497, 293
+  size: 254, 264
+  orig: 270, 330
+  offset: 10, 33
+  index: -1
+character_4_split/red/frame_022
+  rotate: true
+  xy: 1753, 312
+  size: 255, 246
+  orig: 270, 330
+  offset: 8, 43
+  index: -1
+character_4_split/red/left_biceps_pose_01
+  rotate: false
+  xy: 1662, 569
+  size: 318, 247
+  orig: 318, 256
+  offset: 0, 2
+  index: -1
+character_4_split/red/right_hand_copy_2
+  rotate: false
+  xy: 900, 281
+  size: 305, 280
+  orig: 312, 309
+  offset: 5, 0
+  index: -1
+character_split/yellow/frame_015
+  rotate: false
+  xy: 1439, 50
+  size: 255, 241
+  orig: 270, 330
+  offset: 8, 38
+  index: -1
+character_split/yellow/frame_018
+  rotate: false
+  xy: 1182, 14
+  size: 255, 265
+  orig: 270, 330
+  offset: 10, 29
+  index: -1
+character_split/yellow/frame_020
+  rotate: false
+  xy: 1696, 37
+  size: 242, 254
+  orig: 270, 330
+  offset: 20, 38
+  index: -1
+character_split/yellow/pose3_fx_00048
+  rotate: false
+  xy: 943, 563
+  size: 360, 247
+  orig: 373, 289
+  offset: 9, 0
+  index: -1
+character_split/yellow/pose3_fx_00049
+  rotate: false
+  xy: 1305, 559
+  size: 355, 252
+  orig: 373, 289
+  offset: 11, 0
+  index: -1
+character_split/yellow/pose3_fx_00050
+  rotate: false
+  xy: 574, 812
+  size: 359, 256
+  orig: 373, 289
+  offset: 6, 0
+  index: -1
+character_split/yellow/pose3_fx_00051
+  rotate: false
+  xy: 1296, 813
+  size: 359, 255
+  orig: 373, 289
+  offset: 6, 1
+  index: -1
+character_split/yellow/pose3_fx_00052
+  rotate: false
+  xy: 892, 18
+  size: 288, 261
+  orig: 308, 289
+  offset: 13, 0
+  index: -1
+character_split/yellow/pose4_fx1_00040
+  rotate: true
+  xy: 1657, 818
+  size: 250, 324
+  orig: 289, 379
+  offset: 3, 14
+  index: -1
+character_split/yellow/pose4_fx1_00041
+  rotate: false
+  xy: 2, 721
+  size: 284, 347
+  orig: 289, 379
+  offset: 0, 13
+  index: -1
+character_split/yellow/pose4_fx1_00042
+  rotate: false
+  xy: 2, 368
+  size: 279, 351
+  orig: 289, 379
+  offset: 0, 12
+  index: -1
+character_split/yellow/pose4_fx1_00043
+  rotate: false
+  xy: 2, 18
+  size: 274, 348
+  orig: 289, 379
+  offset: 3, 12
+  index: -1
+character_split/yellow/pose4_fx1_00044
+  rotate: false
+  xy: 288, 723
+  size: 284, 345
+  orig: 289, 379
+  offset: 4, 12
+  index: -1
+character_split/yellow/pose4_fx1_00046
+  rotate: false
+  xy: 283, 363
+  size: 253, 356
+  orig: 289, 379
+  offset: 35, 12
+  index: -1
+character_split/yellow/pose4_fx1_00047
+  rotate: true
+  xy: 574, 571
+  size: 239, 367
+  orig: 289, 379
+  offset: 50, 12
+  index: -1
+character_split/yellow/pose4_fx1_00048
+  rotate: true
+  xy: 538, 322
+  size: 247, 360
+  orig: 289, 379
+  offset: 42, 15
+  index: -1
+character_split/yellow/pose4_fx1_00049
+  rotate: true
+  xy: 535, 68
+  size: 252, 355
+  orig: 289, 379
+  offset: 37, 17
+  index: -1
+character_split/yellow/pose4_fx1_00050
+  rotate: true
+  xy: 935, 812
+  size: 256, 359
+  orig: 289, 379
+  offset: 33, 12
+  index: -1
+character_split/yellow/pose4_fx1_00051
+  rotate: false
+  xy: 278, 2
+  size: 255, 359
+  orig: 289, 379
+  offset: 33, 12
+  index: -1
+character_split/yellow/pose4_fx1_00052
+  rotate: true
+  xy: 1207, 296
+  size: 261, 288
+  orig: 289, 379
+  offset: 28, 84
+  index: -1

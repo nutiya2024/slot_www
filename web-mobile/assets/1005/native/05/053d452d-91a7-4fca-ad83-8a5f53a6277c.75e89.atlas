@@ -1,0 +1,76 @@
+
+gz.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bing
+  rotate: false
+  xy: 747, 113
+  size: 118, 117
+  orig: 120, 119
+  offset: 1, 1
+  index: -1
+bz
+  rotate: true
+  xy: 204, 80
+  size: 150, 205
+  orig: 152, 207
+  offset: 1, 1
+  index: -1
+gd
+  rotate: true
+  xy: 411, 79
+  size: 151, 198
+  orig: 153, 200
+  offset: 1, 1
+  index: -1
+gzi
+  rotate: false
+  xy: 611, 111
+  size: 134, 119
+  orig: 134, 119
+  offset: 0, 0
+  index: -1
+hua
+  rotate: true
+  xy: 867, 12
+  size: 105, 114
+  orig: 107, 116
+  offset: 1, 1
+  index: -1
+juzi
+  rotate: false
+  xy: 742, 14
+  size: 94, 95
+  orig: 96, 97
+  offset: 1, 1
+  index: -1
+shuidi3
+  rotate: true
+  xy: 204, 2
+  size: 76, 128
+  orig: 76, 128
+  offset: 0, 0
+  index: -1
+xg
+  rotate: false
+  xy: 867, 119
+  size: 119, 111
+  orig: 121, 113
+  offset: 1, 1
+  index: -1
+xing_00000
+  rotate: false
+  xy: 2, 30
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+yz
+  rotate: true
+  xy: 611, 8
+  size: 101, 129
+  orig: 103, 131
+  offset: 1, 1
+  index: -1

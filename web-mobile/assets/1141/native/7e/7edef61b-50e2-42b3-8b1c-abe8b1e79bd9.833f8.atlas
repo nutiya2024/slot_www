@@ -1,0 +1,13 @@
+
+tucl_winframe.png
+size: 283,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tucl_winframe
+  rotate: false
+  xy: 2, 2
+  size: 279, 237
+  orig: 305, 257
+  offset: 11, 7
+  index: -1

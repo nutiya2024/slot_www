@@ -1,0 +1,216 @@
+
+tucl_buyfeature.png
+size: 1915,1799
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_particles_00000
+  rotate: false
+  xy: 1029, 1043
+  size: 437, 316
+  orig: 441, 337
+  offset: 4, 7
+  index: -1
+bg_particles_00002
+  rotate: false
+  xy: 66, 4
+  size: 437, 317
+  orig: 441, 337
+  offset: 1, 13
+  index: -1
+bg_particles_00003
+  rotate: true
+  xy: 790, 602
+  size: 438, 282
+  orig: 441, 337
+  offset: 3, 7
+  index: -1
+bg_particles_00005
+  rotate: false
+  xy: 1468, 899
+  size: 434, 283
+  orig: 441, 337
+  offset: 2, 9
+  index: -1
+bg_particles_00007
+  rotate: true
+  xy: 881, 1361
+  size: 438, 286
+  orig: 441, 337
+  offset: 2, 42
+  index: -1
+bg_particles_00009
+  rotate: true
+  xy: 591, 1358
+  size: 441, 288
+  orig: 441, 337
+  offset: 0, 39
+  index: -1
+bg_particles_00011
+  rotate: false
+  xy: 1395, 306
+  size: 427, 289
+  orig: 441, 337
+  offset: 0, 37
+  index: -1
+bg_particles_00013
+  rotate: false
+  xy: 1351, 10
+  size: 422, 291
+  orig: 441, 337
+  offset: 6, 34
+  index: -1
+bg_particles_00015
+  rotate: false
+  xy: 923, 8
+  size: 426, 293
+  orig: 441, 337
+  offset: 3, 32
+  index: -1
+bg_particles_00017
+  rotate: false
+  xy: 964, 303
+  size: 429, 297
+  orig: 441, 337
+  offset: 1, 30
+  index: -1
+bg_particles_00019
+  rotate: false
+  xy: 1465, 597
+  size: 431, 300
+  orig: 441, 337
+  offset: 0, 27
+  index: -1
+bg_particles_00021
+  rotate: true
+  xy: 1074, 609
+  size: 432, 300
+  orig: 441, 337
+  offset: 0, 25
+  index: -1
+bg_particles_00023
+  rotate: false
+  xy: 1481, 1184
+  size: 434, 305
+  orig: 441, 337
+  offset: 0, 22
+  index: -1
+bg_particles_00025
+  rotate: false
+  xy: 1481, 1491
+  size: 434, 308
+  orig: 441, 337
+  offset: 0, 20
+  index: -1
+bg_particles_00027
+  rotate: true
+  xy: 1169, 1364
+  size: 435, 310
+  orig: 441, 337
+  offset: 0, 18
+  index: -1
+bg_particles_00029
+  rotate: false
+  xy: 591, 1042
+  size: 436, 314
+  orig: 441, 337
+  offset: 0, 16
+  index: -1
+button_stone_shadow_big
+  rotate: true
+  xy: 306, 379
+  size: 661, 482
+  orig: 661, 482
+  offset: 0, 0
+  index: -1
+common_star_spk
+  rotate: true
+  xy: 790, 415
+  size: 185, 172
+  orig: 185, 172
+  offset: 0, 0
+  index: -1
+crystal_01_big
+  rotate: false
+  xy: 627, 48
+  size: 294, 329
+  orig: 294, 329
+  offset: 0, 0
+  index: -1
+frame_p_01_big
+  rotate: true
+  xy: 0, 323
+  size: 717, 151
+  orig: 717, 151
+  offset: 0, 0
+  index: -1
+frame_p_02_big
+  rotate: true
+  xy: 153, 323
+  size: 717, 151
+  orig: 717, 151
+  offset: 0, 0
+  index: -1
+frame_p_03_big
+  rotate: false
+  xy: 0, 0
+  size: 31, 321
+  orig: 31, 321
+  offset: 0, 0
+  index: -1
+frame_p_04_big
+  rotate: false
+  xy: 33, 2
+  size: 31, 319
+  orig: 32, 321
+  offset: 1, 1
+  index: -1
+frame_shadow_01_big
+  rotate: true
+  xy: 1376, 962
+  size: 79, 87
+  orig: 85, 92
+  offset: 0, 0
+  index: -1
+frame_shadow_02_big
+  rotate: true
+  xy: 1376, 881
+  size: 79, 87
+  orig: 85, 92
+  offset: 5, 0
+  index: -1
+outer_glow_big
+  rotate: true
+  xy: 0, 1042
+  size: 757, 589
+  orig: 757, 589
+  offset: 0, 0
+  index: -1
+shadow_p_01_big
+  rotate: true
+  xy: 505, 46
+  size: 331, 60
+  orig: 331, 61
+  offset: 0, 1
+  index: -1
+shadow_p_02_big
+  rotate: true
+  xy: 567, 46
+  size: 331, 58
+  orig: 331, 59
+  offset: 0, 0
+  index: -1
+shadow_p_03_big
+  rotate: true
+  xy: 306, 355
+  size: 22, 156
+  orig: 22, 156
+  offset: 0, 0
+  index: -1
+shadow_p_04_big
+  rotate: true
+  xy: 306, 331
+  size: 22, 156
+  orig: 22, 156
+  offset: 0, 0
+  index: -1

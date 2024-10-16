@@ -1,0 +1,167 @@
+
+swbx_candy.png
+size: 1878,730
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scatter_00000
+  rotate: false
+  xy: 1438, 260
+  size: 260, 211
+  orig: 270, 256
+  offset: 6, 23
+  index: -1
+scatter_00002
+  rotate: false
+  xy: 309, 63
+  size: 254, 210
+  orig: 280, 248
+  offset: 23, 17
+  index: -1
+scatter_00004
+  rotate: false
+  xy: 816, 17
+  size: 241, 204
+  orig: 264, 227
+  offset: 20, 5
+  index: -1
+scatter_00006
+  rotate: false
+  xy: 565, 25
+  size: 249, 223
+  orig: 276, 271
+  offset: 24, 23
+  index: -1
+scatter_00008
+  rotate: false
+  xy: 887, 223
+  size: 257, 252
+  orig: 303, 280
+  offset: 26, 25
+  index: -1
+scatter_00010
+  rotate: true
+  xy: 1166, 470
+  size: 260, 263
+  orig: 292, 292
+  offset: 27, 24
+  index: -1
+scatter_00012
+  rotate: false
+  xy: 1431, 473
+  size: 263, 257
+  orig: 280, 267
+  offset: 12, 4
+  index: -1
+scatter_00014
+  rotate: false
+  xy: 617, 489
+  size: 275, 241
+  orig: 306, 259
+  offset: 28, 3
+  index: -1
+scatter_00016
+  rotate: false
+  xy: 0, 0
+  size: 294, 232
+  orig: 301, 267
+  offset: 3, 10
+  index: -1
+scatter_00018
+  rotate: false
+  xy: 309, 498
+  size: 306, 232
+  orig: 320, 275
+  offset: 0, 20
+  index: -1
+scatter_00020
+  rotate: false
+  xy: 0, 234
+  size: 307, 235
+  orig: 310, 278
+  offset: 0, 19
+  index: -1
+scatter_00022
+  rotate: false
+  xy: 0, 471
+  size: 307, 259
+  orig: 311, 282
+  offset: 0, 19
+  index: -1
+snow/snow_00001
+  rotate: false
+  xy: 1411, 60
+  size: 131, 198
+  orig: 166, 199
+  offset: 9, 0
+  index: -1
+snow/snow_00003
+  rotate: false
+  xy: 1544, 78
+  size: 137, 180
+  orig: 146, 201
+  offset: 0, 0
+  index: -1
+snow/snow_00005
+  rotate: false
+  xy: 1683, 72
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+snow/snow_00007
+  rotate: false
+  xy: 1059, 8
+  size: 156, 213
+  orig: 156, 230
+  offset: 0, 17
+  index: -1
+snow/snow_00009
+  rotate: false
+  xy: 1700, 230
+  size: 173, 272
+  orig: 174, 275
+  offset: 0, 3
+  index: -1
+snow/snow_00011
+  rotate: false
+  xy: 1217, 15
+  size: 192, 245
+  orig: 192, 245
+  offset: 0, 0
+  index: -1
+snow/snow_00013
+  rotate: false
+  xy: 1696, 504
+  size: 182, 226
+  orig: 182, 226
+  offset: 0, 0
+  index: -1
+snow/snow_00015
+  rotate: true
+  xy: 1146, 262
+  size: 206, 290
+  orig: 273, 291
+  offset: 66, 1
+  index: -1
+snow/snow_00017
+  rotate: true
+  xy: 309, 275
+  size: 221, 304
+  orig: 221, 306
+  offset: 0, 0
+  index: -1
+snow/snow_00019
+  rotate: true
+  xy: 615, 250
+  size: 237, 270
+  orig: 237, 270
+  offset: 0, 0
+  index: -1
+snow/snow_00021
+  rotate: true
+  xy: 894, 477
+  size: 253, 270
+  orig: 253, 270
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+combo.png
+size: 143,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Combo_bg
+  rotate: false
+  xy: 0, 92
+  size: 125, 20
+  orig: 130, 20
+  offset: 3, 0
+  index: -1
+Combo_t01
+  rotate: false
+  xy: 115, 59
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Combo_t02
+  rotate: true
+  xy: 82, 18
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Combo_t03
+  rotate: true
+  xy: 82, 50
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Combo_t04
+  rotate: false
+  xy: 115, 26
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Combo_tef01
+  rotate: false
+  xy: 0, 114
+  size: 143, 29
+  orig: 143, 29
+  offset: 0, 0
+  index: -1
+eft_exp_01
+  rotate: false
+  xy: 0, 10
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

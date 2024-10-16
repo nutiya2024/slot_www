@@ -1,0 +1,265 @@
+
+scatter_star.png
+size: 1422,460
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scatter_vfx_c_00.pn
+  rotate: false
+  xy: 672, 300
+  size: 114, 158
+  orig: 213, 213
+  offset: 44, 28
+  index: -1
+scatter_vfx_c_01.pn
+  rotate: false
+  xy: 444, 136
+  size: 114, 160
+  orig: 213, 213
+  offset: 43, 29
+  index: -1
+scatter_vfx_c_02.pn
+  rotate: true
+  xy: 788, 300
+  size: 158, 112
+  orig: 213, 213
+  offset: 20, 54
+  index: -1
+scatter_vfx_c_03.pn
+  rotate: false
+  xy: 560, 298
+  size: 110, 160
+  orig: 213, 213
+  offset: 43, 32
+  index: -1
+scatter_vfx_c_04.pn
+  rotate: true
+  xy: 1114, 302
+  size: 156, 96
+  orig: 213, 213
+  offset: 27, 64
+  index: -1
+scatter_vfx_c_05.pn
+  rotate: false
+  xy: 1118, 144
+  size: 96, 156
+  orig: 213, 213
+  offset: 57, 35
+  index: -1
+scatter_vfx_c_06.pn
+  rotate: true
+  xy: 1012, 302
+  size: 156, 100
+  orig: 213, 213
+  offset: 26, 64
+  index: -1
+scatter_vfx_c_07.pn
+  rotate: true
+  xy: 1212, 304
+  size: 154, 102
+  orig: 213, 213
+  offset: 26, 66
+  index: -1
+scatter_vfx_c_08.pn
+  rotate: false
+  xy: 1316, 306
+  size: 104, 152
+  orig: 213, 213
+  offset: 51, 43
+  index: -1
+scatter_vfx_c_09.pn
+  rotate: false
+  xy: 1316, 166
+  size: 104, 138
+  orig: 213, 213
+  offset: 52, 57
+  index: -1
+scatter_vfx_c_10.pn
+  rotate: false
+  xy: 1014, 2
+  size: 108, 138
+  orig: 213, 213
+  offset: 50, 58
+  index: -1
+scatter_vfx_c_11.pn
+  rotate: true
+  xy: 782, 2
+  size: 136, 110
+  orig: 213, 213
+  offset: 38, 72
+  index: -1
+scatter_vfx_c_12.pn
+  rotate: true
+  xy: 300, 2
+  size: 128, 112
+  orig: 213, 213
+  offset: 42, 68
+  index: -1
+scatter_vfx_c_13.pn
+  rotate: false
+  xy: 666, 4
+  size: 114, 130
+  orig: 213, 213
+  offset: 48, 61
+  index: -1
+scatter_vfx_c_14.pn
+  rotate: true
+  xy: 1244, 16
+  size: 130, 114
+  orig: 213, 213
+  offset: 40, 70
+  index: -1
+scatter_vfx_c_15.pn
+  rotate: false
+  xy: 548, 4
+  size: 116, 130
+  orig: 213, 213
+  offset: 46, 62
+  index: -1
+scatter_vfx_c_16.pn
+  rotate: false
+  xy: 894, 4
+  size: 118, 134
+  orig: 213, 213
+  offset: 45, 54
+  index: -1
+scatter_vfx_c_17.pn
+  rotate: true
+  xy: 1124, 8
+  size: 134, 118
+  orig: 213, 213
+  offset: 37, 62
+  index: -1
+scatter_vfx_c_18.pn
+  rotate: true
+  xy: 1010, 142
+  size: 156, 106
+  orig: 213, 213
+  offset: 33, 57
+  index: -1
+scatter_vfx_c_19.pn
+  rotate: true
+  xy: 902, 300
+  size: 158, 108
+  orig: 213, 213
+  offset: 32, 56
+  index: -1
+scatter_vfx_c_20.pn
+  rotate: false
+  xy: 560, 136
+  size: 108, 160
+  orig: 213, 213
+  offset: 56, 29
+  index: -1
+scatter_vfx_c_21.pn
+  rotate: true
+  xy: 228, 296
+  size: 162, 108
+  orig: 213, 213
+  offset: 29, 57
+  index: -1
+scatter_vfx_c_22.pn
+  rotate: false
+  xy: 116, 296
+  size: 110, 162
+  orig: 213, 213
+  offset: 54, 31
+  index: -1
+scatter_vfx_c_23.pn
+  rotate: true
+  xy: 222, 132
+  size: 162, 110
+  orig: 213, 213
+  offset: 27, 58
+  index: -1
+scatter_vfx_c_24.pn
+  rotate: false
+  xy: 670, 136
+  size: 108, 160
+  orig: 213, 213
+  offset: 55, 34
+  index: -1
+scatter_vfx_c_25.pn
+  rotate: true
+  xy: 334, 132
+  size: 162, 108
+  orig: 213, 213
+  offset: 28, 62
+  index: -1
+scatter_vfx_c_26.pn
+  rotate: true
+  xy: 338, 296
+  size: 162, 100
+  orig: 213, 213
+  offset: 32, 67
+  index: -1
+scatter_vfx_c_27.pn
+  rotate: false
+  xy: 2, 128
+  size: 100, 164
+  orig: 213, 213
+  offset: 64, 37
+  index: -1
+scatter_vfx_c_28.pn
+  rotate: false
+  xy: 2, 294
+  size: 112, 164
+  orig: 213, 213
+  offset: 52, 38
+  index: -1
+scatter_vfx_c_29.pn
+  rotate: false
+  xy: 104, 130
+  size: 116, 162
+  orig: 213, 213
+  offset: 50, 38
+  index: -1
+scatter_vfx_c_30.pn
+  rotate: false
+  xy: 440, 298
+  size: 118, 160
+  orig: 213, 213
+  offset: 49, 39
+  index: -1
+scatter_vfx_c_31.pn
+  rotate: false
+  xy: 414, 10
+  size: 132, 120
+  orig: 213, 213
+  offset: 41, 46
+  index: -1
+scatter_vfx_c_32.pn
+  rotate: true
+  xy: 154, 8
+  size: 120, 144
+  orig: 213, 213
+  offset: 47, 31
+  index: -1
+scatter_vfx_c_33.pn
+  rotate: true
+  xy: 2, 6
+  size: 120, 150
+  orig: 213, 213
+  offset: 46, 28
+  index: -1
+scatter_vfx_c_34.pn
+  rotate: true
+  xy: 1216, 148
+  size: 154, 98
+  orig: 213, 213
+  offset: 19, 54
+  index: -1
+scatter_vfx_c_35.pn
+  rotate: false
+  xy: 896, 140
+  size: 112, 158
+  orig: 213, 213
+  offset: 45, 25
+  index: -1
+scatter_vfx_c_36.pn
+  rotate: true
+  xy: 780, 140
+  size: 158, 114
+  orig: 213, 213
+  offset: 22, 49
+  index: -1

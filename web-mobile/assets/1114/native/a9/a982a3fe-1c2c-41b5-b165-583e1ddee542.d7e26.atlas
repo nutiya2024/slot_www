@@ -1,0 +1,27 @@
+
+zhuandong_g.png
+size: 204,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Reel_light_01
+  rotate: true
+  xy: 188, 27
+  size: 112, 16
+  orig: 112, 16
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 0, 0
+  size: 96, 139
+  orig: 96, 139
+  offset: 0, 0
+  index: -1
+guang_1
+  rotate: false
+  xy: 98, 0
+  size: 88, 139
+  orig: 88, 139
+  offset: 0, 0
+  index: -1

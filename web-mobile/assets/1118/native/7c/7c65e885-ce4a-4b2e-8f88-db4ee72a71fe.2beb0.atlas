@@ -1,0 +1,119 @@
+
+stpr_lv2.png
+size: 1091,593
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 0, 90
+  size: 236, 248
+  orig: 236, 248
+  offset: 0, 0
+  index: -1
+particle_00004
+  rotate: false
+  xy: 919, 283
+  size: 152, 123
+  orig: 167, 160
+  offset: 1, 6
+  index: -1
+particle_00000
+  rotate: false
+  xy: 888, 152
+  size: 150, 129
+  orig: 167, 160
+  offset: 1, 2
+  index: -1
+hit_00018
+  rotate: false
+  xy: 0, 340
+  size: 266, 253
+  orig: 266, 253
+  offset: 0, 0
+  index: -1
+particle_00008
+  rotate: false
+  xy: 672, 0
+  size: 126, 148
+  orig: 160, 167
+  offset: -3, -1
+  index: -1
+particle_00002
+  rotate: false
+  xy: 800, 17
+  size: 152, 131
+  orig: 167, 160
+  offset: 1, 2
+  index: -1
+particle_00006
+  rotate: false
+  xy: 455, 0
+  size: 124, 146
+  orig: 160, 167
+  offset: -4, -1
+  index: -1
+particle_00010
+  rotate: false
+  xy: 954, 1
+  size: 128, 149
+  orig: 160, 167
+  offset: -2, 0
+  index: -1
+ray00000
+  rotate: false
+  xy: 702, 371
+  size: 215, 222
+  orig: 327, 350
+  offset: 1, 7
+  index: -1
+ray00002
+  rotate: false
+  xy: 268, 369
+  size: 215, 224
+  orig: 327, 350
+  offset: 1, 7
+  index: -1
+ray00004
+  rotate: false
+  xy: 485, 369
+  size: 215, 224
+  orig: 327, 350
+  offset: 1, 6
+  index: -1
+ray00006
+  rotate: false
+  xy: 238, 116
+  size: 215, 222
+  orig: 327, 350
+  offset: 1, 8
+  index: -1
+ray00008
+  rotate: false
+  xy: 672, 150
+  size: 214, 217
+  orig: 327, 350
+  offset: 1, 7
+  index: -1
+ray00009
+  rotate: false
+  xy: 455, 148
+  size: 215, 219
+  orig: 327, 350
+  offset: 1, 7
+  index: -1
+shadow
+  rotate: false
+  xy: 238, 5
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+star_spk
+  rotate: false
+  xy: 919, 408
+  size: 172, 185
+  orig: 172, 185
+  offset: 0, 0
+  index: -1
+

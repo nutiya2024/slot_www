@@ -1,0 +1,244 @@
+
+s_wild_d_atlas_symbols.png
+size: 554,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_w_7_L
+  rotate: true
+  xy: 479, 2
+  size: 32, 41
+  orig: 34, 43
+  offset: 1, 1
+  index: -1
+s_w_7_M
+  rotate: true
+  xy: 435, 2
+  size: 32, 42
+  orig: 34, 44
+  offset: 1, 1
+  index: -1
+s_w_7_R
+  rotate: false
+  xy: 477, 503
+  size: 32, 41
+  orig: 34, 43
+  offset: 1, 1
+  index: -1
+s_w_bg
+  rotate: false
+  xy: 2, 426
+  size: 160, 604
+  orig: 160, 604
+  offset: 0, 0
+  index: -1
+s_w_coin01
+  rotate: false
+  xy: 371, 33
+  size: 62, 48
+  orig: 68, 52
+  offset: 3, 2
+  index: -1
+s_w_coin02
+  rotate: false
+  xy: 477, 546
+  size: 35, 51
+  orig: 39, 55
+  offset: 2, 2
+  index: -1
+s_w_coin03
+  rotate: false
+  xy: 500, 56
+  size: 52, 49
+  orig: 58, 57
+  offset: 3, 4
+  index: -1
+s_w_coin04
+  rotate: true
+  xy: 387, 433
+  size: 24, 34
+  orig: 28, 38
+  offset: 2, 2
+  index: -1
+s_w_coin05
+  rotate: false
+  xy: 477, 466
+  size: 34, 35
+  orig: 38, 39
+  offset: 2, 2
+  index: -1
+s_w_coin06
+  rotate: true
+  xy: 470, 36
+  size: 45, 27
+  orig: 53, 33
+  offset: 4, 3
+  index: -1
+s_w_coin07
+  rotate: false
+  xy: 435, 36
+  size: 33, 45
+  orig: 37, 51
+  offset: 2, 3
+  index: -1
+s_w_coin08
+  rotate: false
+  xy: 530, 32
+  size: 22, 22
+  orig: 26, 26
+  offset: 2, 2
+  index: -1
+s_w_coin09
+  rotate: false
+  xy: 358, 12
+  size: 25, 19
+  orig: 29, 23
+  offset: 2, 2
+  index: -1
+s_w_coinray
+  rotate: false
+  xy: 177, 159
+  size: 179, 266
+  orig: 179, 266
+  offset: 0, 0
+  index: -1
+s_w_coins1x4
+  rotate: false
+  xy: 358, 160
+  size: 159, 265
+  orig: 159, 265
+  offset: 0, 0
+  index: -1
+s_w_frame_L
+  rotate: false
+  xy: 522, 475
+  size: 12, 555
+  orig: 12, 555
+  offset: 0, 0
+  index: -1
+s_w_frame_R
+  rotate: false
+  xy: 536, 475
+  size: 12, 555
+  orig: 12, 555
+  offset: 0, 0
+  index: -1
+s_w_frame_bot
+  rotate: false
+  xy: 2, 5
+  size: 176, 41
+  orig: 176, 41
+  offset: 0, 0
+  index: -1
+s_w_frame_top
+  rotate: false
+  xy: 180, 8
+  size: 176, 41
+  orig: 176, 41
+  offset: 0, 0
+  index: -1
+s_w_fx_flare
+  rotate: false
+  xy: 343, 599
+  size: 177, 431
+  orig: 177, 431
+  offset: 0, 0
+  index: -1
+s_w_fx_flarex
+  rotate: false
+  xy: 164, 598
+  size: 177, 432
+  orig: 315, 498
+  offset: 69, 33
+  index: -1
+s_w_fx_lights01
+  rotate: false
+  xy: 371, 131
+  size: 157, 27
+  orig: 157, 27
+  offset: 0, 0
+  index: -1
+s_w_fx_lights01b
+  rotate: false
+  xy: 371, 107
+  size: 160, 22
+  orig: 160, 22
+  offset: 0, 0
+  index: -1
+s_w_fx_lights02
+  rotate: true
+  xy: 448, 472
+  size: 125, 27
+  orig: 125, 27
+  offset: 0, 0
+  index: -1
+s_w_fx_lights02b
+  rotate: false
+  xy: 371, 83
+  size: 127, 22
+  orig: 127, 22
+  offset: 0, 0
+  index: -1
+s_w_handle
+  rotate: false
+  xy: 519, 439
+  size: 33, 34
+  orig: 35, 36
+  offset: 1, 1
+  index: -1
+s_w_handle2
+  rotate: false
+  xy: 519, 393
+  size: 14, 44
+  orig: 16, 46
+  offset: 1, 1
+  index: -1
+s_w_handle3
+  rotate: true
+  xy: 358, 33
+  size: 16, 11
+  orig: 18, 13
+  offset: 1, 1
+  index: -1
+s_w_handle4
+  rotate: true
+  xy: 499, 36
+  size: 18, 29
+  orig: 20, 31
+  offset: 1, 1
+  index: -1
+s_w_machine
+  rotate: false
+  xy: 2, 48
+  size: 173, 376
+  orig: 173, 376
+  offset: 0, 0
+  index: -1
+s_w_multiply
+  rotate: true
+  xy: 387, 459
+  size: 138, 59
+  orig: 138, 59
+  offset: 0, 0
+  index: -1
+s_w_ray
+  rotate: true
+  xy: 164, 427
+  size: 169, 221
+  orig: 169, 221
+  offset: 0, 0
+  index: -1
+s_w_reel
+  rotate: true
+  xy: 535, 402
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+s_w_wild
+  rotate: false
+  xy: 177, 51
+  size: 192, 106
+  orig: 200, 112
+  offset: 4, 3
+  index: -1

@@ -1,0 +1,27 @@
+
+swbx_bluegem.png
+size: 382,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_gem
+  rotate: true
+  xy: 145, 9
+  size: 151, 133
+  orig: 151, 147
+  offset: 0, 8
+  index: -1
+blue_gem_Ice
+  rotate: true
+  xy: 280, 9
+  size: 151, 102
+  orig: 152, 107
+  offset: 1, 5
+  index: -1
+file
+  rotate: true
+  xy: 0, 0
+  size: 160, 143
+  orig: 160, 143
+  offset: 0, 0
+  index: -1

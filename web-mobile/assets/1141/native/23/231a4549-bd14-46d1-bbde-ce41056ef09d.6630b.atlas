@@ -1,0 +1,495 @@
+
+tucl_bigwin.png
+size: 2046,1940
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/ground_crystals
+  rotate: true
+  xy: 1916, 1882
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+blue/ground_crystals1
+  rotate: true
+  xy: 2, 1868
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+blue/mega_crystal
+  rotate: true
+  xy: 1250, 445
+  size: 253, 408
+  orig: 269, 408
+  offset: 16, 0
+  index: -1
+blue/mega_crystal_copy
+  rotate: true
+  xy: 761, 299
+  size: 261, 406
+  orig: 269, 408
+  offset: 1, 1
+  index: -1
+cyan/mega_rays1
+  rotate: false
+  xy: 1652, 1601
+  size: 377, 154
+  orig: 412, 177
+  offset: 21, 11
+  index: -1
+cyan/mega_rays2
+  rotate: false
+  xy: 253, 401
+  size: 506, 236
+  orig: 606, 306
+  offset: 49, 25
+  index: -1
+green/ground_crystals3
+  rotate: false
+  xy: 1752, 1892
+  size: 85, 46
+  orig: 85, 46
+  offset: 0, 0
+  index: -1
+green/ground_crystals4
+  rotate: false
+  xy: 257, 1862
+  size: 111, 62
+  orig: 111, 62
+  offset: 0, 0
+  index: -1
+green/superb_base_crystal
+  rotate: false
+  xy: 928, 1896
+  size: 160, 42
+  orig: 571, 44
+  offset: 209, 0
+  index: -1
+green/superb_fx1
+  rotate: true
+  xy: 1246, 1496
+  size: 169, 293
+  orig: 196, 335
+  offset: 17, 24
+  index: -1
+magenta/frame_shadow
+  rotate: false
+  xy: 2, 1926
+  size: 478, 12
+  orig: 481, 14
+  offset: 1, 1
+  index: -1
+magenta/ground_crystals5
+  rotate: false
+  xy: 567, 1845
+  size: 118, 72
+  orig: 118, 72
+  offset: 0, 0
+  index: -1
+magenta/nice_rays1
+  rotate: false
+  xy: 2, 1434
+  size: 378, 170
+  orig: 449, 203
+  offset: 39, 8
+  index: -1
+magenta/nice_rays2
+  rotate: false
+  xy: 2, 127
+  size: 542, 272
+  orig: 606, 306
+  offset: 33, 14
+  index: -1
+red/base
+  rotate: false
+  xy: 2, 1737
+  size: 619, 106
+  orig: 621, 110
+  offset: 0, 4
+  index: -1
+red/base_design
+  rotate: false
+  xy: 1180, 1894
+  size: 570, 44
+  orig: 570, 44
+  offset: 0, 0
+  index: -1
+red/base_design_shadow
+  rotate: false
+  xy: 482, 1919
+  size: 282, 19
+  orig: 282, 19
+  offset: 0, 0
+  index: -1
+red/frame_shadow1
+  rotate: false
+  xy: 687, 1826
+  size: 602, 66
+  orig: 616, 78
+  offset: 6, 10
+  index: -1
+red/ground_crystals1_grass
+  rotate: false
+  xy: 90, 1863
+  size: 165, 61
+  orig: 185, 86
+  offset: 10, 19
+  index: -1
+red/ground_crystals3_grass
+  rotate: false
+  xy: 1475, 1793
+  size: 202, 99
+  orig: 221, 113
+  offset: 12, 8
+  index: -1
+red/ground_crystals4_grass
+  rotate: false
+  xy: 450, 1855
+  size: 115, 62
+  orig: 117, 69
+  offset: 1, 4
+  index: -1
+red/ground_crystals_grass
+  rotate: false
+  xy: 1090, 1895
+  size: 88, 43
+  orig: 91, 49
+  offset: 1, 4
+  index: -1
+red/mega_shadow
+  rotate: false
+  xy: 1279, 1667
+  size: 371, 124
+  orig: 371, 124
+  offset: 0, 0
+  index: -1
+red/nice_shadow
+  rotate: false
+  xy: 1679, 1757
+  size: 323, 123
+  orig: 323, 123
+  offset: 0, 0
+  index: -1
+red/particles_00001
+  rotate: false
+  xy: 2, 466
+  size: 249, 276
+  orig: 259, 353
+  offset: 2, 11
+  index: -1
+red/particles_00003
+  rotate: true
+  xy: 2, 980
+  size: 230, 287
+  orig: 259, 353
+  offset: 23, 10
+  index: -1
+red/particles_00005
+  rotate: true
+  xy: 2, 744
+  size: 234, 270
+  orig: 259, 353
+  offset: 21, 9
+  index: -1
+red/particles_00007
+  rotate: true
+  xy: 1723, 681
+  size: 239, 286
+  orig: 259, 353
+  offset: 18, 7
+  index: -1
+red/particles_00009
+  rotate: true
+  xy: 1535, 1170
+  size: 227, 304
+  orig: 259, 353
+  offset: 16, 7
+  index: -1
+red/particles_00011
+  rotate: true
+  xy: 1498, 938
+  size: 230, 305
+  orig: 259, 353
+  offset: 14, 8
+  index: -1
+red/particles_00013
+  rotate: true
+  xy: 922, 867
+  size: 233, 259
+  orig: 259, 353
+  offset: 12, 11
+  index: -1
+red/particles_00015
+  rotate: false
+  xy: 1447, 700
+  size: 274, 236
+  orig: 353, 259
+  offset: 65, 10
+  index: -1
+red/particles_00017
+  rotate: false
+  xy: 1805, 922
+  size: 239, 246
+  orig: 259, 353
+  offset: 8, 17
+  index: -1
+red/particles_00019
+  rotate: true
+  xy: 1002, 562
+  size: 242, 246
+  orig: 259, 353
+  offset: 6, 17
+  index: -1
+red/particles_00021
+  rotate: true
+  xy: 1183, 806
+  size: 233, 262
+  orig: 259, 353
+  offset: 16, 18
+  index: -1
+red/particles_00023
+  rotate: true
+  xy: 1254, 1041
+  size: 228, 242
+  orig: 259, 353
+  offset: 14, 21
+  index: -1
+red/particles_00025
+  rotate: false
+  xy: 776, 1326
+  size: 266, 216
+  orig: 353, 259
+  offset: 74, 28
+  index: -1
+red/particles_00027
+  rotate: false
+  xy: 1044, 1275
+  size: 237, 219
+  orig: 353, 259
+  offset: 99, 27
+  index: -1
+red/particles_00029
+  rotate: false
+  xy: 1283, 1271
+  size: 250, 223
+  orig: 353, 259
+  offset: 83, 26
+  index: -1
+red/sensational_base_crystal
+  rotate: false
+  xy: 766, 1896
+  size: 160, 42
+  orig: 571, 44
+  offset: 209, 0
+  index: -1
+red/sensational_fx3
+  rotate: true
+  xy: 1541, 1399
+  size: 200, 483
+  orig: 221, 534
+  offset: 10, 29
+  index: -1
+red/sensational_gem1
+  rotate: true
+  xy: 1169, 169
+  size: 274, 414
+  orig: 276, 415
+  offset: 1, 0
+  index: -1
+red/sensational_gem2_glow
+  rotate: true
+  xy: 1585, 32
+  size: 325, 357
+  orig: 382, 411
+  offset: 24, 33
+  index: -1
+red/sensational_gem3_glow
+  rotate: true
+  xy: 1660, 359
+  size: 320, 359
+  orig: 379, 410
+  offset: 31, 18
+  index: -1
+red/sensational_shadow
+  rotate: false
+  xy: 470, 1544
+  size: 774, 161
+  orig: 774, 161
+  offset: 0, 0
+  index: -1
+red/superb_shadow
+  rotate: false
+  xy: 2, 1606
+  size: 466, 129
+  orig: 466, 129
+  offset: 0, 0
+  index: -1
+yellow/base_grass
+  rotate: false
+  xy: 623, 1707
+  size: 654, 117
+  orig: 654, 120
+  offset: 0, 1
+  index: -1
+yellow/ground
+  rotate: false
+  xy: 372, 1102
+  size: 880, 171
+  orig: 914, 206
+  offset: 15, 0
+  index: -1
+yellow/ground_crystals2
+  rotate: false
+  xy: 370, 1860
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+yellow/ground_crystals2_grass
+  rotate: false
+  xy: 1839, 1888
+  size: 75, 50
+  orig: 77, 53
+  offset: 1, 1
+  index: -1
+yellow/ground_crystals5_grass
+  rotate: false
+  xy: 1291, 1811
+  size: 182, 81
+  orig: 218, 98
+  offset: 14, 10
+  index: -1
+yellow/mega
+  rotate: false
+  xy: 274, 639
+  size: 726, 226
+  orig: 726, 226
+  offset: 0, 0
+  index: -1
+yellow/nice
+  rotate: false
+  xy: 291, 875
+  size: 629, 225
+  orig: 629, 225
+  offset: 0, 0
+  index: -1
+yellow/sensational_fx2
+  rotate: false
+  xy: 382, 1331
+  size: 392, 211
+  orig: 421, 251
+  offset: 20, 18
+  index: -1
+yellow/sensational_gem
+  rotate: false
+  xy: 2, 1212
+  size: 368, 220
+  orig: 370, 223
+  offset: 1, 1
+  index: -1
+yellow/superb_fx2
+  rotate: true
+  xy: 546, 2
+  size: 295, 528
+  orig: 383, 674
+  offset: 58, 79
+  index: -1
+
+tucl_bigwin2.png
+size: 1906,1700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cyan/mega_rays
+  rotate: false
+  xy: 411, 328
+  size: 789, 263
+  orig: 845, 301
+  offset: 26, 16
+  index: -1
+green/superb_crystal
+  rotate: false
+  xy: 1535, 1286
+  size: 357, 412
+  orig: 357, 477
+  offset: 0, 65
+  index: -1
+green/superb_crystal1
+  rotate: true
+  xy: 1328, 453
+  size: 354, 475
+  orig: 357, 477
+  offset: 1, 1
+  index: -1
+green/superb_glow
+  rotate: true
+  xy: 1202, 103
+  size: 348, 352
+  orig: 422, 413
+  offset: 41, 28
+  index: -1
+green/superb_glow1
+  rotate: false
+  xy: 1556, 99
+  size: 348, 352
+  orig: 422, 413
+  offset: 41, 33
+  index: -1
+magenta/frame
+  rotate: false
+  xy: 411, 1135
+  size: 1081, 262
+  orig: 1120, 286
+  offset: 19, 0
+  index: -1
+magenta/nice_rays
+  rotate: false
+  xy: 411, 831
+  size: 913, 302
+  orig: 974, 341
+  offset: 31, 21
+  index: -1
+red/sensational_gem2
+  rotate: false
+  xy: 2, 2
+  size: 382, 400
+  orig: 382, 477
+  offset: 0, 77
+  index: -1
+red/sensational_gem3
+  rotate: false
+  xy: 1494, 809
+  size: 380, 475
+  orig: 382, 477
+  offset: 1, 1
+  index: -1
+yellow/sensational
+  rotate: false
+  xy: 2, 1399
+  size: 1531, 299
+  orig: 1531, 299
+  offset: 0, 0
+  index: -1
+yellow/sensational_fx
+  rotate: false
+  xy: 386, 17
+  size: 530, 309
+  orig: 601, 344
+  offset: 48, 14
+  index: -1
+yellow/superb
+  rotate: false
+  xy: 411, 593
+  size: 915, 236
+  orig: 915, 236
+  offset: 0, 0
+  index: -1
+yellow/superb_fx_bg
+  rotate: false
+  xy: 2, 404
+  size: 407, 993
+  orig: 452, 1060
+  offset: 25, 37
+  index: -1

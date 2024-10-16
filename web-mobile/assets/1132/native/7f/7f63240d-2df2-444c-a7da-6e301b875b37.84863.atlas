@@ -1,0 +1,531 @@
+
+s_wild.png
+size: 1284,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_sparkle_single
+  rotate: true
+  xy: 1106, 257
+  size: 28, 29
+  orig: 33, 34
+  offset: 3, 2
+  index: -1
+s_w_body
+  rotate: false
+  xy: 1106, 2
+  size: 117, 121
+  orig: 117, 121
+  offset: 0, 0
+  index: -1
+s_w_browL
+  rotate: false
+  xy: 649, 4
+  size: 20, 12
+  orig: 22, 14
+  offset: 1, 1
+  index: -1
+s_w_browR
+  rotate: true
+  xy: 688, 6
+  size: 10, 21
+  orig: 12, 23
+  offset: 1, 1
+  index: -1
+s_w_cap
+  rotate: true
+  xy: 1026, 285
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+s_w_capB
+  rotate: true
+  xy: 1129, 360
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+s_w_coatailL
+  rotate: false
+  xy: 1018, 83
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+s_w_coatailR
+  rotate: false
+  xy: 1106, 182
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+s_w_coatailR_shdw
+  rotate: true
+  xy: 1239, 370
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+s_w_collarB
+  rotate: false
+  xy: 168, 7
+  size: 155, 87
+  orig: 155, 87
+  offset: 0, 0
+  index: -1
+s_w_collarL
+  rotate: true
+  xy: 1226, 115
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+s_w_collarR
+  rotate: false
+  xy: 969, 285
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+s_w_earL
+  rotate: true
+  xy: 554, 10
+  size: 93, 67
+  orig: 93, 67
+  offset: 0, 0
+  index: -1
+s_w_earR
+  rotate: false
+  xy: 1138, 300
+  size: 140, 58
+  orig: 140, 58
+  offset: 0, 0
+  index: -1
+s_w_foreL
+  rotate: false
+  xy: 181, 274
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+s_w_foreLT
+  rotate: false
+  xy: 975, 6
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+s_w_foreR
+  rotate: false
+  xy: 1081, 287
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+s_w_ghostL
+  rotate: false
+  xy: 1006, 7
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+s_w_ghostR
+  rotate: false
+  xy: 937, 5
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+s_w_handL
+  rotate: true
+  xy: 1159, 125
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+s_w_handR
+  rotate: true
+  xy: 1090, 125
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+s_w_head
+  rotate: false
+  xy: 1138, 178
+  size: 131, 120
+  orig: 131, 120
+  offset: 0, 0
+  index: -1
+s_w_jacketL
+  rotate: true
+  xy: 325, 4
+  size: 94, 108
+  orig: 94, 108
+  offset: 0, 0
+  index: -1
+s_w_jacketR
+  rotate: true
+  xy: 435, 7
+  size: 93, 117
+  orig: 93, 117
+  offset: 0, 0
+  index: -1
+s_w_mouth
+  rotate: true
+  xy: 671, 4
+  size: 12, 15
+  orig: 14, 17
+  offset: 1, 1
+  index: -1
+s_w_pink1L
+  rotate: false
+  xy: 1018, 65
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+s_w_pink2L
+  rotate: true
+  xy: 898, 3
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+s_w_pinkR
+  rotate: true
+  xy: 916, 4
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+s_w_thumbL
+  rotate: false
+  xy: 1156, 360
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+txt_wild
+  rotate: true
+  xy: 2, 274
+  size: 247, 114
+  orig: 251, 118
+  offset: 2, 2
+  index: -1
+vfx/txt_wild_sparkl_000
+  rotate: false
+  xy: 2, 2
+  size: 164, 86
+  orig: 201, 94
+  offset: 17, 4
+  index: -1
+vfx/txt_wild_sparkl_001
+  rotate: false
+  xy: 623, 18
+  size: 164, 85
+  orig: 201, 94
+  offset: 17, 4
+  index: -1
+vfx/txt_wild_sparkl_002
+  rotate: true
+  xy: 663, 112
+  size: 164, 85
+  orig: 201, 94
+  offset: 17, 4
+  index: -1
+vfx/txt_wild_sparkl_003
+  rotate: true
+  xy: 750, 112
+  size: 164, 85
+  orig: 201, 94
+  offset: 17, 4
+  index: -1
+vfx/txt_wild_sparkl_004
+  rotate: true
+  xy: 874, 357
+  size: 164, 85
+  orig: 201, 94
+  offset: 17, 4
+  index: -1
+vfx/txt_wild_sparkl_005
+  rotate: true
+  xy: 786, 357
+  size: 164, 86
+  orig: 201, 94
+  offset: 17, 5
+  index: -1
+vfx/txt_wild_sparkl_006
+  rotate: false
+  xy: 852, 27
+  size: 164, 83
+  orig: 201, 94
+  offset: 17, 7
+  index: -1
+vfx/txt_wild_sparkl_007
+  rotate: false
+  xy: 637, 278
+  size: 164, 72
+  orig: 201, 94
+  offset: 17, 19
+  index: -1
+vfx/txt_wild_sparkl_008
+  rotate: false
+  xy: 471, 275
+  size: 164, 75
+  orig: 201, 94
+  offset: 17, 16
+  index: -1
+vfx/txt_wild_sparkl_009
+  rotate: true
+  xy: 1009, 119
+  size: 164, 79
+  orig: 201, 94
+  offset: 17, 12
+  index: -1
+vfx/txt_wild_sparkl_010
+  rotate: true
+  xy: 1048, 357
+  size: 164, 79
+  orig: 201, 94
+  offset: 17, 11
+  index: -1
+vfx/txt_wild_sparkl_011
+  rotate: false
+  xy: 803, 278
+  size: 164, 77
+  orig: 201, 94
+  offset: 17, 11
+  index: -1
+vfx/txt_wild_sparkl_012
+  rotate: true
+  xy: 707, 356
+  size: 165, 77
+  orig: 201, 94
+  offset: 17, 12
+  index: -1
+vfx/txt_wild_sparkl_013
+  rotate: true
+  xy: 321, 100
+  size: 172, 77
+  orig: 201, 94
+  offset: 15, 13
+  index: -1
+vfx/txt_wild_sparkl_014
+  rotate: true
+  xy: 277, 346
+  size: 175, 71
+  orig: 201, 94
+  offset: 13, 20
+  index: -1
+vfx/txt_wild_sparkl_015
+  rotate: true
+  xy: 350, 347
+  size: 174, 71
+  orig: 201, 94
+  offset: 13, 20
+  index: -1
+vfx/txt_wild_sparkl_016
+  rotate: true
+  xy: 505, 352
+  size: 169, 74
+  orig: 201, 94
+  offset: 15, 16
+  index: -1
+vfx/txt_wild_sparkl_017
+  rotate: false
+  xy: 237, 274
+  size: 169, 70
+  orig: 201, 94
+  offset: 17, 15
+  index: -1
+vfx/txt_wild_sparkl_018
+  rotate: true
+  xy: 400, 102
+  size: 170, 72
+  orig: 201, 94
+  offset: 17, 14
+  index: -1
+vfx/txt_wild_sparkl_019
+  rotate: true
+  xy: 82, 91
+  size: 181, 75
+  orig: 201, 94
+  offset: 6, 14
+  index: -1
+vfx/txt_wild_sparkl_020
+  rotate: true
+  xy: 2, 90
+  size: 182, 78
+  orig: 201, 94
+  offset: 5, 12
+  index: -1
+vfx/txt_wild_sparkl_021
+  rotate: true
+  xy: 118, 341
+  size: 180, 77
+  orig: 201, 94
+  offset: 5, 13
+  index: -1
+vfx/txt_wild_sparkl_022
+  rotate: true
+  xy: 159, 96
+  size: 176, 79
+  orig: 201, 94
+  offset: 5, 12
+  index: -1
+vfx/txt_wild_sparkl_023
+  rotate: true
+  xy: 197, 346
+  size: 175, 78
+  orig: 201, 94
+  offset: 6, 12
+  index: -1
+vfx/txt_wild_sparkl_024
+  rotate: true
+  xy: 240, 99
+  size: 173, 79
+  orig: 201, 94
+  offset: 8, 11
+  index: -1
+vfx/txt_wild_sparkl_025
+  rotate: true
+  xy: 423, 352
+  size: 169, 80
+  orig: 201, 94
+  offset: 12, 10
+  index: -1
+vfx/txt_wild_sparkl_026
+  rotate: true
+  xy: 924, 112
+  size: 164, 83
+  orig: 201, 94
+  offset: 17, 7
+  index: -1
+vfx/txt_wild_sparkl_027
+  rotate: true
+  xy: 961, 357
+  size: 164, 85
+  orig: 201, 94
+  offset: 17, 5
+  index: -1
+vfx/txt_wild_sparkl_028
+  rotate: true
+  xy: 837, 112
+  size: 164, 85
+  orig: 201, 94
+  offset: 17, 5
+  index: -1
+vfx/txt_wild_swipe_001
+  rotate: false
+  xy: 159, 93
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+vfx/txt_wild_swipe_002
+  rotate: true
+  xy: 623, 3
+  size: 13, 24
+  orig: 201, 94
+  offset: 20, 19
+  index: -1
+vfx/txt_wild_swipe_003
+  rotate: true
+  xy: 852, 3
+  size: 22, 44
+  orig: 201, 94
+  offset: 17, 19
+  index: -1
+vfx/txt_wild_swipe_004
+  rotate: true
+  xy: 1182, 361
+  size: 34, 55
+  orig: 201, 94
+  offset: 16, 19
+  index: -1
+vfx/txt_wild_swipe_005
+  rotate: true
+  xy: 408, 274
+  size: 71, 61
+  orig: 201, 94
+  offset: 16, 19
+  index: -1
+vfx/txt_wild_swipe_006
+  rotate: true
+  xy: 1043, 5
+  size: 112, 61
+  orig: 201, 94
+  offset: 16, 19
+  index: -1
+vfx/txt_wild_swipe_007
+  rotate: false
+  xy: 1129, 460
+  size: 153, 61
+  orig: 201, 94
+  offset: 16, 19
+  index: -1
+vfx/txt_wild_swipe_008
+  rotate: true
+  xy: 537, 105
+  size: 168, 61
+  orig: 201, 94
+  offset: 16, 19
+  index: -1
+vfx/txt_wild_swipe_009
+  rotate: true
+  xy: 581, 352
+  size: 169, 61
+  orig: 201, 94
+  offset: 16, 19
+  index: -1
+vfx/txt_wild_swipe_010
+  rotate: true
+  xy: 600, 105
+  size: 168, 61
+  orig: 201, 94
+  offset: 16, 19
+  index: -1
+vfx/txt_wild_swipe_011
+  rotate: true
+  xy: 474, 104
+  size: 169, 61
+  orig: 201, 94
+  offset: 16, 19
+  index: -1
+vfx/txt_wild_swipe_012
+  rotate: true
+  xy: 644, 354
+  size: 167, 61
+  orig: 201, 94
+  offset: 18, 19
+  index: -1
+vfx/txt_wild_swipe_013
+  rotate: false
+  xy: 1138, 397
+  size: 141, 61
+  orig: 201, 94
+  offset: 44, 19
+  index: -1
+vfx/txt_wild_swipe_014
+  rotate: true
+  xy: 789, 3
+  size: 107, 61
+  orig: 201, 94
+  offset: 78, 19
+  index: -1
+vfx/txt_wild_swipe_015
+  rotate: true
+  xy: 118, 274
+  size: 65, 61
+  orig: 201, 94
+  offset: 119, 19
+  index: -1
+vfx/txt_wild_swipe_016
+  rotate: false
+  xy: 1106, 215
+  size: 27, 40
+  orig: 201, 94
+  offset: 158, 39
+  index: -1

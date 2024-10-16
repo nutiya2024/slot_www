@@ -1,0 +1,167 @@
+
+buy_feature.png
+size: 1305,1040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buy_feature_2_split/red/base_fire_particles
+  rotate: true
+  xy: 777, 288
+  size: 750, 345
+  orig: 750, 345
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_1
+  rotate: true
+  xy: 1124, 422
+  size: 616, 46
+  orig: 616, 46
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_1_shadow
+  rotate: true
+  xy: 1172, 403
+  size: 265, 32
+  orig: 265, 32
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_1back_desing_01
+  rotate: true
+  xy: 1206, 516
+  size: 152, 86
+  orig: 152, 86
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_1back_desing_02
+  rotate: true
+  xy: 1125, 33
+  size: 152, 85
+  orig: 152, 87
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_1back_desing_03
+  rotate: true
+  xy: 1206, 362
+  size: 152, 87
+  orig: 152, 87
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_1back_desing_04
+  rotate: false
+  xy: 1067, 187
+  size: 152, 99
+  orig: 152, 99
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_2
+  rotate: false
+  xy: 2, 42
+  size: 645, 58
+  orig: 661, 58
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_2_shadow
+  rotate: false
+  xy: 159, 5
+  size: 273, 35
+  orig: 273, 35
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_3
+  rotate: false
+  xy: 1253, 713
+  size: 50, 325
+  orig: 51, 331
+  offset: 1, 0
+  index: -1
+buy_feature_2_split/red/main_frame_3_shadow
+  rotate: true
+  xy: 2, 2
+  size: 38, 155
+  orig: 39, 155
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_4
+  rotate: false
+  xy: 1172, 670
+  size: 79, 368
+  orig: 81, 380
+  offset: 1, 12
+  index: -1
+buy_feature_2_split/red/main_frame_4_shadow
+  rotate: false
+  xy: 1054, 2
+  size: 69, 143
+  orig: 72, 143
+  offset: 1, 0
+  index: -1
+buy_feature_2_split/red/main_frame_back_glow
+  rotate: false
+  xy: 2, 102
+  size: 750, 439
+  orig: 750, 439
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_bg
+  rotate: false
+  xy: 2, 543
+  size: 773, 495
+  orig: 773, 495
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_desing_01
+  rotate: false
+  xy: 754, 146
+  size: 156, 140
+  orig: 156, 140
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_desing_01_Shadow
+  rotate: false
+  xy: 1205, 290
+  size: 76, 70
+  orig: 77, 70
+  offset: 1, 0
+  index: -1
+buy_feature_2_split/red/main_frame_desing_02
+  rotate: false
+  xy: 912, 147
+  size: 153, 139
+  orig: 153, 139
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_desing_02_shadow
+  rotate: true
+  xy: 1124, 320
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+buy_feature_2_split/red/main_frame_desing_03_shadow
+  rotate: false
+  xy: 649, 18
+  size: 87, 82
+  orig: 87, 83
+  offset: 0, 1
+  index: -1
+buy_feature_2_split/red/main_frame_desing_04_shadow
+  rotate: true
+  xy: 1221, 212
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+buy_feature_3_split/yellow/main_frame_desing_03
+  rotate: true
+  xy: 754, 2
+  size: 142, 148
+  orig: 142, 148
+  offset: 0, 0
+  index: -1
+buy_feature_3_split/yellow/main_frame_desing_04
+  rotate: false
+  xy: 904, 2
+  size: 148, 142
+  orig: 148, 142
+  offset: 0, 0
+  index: -1

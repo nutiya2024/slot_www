@@ -1,0 +1,55 @@
+
+5182900dd28ca584d80e1395e03fee39.png
+size: 1304,968
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_ardei_bigwin_00000
+  rotate: false
+  xy: 1026, 120
+  size: 251, 274
+  orig: 873, 562
+  offset: -11, -14
+  index: -1
+s_cornerPatchesLandscape
+  rotate: false
+  xy: 1166, 636
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+s_jackpot_minor
+  rotate: false
+  xy: 0, 578
+  size: 1164, 194
+  orig: 1165, 204
+  offset: 1, -5
+  index: -1
+s_jackpot_grand
+  rotate: false
+  xy: 0, 396
+  size: 1198, 180
+  orig: 1200, 215
+  offset: -1, -13
+  index: -1
+s_jackpot_major
+  rotate: false
+  xy: 0, 774
+  size: 1190, 194
+  orig: 1191, 229
+  offset: 1, -2
+  index: -1
+s_jackpot_mini
+  rotate: false
+  xy: 0, 204
+  size: 1024, 190
+  orig: 1026, 201
+  offset: 1, -6
+  index: -1
+s_jackpot_single
+  rotate: false
+  xy: 0, 2
+  size: 819, 200
+  orig: 855, 238
+  offset: -3, -6
+  index: -1

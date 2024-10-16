@@ -1,0 +1,237 @@
+
+stpr_lv2.png
+size: 2017,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 0, 134
+  size: 236, 248
+  orig: 236, 248
+  offset: 0, 0
+  index: -1
+front_snow
+  rotate: true
+  xy: 1084, 3
+  size: 195, 108
+  orig: 195, 108
+  offset: 0, 0
+  index: -1
+hit_00018
+  rotate: true
+  xy: 0, 384
+  size: 266, 253
+  orig: 266, 253
+  offset: 0, 0
+  index: -1
+particle_00000
+  rotate: true
+  xy: 153, 3
+  size: 129, 150
+  orig: 160, 167
+  offset: 14, 9
+  index: -1
+particle_00002
+  rotate: true
+  xy: 0, 1
+  size: 131, 151
+  orig: 160, 167
+  offset: 13, 9
+  index: -1
+particle_00004
+  rotate: false
+  xy: 737, 41
+  size: 122, 152
+  orig: 160, 167
+  offset: 14, 8
+  index: -1
+particle_00006
+  rotate: false
+  xy: 1194, 52
+  size: 124, 146
+  orig: 160, 167
+  offset: 14, 10
+  index: -1
+particle_00008
+  rotate: true
+  xy: 435, 1
+  size: 148, 126
+  orig: 167, 160
+  offset: 9, 20
+  index: -1
+particle_00010
+  rotate: false
+  xy: 305, 0
+  size: 128, 149
+  orig: 160, 167
+  offset: 14, 9
+  index: -1
+rays_00000
+  rotate: false
+  xy: 1263, 203
+  size: 215, 222
+  orig: 327, 350
+  offset: 57, 71
+  index: -1
+rays_00002
+  rotate: false
+  xy: 846, 199
+  size: 215, 224
+  orig: 327, 350
+  offset: 57, 70
+  index: -1
+rays_00004
+  rotate: false
+  xy: 851, 426
+  size: 215, 224
+  orig: 327, 350
+  offset: 57, 69
+  index: -1
+rays_00006
+  rotate: false
+  xy: 1271, 428
+  size: 215, 222
+  orig: 327, 350
+  offset: 57, 72
+  index: -1
+rays_00008
+  rotate: false
+  xy: 1692, 433
+  size: 214, 217
+  orig: 327, 350
+  offset: 57, 73
+  index: -1
+rays_00009
+  rotate: false
+  xy: 1684, 209
+  size: 215, 219
+  orig: 327, 350
+  offset: 57, 72
+  index: -1
+shadow
+  rotate: false
+  xy: 1908, 541
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+snow_drop
+  rotate: false
+  xy: 238, 137
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+snowfall_0111
+  rotate: false
+  xy: 255, 386
+  size: 31, 33
+  orig: 211, 241
+  offset: 30, 207
+  index: -1
+snowfall_01110
+  rotate: true
+  xy: 1540, 1
+  size: 203, 214
+  orig: 211, 241
+  offset: 2, 12
+  index: -1
+snowfall_01111
+  rotate: false
+  xy: 1488, 430
+  size: 202, 220
+  orig: 211, 241
+  offset: 4, 6
+  index: -1
+snowfall_01112
+  rotate: false
+  xy: 1063, 200
+  size: 198, 224
+  orig: 211, 241
+  offset: 8, 2
+  index: -1
+snowfall_01113
+  rotate: false
+  xy: 649, 425
+  size: 200, 225
+  orig: 211, 241
+  offset: 7, 1
+  index: -1
+snowfall_01114
+  rotate: true
+  xy: 1320, 0
+  size: 201, 218
+  orig: 211, 241
+  offset: 6, 8
+  index: -1
+snowfall_01115
+  rotate: false
+  xy: 861, 1
+  size: 221, 196
+  orig: 241, 211
+  offset: 15, 6
+  index: -1
+snowfall_0112
+  rotate: false
+  xy: 441, 191
+  size: 199, 228
+  orig: 211, 241
+  offset: 6, 9
+  index: -1
+snowfall_0113
+  rotate: false
+  xy: 238, 151
+  size: 201, 231
+  orig: 211, 241
+  offset: 6, 2
+  index: -1
+snowfall_0114
+  rotate: false
+  xy: 1480, 206
+  size: 202, 220
+  orig: 211, 241
+  offset: 5, 7
+  index: -1
+snowfall_0115
+  rotate: false
+  xy: 1068, 427
+  size: 201, 223
+  orig: 211, 241
+  offset: 5, 3
+  index: -1
+snowfall_0116
+  rotate: false
+  xy: 448, 422
+  size: 199, 228
+  orig: 211, 241
+  offset: 4, 5
+  index: -1
+snowfall_0117
+  rotate: false
+  xy: 255, 421
+  size: 191, 229
+  orig: 211, 241
+  offset: 3, 1
+  index: -1
+snowfall_0118
+  rotate: false
+  xy: 642, 195
+  size: 202, 225
+  orig: 211, 241
+  offset: 2, 1
+  index: -1
+snowfall_0119
+  rotate: true
+  xy: 1756, 4
+  size: 203, 209
+  orig: 211, 241
+  offset: 2, 17
+  index: -1
+star_spk
+  rotate: true
+  xy: 563, 4
+  size: 185, 172
+  orig: 185, 172
+  offset: 0, 0
+  index: -1

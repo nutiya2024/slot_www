@@ -1,0 +1,132 @@
+
+cabl_pic9_blue_striped.png
+size: 331,1018
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic9
+  rotate: false
+  xy: 160, 229
+  size: 163, 162
+  orig: 163, 162
+  offset: 0, 0
+  index: -1
+pic9_highlight
+  rotate: false
+  xy: 199, 110
+  size: 115, 117
+  orig: 119, 118
+  offset: 1, 1
+  index: -1
+pic9_strip
+  rotate: false
+  xy: 84, 65
+  size: 113, 162
+  orig: 113, 162
+  offset: 0, 0
+  index: -1
+pic_01_splash_00001
+  rotate: false
+  xy: 84, 0
+  size: 151, 63
+  orig: 296, 97
+  offset: 73, 7
+  index: -1
+pic_01_splash_00002
+  rotate: true
+  xy: 80, 350
+  size: 201, 78
+  orig: 296, 97
+  offset: 48, 8
+  index: -1
+pic_01_splash_00003
+  rotate: true
+  xy: 0, 4
+  size: 233, 82
+  orig: 296, 97
+  offset: 32, 11
+  index: -1
+pic_01_splash_00004
+  rotate: true
+  xy: 218, 573
+  size: 245, 78
+  orig: 296, 97
+  offset: 26, 17
+  index: -1
+pic_01_splash_00005
+  rotate: true
+  xy: 139, 563
+  size: 255, 77
+  orig: 296, 97
+  offset: 21, 18
+  index: -1
+pic_01_splash_00006
+  rotate: true
+  xy: 63, 553
+  size: 265, 74
+  orig: 296, 97
+  offset: 16, 20
+  index: -1
+pic_01_splash_00007
+  rotate: false
+  xy: 0, 820
+  size: 275, 70
+  orig: 296, 97
+  offset: 11, 20
+  index: -1
+pic_01_splash_00008
+  rotate: true
+  xy: 0, 537
+  size: 281, 61
+  orig: 296, 97
+  offset: 8, 25
+  index: -1
+pic_01_splash_00009
+  rotate: false
+  xy: 0, 892
+  size: 287, 62
+  orig: 296, 97
+  offset: 5, 17
+  index: -1
+pic_01_splash_00010
+  rotate: false
+  xy: 0, 956
+  size: 290, 62
+  orig: 296, 97
+  offset: 3, 9
+  index: -1
+pic_01_splash_00011
+  rotate: true
+  xy: 0, 239
+  size: 296, 44
+  orig: 296, 97
+  offset: 0, 5
+  index: -1
+pic_01_splash_00012
+  rotate: true
+  xy: 46, 246
+  size: 289, 32
+  orig: 296, 97
+  offset: 4, 5
+  index: -1
+pic_1_shadow1
+  rotate: false
+  xy: 237, 8
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+pic_9_stroke
+  rotate: true
+  xy: 160, 393
+  size: 168, 166
+  orig: 168, 166
+  offset: 0, 0
+  index: -1
+sparks
+  rotate: false
+  xy: 80, 278
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1

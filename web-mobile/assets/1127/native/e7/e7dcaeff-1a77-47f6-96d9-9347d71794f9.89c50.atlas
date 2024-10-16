@@ -1,0 +1,27 @@
+
+h_dice_a_atlas_symbols.png
+size: 281,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_dice_01
+  rotate: false
+  xy: 174, 103
+  size: 105, 111
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+h_dice_02
+  rotate: false
+  xy: 174, 2
+  size: 104, 99
+  orig: 104, 99
+  offset: 0, 0
+  index: -1
+h_dice_shdw
+  rotate: false
+  xy: 2, 40
+  size: 170, 174
+  orig: 175, 183
+  offset: 2, 2
+  index: -1

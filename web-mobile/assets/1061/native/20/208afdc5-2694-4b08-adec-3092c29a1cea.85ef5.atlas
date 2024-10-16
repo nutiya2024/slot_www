@@ -1,0 +1,257 @@
+
+long37.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beimain_3
+  rotate: true
+  xy: 455, 26
+  size: 384, 1360
+  orig: 384, 1360
+  offset: 0, 0
+  index: -1
+beimian_1
+  rotate: false
+  xy: 1, 411
+  size: 706, 1629
+  orig: 706, 1629
+  offset: 0, 0
+  index: -1
+beimian_2
+  rotate: false
+  xy: 1169, 425
+  size: 495, 491
+  orig: 495, 491
+  offset: 0, 0
+  index: -1
+beimian_4
+  rotate: false
+  xy: 1816, 122
+  size: 219, 424
+  orig: 219, 424
+  offset: 0, 0
+  index: -1
+beimiao_a1
+  rotate: false
+  xy: 1092, 917
+  size: 664, 1123
+  orig: 664, 1123
+  offset: 0, 0
+  index: -1
+beimiao_a2
+  rotate: false
+  xy: 708, 896
+  size: 383, 1144
+  orig: 383, 1144
+  offset: 0, 0
+  index: -1
+beimiao_a3
+  rotate: true
+  xy: 1922, 1008
+  size: 282, 113
+  orig: 282, 113
+  offset: 0, 0
+  index: -1
+long_beihoumao_1
+  rotate: false
+  xy: 1757, 1489
+  size: 172, 284
+  orig: 172, 284
+  offset: 0, 0
+  index: -1
+long_beimao_2
+  rotate: false
+  xy: 1665, 547
+  size: 335, 369
+  orig: 335, 369
+  offset: 0, 0
+  index: -1
+long_huxu_l
+  rotate: true
+  xy: 1757, 946
+  size: 344, 164
+  orig: 344, 164
+  offset: 0, 0
+  index: -1
+long_meimao
+  rotate: true
+  xy: 1930, 1491
+  size: 282, 103
+  orig: 282, 103
+  offset: 0, 0
+  index: -1
+long_toufahou
+  rotate: true
+  xy: 1, 14
+  size: 396, 453
+  orig: 396, 453
+  offset: 0, 0
+  index: -1
+long_toufaqian
+  rotate: true
+  xy: 708, 469
+  size: 426, 460
+  orig: 426, 460
+  offset: 0, 0
+  index: -1
+long_xiashenzuotui
+  rotate: true
+  xy: 1816, 1
+  size: 120, 224
+  orig: 120, 224
+  offset: 0, 0
+  index: -1
+long_youshou
+  rotate: false
+  xy: 1757, 1774
+  size: 256, 266
+  orig: 256, 266
+  offset: 0, 0
+  index: -1
+long_youshoujianmao_2
+  rotate: false
+  xy: 708, 412
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+long_youshouzhi_3
+  rotate: true
+  xy: 782, 420
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+long_youshouzhi_4
+  rotate: true
+  xy: 1104, 430
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+long_youshouzhi_5
+  rotate: true
+  xy: 843, 420
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+long_youtui
+  rotate: false
+  xy: 1926, 1309
+  size: 112, 179
+  orig: 112, 179
+  offset: 0, 0
+  index: -1
+long_zuobi
+  rotate: true
+  xy: 1757, 1291
+  size: 197, 168
+  orig: 197, 168
+  offset: 0, 0
+  index: -1
+long_zuoshou
+  rotate: true
+  xy: 1922, 924
+  size: 83, 95
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+long_zuoshou_1
+  rotate: true
+  xy: 954, 427
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+long_zuoshou_2
+  rotate: false
+  xy: 1010, 427
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+long_zuoshou_3
+  rotate: true
+  xy: 2001, 881
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+long_zuoshou_4
+  rotate: true
+  xy: 897, 427
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+long_zuoshou_5
+  rotate: true
+  xy: 1057, 428
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+long_zuoshoumao_2
+  rotate: false
+  xy: 1665, 436
+  size: 118, 110
+  orig: 118, 110
+  offset: 0, 0
+  index: -1
+
+long372.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long_huxu_r
+  rotate: false
+  xy: 1, 67
+  size: 344, 164
+  orig: 344, 164
+  offset: 0, 0
+  index: -1
+long_longmao_3
+  rotate: false
+  xy: 604, 516
+  size: 76, 292
+  orig: 76, 292
+  offset: 0, 0
+  index: -1
+long_tou
+  rotate: false
+  xy: 1, 232
+  size: 602, 576
+  orig: 602, 576
+  offset: 0, 0
+  index: -1
+long_youshoujianmao
+  rotate: false
+  xy: 346, 173
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+long_youshouzhi_1
+  rotate: false
+  xy: 604, 455
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+long_youshouzhi_2
+  rotate: false
+  xy: 681, 747
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+long_zuoshoujianmao
+  rotate: false
+  xy: 1, 1
+  size: 166, 65
+  orig: 166, 65
+  offset: 0, 0
+  index: -1

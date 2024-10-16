@@ -1,0 +1,223 @@
+
+Symbol_wild_logo.png
+size: 560,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10X
+  rotate: true
+  xy: 433, 156
+  size: 170, 120
+  orig: 172, 122
+  offset: 1, 1
+  index: -1
+10X-2
+  rotate: true
+  xy: 312, 81
+  size: 196, 88
+  orig: 204, 90
+  offset: 7, 1
+  index: -1
+BG
+  rotate: true
+  xy: 2, 72
+  size: 449, 67
+  orig: 452, 69
+  offset: 2, 1
+  index: -1
+Q1
+  rotate: false
+  xy: 71, 75
+  size: 239, 201
+  orig: 241, 203
+  offset: 1, 1
+  index: -1
+Q2
+  rotate: true
+  xy: 71, 278
+  size: 243, 207
+  orig: 245, 209
+  offset: 1, 1
+  index: -1
+S
+  rotate: false
+  xy: 343, 421
+  size: 214, 100
+  orig: 216, 102
+  offset: 1, 1
+  index: -1
+T1
+  rotate: false
+  xy: 280, 487
+  size: 15, 13
+  orig: 19, 17
+  offset: 2, 2
+  index: -1
+T10
+  rotate: true
+  xy: 60, 3
+  size: 67, 57
+  orig: 80, 66
+  offset: 6, 8
+  index: -1
+T11
+  rotate: true
+  xy: 287, 4
+  size: 69, 54
+  orig: 79, 58
+  offset: 3, 3
+  index: -1
+T12
+  rotate: true
+  xy: 119, 2
+  size: 71, 52
+  orig: 79, 63
+  offset: 5, 10
+  index: -1
+T13
+  rotate: true
+  xy: 173, 2
+  size: 71, 51
+  orig: 86, 60
+  offset: 3, 8
+  index: -1
+T14
+  rotate: true
+  xy: 2, 2
+  size: 68, 56
+  orig: 84, 65
+  offset: 9, 8
+  index: -1
+T15
+  rotate: false
+  xy: 466, 104
+  size: 90, 50
+  orig: 98, 64
+  offset: 1, 13
+  index: -1
+T16
+  rotate: false
+  xy: 343, 16
+  size: 63, 63
+  orig: 74, 73
+  offset: 5, 9
+  index: -1
+T17
+  rotate: true
+  xy: 467, 44
+  size: 58, 56
+  orig: 63, 58
+  offset: 4, 1
+  index: -1
+T18
+  rotate: true
+  xy: 280, 430
+  size: 54, 60
+  orig: 63, 62
+  offset: 3, 1
+  index: -1
+T19
+  rotate: true
+  xy: 280, 279
+  size: 47, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+T2
+  rotate: false
+  xy: 312, 486
+  size: 29, 35
+  orig: 36, 37
+  offset: 3, 1
+  index: -1
+T20
+  rotate: true
+  xy: 467, 3
+  size: 39, 55
+  orig: 48, 62
+  offset: 3, 1
+  index: -1
+T21
+  rotate: false
+  xy: 525, 50
+  size: 33, 52
+  orig: 46, 54
+  offset: 6, 1
+  index: -1
+T22
+  rotate: false
+  xy: 402, 246
+  size: 24, 36
+  orig: 35, 39
+  offset: 5, 1
+  index: -1
+T23
+  rotate: false
+  xy: 297, 489
+  size: 13, 11
+  orig: 18, 18
+  offset: 3, 2
+  index: -1
+T3
+  rotate: false
+  xy: 398, 284
+  size: 33, 42
+  orig: 54, 44
+  offset: 1, 1
+  index: -1
+T4
+  rotate: true
+  xy: 280, 348
+  size: 36, 60
+  orig: 54, 62
+  offset: 1, 1
+  index: -1
+T5
+  rotate: true
+  xy: 333, 283
+  size: 43, 63
+  orig: 49, 65
+  offset: 1, 1
+  index: -1
+T6
+  rotate: true
+  xy: 280, 386
+  size: 42, 60
+  orig: 65, 62
+  offset: 1, 1
+  index: -1
+T7
+  rotate: false
+  xy: 226, 4
+  size: 59, 69
+  orig: 71, 72
+  offset: 3, 1
+  index: -1
+T8
+  rotate: true
+  xy: 402, 91
+  size: 63, 62
+  orig: 72, 64
+  offset: 5, 1
+  index: -1
+T9
+  rotate: true
+  xy: 408, 26
+  size: 63, 57
+  orig: 68, 62
+  offset: 1, 4
+  index: -1
+TX
+  rotate: true
+  xy: 280, 502
+  size: 19, 21
+  orig: 33, 30
+  offset: 2, 5
+  index: -1
+X
+  rotate: false
+  xy: 343, 328
+  size: 214, 91
+  orig: 216, 94
+  offset: 1, 1
+  index: -1

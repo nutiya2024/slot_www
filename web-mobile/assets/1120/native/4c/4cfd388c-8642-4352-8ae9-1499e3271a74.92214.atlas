@@ -1,0 +1,27 @@
+
+swbx_greengem.png
+size: 362,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+file
+  rotate: false
+  xy: 0, 3
+  size: 160, 143
+  orig: 160, 143
+  offset: 0, 0
+  index: -1
+green_gem
+  rotate: true
+  xy: 162, 15
+  size: 131, 121
+  orig: 131, 121
+  offset: 0, 0
+  index: -1
+green_gem_ice
+  rotate: true
+  xy: 285, 0
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1

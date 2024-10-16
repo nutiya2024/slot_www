@@ -1,0 +1,55 @@
+
+dhme_selection_screen_right.png
+size: 935,935
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bird_1
+  rotate: false
+  xy: 513, 141
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+button
+  rotate: true
+  xy: 513, 205
+  size: 170, 156
+  orig: 170, 156
+  offset: 0, 0
+  index: -1
+button_2
+  rotate: false
+  xy: 513, 93
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+rays
+  rotate: false
+  xy: 0, 398
+  size: 538, 537
+  orig: 538, 537
+  offset: 0, 0
+  index: -1
+stars
+  rotate: true
+  xy: 0, 46
+  size: 350, 511
+  orig: 350, 511
+  offset: 0, 0
+  index: -1
+stem_02
+  rotate: true
+  xy: 540, 377
+  size: 75, 391
+  orig: 75, 391
+  offset: 0, 0
+  index: -1
+wood_banner
+  rotate: false
+  xy: 540, 454
+  size: 395, 481
+  orig: 395, 481
+  offset: 0, 0
+  index: -1

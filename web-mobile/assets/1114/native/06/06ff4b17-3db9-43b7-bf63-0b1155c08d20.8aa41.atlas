@@ -1,0 +1,55 @@
+
+moshichufa.png
+size: 1284,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bonus_Game_bow2
+  rotate: false
+  xy: 217, 12
+  size: 229, 196
+  orig: 230, 196
+  offset: 0, 0
+  index: -1
+FREERESPIN
+  rotate: false
+  xy: 683, 24
+  size: 601, 91
+  orig: 611, 92
+  offset: 9, 0
+  index: -1
+Star_11
+  rotate: false
+  xy: 0, 0
+  size: 215, 208
+  orig: 227, 228
+  offset: 6, 10
+  index: -1
+WinMore_LT_05
+  rotate: false
+  xy: 580, 14
+  size: 101, 101
+  orig: 102, 103
+  offset: 0, 1
+  index: -1
+XTREMERESPIN
+  rotate: false
+  xy: 580, 117
+  size: 678, 91
+  orig: 681, 92
+  offset: 1, 0
+  index: -1
+light_010
+  rotate: false
+  xy: 448, 28
+  size: 104, 37
+  orig: 104, 37
+  offset: 0, 0
+  index: -1
+shinning_light
+  rotate: true
+  xy: 448, 67
+  size: 141, 130
+  orig: 142, 133
+  offset: 0, 2
+  index: -1

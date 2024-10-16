@@ -1,0 +1,13 @@
+
+medicine.png
+size: 169,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bd
+  rotate: false
+  xy: 2, 45
+  size: 165, 120
+  orig: 165, 120
+  offset: 0, 0
+  index: -1

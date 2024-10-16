@@ -1,0 +1,125 @@
+
+woman.png
+size: 1570,1568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b
+  rotate: true
+  xy: 1065, 460
+  size: 534, 463
+  orig: 534, 463
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 316
+  size: 863, 1046
+  orig: 863, 1046
+  offset: 0, 0
+  index: -1
+er
+  rotate: true
+  xy: 429, 2
+  size: 41, 76
+  orig: 41, 76
+  offset: 0, 0
+  index: -1
+f1
+  rotate: true
+  xy: 1137, 243
+  size: 215, 426
+  orig: 215, 426
+  offset: 0, 0
+  index: -1
+f2
+  rotate: true
+  xy: 2, 23
+  size: 291, 425
+  orig: 291, 425
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 1065, 262
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+f4
+  rotate: true
+  xy: 689, 51
+  size: 263, 374
+  orig: 263, 374
+  offset: 0, 0
+  index: -1
+f5
+  rotate: true
+  xy: 1131, 17
+  size: 224, 389
+  orig: 224, 389
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 1181
+  size: 1049, 385
+  orig: 1049, 385
+  offset: 0, 0
+  index: -1
+j1
+  rotate: false
+  xy: 507, 16
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+j2
+  rotate: true
+  xy: 1545, 1531
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+k
+  rotate: true
+  xy: 1053, 996
+  size: 570, 490
+  orig: 570, 490
+  offset: 0, 0
+  index: -1
+k2
+  rotate: true
+  xy: 1545, 1110
+  size: 419, 21
+  orig: 419, 21
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 429, 45
+  size: 258, 269
+  orig: 258, 269
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 1050, 337
+  size: 121, 85
+  orig: 121, 85
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 1065, 196
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 689, 2
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+S04.png
+size: 421,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S04_2_split/blue/metal_part_1
+  rotate: true
+  xy: 223, 223
+  size: 98, 137
+  orig: 98, 137
+  offset: 0, 0
+  index: -1
+S04_2_split/blue/metal_part_3
+  rotate: false
+  xy: 226, 535
+  size: 193, 114
+  orig: 203, 116
+  offset: 9, 2
+  index: -1
+S04_2_split/blue/symbol_shadow_1
+  rotate: true
+  xy: 362, 122
+  size: 134, 56
+  orig: 134, 56
+  offset: 0, 0
+  index: -1
+S04_3_split/yellow/gold_part_1
+  rotate: false
+  xy: 223, 323
+  size: 146, 80
+  orig: 147, 80
+  offset: 1, 0
+  index: -1
+S04_3_split/yellow/gold_part_5
+  rotate: false
+  xy: 228, 766
+  size: 180, 124
+  orig: 180, 131
+  offset: 0, 7
+  index: -1
+S04_3_split/yellow/nice_particlas
+  rotate: true
+  xy: 347, 33
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+S04_3_split/yellow/spark_00007
+  rotate: false
+  xy: 228, 651
+  size: 180, 113
+  orig: 252, 186
+  offset: 11, 35
+  index: -1
+S04_3_split/yellow/spark_00009
+  rotate: false
+  xy: 225, 405
+  size: 192, 128
+  orig: 252, 186
+  offset: 12, 29
+  index: -1
+S04_3_split/yellow/spark_00011
+  rotate: true
+  xy: 214, 23
+  size: 198, 131
+  orig: 252, 186
+  offset: 12, 28
+  index: -1
+S04_3_split/yellow/spark_00013
+  rotate: false
+  xy: 2, 158
+  size: 210, 133
+  orig: 252, 186
+  offset: 13, 28
+  index: -1
+S04_4_split/red/cloth_1
+  rotate: true
+  xy: 78, 76
+  size: 80, 129
+  orig: 80, 129
+  offset: 0, 0
+  index: -1
+S04_4_split/red/cloth_2
+  rotate: false
+  xy: 2, 896
+  size: 240, 146
+  orig: 242, 164
+  offset: 2, 0
+  index: -1
+S04_4_split/red/gold_part_2
+  rotate: true
+  xy: 2, 127
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+S04_4_split/red/gold_part_3
+  rotate: true
+  xy: 244, 892
+  size: 150, 167
+  orig: 151, 167
+  offset: 1, 0
+  index: -1
+S04_4_split/red/gold_part_4
+  rotate: false
+  xy: 371, 258
+  size: 47, 145
+  orig: 47, 153
+  offset: 0, 0
+  index: -1
+S04_4_split/red/gold_part_6
+  rotate: true
+  xy: 347, 78
+  size: 42, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+S04_4_split/red/spark_00015
+  rotate: false
+  xy: 2, 293
+  size: 219, 135
+  orig: 252, 186
+  offset: 15, 28
+  index: -1
+S04_4_split/red/spark_00017
+  rotate: false
+  xy: 2, 535
+  size: 222, 135
+  orig: 252, 186
+  offset: 16, 29
+  index: -1
+S04_4_split/red/spark_00019
+  rotate: false
+  xy: 2, 782
+  size: 224, 112
+  orig: 252, 186
+  offset: 18, 32
+  index: -1
+S04_4_split/red/spark_00021
+  rotate: false
+  xy: 2, 672
+  size: 224, 108
+  orig: 252, 186
+  offset: 19, 35
+  index: -1
+S04_4_split/red/spark_00023
+  rotate: false
+  xy: 2, 430
+  size: 221, 103
+  orig: 252, 186
+  offset: 22, 42
+  index: -1
+S04_4_split/red/spark_00025
+  rotate: true
+  xy: 2, 2
+  size: 118, 74
+  orig: 252, 186
+  offset: 78, 71
+  index: -1
+S04_split/cyan/metal_part_2
+  rotate: true
+  xy: 78, 38
+  size: 36, 90
+  orig: 36, 90
+  offset: 0, 0
+  index: -1

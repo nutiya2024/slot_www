@@ -1,0 +1,479 @@
+
+bg_fs_idle.png
+size: 2046,2046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_fs_idle_2_split/blue/c
+  rotate: false
+  xy: 305, 1941
+  size: 233, 103
+  orig: 242, 107
+  offset: 4, 4
+  index: -1
+bg_fs_idle_2_split/blue/cloud_02
+  rotate: false
+  xy: 903, 410
+  size: 958, 242
+  orig: 966, 245
+  offset: 0, 3
+  index: -1
+bg_fs_idle_2_split/blue/cloud_05
+  rotate: false
+  xy: 973, 1888
+  size: 357, 156
+  orig: 357, 156
+  offset: 0, 0
+  index: -1
+bg_fs_idle_3_split/cyan/cloud_06
+  rotate: false
+  xy: 2, 198
+  size: 490, 270
+  orig: 490, 270
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/dust_00002
+  rotate: false
+  xy: 1805, 1622
+  size: 239, 258
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/dust_00004
+  rotate: true
+  xy: 554, 995
+  size: 244, 258
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/dust_00006
+  rotate: true
+  xy: 1334, 912
+  size: 251, 258
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/dust_00008
+  rotate: true
+  xy: 1033, 704
+  size: 256, 258
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/dust_00010
+  rotate: true
+  xy: 515, 738
+  size: 255, 258
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/dust_00012
+  rotate: true
+  xy: 256, 778
+  size: 253, 257
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/dust_00014
+  rotate: false
+  xy: 2, 519
+  size: 257, 257
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/dust_00016
+  rotate: false
+  xy: 1293, 654
+  size: 260, 256
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/dust_00018
+  rotate: true
+  xy: 775, 727
+  size: 255, 256
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/dust_00020
+  rotate: true
+  xy: 814, 984
+  size: 247, 258
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/dust_00022
+  rotate: true
+  xy: 1074, 962
+  size: 247, 258
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/dust_00024
+  rotate: true
+  xy: 1594, 912
+  size: 251, 260
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/dust_00026
+  rotate: true
+  xy: 2, 1515
+  size: 234, 259
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/dust_00028
+  rotate: true
+  xy: 1762, 1385
+  size: 235, 258
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/ember_00020
+  rotate: true
+  xy: 1555, 654
+  size: 256, 314
+  orig: 379, 336
+  offset: 27, 2
+  index: -1
+bg_fs_idle_4_split/red/ember_00022
+  rotate: true
+  xy: 261, 470
+  size: 266, 316
+  orig: 379, 336
+  offset: 28, 2
+  index: -1
+bg_fs_idle_4_split/red/ember_00024
+  rotate: true
+  xy: 579, 451
+  size: 274, 322
+  orig: 379, 336
+  offset: 29, 0
+  index: -1
+bg_fs_idle_4_split/red/ember_00026
+  rotate: true
+  xy: 494, 147
+  size: 302, 322
+  orig: 379, 336
+  offset: 10, 4
+  index: -1
+bg_fs_idle_4_split/red/ember_00028
+  rotate: false
+  xy: 1154, 99
+  size: 336, 309
+  orig: 379, 336
+  offset: 14, 2
+  index: -1
+bg_fs_idle_4_split/red/fire_c_00008
+  rotate: true
+  xy: 299, 1709
+  size: 208, 309
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/fire_c_00010
+  rotate: true
+  xy: 572, 1492
+  size: 214, 314
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/fire_c_00012
+  rotate: true
+  xy: 2, 1275
+  size: 217, 317
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/fire_c_00014
+  rotate: true
+  xy: 940, 1233
+  size: 218, 320
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/fire_c_00016
+  rotate: true
+  xy: 1262, 1211
+  size: 218, 318
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/fire_c_00018
+  rotate: true
+  xy: 1582, 1165
+  size: 218, 312
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/fire_c_00020
+  rotate: true
+  xy: 888, 1460
+  size: 214, 302
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/fire_c_00022
+  rotate: true
+  xy: 1503, 1667
+  size: 213, 300
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/fire_c_00024
+  rotate: true
+  xy: 2, 1751
+  size: 209, 295
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/fire_c_00026
+  rotate: true
+  xy: 1197, 1669
+  size: 211, 304
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_4_split/red/fire_c_00028
+  rotate: true
+  xy: 1192, 1453
+  size: 214, 308
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_5_split/red/clouds_10
+  rotate: false
+  xy: 2, 1971
+  size: 74, 73
+  orig: 79, 80
+  offset: 2, 4
+  index: -1
+bg_fs_idle_5_split/red/clouds_11
+  rotate: false
+  xy: 78, 1962
+  size: 225, 82
+  orig: 233, 90
+  offset: 2, 4
+  index: -1
+bg_fs_idle_5_split/red/dust_00000
+  rotate: true
+  xy: 1502, 1431
+  size: 234, 258
+  orig: 261, 305
+  offset: 0, 0
+  index: -1
+bg_fs_idle_5_split/red/ember_00000
+  rotate: false
+  xy: 818, 102
+  size: 334, 306
+  orig: 379, 336
+  offset: 15, 3
+  index: -1
+bg_fs_idle_5_split/red/ember_00030
+  rotate: false
+  xy: 818, 102
+  size: 334, 306
+  orig: 379, 336
+  offset: 14, 3
+  index: -1
+bg_fs_idle_5_split/red/ember_00002
+  rotate: false
+  xy: 1492, 99
+  size: 333, 309
+  orig: 379, 336
+  offset: 17, 5
+  index: -1
+bg_fs_idle_5_split/red/fire_c_00000
+  rotate: true
+  xy: 321, 1273
+  size: 217, 309
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_5_split/red/fire_c_00002
+  rotate: true
+  xy: 632, 1241
+  size: 217, 306
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_5_split/red/fire_c_00004
+  rotate: true
+  xy: 610, 1708
+  size: 209, 301
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_5_split/red/fire_c_00006
+  rotate: true
+  xy: 263, 1494
+  size: 213, 307
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+bg_fs_idle_5_split/red/rock
+  rotate: true
+  xy: 1332, 1882
+  size: 162, 531
+  orig: 167, 531
+  offset: 1, 0
+  index: -1
+bg_fs_idle_5_split/red/rock_02
+  rotate: true
+  xy: 540, 1919
+  size: 125, 431
+  orig: 126, 432
+  offset: 0, 1
+  index: -1
+bg_fs_idle_6_split/magenta/cloud_07
+  rotate: true
+  xy: 913, 1676
+  size: 210, 282
+  orig: 283, 424
+  offset: 6, 132
+  index: -1
+bg_fs_idle_6_split/magenta/cloud_08
+  rotate: false
+  xy: 2, 779
+  size: 252, 252
+  orig: 252, 292
+  offset: 0, 20
+  index: -1
+bg_fs_idle_split/yellow/cloud_03
+  rotate: false
+  xy: 2, 1033
+  size: 550, 238
+  orig: 554, 245
+  offset: 1, 5
+  index: -1
+
+bg_fs_idle2.png
+size: 2004,2004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_fs_idle_2_split/blue/cloud_01
+  rotate: false
+  xy: 1064, 1673
+  size: 930, 329
+  orig: 935, 330
+  offset: 5, 1
+  index: -1
+bg_fs_idle_4_split/red/ember_00016
+  rotate: false
+  xy: 1097, 1337
+  size: 376, 334
+  orig: 379, 336
+  offset: 3, 1
+  index: -1
+bg_fs_idle_4_split/red/ember_00018
+  rotate: false
+  xy: 1475, 1337
+  size: 344, 334
+  orig: 379, 336
+  offset: 16, 2
+  index: -1
+bg_fs_idle_5_split/red/ember_00004
+  rotate: false
+  xy: 2, 1692
+  size: 342, 310
+  orig: 379, 336
+  offset: 17, 5
+  index: -1
+bg_fs_idle_5_split/red/ember_00006
+  rotate: false
+  xy: 346, 1678
+  size: 359, 324
+  orig: 379, 336
+  offset: 9, 3
+  index: -1
+bg_fs_idle_5_split/red/ember_00008
+  rotate: false
+  xy: 2, 1347
+  size: 365, 329
+  orig: 379, 336
+  offset: 10, 0
+  index: -1
+bg_fs_idle_5_split/red/ember_00010
+  rotate: false
+  xy: 707, 1676
+  size: 355, 326
+  orig: 379, 336
+  offset: 12, 4
+  index: -1
+bg_fs_idle_5_split/red/ember_00012
+  rotate: false
+  xy: 369, 1345
+  size: 362, 329
+  orig: 379, 336
+  offset: 17, 3
+  index: -1
+bg_fs_idle_5_split/red/ember_00014
+  rotate: false
+  xy: 733, 1339
+  size: 362, 332
+  orig: 379, 336
+  offset: 15, 0
+  index: -1
+bg_fs_idle_5_split/red/front_stone_on_light
+  rotate: false
+  xy: 861, 932
+  size: 857, 403
+  orig: 857, 406
+  offset: 0, 0
+  index: -1
+bg_fs_idle_5_split/red/right
+  rotate: false
+  xy: 790, 442
+  size: 1212, 488
+  orig: 1212, 488
+  offset: 0, 0
+  index: -1
+bg_fs_idle_6_split/magenta/front_stone_dark_left
+  rotate: false
+  xy: 2, 447
+  size: 786, 489
+  orig: 786, 495
+  offset: 0, 0
+  index: -1
+bg_fs_idle_6_split/magenta/front_stone_dark_right
+  rotate: false
+  xy: 2, 938
+  size: 857, 399
+  orig: 857, 406
+  offset: 0, 0
+  index: -1
+
+bg_fs_idle3.png
+size: 1292,1292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_fs_idle_5_split/red/front_stone_on_ligh_02
+  rotate: false
+  xy: 2, 798
+  size: 786, 492
+  orig: 786, 495
+  offset: 0, 0
+  index: -1
+bg_fs_idle_5_split/red/left
+  rotate: false
+  xy: 2, 241
+  size: 1288, 555
+  orig: 1288, 555
+  offset: 0, 0
+  index: -1
+
+bg_fs_idle4.png
+size: 2046,2046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_fs_idle_5_split/red/center
+  rotate: false
+  xy: 2, 1045
+  size: 2042, 999
+  orig: 2042, 999
+  offset: 0, 0
+  index: -1

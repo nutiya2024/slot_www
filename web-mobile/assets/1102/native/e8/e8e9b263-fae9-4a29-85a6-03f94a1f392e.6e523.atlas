@@ -1,0 +1,27 @@
+
+6a075e3dd3758a344aec4265f2b284ad.png
+size: 570,624
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_ptOnScreen_bkg
+  rotate: false
+  xy: 0, 2
+  size: 292, 622
+  orig: 292, 622
+  offset: 0, 0
+  index: -1
+s_ptOnScreen_labelHolder
+  rotate: false
+  xy: 294, 358
+  size: 276, 95
+  orig: 276, 95
+  offset: 0, 0
+  index: -1
+s_ptOnScreen_ornament
+  rotate: false
+  xy: 294, 455
+  size: 226, 169
+  orig: 226, 169
+  offset: 0, 0
+  index: -1

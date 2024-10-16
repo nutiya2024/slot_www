@@ -1,0 +1,27 @@
+
+swbx_purplegem.png
+size: 379,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+file
+  rotate: false
+  xy: 0, 0
+  size: 160, 143
+  orig: 160, 143
+  offset: 0, 0
+  index: -1
+purple zem
+  rotate: true
+  xy: 162, 8
+  size: 135, 130
+  orig: 135, 133
+  offset: 0, 0
+  index: -1
+purple zem _Ice
+  rotate: true
+  xy: 294, 6
+  size: 137, 85
+  orig: 137, 85
+  offset: 0, 0
+  index: -1

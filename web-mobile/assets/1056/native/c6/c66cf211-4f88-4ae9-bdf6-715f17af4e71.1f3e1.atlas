@@ -1,0 +1,76 @@
+
+宝箱.png
+size: 291,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: true
+  xy: 1, 119
+  size: 204, 103
+  orig: 204, 103
+  offset: 0, 0
+  index: -1
+di2
+  rotate: true
+  xy: 182, 195
+  size: 200, 99
+  orig: 200, 99
+  offset: 0, 0
+  index: -1
+gai
+  rotate: false
+  xy: 1, 12
+  size: 203, 106
+  orig: 203, 106
+  offset: 0, 0
+  index: -1
+gai2
+  rotate: true
+  xy: 1, 324
+  size: 163, 118
+  orig: 163, 118
+  offset: 0, 0
+  index: -1
+jin
+  rotate: false
+  xy: 120, 396
+  size: 167, 91
+  orig: 167, 91
+  offset: 0, 0
+  index: -1
+jin2
+  rotate: true
+  xy: 105, 119
+  size: 204, 76
+  orig: 204, 76
+  offset: 0, 0
+  index: -1
+jin3
+  rotate: true
+  xy: 205, 1
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+jin5
+  rotate: true
+  xy: 182, 167
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+zhu
+  rotate: true
+  xy: 205, 29
+  size: 165, 85
+  orig: 165, 85
+  offset: 0, 0
+  index: -1
+zhu2
+  rotate: true
+  xy: 120, 338
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1

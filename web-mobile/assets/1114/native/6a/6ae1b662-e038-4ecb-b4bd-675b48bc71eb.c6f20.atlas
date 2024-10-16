@@ -1,0 +1,167 @@
+
+bonusgame.png
+size: 643,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bonus_Brick
+  rotate: false
+  xy: 448, 330
+  size: 123, 86
+  orig: 123, 86
+  offset: 0, 0
+  index: -1
+Bonus_Brick_sg/Bonus_Brick_000
+  rotate: false
+  xy: 472, 0
+  size: 54, 86
+  orig: 123, 86
+  offset: 0, 0
+  index: -1
+Bonus_Brick_sg/Bonus_Brick_001
+  rotate: true
+  xy: 239, 9
+  size: 67, 86
+  orig: 123, 86
+  offset: 0, 0
+  index: -1
+Bonus_Brick_sg/Bonus_Brick_002
+  rotate: true
+  xy: 384, 7
+  size: 79, 86
+  orig: 123, 86
+  offset: 0, 0
+  index: -1
+Bonus_Brick_sg/Bonus_Brick_003
+  rotate: false
+  xy: 106, 78
+  size: 92, 86
+  orig: 123, 86
+  offset: 0, 0
+  index: -1
+Bonus_Brick_sg/Bonus_Brick_004
+  rotate: false
+  xy: 0, 78
+  size: 104, 86
+  orig: 123, 86
+  offset: 0, 0
+  index: -1
+Bonus_Brick_sg/Bonus_Brick_005
+  rotate: true
+  xy: 529, 113
+  size: 112, 86
+  orig: 123, 86
+  offset: 5, 0
+  index: -1
+Bonus_Brick_sg/Bonus_Brick_006
+  rotate: true
+  xy: 529, 3
+  size: 108, 86
+  orig: 123, 86
+  offset: 15, 0
+  index: -1
+Bonus_Brick_sg/Bonus_Brick_007
+  rotate: true
+  xy: 551, 233
+  size: 95, 86
+  orig: 123, 86
+  offset: 28, 0
+  index: -1
+Bonus_Brick_sg/Bonus_Brick_008
+  rotate: false
+  xy: 239, 78
+  size: 83, 86
+  orig: 123, 86
+  offset: 40, 0
+  index: -1
+Bonus_Brick_sg/Bonus_Brick_009
+  rotate: false
+  xy: 573, 330
+  size: 70, 86
+  orig: 123, 86
+  offset: 53, 0
+  index: -1
+Bonus_Brick_sg/Bonus_Brick_010
+  rotate: false
+  xy: 324, 78
+  size: 58, 86
+  orig: 123, 86
+  offset: 65, 0
+  index: -1
+Bonus_Brick_sg/Bonus_Brick_011
+  rotate: true
+  xy: 0, 31
+  size: 45, 86
+  orig: 123, 86
+  offset: 78, 0
+  index: -1
+Bonus_Game_bow2
+  rotate: false
+  xy: 217, 220
+  size: 229, 196
+  orig: 230, 196
+  offset: 0, 0
+  index: -1
+Bonus_Game_prize_Selection
+  rotate: false
+  xy: 0, 166
+  size: 384, 40
+  orig: 384, 40
+  offset: 0, 0
+  index: -1
+Bonus_W1
+  rotate: false
+  xy: 0, 418
+  size: 638, 100
+  orig: 638, 100
+  offset: 0, 0
+  index: -1
+Bonus_X
+  rotate: true
+  xy: 147, 17
+  size: 41, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Star_11
+  rotate: false
+  xy: 0, 208
+  size: 215, 208
+  orig: 227, 228
+  offset: 6, 10
+  index: -1
+WinMore_LT_05
+  rotate: false
+  xy: 448, 227
+  size: 101, 101
+  orig: 102, 103
+  offset: 0, 1
+  index: -1
+light_010
+  rotate: true
+  xy: 200, 60
+  size: 104, 37
+  orig: 104, 37
+  offset: 0, 0
+  index: -1
+shinning_light
+  rotate: false
+  xy: 386, 88
+  size: 141, 130
+  orig: 142, 133
+  offset: 0, 2
+  index: -1
+x5_1
+  rotate: false
+  xy: 327, 16
+  size: 47, 60
+  orig: 49, 60
+  offset: 1, 0
+  index: -1
+x5_2
+  rotate: true
+  xy: 88, 35
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1

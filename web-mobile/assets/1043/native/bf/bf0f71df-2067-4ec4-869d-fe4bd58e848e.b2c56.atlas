@@ -1,0 +1,48 @@
+
+SymAnim_Glow.png
+size: 589,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 172, 19
+  size: 150, 150
+  orig: 152, 152
+  offset: 1, 1
+  index: -1
+bj2
+  rotate: false
+  xy: 324, 19
+  size: 150, 150
+  orig: 152, 152
+  offset: 1, 1
+  index: -1
+f
+  rotate: false
+  xy: 476, 22
+  size: 69, 69
+  orig: 71, 71
+  offset: 1, 1
+  index: -1
+glow
+  rotate: false
+  xy: 476, 93
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+k
+  rotate: true
+  xy: 2, 2
+  size: 167, 168
+  orig: 169, 170
+  offset: 1, 1
+  index: -1
+xx
+  rotate: true
+  xy: 547, 36
+  size: 55, 40
+  orig: 57, 42
+  offset: 1, 1
+  index: -1

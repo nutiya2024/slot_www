@@ -1,0 +1,20 @@
+
+lantiao.png
+size: 640,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantiao
+  rotate: false
+  xy: 0, 0
+  size: 640, 68
+  orig: 640, 73
+  offset: 0, 3
+  index: -1
+lantiao_g
+  rotate: false
+  xy: 0, 70
+  size: 640, 69
+  orig: 640, 80
+  offset: 0, 6
+  index: -1

@@ -1,0 +1,125 @@
+
+songshu.png
+size: 384,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: true
+  xy: 2, 851
+  size: 175, 350
+  orig: 175, 350
+  offset: 0, 0
+  index: -1
+BODY2
+  rotate: false
+  xy: 261, 660
+  size: 116, 109
+  orig: 119, 112
+  offset: 1, 1
+  index: -1
+EYE
+  rotate: true
+  xy: 284, 38
+  size: 51, 47
+  orig: 53, 49
+  offset: 1, 1
+  index: -1
+JINBI
+  rotate: true
+  xy: 354, 985
+  size: 41, 19
+  orig: 43, 24
+  offset: 1, 1
+  index: -1
+L-arm
+  rotate: false
+  xy: 2, 2
+  size: 93, 163
+  orig: 96, 165
+  offset: 2, 1
+  index: -1
+L-arm-1
+  rotate: false
+  xy: 97, 103
+  size: 81, 62
+  orig: 83, 64
+  offset: 1, 1
+  index: -1
+L-arm-2
+  rotate: true
+  xy: 261, 609
+  size: 49, 104
+  orig: 51, 106
+  offset: 1, 1
+  index: -1
+L-arm2-2
+  rotate: false
+  xy: 238, 482
+  size: 143, 125
+  orig: 145, 129
+  offset: 1, 2
+  index: -1
+LLGE
+  rotate: false
+  xy: 217, 268
+  size: 165, 212
+  orig: 165, 212
+  offset: 0, 0
+  index: -1
+LLGE2
+  rotate: true
+  xy: 2, 344
+  size: 141, 213
+  orig: 141, 213
+  offset: 0, 0
+  index: -1
+R-arm
+  rotate: true
+  xy: 261, 771
+  size: 78, 119
+  orig: 82, 121
+  offset: 2, 1
+  index: -1
+R-arm-2
+  rotate: true
+  xy: 224, 28
+  size: 61, 58
+  orig: 64, 60
+  offset: 1, 1
+  index: -1
+R-arm2
+  rotate: true
+  xy: 97, 22
+  size: 67, 125
+  orig: 69, 127
+  offset: 1, 1
+  index: -1
+RLEG
+  rotate: true
+  xy: 2, 487
+  size: 167, 234
+  orig: 174, 245
+  offset: 7, 0
+  index: -1
+WEIBA
+  rotate: false
+  xy: 2, 656
+  size: 257, 193
+  orig: 257, 193
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 167
+  size: 186, 175
+  orig: 188, 177
+  offset: 1, 1
+  index: -1
+tou-1
+  rotate: false
+  xy: 190, 91
+  size: 184, 175
+  orig: 186, 177
+  offset: 1, 1
+  index: -1

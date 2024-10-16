@@ -1,0 +1,62 @@
+
+wins.png
+size: 452,895
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIGWIN
+  rotate: true
+  xy: 270, 251
+  size: 186, 164
+  orig: 188, 170
+  offset: 1, 3
+  index: -1
+DP
+  rotate: false
+  xy: 2, 2
+  size: 233, 234
+  orig: 240, 238
+  offset: 1, 3
+  index: -1
+DP2
+  rotate: true
+  xy: 2, 608
+  size: 285, 286
+  orig: 289, 290
+  offset: 3, 3
+  index: -1
+EPICWIN
+  rotate: false
+  xy: 2, 238
+  size: 266, 199
+  orig: 268, 202
+  offset: 1, 1
+  index: -1
+FDXX
+  rotate: true
+  xy: 290, 709
+  size: 184, 160
+  orig: 188, 162
+  offset: 1, 1
+  index: -1
+MEGAWIN
+  rotate: false
+  xy: 2, 439
+  size: 285, 167
+  orig: 287, 170
+  offset: 1, 1
+  index: -1
+ZA
+  rotate: false
+  xy: 290, 557
+  size: 159, 150
+  orig: 161, 152
+  offset: 1, 1
+  index: -1
+ZA2
+  rotate: true
+  xy: 237, 33
+  size: 203, 213
+  orig: 210, 229
+  offset: 1, 1
+  index: -1

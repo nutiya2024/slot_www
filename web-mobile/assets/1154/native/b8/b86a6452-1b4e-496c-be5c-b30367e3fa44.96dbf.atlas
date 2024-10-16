@@ -1,0 +1,181 @@
+
+h_peanuts_atlas_symbols.png
+size: 1658,1299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_peanut_shdw_1
+  rotate: false
+  xy: 1489, 266
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+pnut_b_1
+  rotate: false
+  xy: 767, 62
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+pnut_bb_1
+  rotate: true
+  xy: 767, 2
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+pnut_bt_1
+  rotate: true
+  xy: 614, 530
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+pnut_cover_1
+  rotate: false
+  xy: 1586, 1161
+  size: 65, 63
+  orig: 67, 65
+  offset: 1, 1
+  index: -1
+pnut_shell_1
+  rotate: true
+  xy: 1489, 131
+  size: 133, 155
+  orig: 135, 158
+  offset: 1, 1
+  index: -1
+pnut_shell_b_1
+  rotate: false
+  xy: 614, 46
+  size: 151, 83
+  orig: 151, 83
+  offset: 0, 0
+  index: -1
+pnut_t_1
+  rotate: false
+  xy: 1586, 1226
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_00
+  rotate: false
+  xy: 2, 312
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_01
+  rotate: false
+  xy: 668, 1007
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_02
+  rotate: false
+  xy: 2, 20
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_03
+  rotate: false
+  xy: 308, 312
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_04
+  rotate: false
+  xy: 668, 715
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_05
+  rotate: false
+  xy: 974, 1007
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_06
+  rotate: false
+  xy: 308, 20
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_07
+  rotate: false
+  xy: 974, 715
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_08
+  rotate: false
+  xy: 1280, 1007
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_09
+  rotate: false
+  xy: 1280, 715
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_10
+  rotate: false
+  xy: 668, 423
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_11
+  rotate: false
+  xy: 974, 423
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_12
+  rotate: false
+  xy: 1280, 423
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_13
+  rotate: false
+  xy: 614, 131
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_particle_14
+  rotate: false
+  xy: 920, 131
+  size: 304, 290
+  orig: 304, 290
+  offset: 0, 0
+  index: -1
+ps_particle/ps_shine
+  rotate: false
+  xy: 1226, 158
+  size: 261, 263
+  orig: 261, 263
+  offset: 0, 0
+  index: -1
+ps_particle/ps_shine_big
+  rotate: false
+  xy: 2, 604
+  size: 664, 693
+  orig: 664, 693
+  offset: 0, 0
+  index: -1

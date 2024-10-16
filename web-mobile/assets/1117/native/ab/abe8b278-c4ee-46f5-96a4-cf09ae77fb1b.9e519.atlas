@@ -1,0 +1,258 @@
+
+gool_hv_3.png
+size: 622,622
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_diamond_grip
+  rotate: false
+  xy: 531, 294
+  size: 84, 51
+  orig: 84, 51
+  offset: 0, 0
+  index: -1
+back_particle_00000
+  rotate: false
+  xy: 464, 347
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+back_particle_00001
+  rotate: false
+  xy: 362, 167
+  size: 104, 106
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+back_particle_00002
+  rotate: false
+  xy: 358, 337
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+back_particle_00003
+  rotate: false
+  xy: 427, 512
+  size: 102, 110
+  orig: 102, 110
+  offset: 0, 0
+  index: -1
+back_particle_00004
+  rotate: false
+  xy: 320, 510
+  size: 105, 112
+  orig: 105, 112
+  offset: 0, 0
+  index: -1
+back_particle_00005
+  rotate: false
+  xy: 250, 307
+  size: 106, 115
+  orig: 106, 115
+  offset: 0, 0
+  index: -1
+back_particle_00006
+  rotate: true
+  xy: 209, 506
+  size: 116, 109
+  orig: 116, 109
+  offset: 0, 0
+  index: -1
+back_particle_00007
+  rotate: false
+  xy: 249, 152
+  size: 111, 118
+  orig: 111, 118
+  offset: 0, 0
+  index: -1
+back_ring_circle
+  rotate: true
+  xy: 111, 111
+  size: 139, 136
+  orig: 139, 136
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 468, 175
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+diamond
+  rotate: false
+  xy: 358, 275
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+diamond_base
+  rotate: true
+  xy: 444, 77
+  size: 88, 51
+  orig: 88, 51
+  offset: 0, 0
+  index: -1
+diamond_grip
+  rotate: false
+  xy: 385, 6
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+diamond_grip_shadow
+  rotate: true
+  xy: 562, 469
+  size: 82, 59
+  orig: 82, 59
+  offset: 0, 0
+  index: -1
+diamond_rays_00
+  rotate: false
+  xy: 277, 13
+  size: 106, 57
+  orig: 106, 57
+  offset: 0, 0
+  index: -1
+diamond_rays_01
+  rotate: false
+  xy: 441, 280
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+diamond_rays_02
+  rotate: false
+  xy: 280, 447
+  size: 95, 57
+  orig: 95, 57
+  offset: 0, 0
+  index: -1
+diamond_rays_03
+  rotate: false
+  xy: 377, 453
+  size: 93, 55
+  orig: 93, 55
+  offset: 0, 0
+  index: -1
+diamond_rays_04
+  rotate: false
+  xy: 472, 456
+  size: 88, 54
+  orig: 88, 54
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 0, 414
+  size: 207, 208
+  orig: 207, 208
+  offset: 0, 0
+  index: -1
+frame_light_sweep_05
+  rotate: true
+  xy: 569, 403
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+frame_light_sweep_09
+  rotate: false
+  xy: 479, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+frame_light_sweep_13
+  rotate: true
+  xy: 497, 109
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+frame_light_sweep_17
+  rotate: false
+  xy: 0, 1
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+frame_shadow
+  rotate: false
+  xy: 569, 349
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+gold_leaf_back
+  rotate: true
+  xy: 111, 10
+  size: 99, 164
+  orig: 99, 164
+  offset: 0, 0
+  index: -1
+gold_leaf_front
+  rotate: false
+  xy: 151, 272
+  size: 97, 140
+  orig: 97, 140
+  offset: 0, 0
+  index: -1
+gold_leaf_front light_sweep_01
+  rotate: false
+  xy: 58, 8
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+gold_leaf_front light_sweep_05
+  rotate: false
+  xy: 559, 116
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+gold_leaf_front light_sweep_09
+  rotate: false
+  xy: 209, 424
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+gold_leaf_front light_sweep_13
+  rotate: false
+  xy: 531, 553
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+gold_leaf_front light_sweep_17
+  rotate: true
+  xy: 545, 51
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+gold_leaf_front_shadow
+  rotate: true
+  xy: 277, 72
+  size: 78, 165
+  orig: 78, 165
+  offset: 0, 0
+  index: -1
+ring_circle
+  rotate: false
+  xy: 0, 252
+  size: 149, 160
+  orig: 149, 160
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 46
+  size: 109, 204
+  orig: 109, 204
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+kuang_faguang.png
+size: 512,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame_Light
+  rotate: true
+  xy: 0, 100
+  size: 172, 370
+  orig: 190, 386
+  offset: 9, 8
+  index: -1
+Frame_Light2
+  rotate: true
+  xy: 372, 114
+  size: 158, 140
+  orig: 176, 156
+  offset: 9, 8
+  index: -1
+symbol_f_gold_1_Light
+  rotate: true
+  xy: 0, 0
+  size: 98, 296
+  orig: 98, 296
+  offset: 0, 0
+  index: -1

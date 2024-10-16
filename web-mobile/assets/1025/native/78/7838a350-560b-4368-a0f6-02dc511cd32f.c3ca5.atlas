@@ -1,0 +1,27 @@
+
+lingdang.png
+size: 199,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LingDang01
+  rotate: false
+  xy: 2, 2
+  size: 124, 141
+  orig: 124, 141
+  offset: 0, 0
+  index: -1
+LingDang02
+  rotate: true
+  xy: 128, 35
+  size: 108, 69
+  orig: 108, 69
+  offset: 0, 0
+  index: -1
+LingDang03
+  rotate: false
+  xy: 128, 13
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+lunpan_kaixinqipai-1.png
+size: 460,433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_roulette_roulette_neiquan
+  rotate: false
+  xy: 0, 0
+  size: 433, 433
+  orig: 433, 433
+  offset: 0, 0
+  index: -1
+img_roulette_roulette_qiu
+  rotate: false
+  xy: 433, 406
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1

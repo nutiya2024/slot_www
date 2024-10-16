@@ -1,0 +1,34 @@
+
+h_chips_a_atlas_symbols.png
+size: 383,179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_chips
+  rotate: true
+  xy: 178, 16
+  size: 161, 149
+  orig: 161, 149
+  offset: 0, 0
+  index: -1
+h_chips_blue
+  rotate: true
+  xy: 329, 16
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+h_chips_red
+  rotate: true
+  xy: 329, 92
+  size: 85, 52
+  orig: 85, 52
+  offset: 0, 0
+  index: -1
+h_chips_shdw
+  rotate: true
+  xy: 2, 2
+  size: 175, 174
+  orig: 180, 189
+  offset: 2, 2
+  index: -1

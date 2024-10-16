@@ -1,0 +1,118 @@
+
+baozha.png
+size: 298,1051
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lib/bao_00008
+  rotate: false
+  xy: 145, 168
+  size: 90, 98
+  orig: 103, 110
+  offset: 8, 7
+  index: -1
+lib/bao_00009
+  rotate: true
+  xy: 2, 894
+  size: 155, 162
+  orig: 186, 191
+  offset: 17, 15
+  index: -1
+lib/g
+  rotate: false
+  xy: 2, 20
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+lib/kuo
+  rotate: false
+  xy: 200, 89
+  size: 85, 77
+  orig: 85, 79
+  offset: 0, 0
+  index: -1
+lib/kuo_1
+  rotate: true
+  xy: 166, 825
+  size: 110, 117
+  orig: 115, 119
+  offset: 4, 0
+  index: -1
+lib/kuo_2
+  rotate: false
+  xy: 110, 2
+  size: 88, 128
+  orig: 92, 132
+  offset: 4, 3
+  index: -1
+lib/rock
+  rotate: true
+  xy: 161, 720
+  size: 103, 116
+  orig: 103, 116
+  offset: 0, 0
+  index: -1
+lib/yan_00008
+  rotate: false
+  xy: 166, 937
+  size: 118, 112
+  orig: 186, 191
+  offset: 30, 44
+  index: -1
+lib/yan_00009
+  rotate: false
+  xy: 2, 594
+  size: 155, 147
+  orig: 186, 191
+  offset: 11, 27
+  index: -1
+lib/yan_00010
+  rotate: false
+  xy: 2, 743
+  size: 157, 149
+  orig: 186, 191
+  offset: 10, 26
+  index: -1
+lib/yan_00011
+  rotate: true
+  xy: 2, 436
+  size: 156, 146
+  orig: 186, 191
+  offset: 11, 27
+  index: -1
+lib/yan_00012
+  rotate: true
+  xy: 150, 421
+  size: 156, 146
+  orig: 186, 191
+  offset: 11, 27
+  index: -1
+lib/yan_00013
+  rotate: true
+  xy: 2, 281
+  size: 153, 144
+  orig: 186, 191
+  offset: 12, 28
+  index: -1
+lib/yan_00014
+  rotate: true
+  xy: 148, 268
+  size: 151, 143
+  orig: 186, 191
+  offset: 13, 28
+  index: -1
+lib/yan_00015
+  rotate: true
+  xy: 2, 132
+  size: 147, 141
+  orig: 186, 191
+  offset: 16, 29
+  index: -1
+lib/yan_00016
+  rotate: true
+  xy: 159, 579
+  size: 139, 137
+  orig: 186, 191
+  offset: 18, 30
+  index: -1

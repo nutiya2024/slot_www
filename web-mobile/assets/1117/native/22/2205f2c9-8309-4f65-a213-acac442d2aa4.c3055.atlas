@@ -1,0 +1,28 @@
+
+gool_basegame.png
+size: 2019,1661
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haze
+  rotate: false
+  xy: 1779, 1217
+  size: 240, 444
+  orig: 245, 444
+  offset: -3, 0
+  index: -1
+sky
+  rotate: false
+  xy: 0, 667
+  size: 1777, 994
+  orig: 1777, 994
+  offset: 0, 0
+  index: -1
+yellow_horizon_haze
+  rotate: false
+  xy: 0, 0
+  size: 1777, 665
+  orig: 1777, 665
+  offset: 0, 0
+  index: -1
+

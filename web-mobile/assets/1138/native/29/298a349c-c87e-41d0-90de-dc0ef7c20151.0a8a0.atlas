@@ -1,0 +1,396 @@
+
+window.png
+size: 2008,2011
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+window_2_split/yellow/meter_box
+  rotate: false
+  xy: 2, 1807
+  size: 660, 170
+  orig: 660, 170
+  offset: 0, 0
+  index: -1
+window_3_split/red/back_stone
+  rotate: false
+  xy: 841, 1525
+  size: 750, 136
+  orig: 750, 137
+  offset: 0, 0
+  index: -1
+window_3_split/red/banner_fire_00000
+  rotate: false
+  xy: 1481, 738
+  size: 393, 310
+  orig: 436, 344
+  offset: 8, 34
+  index: -1
+window_3_split/red/banner_fire_00002
+  rotate: false
+  xy: 1439, 425
+  size: 393, 311
+  orig: 436, 344
+  offset: 12, 33
+  index: -1
+window_3_split/red/base_stone_glow
+  rotate: false
+  xy: 2, 1663
+  size: 1087, 116
+  orig: 1087, 116
+  offset: 0, 0
+  index: -1
+window_3_split/red/chaine_01
+  rotate: false
+  xy: 1582, 1882
+  size: 127, 127
+  orig: 127, 185
+  offset: 0, 29
+  index: -1
+window_3_split/red/chaine_02
+  rotate: false
+  xy: 1467, 1896
+  size: 113, 113
+  orig: 113, 175
+  offset: 0, 31
+  index: -1
+window_3_split/red/chaine_03
+  rotate: true
+  xy: 1711, 1840
+  size: 169, 237
+  orig: 169, 237
+  offset: 0, 0
+  index: -1
+window_3_split/red/chaine_04
+  rotate: true
+  xy: 1511, 1663
+  size: 175, 245
+  orig: 175, 245
+  offset: 0, 0
+  index: -1
+window_3_split/red/frame_01
+  rotate: true
+  xy: 678, 1337
+  size: 186, 572
+  orig: 209, 588
+  offset: 23, 16
+  index: -1
+window_3_split/red/frame_borad_shadow
+  rotate: false
+  xy: 2, 1526
+  size: 837, 135
+  orig: 837, 158
+  offset: 0, 22
+  index: -1
+window_3_split/red/frame_bottom_shadow
+  rotate: false
+  xy: 2, 1979
+  size: 714, 30
+  orig: 723, 34
+  offset: 5, 3
+  index: -1
+window_3_split/red/frame_desing_01
+  rotate: false
+  xy: 664, 1781
+  size: 845, 113
+  orig: 852, 113
+  offset: 7, 0
+  index: -1
+window_3_split/red/meter_box_shadow
+  rotate: false
+  xy: 2, 1344
+  size: 674, 180
+  orig: 675, 182
+  offset: 1, 1
+  index: -1
+window_3_split/red/small_particle
+  rotate: true
+  xy: 2, 216
+  size: 327, 391
+  orig: 359, 397
+  offset: 32, 2
+  index: -1
+window_split/red/banner_fire_00004
+  rotate: false
+  xy: 2, 545
+  size: 406, 310
+  orig: 436, 344
+  offset: 18, 0
+  index: -1
+window_split/red/banner_fire_00006
+  rotate: false
+  xy: 1037, 515
+  size: 400, 310
+  orig: 436, 344
+  offset: 19, 0
+  index: -1
+window_split/red/banner_fire_00008
+  rotate: false
+  xy: 410, 484
+  size: 396, 310
+  orig: 436, 344
+  offset: 19, 0
+  index: -1
+window_split/red/banner_fire_00010
+  rotate: true
+  xy: 1252, 1136
+  size: 387, 308
+  orig: 436, 344
+  offset: 28, 0
+  index: -1
+window_split/red/banner_fire_00012
+  rotate: false
+  xy: 395, 138
+  size: 408, 344
+  orig: 436, 344
+  offset: 28, 0
+  index: -1
+window_split/red/banner_fire_00014
+  rotate: true
+  xy: 1662, 2
+  size: 421, 344
+  orig: 436, 344
+  offset: 15, 0
+  index: -1
+window_split/red/banner_fire_00020
+  rotate: false
+  xy: 1235, 98
+  size: 425, 325
+  orig: 436, 344
+  offset: 11, 0
+  index: -1
+window_split/red/banner_fire_00022
+  rotate: false
+  xy: 808, 197
+  size: 425, 316
+  orig: 426, 317
+  offset: 0, 1
+  index: -1
+window_split/red/banner_fire_00024
+  rotate: false
+  xy: 610, 796
+  size: 425, 309
+  orig: 436, 310
+  offset: 0, 1
+  index: -1
+window_split/red/banner_fire_00026
+  rotate: false
+  xy: 1593, 1358
+  size: 403, 303
+  orig: 421, 304
+  offset: 1, 1
+  index: -1
+window_split/red/banner_fire_00028
+  rotate: false
+  xy: 1562, 1050
+  size: 403, 306
+  orig: 436, 344
+  offset: 7, 38
+  index: -1
+window_split/red/banner_fire_00029
+  rotate: false
+  xy: 1078, 827
+  size: 401, 307
+  orig: 436, 344
+  offset: 11, 37
+  index: -1
+window_split/red/frame_02
+  rotate: true
+  xy: 2, 857
+  size: 248, 606
+  orig: 248, 606
+  offset: 0, 0
+  index: -1
+window_split/red/frame_shadow
+  rotate: false
+  xy: 718, 1898
+  size: 747, 111
+  orig: 750, 112
+  offset: 2, 1
+  index: -1
+window_split/red/frame_shadow_01
+  rotate: true
+  xy: 2, 1118
+  size: 224, 529
+  orig: 226, 529
+  offset: 2, 0
+  index: -1
+window_split/red/frame_shadow_02
+  rotate: true
+  xy: 533, 1107
+  size: 228, 543
+  orig: 232, 545
+  offset: 0, 1
+  index: -1
+
+window2.png
+size: 1892,1975
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+window_3_split/red/back_glow
+  rotate: false
+  xy: 2, 917
+  size: 755, 783
+  orig: 755, 783
+  offset: 0, 0
+  index: -1
+window_3_split/red/back_glow_01
+  rotate: true
+  xy: 2, 209
+  size: 706, 783
+  orig: 706, 783
+  offset: 0, 0
+  index: -1
+window_3_split/red/back_stone_shadow
+  rotate: false
+  xy: 2, 1702
+  size: 1362, 271
+  orig: 1374, 284
+  offset: 6, 6
+  index: -1
+window_3_split/red/base_stone
+  rotate: true
+  xy: 1366, 774
+  size: 1199, 524
+  orig: 1247, 535
+  offset: 39, 0
+  index: -1
+window_3_split/red/bottom_fire_embers_00006
+  rotate: true
+  xy: 787, 296
+  size: 678, 384
+  orig: 678, 384
+  offset: 0, 0
+  index: -1
+window_3_split/red/bottom_fire_embers_00008
+  rotate: false
+  xy: 1173, 388
+  size: 678, 384
+  orig: 678, 384
+  offset: 0, 0
+  index: -1
+window_3_split/red/frame_bord
+  rotate: true
+  xy: 759, 976
+  size: 724, 386
+  orig: 726, 387
+  offset: 0, 0
+  index: -1
+window_split/red/bottom_fire_embers_00010
+  rotate: false
+  xy: 1173, 2
+  size: 678, 384
+  orig: 678, 384
+  offset: 0, 0
+  index: -1
+
+window3.png
+size: 2023,1932
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+window_3_split/red/bottom_fire_embers_00000
+  rotate: false
+  xy: 1361, 1546
+  size: 660, 384
+  orig: 660, 384
+  offset: 0, 0
+  index: -1
+window_3_split/red/bottom_fire_embers_00002
+  rotate: false
+  xy: 2, 388
+  size: 675, 384
+  orig: 678, 384
+  offset: 0, 0
+  index: -1
+window_3_split/red/bottom_fire_embers_00004
+  rotate: false
+  xy: 682, 1546
+  size: 677, 384
+  orig: 678, 384
+  offset: 0, 0
+  index: -1
+window_split/red/banner_fire_00016
+  rotate: false
+  xy: 1065, 42
+  size: 432, 344
+  orig: 432, 344
+  offset: 0, 0
+  index: -1
+window_split/red/banner_fire_00018
+  rotate: false
+  xy: 1499, 42
+  size: 425, 344
+  orig: 436, 344
+  offset: 9, 0
+  index: -1
+window_split/red/bottom_fire_embers_00012
+  rotate: false
+  xy: 2, 2
+  size: 675, 384
+  orig: 675, 384
+  offset: 0, 0
+  index: -1
+window_split/red/bottom_fire_embers_00014
+  rotate: false
+  xy: 2, 1546
+  size: 678, 384
+  orig: 678, 384
+  offset: 0, 0
+  index: -1
+window_split/red/bottom_fire_embers_00016
+  rotate: false
+  xy: 2, 774
+  size: 677, 384
+  orig: 678, 384
+  offset: 0, 0
+  index: -1
+window_split/red/bottom_fire_embers_00018
+  rotate: false
+  xy: 682, 1161
+  size: 677, 383
+  orig: 678, 384
+  offset: 0, 0
+  index: -1
+window_split/red/bottom_fire_embers_00020
+  rotate: false
+  xy: 2, 1160
+  size: 678, 384
+  orig: 678, 384
+  offset: 0, 0
+  index: -1
+window_split/red/bottom_fire_embers_00022
+  rotate: true
+  xy: 679, 97
+  size: 675, 384
+  orig: 678, 384
+  offset: 0, 0
+  index: -1
+window_split/red/bottom_fire_embers_00024
+  rotate: false
+  xy: 681, 774
+  size: 674, 384
+  orig: 678, 384
+  offset: 0, 0
+  index: -1
+window_split/red/bottom_fire_embers_00026
+  rotate: false
+  xy: 1065, 388
+  size: 648, 384
+  orig: 678, 384
+  offset: 0, 0
+  index: -1
+window_split/red/bottom_fire_embers_00028
+  rotate: false
+  xy: 1357, 774
+  size: 652, 384
+  orig: 678, 384
+  offset: 0, 0
+  index: -1
+window_split/red/bottom_fire_embers_00029
+  rotate: false
+  xy: 1361, 1160
+  size: 656, 384
+  orig: 678, 384
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,243 @@
+
+total.png
+size: 1552,2033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+total_glow_a_01.pn
+  rotate: false
+  xy: 544, 1511
+  size: 502, 520
+  orig: 540, 633
+  offset: 19, 113
+  index: -1
+total_glow_a_17.pn
+  rotate: false
+  xy: 544, 1511
+  size: 502, 520
+  orig: 540, 633
+  offset: 19, 113
+  index: -1
+total_glow_a_02.pn
+  rotate: false
+  xy: 2, 1008
+  size: 502, 520
+  orig: 540, 633
+  offset: 19, 113
+  index: -1
+total_glow_a_18.pn
+  rotate: false
+  xy: 2, 1008
+  size: 502, 520
+  orig: 540, 633
+  offset: 19, 113
+  index: -1
+total_glow_a_03.pn
+  rotate: false
+  xy: 506, 1008
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_19.pn
+  rotate: false
+  xy: 506, 1008
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_04.pn
+  rotate: false
+  xy: 2, 505
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_20.pn
+  rotate: false
+  xy: 2, 505
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_05.pn
+  rotate: false
+  xy: 1048, 1511
+  size: 502, 520
+  orig: 540, 633
+  offset: 19, 113
+  index: -1
+total_glow_a_21.pn
+  rotate: false
+  xy: 1048, 1511
+  size: 502, 520
+  orig: 540, 633
+  offset: 19, 113
+  index: -1
+total_glow_a_06.pn
+  rotate: false
+  xy: 2, 2
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_22.pn
+  rotate: false
+  xy: 2, 2
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_07.pn
+  rotate: false
+  xy: 1048, 989
+  size: 502, 520
+  orig: 540, 633
+  offset: 19, 113
+  index: -1
+total_glow_a_23.pn
+  rotate: false
+  xy: 1048, 989
+  size: 502, 520
+  orig: 540, 633
+  offset: 19, 113
+  index: -1
+total_glow_a_08.pn
+  rotate: false
+  xy: 544, 486
+  size: 502, 520
+  orig: 540, 633
+  offset: 19, 113
+  index: -1
+total_glow_a_24.pn
+  rotate: false
+  xy: 544, 486
+  size: 502, 520
+  orig: 540, 633
+  offset: 19, 113
+  index: -1
+total_glow_a_09.pn
+  rotate: true
+  xy: 1048, 447
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_25.pn
+  rotate: true
+  xy: 1048, 447
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_32.pn
+  rotate: false
+  xy: 2, 1530
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_00.pn
+  rotate: false
+  xy: 2, 1530
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_16.pn
+  rotate: false
+  xy: 2, 1530
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+
+total2.png
+size: 1608,1010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+total_glow_a_10.pn
+  rotate: true
+  xy: 1086, 506
+  size: 502, 520
+  orig: 540, 633
+  offset: 19, 113
+  index: -1
+total_glow_a_26.pn
+  rotate: true
+  xy: 1086, 506
+  size: 502, 520
+  orig: 540, 633
+  offset: 19, 113
+  index: -1
+total_glow_a_11.pn
+  rotate: false
+  xy: 2, 507
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_27.pn
+  rotate: false
+  xy: 2, 507
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_12.pn
+  rotate: false
+  xy: 544, 507
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_28.pn
+  rotate: false
+  xy: 544, 507
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_13.pn
+  rotate: true
+  xy: 1086, 2
+  size: 502, 520
+  orig: 540, 633
+  offset: 19, 113
+  index: -1
+total_glow_a_29.pn
+  rotate: true
+  xy: 1086, 2
+  size: 502, 520
+  orig: 540, 633
+  offset: 19, 113
+  index: -1
+total_glow_a_14.pn
+  rotate: false
+  xy: 2, 4
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_30.pn
+  rotate: false
+  xy: 2, 4
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_15.pn
+  rotate: false
+  xy: 544, 4
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+total_glow_a_31.pn
+  rotate: false
+  xy: 544, 4
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1

@@ -1,0 +1,34 @@
+
+swbx_apple.png
+size: 394,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple
+  rotate: false
+  xy: 162, 19
+  size: 127, 131
+  orig: 135, 131
+  offset: 7, 0
+  index: -1
+apple_Ice
+  rotate: false
+  xy: 291, 60
+  size: 103, 90
+  orig: 107, 92
+  offset: 0, 2
+  index: -1
+apple_leaf
+  rotate: false
+  xy: 291, 0
+  size: 66, 58
+  orig: 66, 59
+  offset: 0, 1
+  index: -1
+file
+  rotate: false
+  xy: 0, 7
+  size: 160, 143
+  orig: 160, 143
+  offset: 0, 0
+  index: -1

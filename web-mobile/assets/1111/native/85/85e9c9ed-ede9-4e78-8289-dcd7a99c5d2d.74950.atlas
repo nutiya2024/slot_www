@@ -1,0 +1,20 @@
+
+Symbol_05.png
+size: 134,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbol_05
+  rotate: false
+  xy: 76, 4
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+Symbol_05_Light
+  rotate: true
+  xy: 0, 0
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+虎 直尾巴.png
+size: 717,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 593, 18
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+b
+  rotate: true
+  xy: 408, 1
+  size: 106, 121
+  orig: 106, 121
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 408, 108
+  size: 185, 177
+  orig: 185, 177
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 530, 11
+  size: 62, 96
+  orig: 62, 96
+  offset: 0, 0
+  index: -1
+e
+  rotate: true
+  xy: 1, 9
+  size: 276, 406
+  orig: 276, 406
+  offset: 0, 0
+  index: -1
+f2
+  rotate: true
+  xy: 594, 62
+  size: 223, 122
+  orig: 223, 122
+  offset: 0, 0
+  index: -1

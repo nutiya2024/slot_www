@@ -1,0 +1,34 @@
+
+swbx_plum.png
+size: 193,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+file
+  rotate: false
+  xy: 0, 122
+  size: 160, 143
+  orig: 160, 143
+  offset: 0, 0
+  index: -1
+plum
+  rotate: true
+  xy: 0, 0
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: -1
+plum_Ice
+  rotate: true
+  xy: 123, 8
+  size: 112, 59
+  orig: 113, 61
+  offset: 0, 2
+  index: -1
+plum_Leaf
+  rotate: true
+  xy: 162, 190
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1

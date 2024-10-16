@@ -1,0 +1,251 @@
+
+4e5ad836aa08d02478ed240c40e26820.jpg
+size: 960,856
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_nice_glow_00
+  rotate: false
+  xy: 576, 430
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_08
+  rotate: false
+  xy: 576, 537
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_01
+  rotate: false
+  xy: 0, 323
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_02
+  rotate: false
+  xy: 192, 537
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_03
+  rotate: false
+  xy: 576, 216
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_04
+  rotate: false
+  xy: 0, 109
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_05
+  rotate: false
+  xy: 384, 216
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_06
+  rotate: false
+  xy: 768, 216
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_07
+  rotate: false
+  xy: 384, 109
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_09
+  rotate: false
+  xy: 768, 644
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_10
+  rotate: false
+  xy: 192, 430
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_11
+  rotate: false
+  xy: 0, 216
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_12
+  rotate: false
+  xy: 768, 430
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_13
+  rotate: false
+  xy: 384, 323
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_14
+  rotate: false
+  xy: 0, 751
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_15
+  rotate: false
+  xy: 576, 323
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_16
+  rotate: false
+  xy: 0, 537
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_17
+  rotate: false
+  xy: 192, 644
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_18
+  rotate: false
+  xy: 768, 751
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_19
+  rotate: false
+  xy: 384, 751
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_20
+  rotate: false
+  xy: 0, 430
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_21
+  rotate: false
+  xy: 0, 2
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_22
+  rotate: false
+  xy: 192, 323
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_23
+  rotate: false
+  xy: 768, 323
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_24
+  rotate: false
+  xy: 384, 644
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_25
+  rotate: false
+  xy: 192, 2
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_26
+  rotate: false
+  xy: 576, 644
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_27
+  rotate: false
+  xy: 384, 537
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_28
+  rotate: false
+  xy: 576, 751
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_29
+  rotate: false
+  xy: 192, 109
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_30
+  rotate: false
+  xy: 192, 216
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_31
+  rotate: false
+  xy: 192, 751
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_32
+  rotate: false
+  xy: 384, 430
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_33
+  rotate: false
+  xy: 768, 537
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+s_nice_glow_34
+  rotate: false
+  xy: 0, 644
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1

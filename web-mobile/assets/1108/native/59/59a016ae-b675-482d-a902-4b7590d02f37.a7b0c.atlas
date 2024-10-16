@@ -1,0 +1,20 @@
+
+shuzi_g.png
+size: 137,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eft2_p002
+  rotate: false
+  xy: 0, 101
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+eft_str_m03
+  rotate: false
+  xy: 38, 85
+  size: 99, 52
+  orig: 99, 52
+  offset: 0, 0
+  index: -1

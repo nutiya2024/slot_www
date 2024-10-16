@@ -1,0 +1,711 @@
+
+tucl_feature_effect.png
+size: 2042,1952
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/tucl_meter_effect_02_00004
+  rotate: false
+  xy: 969, 272
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+blue/tucl_meter_multiplier_effect_01_00004
+  rotate: true
+  xy: 1580, 1305
+  size: 191, 344
+  orig: 191, 344
+  offset: 0, 0
+  index: -1
+blue/tucl_meter_multiplier_effect_01_00008
+  rotate: true
+  xy: 1400, 1112
+  size: 191, 344
+  orig: 191, 344
+  offset: 0, 0
+  index: -1
+blue/tucl_meter_multiplier_effect_01_00010
+  rotate: true
+  xy: 2, 1102
+  size: 191, 344
+  orig: 191, 344
+  offset: 0, 0
+  index: -1
+blue/tucl_meter_multiplier_effect_01_00012
+  rotate: true
+  xy: 348, 1102
+  size: 191, 344
+  orig: 191, 344
+  offset: 0, 0
+  index: -1
+blue/tucl_meter_multiplier_effect_01_00014
+  rotate: true
+  xy: 694, 1102
+  size: 191, 344
+  orig: 191, 344
+  offset: 0, 0
+  index: -1
+blue/tucl_meter_multiplier_effect_01_00016
+  rotate: true
+  xy: 1040, 980
+  size: 191, 344
+  orig: 191, 344
+  offset: 0, 0
+  index: -1
+blue/tucl_meter_multiplier_effect_01_00018
+  rotate: true
+  xy: 1386, 919
+  size: 191, 344
+  orig: 191, 344
+  offset: 0, 0
+  index: -1
+blue/tucl_meter_multiplier_effect_01_00020
+  rotate: true
+  xy: 2, 909
+  size: 191, 344
+  orig: 191, 344
+  offset: 0, 0
+  index: -1
+blue/tucl_meter_multiplier_effect_01_00022
+  rotate: true
+  xy: 348, 909
+  size: 191, 344
+  orig: 191, 344
+  offset: 0, 0
+  index: -1
+blue/tucl_meter_multiplier_effect_01_00024
+  rotate: true
+  xy: 694, 909
+  size: 191, 344
+  orig: 191, 344
+  offset: 0, 0
+  index: -1
+blue/tucl_scatter_collect_effect_01_00018
+  rotate: true
+  xy: 528, 1295
+  size: 130, 524
+  orig: 130, 524
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00000
+  rotate: false
+  xy: 2, 1823
+  size: 168, 127
+  orig: 168, 127
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00002
+  rotate: true
+  xy: 172, 1823
+  size: 127, 168
+  orig: 127, 168
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00004
+  rotate: true
+  xy: 342, 1823
+  size: 127, 168
+  orig: 127, 168
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00006
+  rotate: true
+  xy: 512, 1823
+  size: 127, 168
+  orig: 127, 168
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00008
+  rotate: true
+  xy: 682, 1823
+  size: 127, 168
+  orig: 127, 168
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00010
+  rotate: true
+  xy: 852, 1823
+  size: 127, 168
+  orig: 127, 168
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00012
+  rotate: false
+  xy: 1022, 1823
+  size: 168, 127
+  orig: 168, 127
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00014
+  rotate: false
+  xy: 1192, 1823
+  size: 168, 127
+  orig: 168, 127
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00016
+  rotate: false
+  xy: 1362, 1823
+  size: 168, 127
+  orig: 168, 127
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00018
+  rotate: false
+  xy: 1532, 1823
+  size: 168, 127
+  orig: 168, 127
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00020
+  rotate: false
+  xy: 1702, 1823
+  size: 168, 127
+  orig: 168, 127
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00022
+  rotate: true
+  xy: 1872, 1823
+  size: 127, 168
+  orig: 127, 168
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00024
+  rotate: false
+  xy: 2, 1694
+  size: 168, 127
+  orig: 168, 127
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00026
+  rotate: false
+  xy: 172, 1694
+  size: 168, 127
+  orig: 168, 127
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_01_00028
+  rotate: true
+  xy: 342, 1694
+  size: 127, 168
+  orig: 127, 168
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_02_00000
+  rotate: false
+  xy: 972, 524
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_effect_02_00002
+  rotate: false
+  xy: 1224, 463
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_multiplier_effect_01_00000
+  rotate: true
+  xy: 1564, 1630
+  size: 191, 344
+  orig: 191, 344
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_multiplier_effect_01_00002
+  rotate: true
+  xy: 1054, 1498
+  size: 191, 344
+  orig: 191, 344
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_multiplier_effect_01_00006
+  rotate: true
+  xy: 1054, 1173
+  size: 191, 344
+  orig: 191, 344
+  offset: 0, 0
+  index: -1
+yellow/tucl_frame_symbol_collect_effect_01_00000
+  rotate: false
+  xy: 245, 699
+  size: 725, 208
+  orig: 725, 208
+  offset: 0, 0
+  index: -1
+yellow/tucl_frame_symbol_collect_effect_01_00002
+  rotate: false
+  xy: 2, 489
+  size: 725, 208
+  orig: 725, 208
+  offset: 0, 0
+  index: -1
+yellow/tucl_frame_symbol_collect_effect_01_00004
+  rotate: true
+  xy: 2, 279
+  size: 208, 725
+  orig: 208, 725
+  offset: 0, 0
+  index: -1
+yellow/tucl_frame_symbol_collect_effect_01_00006
+  rotate: true
+  xy: 1221, 212
+  size: 208, 725
+  orig: 208, 725
+  offset: 0, 0
+  index: -1
+yellow/tucl_frame_symbol_collect_effect_01_00008
+  rotate: true
+  xy: 2, 69
+  size: 208, 725
+  orig: 208, 725
+  offset: 0, 0
+  index: -1
+yellow/tucl_frame_symbol_collect_effect_01_00010
+  rotate: true
+  xy: 1118, 2
+  size: 208, 725
+  orig: 208, 725
+  offset: 0, 0
+  index: -1
+yellow/tucl_meter_multiplier_effect_03_00000
+  rotate: true
+  xy: 1476, 422
+  size: 233, 554
+  orig: 233, 554
+  offset: 0, 0
+  index: -1
+yellow/tucl_scatter_collect_effect_01_00000
+  rotate: false
+  xy: 512, 1691
+  size: 524, 130
+  orig: 524, 130
+  offset: 0, 0
+  index: -1
+yellow/tucl_scatter_collect_effect_01_00002
+  rotate: true
+  xy: 1038, 1691
+  size: 130, 524
+  orig: 130, 524
+  offset: 0, 0
+  index: -1
+yellow/tucl_scatter_collect_effect_01_00004
+  rotate: false
+  xy: 2, 1559
+  size: 524, 130
+  orig: 524, 130
+  offset: 0, 0
+  index: -1
+yellow/tucl_scatter_collect_effect_01_00006
+  rotate: true
+  xy: 528, 1559
+  size: 130, 524
+  orig: 130, 524
+  offset: 0, 0
+  index: -1
+yellow/tucl_scatter_collect_effect_01_00008
+  rotate: true
+  xy: 1400, 1498
+  size: 130, 524
+  orig: 130, 524
+  offset: 0, 0
+  index: -1
+yellow/tucl_scatter_collect_effect_01_00010
+  rotate: false
+  xy: 2, 1427
+  size: 524, 130
+  orig: 524, 130
+  offset: 0, 0
+  index: -1
+yellow/tucl_scatter_collect_effect_01_00012
+  rotate: false
+  xy: 528, 1427
+  size: 524, 130
+  orig: 524, 130
+  offset: 0, 0
+  index: -1
+yellow/tucl_scatter_collect_effect_01_00014
+  rotate: false
+  xy: 1054, 1366
+  size: 524, 130
+  orig: 524, 130
+  offset: 0, 0
+  index: -1
+yellow/tucl_scatter_collect_effect_01_00016
+  rotate: false
+  xy: 2, 1295
+  size: 524, 130
+  orig: 524, 130
+  offset: 0, 0
+  index: -1
+yellow/tucl_scatter_collect_effect_02_00000
+  rotate: false
+  xy: 1746, 1101
+  size: 241, 202
+  orig: 241, 202
+  offset: 0, 0
+  index: -1
+yellow/tucl_scatter_collect_effect_02_00002
+  rotate: false
+  xy: 1732, 897
+  size: 241, 202
+  orig: 241, 202
+  offset: 0, 0
+  index: -1
+yellow/tucl_scatter_collect_effect_02_00004
+  rotate: false
+  xy: 1040, 776
+  size: 241, 202
+  orig: 241, 202
+  offset: 0, 0
+  index: -1
+yellow/tucl_scatter_collect_effect_02_00006
+  rotate: true
+  xy: 1283, 715
+  size: 202, 241
+  orig: 202, 241
+  offset: 0, 0
+  index: -1
+yellow/tucl_scatter_collect_effect_02_00008
+  rotate: true
+  xy: 2, 705
+  size: 202, 241
+  orig: 202, 241
+  offset: 0, 0
+  index: -1
+yellow/tucl_symbols_blast_effect_00000
+  rotate: false
+  xy: 1526, 657
+  size: 387, 238
+  orig: 387, 238
+  offset: 0, 0
+  index: -1
+yellow/tucl_symbols_blast_effect_00002
+  rotate: true
+  xy: 729, 310
+  size: 387, 238
+  orig: 387, 238
+  offset: 0, 0
+  index: -1
+yellow/tucl_symbols_blast_effect_00004
+  rotate: false
+  xy: 729, 32
+  size: 387, 238
+  orig: 387, 238
+  offset: 0, 0
+  index: -1
+
+tucl_feature_effect2.png
+size: 2012,1977
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/tucl_frame_symbol_collect_effect_02_00284
+  rotate: false
+  xy: 780, 589
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+blue/tucl_frame_symbol_collect_effect_02_00286
+  rotate: false
+  xy: 391, 349
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+blue/tucl_frame_symbol_collect_effect_02_00288
+  rotate: false
+  xy: 654, 326
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+blue/tucl_frame_symbol_collect_effect_02_00290
+  rotate: false
+  xy: 917, 299
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+blue/tucl_frame_symbol_collect_effect_02_00292
+  rotate: false
+  xy: 1180, 265
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+blue/tucl_frame_symbol_collect_effect_02_00294
+  rotate: false
+  xy: 1443, 265
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+blue/tucl_frame_symbol_collect_effect_02_00296
+  rotate: false
+  xy: 1706, 265
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+blue/tucl_meter_effect_02_00006
+  rotate: false
+  xy: 1670, 1020
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+blue/tucl_meter_effect_02_00008
+  rotate: false
+  xy: 1670, 768
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+cyan/tucl_frame_symbol_collect_effect_02_00298
+  rotate: false
+  xy: 2, 134
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+cyan/tucl_frame_symbol_collect_effect_02_00300
+  rotate: false
+  xy: 265, 86
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+cyan/tucl_frame_symbol_collect_effect_02_00302
+  rotate: false
+  xy: 528, 63
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+cyan/tucl_frame_symbol_collect_effect_02_00304
+  rotate: false
+  xy: 791, 36
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+cyan/tucl_frame_symbol_collect_effect_02_00306
+  rotate: false
+  xy: 1054, 2
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+yellow/tucl_frame_symbol_collect_effect_01_00012
+  rotate: true
+  xy: 2, 1767
+  size: 208, 725
+  orig: 208, 725
+  offset: 0, 0
+  index: -1
+yellow/tucl_frame_symbol_collect_effect_01_00014
+  rotate: true
+  xy: 729, 1767
+  size: 208, 725
+  orig: 208, 725
+  offset: 0, 0
+  index: -1
+yellow/tucl_frame_symbol_collect_effect_01_00016
+  rotate: true
+  xy: 2, 1557
+  size: 208, 725
+  orig: 208, 725
+  offset: 0, 0
+  index: -1
+yellow/tucl_frame_symbol_collect_effect_01_00018
+  rotate: true
+  xy: 729, 1557
+  size: 208, 725
+  orig: 208, 725
+  offset: 0, 0
+  index: -1
+yellow/tucl_frame_symbol_collect_effect_01_00020
+  rotate: true
+  xy: 2, 1347
+  size: 208, 725
+  orig: 208, 725
+  offset: 0, 0
+  index: -1
+yellow/tucl_meter_multiplier_effect_03_00002
+  rotate: true
+  xy: 1456, 1742
+  size: 233, 554
+  orig: 233, 554
+  offset: 0, 0
+  index: -1
+yellow/tucl_meter_multiplier_effect_03_00004
+  rotate: false
+  xy: 1456, 1507
+  size: 554, 233
+  orig: 554, 233
+  offset: 0, 0
+  index: -1
+yellow/tucl_meter_multiplier_effect_03_00006
+  rotate: false
+  xy: 729, 1322
+  size: 554, 233
+  orig: 554, 233
+  offset: 0, 0
+  index: -1
+yellow/tucl_meter_multiplier_effect_03_00008
+  rotate: true
+  xy: 1285, 1272
+  size: 233, 554
+  orig: 233, 554
+  offset: 0, 0
+  index: -1
+yellow/tucl_meter_multiplier_effect_03_00010
+  rotate: true
+  xy: 2, 1112
+  size: 233, 554
+  orig: 233, 554
+  offset: 0, 0
+  index: -1
+yellow/tucl_meter_multiplier_effect_03_00012
+  rotate: true
+  xy: 558, 1087
+  size: 233, 554
+  orig: 233, 554
+  offset: 0, 0
+  index: -1
+yellow/tucl_meter_multiplier_effect_03_00014
+  rotate: true
+  xy: 1114, 1037
+  size: 233, 554
+  orig: 233, 554
+  offset: 0, 0
+  index: -1
+yellow/tucl_meter_multiplier_effect_03_00016
+  rotate: false
+  xy: 2, 877
+  size: 554, 233
+  orig: 554, 233
+  offset: 0, 0
+  index: -1
+yellow/tucl_meter_multiplier_effect_03_00018
+  rotate: true
+  xy: 558, 852
+  size: 233, 554
+  orig: 233, 554
+  offset: 0, 0
+  index: -1
+yellow/tucl_meter_multiplier_effect_03_00020
+  rotate: true
+  xy: 1114, 802
+  size: 233, 554
+  orig: 233, 554
+  offset: 0, 0
+  index: -1
+yellow/tucl_symbols_blast_effect_00006
+  rotate: true
+  xy: 2, 637
+  size: 238, 387
+  orig: 238, 387
+  offset: 0, 0
+  index: -1
+yellow/tucl_symbols_blast_effect_00008
+  rotate: false
+  xy: 391, 612
+  size: 387, 238
+  orig: 387, 238
+  offset: 0, 0
+  index: -1
+yellow/tucl_symbols_blast_effect_00010
+  rotate: true
+  xy: 1043, 562
+  size: 238, 387
+  orig: 238, 387
+  offset: 0, 0
+  index: -1
+yellow/tucl_symbols_blast_effect_00012
+  rotate: true
+  xy: 1432, 528
+  size: 238, 387
+  orig: 238, 387
+  offset: 0, 0
+  index: -1
+yellow/tucl_symbols_blast_effect_00014
+  rotate: false
+  xy: 2, 397
+  size: 387, 238
+  orig: 387, 238
+  offset: 0, 0
+  index: -1
+
+tucl_feature_effect3.png
+size: 1079,1067
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/tucl_meter_multiplier_effect_02_00010
+  rotate: true
+  xy: 720, 357
+  size: 353, 357
+  orig: 353, 357
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_multiplier_effect_02_00000
+  rotate: false
+  xy: 2, 712
+  size: 357, 353
+  orig: 357, 353
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_multiplier_effect_02_00002
+  rotate: true
+  xy: 361, 712
+  size: 353, 357
+  orig: 353, 357
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_multiplier_effect_02_00004
+  rotate: false
+  xy: 720, 712
+  size: 357, 353
+  orig: 357, 353
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_multiplier_effect_02_00006
+  rotate: true
+  xy: 2, 357
+  size: 353, 357
+  orig: 353, 357
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_multiplier_effect_02_00008
+  rotate: true
+  xy: 361, 357
+  size: 353, 357
+  orig: 353, 357
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_multiplier_effect_02_00012
+  rotate: false
+  xy: 2, 2
+  size: 357, 353
+  orig: 357, 353
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_multiplier_effect_02_00014
+  rotate: true
+  xy: 361, 2
+  size: 353, 357
+  orig: 353, 357
+  offset: 0, 0
+  index: -1
+cyan/tucl_meter_multiplier_effect_02_00016
+  rotate: true
+  xy: 720, 2
+  size: 353, 357
+  orig: 353, 357
+  offset: 0, 0
+  index: -1

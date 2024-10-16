@@ -1,0 +1,104 @@
+
+scatter4.png
+size: 405,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame_Light
+  rotate: false
+  xy: 210, 160
+  size: 172, 370
+  orig: 190, 386
+  offset: 9, 8
+  index: -1
+Symbol_13_01_Character_Light
+  rotate: false
+  xy: 298, 39
+  size: 49, 119
+  orig: 49, 119
+  offset: 0, 0
+  index: -1
+Symbol_13_Split_Text_A
+  rotate: true
+  xy: 355, 11
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Symbol_13_Split_Text_C
+  rotate: true
+  xy: 349, 39
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+Symbol_13_Split_Text_E
+  rotate: true
+  xy: 210, 100
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1
+Symbol_13_Split_Text_R
+  rotate: false
+  xy: 275, 114
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+Symbol_13_Split_Text_S
+  rotate: false
+  xy: 384, 394
+  size: 15, 44
+  orig: 15, 44
+  offset: 0, 0
+  index: -1
+Symbol_13_Split_Text_T1
+  rotate: false
+  xy: 384, 486
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+Symbol_13_Split_Text_T2
+  rotate: false
+  xy: 384, 440
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+Symbol_13_Text
+  rotate: true
+  xy: 349, 60
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+Symbol_13_Text_Add
+  rotate: false
+  xy: 298, 11
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+newin_c03
+  rotate: false
+  xy: 210, 120
+  size: 63, 38
+  orig: 65, 40
+  offset: 1, 1
+  index: -1
+ringwave03
+  rotate: false
+  xy: 0, 100
+  size: 208, 430
+  orig: 208, 430
+  offset: 0, 0
+  index: -1
+symbol_12_1
+  rotate: true
+  xy: 0, 0
+  size: 98, 296
+  orig: 98, 296
+  offset: 0, 0
+  index: -1

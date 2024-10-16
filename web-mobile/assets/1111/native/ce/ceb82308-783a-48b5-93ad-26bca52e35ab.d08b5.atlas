@@ -1,0 +1,20 @@
+
+xbeishu.png
+size: 346,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_Circle_01
+  rotate: false
+  xy: 0, 0
+  size: 226, 225
+  orig: 252, 252
+  offset: 13, 14
+  index: -1
+FlashLight
+  rotate: true
+  xy: 228, 100
+  size: 125, 118
+  orig: 128, 123
+  offset: 3, 2
+  index: -1

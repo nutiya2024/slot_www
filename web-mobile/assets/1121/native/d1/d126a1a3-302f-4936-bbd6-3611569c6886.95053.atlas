@@ -1,0 +1,167 @@
+
+suru_pic09_green_gummy.png
+size: 189,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spalsh_00000
+  rotate: false
+  xy: 140, 402
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+spalsh_00001
+  rotate: true
+  xy: 21, 1
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+spalsh_00002
+  rotate: false
+  xy: 0, 0
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+spalsh_00003
+  rotate: true
+  xy: 176, 184
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+spalsh_00004
+  rotate: true
+  xy: 163, 504
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+spalsh_00005
+  rotate: false
+  xy: 134, 34
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+spalsh_00006
+  rotate: false
+  xy: 134, 1
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+spalsh_00007
+  rotate: true
+  xy: 134, 66
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+spalsh_00008
+  rotate: true
+  xy: 134, 131
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+spalsh_00009
+  rotate: true
+  xy: 134, 168
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+spalsh_00010
+  rotate: true
+  xy: 140, 205
+  size: 35, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+spalsh_00011
+  rotate: true
+  xy: 140, 242
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+spalsh_00012
+  rotate: true
+  xy: 140, 280
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+spalsh_00013
+  rotate: true
+  xy: 140, 320
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+spalsh_00014
+  rotate: true
+  xy: 140, 360
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+spalsh_00015
+  rotate: true
+  xy: 163, 443
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+spalsh_00016
+  rotate: true
+  xy: 163, 401
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+spalsh_00017
+  rotate: false
+  xy: 134, 102
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+spalsh_00018
+  rotate: true
+  xy: 173, 144
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+spalsh_00019
+  rotate: false
+  xy: 163, 485
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+suru_shadow
+  rotate: false
+  xy: 0, 409
+  size: 161, 114
+  orig: 161, 115
+  offset: 0, 0
+  index: -1
+suru_teddy
+  rotate: false
+  xy: 0, 13
+  size: 132, 193
+  orig: 132, 193
+  offset: 0, 0
+  index: -1
+suru_teddy_stroke
+  rotate: false
+  xy: 0, 208
+  size: 138, 199
+  orig: 138, 199
+  offset: 0, 0
+  index: -1

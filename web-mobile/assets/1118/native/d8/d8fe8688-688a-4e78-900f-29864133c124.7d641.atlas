@@ -1,0 +1,126 @@
+
+stpr_symbol_all_fx_disappearance.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_00120
+  rotate: false
+  xy: 2, 464
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00128
+  rotate: false
+  xy: 692, 695
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00121
+  rotate: false
+  xy: 232, 695
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00122
+  rotate: false
+  xy: 2, 233
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00123
+  rotate: false
+  xy: 232, 464
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00124
+  rotate: false
+  xy: 462, 695
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00125
+  rotate: false
+  xy: 2, 2
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00126
+  rotate: false
+  xy: 232, 233
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00127
+  rotate: false
+  xy: 462, 464
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00129
+  rotate: false
+  xy: 232, 2
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00130
+  rotate: false
+  xy: 462, 233
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00131
+  rotate: false
+  xy: 692, 464
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00132
+  rotate: false
+  xy: 922, 695
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00133
+  rotate: false
+  xy: 462, 2
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00134
+  rotate: false
+  xy: 692, 233
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00135
+  rotate: false
+  xy: 922, 464
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+effect_00136
+  rotate: false
+  xy: 2, 695
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+

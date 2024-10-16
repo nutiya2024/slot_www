@@ -1,0 +1,20 @@
+
+RESPIN OF FJRE.png
+size: 1176,1176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RESPIN OF FIRE
+  rotate: false
+  xy: 0, 1137
+  size: 341, 39
+  orig: 341, 39
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 343, 1097
+  size: 833, 79
+  orig: 833, 79
+  offset: 0, 0
+  index: -1

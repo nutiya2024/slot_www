@@ -1,0 +1,133 @@
+
+stpr_transition.png
+size: 1946,2002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1780, 1706
+  size: 166, 296
+  orig: 166, 296
+  offset: 0, 0
+  index: -1
+strp_transition_00003
+  rotate: false
+  xy: 1780, 1542
+  size: 154, 162
+  orig: 888, 499
+  offset: -12, 5
+  index: -1
+strp_transition_00021
+  rotate: false
+  xy: 890, 501
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+strp_transition_00007
+  rotate: false
+  xy: 0, 1503
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+strp_transition_00009
+  rotate: false
+  xy: 0, 1002
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+strp_transition_00011
+  rotate: false
+  xy: 890, 1503
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+strp_transition_00013
+  rotate: false
+  xy: 0, 501
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+strp_transition_00015
+  rotate: false
+  xy: 890, 1002
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+strp_transition_00017
+  rotate: false
+  xy: 0, 0
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+strp_transition_00023
+  rotate: false
+  xy: 890, 0
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+
+
+stpr_transition_2.png
+size: 1890,1667
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+strp_transition_00005
+  rotate: false
+  xy: 0, 0
+  size: 274, 276
+  orig: 499, 888
+  offset: -9, -16
+  index: -1
+strp_transition_00027
+  rotate: false
+  xy: 0, 779
+  size: 499, 888
+  orig: 499, 888
+  offset: 0, 0
+  index: -1
+strp_transition_00029
+  rotate: false
+  xy: 0, 278
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+strp_transition_00033
+  rotate: false
+  xy: 501, 779
+  size: 499, 888
+  orig: 499, 888
+  offset: 0, 0
+  index: -1
+strp_transition_00035
+  rotate: false
+  xy: 1002, 1168
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+strp_transition_00037
+  rotate: false
+  xy: 1002, 667
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+strp_transition_00039
+  rotate: false
+  xy: 890, 166
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+

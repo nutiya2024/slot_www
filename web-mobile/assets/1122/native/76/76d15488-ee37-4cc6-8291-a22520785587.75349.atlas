@@ -1,0 +1,237 @@
+
+bg_leprechaun.png
+size: 380,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 116
+  size: 124, 121
+  orig: 124, 122
+  offset: 0, 1
+  index: -1
+coin_back
+  rotate: false
+  xy: 264, 128
+  size: 56, 21
+  orig: 56, 21
+  offset: 0, 0
+  index: -1
+coin_front
+  rotate: true
+  xy: 178, 51
+  size: 60, 26
+  orig: 61, 49
+  offset: 0, 23
+  index: -1
+ear_L
+  rotate: false
+  xy: 319, 178
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: true
+  xy: 248, 56
+  size: 28, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+eyelid_L
+  rotate: false
+  xy: 128, 225
+  size: 14, 12
+  orig: 14, 13
+  offset: 0, 1
+  index: -1
+eyelid_R
+  rotate: true
+  xy: 25, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 251, 207
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+forarm_L
+  rotate: false
+  xy: 264, 86
+  size: 47, 40
+  orig: 48, 41
+  offset: 1, 1
+  index: -1
+fx_flare03
+  rotate: false
+  xy: 2, 239
+  size: 142, 139
+  orig: 142, 139
+  offset: 0, 0
+  index: -1
+fx_scatter_rainbow
+  rotate: false
+  xy: 146, 270
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 128, 113
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 114, 2
+  size: 34, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 221, 3
+  size: 46, 42
+  orig: 46, 43
+  offset: 0, 1
+  index: -1
+hand_L
+  rotate: false
+  xy: 313, 226
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+hand_L_02
+  rotate: false
+  xy: 114, 40
+  size: 62, 71
+  orig: 63, 71
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 264, 151
+  size: 53, 54
+  orig: 54, 54
+  offset: 1, 0
+  index: -1
+hand_R02
+  rotate: true
+  xy: 211, 88
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 211, 132
+  size: 55, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 146, 189
+  size: 79, 103
+  orig: 82, 103
+  offset: 0, 0
+  index: -1
+legs
+  rotate: false
+  xy: 2, 21
+  size: 110, 93
+  orig: 111, 94
+  offset: 1, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 150, 5
+  size: 33, 24
+  orig: 34, 26
+  offset: 1, 0
+  index: -1
+pot
+  rotate: false
+  xy: 257, 289
+  size: 110, 89
+  orig: 112, 90
+  offset: 0, 1
+  index: -1
+pot_back
+  rotate: false
+  xy: 257, 269
+  size: 85, 18
+  orig: 86, 19
+  offset: 0, 0
+  index: -1
+pot_ring_L
+  rotate: true
+  xy: 2, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+pot_ring_R
+  rotate: false
+  xy: 299, 65
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+s_s_fx_sparks
+  rotate: false
+  xy: 369, 370
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+shoe_L
+  rotate: false
+  xy: 313, 86
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+shoe_L_02
+  rotate: true
+  xy: 178, 2
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+shoe_R
+  rotate: true
+  xy: 206, 51
+  size: 35, 40
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+shoe_R_02
+  rotate: true
+  xy: 265, 11
+  size: 43, 37
+  orig: 44, 37
+  offset: 1, 0
+  index: -1
+shouder_L
+  rotate: false
+  xy: 341, 189
+  size: 37, 35
+  orig: 38, 37
+  offset: 0, 1
+  index: -1
+shoulder_L
+  rotate: false
+  xy: 344, 233
+  size: 34, 54
+  orig: 35, 55
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,139 @@
+
+card_win_effect.png
+size: 1518,724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wh_vfx_a_screen.pn
+  rotate: false
+  xy: 2, 442
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+wh_vfx_b_screen.pn
+  rotate: false
+  xy: 412, 63
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+wh_vfx_c_screen.pn
+  rotate: false
+  xy: 539, 20
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+wh_vfx_d_screen_01.pn
+  rotate: false
+  xy: 212, 4
+  size: 198, 184
+  orig: 315, 315
+  offset: 58, 64
+  index: -1
+wh_vfx_d_screen_02.pn
+  rotate: false
+  xy: 1304, 294
+  size: 210, 196
+  orig: 315, 315
+  offset: 52, 58
+  index: -1
+wh_vfx_d_screen_03.pn
+  rotate: false
+  xy: 1298, 88
+  size: 218, 204
+  orig: 315, 315
+  offset: 48, 55
+  index: -1
+wh_vfx_d_screen_04.pn
+  rotate: true
+  xy: 1304, 492
+  size: 230, 212
+  orig: 315, 315
+  offset: 42, 51
+  index: -1
+wh_vfx_d_screen_05.pn
+  rotate: false
+  xy: 790, 2
+  size: 238, 220
+  orig: 315, 315
+  offset: 37, 45
+  index: -1
+wh_vfx_d_screen_06.pn
+  rotate: false
+  xy: 1048, 252
+  size: 248, 222
+  orig: 315, 315
+  offset: 30, 39
+  index: -1
+wh_vfx_d_screen_07.pn
+  rotate: false
+  xy: 1046, 18
+  size: 244, 232
+  orig: 315, 315
+  offset: 28, 32
+  index: -1
+wh_vfx_d_screen_08.pn
+  rotate: true
+  xy: 266, 190
+  size: 250, 242
+  orig: 315, 315
+  offset: 24, 20
+  index: -1
+wh_vfx_d_screen_09.pn
+  rotate: false
+  xy: 536, 222
+  size: 252, 246
+  orig: 315, 315
+  offset: 26, 13
+  index: -1
+wh_vfx_d_screen_10.pn
+  rotate: false
+  xy: 1048, 476
+  size: 254, 246
+  orig: 315, 315
+  offset: 19, 10
+  index: -1
+wh_vfx_d_screen_11.pn
+  rotate: false
+  xy: 792, 474
+  size: 254, 248
+  orig: 315, 315
+  offset: 14, 9
+  index: -1
+wh_vfx_d_screen_12.pn
+  rotate: false
+  xy: 2, 190
+  size: 262, 250
+  orig: 315, 315
+  offset: 9, 6
+  index: -1
+wh_vfx_d_screen_13.pn
+  rotate: false
+  xy: 284, 460
+  size: 250, 262
+  orig: 315, 315
+  offset: 10, 0
+  index: -1
+wh_vfx_d_screen_14.pn
+  rotate: true
+  xy: 792, 224
+  size: 248, 252
+  orig: 315, 315
+  offset: 7, 0
+  index: -1
+wh_vfx_d_screen_15.pn
+  rotate: false
+  xy: 536, 470
+  size: 254, 252
+  orig: 315, 315
+  offset: 3, 0
+  index: -1
+wh_vfx_d_screen_16.pn
+  rotate: false
+  xy: 2, 14
+  size: 208, 174
+  orig: 315, 315
+  offset: 1, 63
+  index: -1

@@ -1,0 +1,41 @@
+
+bg_light.png
+size: 630,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12
+  rotate: false
+  xy: 2, 28
+  size: 366, 366
+  orig: 366, 366
+  offset: 0, 0
+  index: -1
+Glow_154
+  rotate: false
+  xy: 370, 11
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Glow_gd
+  rotate: false
+  xy: 370, 141
+  size: 256, 253
+  orig: 256, 256
+  offset: 0, 3
+  index: -1
+Light_FS
+  rotate: false
+  xy: 500, 11
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Particle_Star2
+  rotate: false
+  xy: 2, 2
+  size: 24, 24
+  orig: 64, 64
+  offset: 20, 20
+  index: -1

@@ -1,0 +1,139 @@
+
+btn.png
+size: 1974,854
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_button_vfx_00.pn
+  rotate: true
+  xy: 1302, 20
+  size: 290, 130
+  orig: 540, 307
+  offset: 125, 91
+  index: -1
+bonus_button_vfx_01.pn
+  rotate: false
+  xy: 1086, 3
+  size: 214, 307
+  orig: 540, 307
+  offset: 169, 0
+  index: -1
+bonus_button_vfx_02.pn
+  rotate: true
+  xy: 2, 312
+  size: 540, 307
+  orig: 540, 307
+  offset: 0, 0
+  index: -1
+bonus_button_vfx_03.pn
+  rotate: false
+  xy: 2, 3
+  size: 540, 307
+  orig: 540, 307
+  offset: 0, 0
+  index: -1
+bonus_button_vfx_04.pn
+  rotate: true
+  xy: 311, 312
+  size: 540, 307
+  orig: 540, 307
+  offset: 0, 0
+  index: -1
+bonus_button_vfx_05.pn
+  rotate: false
+  xy: 544, 3
+  size: 540, 307
+  orig: 540, 307
+  offset: 0, 0
+  index: -1
+bonus_button_vfx_06.pn
+  rotate: true
+  xy: 620, 312
+  size: 540, 307
+  orig: 540, 307
+  offset: 0, 0
+  index: -1
+bonus_button_vfx_07.pn
+  rotate: true
+  xy: 929, 312
+  size: 540, 307
+  orig: 540, 307
+  offset: 0, 0
+  index: -1
+bonus_button_vfx_08.pn
+  rotate: true
+  xy: 1238, 312
+  size: 540, 298
+  orig: 540, 307
+  offset: 0, 7
+  index: -1
+bonus_button_vfx_09.pn
+  rotate: true
+  xy: 1434, 40
+  size: 270, 232
+  orig: 540, 307
+  offset: 143, 44
+  index: -1
+bonus_button_vfx_10.pn
+  rotate: false
+  xy: 1668, 616
+  size: 248, 236
+  orig: 540, 307
+  offset: 142, 43
+  index: -1
+bonus_button_vfx_11.pn
+  rotate: false
+  xy: 1538, 366
+  size: 224, 248
+  orig: 540, 307
+  offset: 155, 44
+  index: -1
+bonus_button_vfx_12.pn
+  rotate: false
+  xy: 1764, 164
+  size: 208, 222
+  orig: 540, 307
+  offset: 176, 59
+  index: -1
+bonus_button_vfx_13.pn
+  rotate: false
+  xy: 1764, 388
+  size: 208, 226
+  orig: 540, 307
+  offset: 177, 56
+  index: -1
+bonus_button_vfx_14.pn
+  rotate: false
+  xy: 1668, 4
+  size: 224, 158
+  orig: 540, 307
+  offset: 144, 92
+  index: -1
+bonus_button_vfx_15.pn
+  rotate: false
+  xy: 1434, 2
+  size: 108, 36
+  orig: 540, 307
+  offset: 227, 64
+  index: -1
+bonus_button_vfx_16.pn
+  rotate: false
+  xy: 1544, 6
+  size: 106, 32
+  orig: 540, 307
+  offset: 229, 67
+  index: -1
+bonus_button_vfx_17.pn
+  rotate: false
+  xy: 1302, 10
+  size: 8, 8
+  orig: 540, 307
+  offset: 233, 70
+  index: -1
+bonus_button_vfx_18.pn
+  rotate: false
+  xy: 1302, 5
+  size: 3, 3
+  orig: 540, 307
+  offset: 0, 304
+  index: -1

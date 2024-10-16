@@ -1,0 +1,132 @@
+
+gool_hv_1.png
+size: 538,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gool_hv_1/back_crown
+  rotate: true
+  xy: 147, 97
+  size: 225, 58
+  orig: 225, 58
+  offset: 0, 0
+  index: -1
+gool_hv_1/base
+  rotate: false
+  xy: 432, 432
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+gool_hv_1/base_shadow
+  rotate: false
+  xy: 349, 25
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+gool_hv_1/crown_shadow
+  rotate: false
+  xy: 216, 416
+  size: 214, 122
+  orig: 214, 122
+  offset: 0, 0
+  index: -1
+gool_hv_1/diamond
+  rotate: false
+  xy: 79, 0
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+gool_hv_1/diamond_base
+  rotate: true
+  xy: 0, 82
+  size: 240, 145
+  orig: 240, 145
+  offset: 0, 0
+  index: -1
+gool_hv_1/diamonds_shadow
+  rotate: false
+  xy: 79, 40
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+gool_hv_1/frame
+  rotate: false
+  xy: 0, 324
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+gool_hv_1/gool_hv_1_stroke_00000
+  rotate: false
+  xy: 207, 220
+  size: 140, 83
+  orig: 140, 83
+  offset: 0, 0
+  index: -1
+gool_hv_1/gool_hv_1_stroke_00001
+  rotate: false
+  xy: 207, 135
+  size: 140, 83
+  orig: 140, 83
+  offset: 0, 0
+  index: -1
+gool_hv_1/gool_hv_1_stroke_00002
+  rotate: false
+  xy: 207, 50
+  size: 140, 83
+  orig: 140, 83
+  offset: 0, 0
+  index: -1
+gool_hv_1/gool_hv_1_stroke_00003
+  rotate: false
+  xy: 349, 216
+  size: 140, 83
+  orig: 140, 83
+  offset: 0, 0
+  index: -1
+gool_hv_1/gool_hv_1_stroke_00004
+  rotate: false
+  xy: 349, 131
+  size: 140, 83
+  orig: 140, 83
+  offset: 0, 0
+  index: -1
+gool_hv_1/particles
+  rotate: false
+  xy: 0, 5
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+gool_hv_1/rays
+  rotate: false
+  xy: 422, 301
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+gool_hv_1/shadow
+  rotate: false
+  xy: 216, 305
+  size: 204, 109
+  orig: 204, 109
+  offset: 0, 0
+  index: -1
+gool_hv_1/small_diamond
+  rotate: true
+  xy: 147, 87
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+gool_hv_1/star
+  rotate: false
+  xy: 432, 417
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1

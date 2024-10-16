@@ -1,0 +1,251 @@
+
+2fbe478c2b7580a479c3a6e9f76d2785.png
+size: 616,725
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_S08_overlay_01
+  rotate: false
+  xy: 0, 5
+  size: 152, 77
+  orig: 265, 265
+  offset: -2, -17
+  index: -1
+s_S08_overlay_30
+  rotate: false
+  xy: 0, 84
+  size: 152, 78
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_09
+  rotate: false
+  xy: 154, 163
+  size: 152, 79
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_02
+  rotate: false
+  xy: 154, 2
+  size: 152, 78
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_03
+  rotate: false
+  xy: 0, 486
+  size: 152, 78
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_04
+  rotate: false
+  xy: 0, 245
+  size: 152, 78
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_05
+  rotate: false
+  xy: 153, 566
+  size: 152, 78
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_06
+  rotate: false
+  xy: 153, 646
+  size: 152, 79
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_07
+  rotate: false
+  xy: 462, 81
+  size: 152, 79
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_08
+  rotate: false
+  xy: 307, 566
+  size: 152, 78
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S08_overlay_31
+  rotate: false
+  xy: 462, 242
+  size: 152, 79
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_10
+  rotate: false
+  xy: 306, 324
+  size: 151, 78
+  orig: 265, 265
+  offset: -1, -19
+  index: -1
+s_S08_overlay_11
+  rotate: false
+  xy: 308, 81
+  size: 151, 78
+  orig: 265, 265
+  offset: -1, -19
+  index: -1
+s_S08_overlay_12
+  rotate: false
+  xy: 154, 324
+  size: 150, 79
+  orig: 265, 265
+  offset: -1, -18
+  index: -1
+s_S08_overlay_13
+  rotate: false
+  xy: 462, 404
+  size: 151, 79
+  orig: 265, 265
+  offset: -1, -18
+  index: -1
+s_S08_overlay_14
+  rotate: false
+  xy: 307, 646
+  size: 151, 79
+  orig: 265, 265
+  offset: -1, -18
+  index: -1
+s_S08_overlay_15
+  rotate: false
+  xy: 460, 646
+  size: 151, 79
+  orig: 265, 265
+  offset: -1, -18
+  index: -1
+s_S08_overlay_16
+  rotate: false
+  xy: 0, 325
+  size: 152, 79
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_17
+  rotate: false
+  xy: 308, 485
+  size: 152, 78
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_18
+  rotate: false
+  xy: 308, 242
+  size: 152, 79
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_19
+  rotate: false
+  xy: 308, 404
+  size: 152, 79
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_20
+  rotate: false
+  xy: 461, 565
+  size: 152, 79
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_21
+  rotate: false
+  xy: 154, 405
+  size: 152, 78
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S08_overlay_22
+  rotate: false
+  xy: 462, 485
+  size: 152, 78
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S08_overlay_23
+  rotate: false
+  xy: 154, 244
+  size: 152, 78
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S08_overlay_24
+  rotate: false
+  xy: 462, 162
+  size: 152, 78
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S08_overlay_25
+  rotate: false
+  xy: 0, 647
+  size: 151, 78
+  orig: 265, 265
+  offset: -2, -19
+  index: -1
+s_S08_overlay_26
+  rotate: false
+  xy: 0, 164
+  size: 152, 79
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_27
+  rotate: false
+  xy: 459, 323
+  size: 151, 79
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_28
+  rotate: false
+  xy: 0, 567
+  size: 151, 78
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_29
+  rotate: false
+  xy: 0, 406
+  size: 152, 78
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_32
+  rotate: false
+  xy: 154, 485
+  size: 152, 79
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_33
+  rotate: false
+  xy: 308, 0
+  size: 152, 79
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_34
+  rotate: false
+  xy: 308, 161
+  size: 152, 79
+  orig: 265, 265
+  offset: -2, -18
+  index: -1
+s_S08_overlay_35
+  rotate: false
+  xy: 154, 82
+  size: 152, 79
+  orig: 265, 265
+  offset: -2, -18
+  index: -1

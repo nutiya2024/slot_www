@@ -1,0 +1,41 @@
+
+Symbol_bar_blue.png
+size: 231,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue-1
+  rotate: true
+  xy: 148, 2
+  size: 209, 59
+  orig: 211, 61
+  offset: 1, 1
+  index: -1
+blue-2
+  rotate: true
+  xy: 180, 213
+  size: 198, 49
+  orig: 201, 51
+  offset: 2, 1
+  index: -1
+blue-3
+  rotate: true
+  xy: 83, 24
+  size: 222, 63
+  orig: 224, 65
+  offset: 1, 1
+  index: -1
+blue-4
+  rotate: true
+  xy: 2, 5
+  size: 241, 79
+  orig: 244, 83
+  offset: 2, 3
+  index: -1
+shan
+  rotate: false
+  xy: 2, 248
+  size: 176, 163
+  orig: 179, 169
+  offset: 2, 5
+  index: -1

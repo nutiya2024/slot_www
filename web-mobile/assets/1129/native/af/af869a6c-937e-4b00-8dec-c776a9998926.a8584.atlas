@@ -1,0 +1,125 @@
+
+h_guitar_atlas_symbols.png
+size: 546,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_back
+  rotate: true
+  xy: 320, 24
+  size: 59, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+guitar_front
+  rotate: true
+  xy: 186, 71
+  size: 135, 81
+  orig: 135, 81
+  offset: 0, 0
+  index: -1
+guitar_side
+  rotate: true
+  xy: 485, 45
+  size: 37, 51
+  orig: 38, 56
+  offset: 1, 3
+  index: -1
+guitar_string
+  rotate: true
+  xy: 269, 85
+  size: 121, 111
+  orig: 121, 111
+  offset: 0, 0
+  index: -1
+guitar_top
+  rotate: true
+  xy: 2, 5
+  size: 201, 182
+  orig: 201, 182
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: false
+  xy: 320, 2
+  size: 25, 20
+  orig: 28, 22
+  offset: 2, 1
+  index: -1
+rose_L
+  rotate: false
+  xy: 186, 2
+  size: 57, 67
+  orig: 58, 67
+  offset: 1, 0
+  index: -1
+rose_R
+  rotate: false
+  xy: 491, 84
+  size: 51, 46
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+rose_R_2
+  rotate: true
+  xy: 374, 27
+  size: 56, 55
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+rose_front
+  rotate: false
+  xy: 245, 3
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+rose_middle
+  rotate: false
+  xy: 491, 158
+  size: 53, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+rose_vine
+  rotate: true
+  xy: 435, 104
+  size: 102, 54
+  orig: 103, 54
+  offset: 0, 0
+  index: -1
+vine_front
+  rotate: true
+  xy: 382, 94
+  size: 112, 51
+  orig: 112, 51
+  offset: 0, 0
+  index: -1
+vine_left
+  rotate: false
+  xy: 485, 3
+  size: 26, 40
+  orig: 28, 40
+  offset: 1, 0
+  index: -1
+vine_left_top
+  rotate: true
+  xy: 491, 132
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+vine_right
+  rotate: false
+  xy: 374, 2
+  size: 23, 23
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+vine_top
+  rotate: false
+  xy: 431, 7
+  size: 52, 85
+  orig: 52, 85
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,206 @@
+
+buy_options_window.png
+size: 2003,1985
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buy_options_window_2_split/red/base
+  rotate: false
+  xy: 2, 623
+  size: 1173, 443
+  orig: 1175, 445
+  offset: 1, 1
+  index: -1
+buy_options_window_2_split/red/ember_00020
+  rotate: true
+  xy: 1368, 1318
+  size: 524, 633
+  orig: 758, 672
+  offset: 41, 0
+  index: -1
+buy_options_window_2_split/red/ember_00022
+  rotate: true
+  xy: 2, 1290
+  size: 532, 636
+  orig: 758, 672
+  offset: 53, 0
+  index: -1
+buy_options_window_3_split/yellow/left_frame
+  rotate: true
+  xy: 383, 1944
+  size: 39, 374
+  orig: 44, 375
+  offset: 5, 0
+  index: -1
+buy_options_window_3_split/yellow/lower_frame
+  rotate: false
+  xy: 2, 1824
+  size: 744, 118
+  orig: 748, 126
+  offset: 1, 0
+  index: -1
+buy_options_window_3_split/yellow/right_frame
+  rotate: true
+  xy: 2, 1945
+  size: 38, 379
+  orig: 49, 385
+  offset: 0, 2
+  index: -1
+buy_options_window_3_split/yellow/upper_frame
+  rotate: false
+  xy: 759, 1877
+  size: 746, 106
+  orig: 748, 106
+  offset: 1, 0
+  index: -1
+buy_options_window_4_split/red/base_glow
+  rotate: false
+  xy: 748, 1617
+  size: 618, 258
+  orig: 620, 294
+  offset: 1, 18
+  index: -1
+buy_options_window_4_split/red/ember_00000
+  rotate: false
+  xy: 1177, 96
+  size: 670, 613
+  orig: 758, 672
+  offset: 30, 6
+  index: -1
+buy_options_window_4_split/red/ember_00030
+  rotate: false
+  xy: 1177, 96
+  size: 670, 613
+  orig: 758, 672
+  offset: 30, 6
+  index: -1
+buy_options_window_4_split/red/glow_star
+  rotate: false
+  xy: 1507, 1844
+  size: 140, 139
+  orig: 150, 148
+  offset: 4, 2
+  index: -1
+buy_options_window_split/red/ember_00024
+  rotate: true
+  xy: 640, 1068
+  size: 547, 643
+  orig: 758, 672
+  offset: 55, 0
+  index: -1
+buy_options_window_split/red/ember_00026
+  rotate: true
+  xy: 1285, 711
+  size: 605, 644
+  orig: 758, 672
+  offset: 20, 9
+  index: -1
+buy_options_window_split/red/ember_00028
+  rotate: false
+  xy: 2, 2
+  size: 673, 619
+  orig: 758, 672
+  offset: 27, 3
+  index: -1
+
+buy_options_window2.png
+size: 1702,1937
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buy_options_window_4_split/red/base_fire
+  rotate: false
+  xy: 670, 1288
+  size: 1030, 647
+  orig: 1030, 647
+  offset: 0, 0
+  index: -1
+buy_options_window_4_split/red/base_fire_particles
+  rotate: false
+  xy: 2, 657
+  size: 1487, 629
+  orig: 1487, 629
+  offset: 0, 0
+  index: -1
+buy_options_window_4_split/red/ember_00002
+  rotate: false
+  xy: 2, 1315
+  size: 666, 620
+  orig: 758, 672
+  offset: 34, 8
+  index: -1
+buy_options_window_4_split/red/ember_00004
+  rotate: false
+  xy: 2, 7
+  size: 700, 648
+  orig: 758, 672
+  offset: 18, 6
+  index: -1
+buy_options_window_4_split/red/ember_00006
+  rotate: false
+  xy: 704, 2
+  size: 718, 653
+  orig: 758, 672
+  offset: 18, 4
+  index: -1
+
+buy_options_window3.png
+size: 1495,2001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buy_options_window_2_split/red/ember_00008
+  rotate: false
+  xy: 2, 1341
+  size: 734, 658
+  orig: 758, 672
+  offset: 20, 0
+  index: -1
+buy_options_window_2_split/red/ember_00010
+  rotate: false
+  xy: 738, 1339
+  size: 755, 660
+  orig: 758, 672
+  offset: 3, 1
+  index: -1
+buy_options_window_2_split/red/ember_00012
+  rotate: false
+  xy: 2, 679
+  size: 724, 660
+  orig: 758, 672
+  offset: 34, 4
+  index: -1
+buy_options_window_2_split/red/ember_00014
+  rotate: false
+  xy: 728, 671
+  size: 725, 666
+  orig: 758, 672
+  offset: 30, 0
+  index: -1
+buy_options_window_2_split/red/ember_00016
+  rotate: false
+  xy: 693, 2
+  size: 756, 667
+  orig: 758, 672
+  offset: 2, 2
+  index: -1
+buy_options_window_2_split/red/ember_00018
+  rotate: false
+  xy: 2, 6
+  size: 689, 671
+  orig: 758, 672
+  offset: 31, 1
+  index: -1
+
+buy_options_window4.png
+size: 1386,677
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buy_options_window_4_split/red/fire_glow
+  rotate: false
+  xy: 2, 2
+  size: 1382, 673
+  orig: 1510, 978
+  offset: 30, 179
+  index: -1

@@ -1,0 +1,147 @@
+
+gool_basegame.png
+size: 1697,975
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_02
+  rotate: false
+  xy: 490, 545
+  size: 232, 271
+  orig: 232, 271
+  offset: 0, 0
+  index: -1
+fire_04
+  rotate: false
+  xy: 763, 0
+  size: 232, 270
+  orig: 232, 271
+  offset: 0, -1
+  index: -1
+fire_06
+  rotate: false
+  xy: 490, 272
+  size: 232, 271
+  orig: 232, 271
+  offset: 0, 0
+  index: -1
+fire_08
+  rotate: false
+  xy: 724, 545
+  size: 232, 271
+  orig: 232, 271
+  offset: 0, 0
+  index: -1
+fire_10
+  rotate: false
+  xy: 724, 272
+  size: 232, 271
+  orig: 232, 271
+  offset: 0, 0
+  index: -1
+fire_18
+  rotate: false
+  xy: 1192, 285
+  size: 232, 271
+  orig: 232, 271
+  offset: 0, 0
+  index: -1
+fire_12
+  rotate: false
+  xy: 958, 558
+  size: 232, 271
+  orig: 232, 271
+  offset: 0, 0
+  index: -1
+fire_14
+  rotate: false
+  xy: 958, 285
+  size: 232, 271
+  orig: 232, 271
+  offset: 0, 0
+  index: -1
+fire_16
+  rotate: false
+  xy: 1192, 558
+  size: 232, 271
+  orig: 232, 271
+  offset: 0, 0
+  index: -1
+fire_20
+  rotate: false
+  xy: 1426, 558
+  size: 232, 271
+  orig: 232, 271
+  offset: 0, 0
+  index: -1
+fire_22
+  rotate: false
+  xy: 1426, 285
+  size: 232, 271
+  orig: 232, 271
+  offset: 0, 0
+  index: -1
+fire_24
+  rotate: false
+  xy: 490, 38
+  size: 271, 232
+  orig: 271, 232
+  offset: 0, 0
+  index: -1
+fire_26
+  rotate: false
+  xy: 997, 12
+  size: 232, 271
+  orig: 232, 271
+  offset: 0, 0
+  index: -1
+fire_28
+  rotate: false
+  xy: 1231, 12
+  size: 232, 271
+  orig: 232, 271
+  offset: 0, 0
+  index: -1
+fire_30
+  rotate: false
+  xy: 1465, 12
+  size: 232, 271
+  orig: 232, 271
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 0, 818
+  size: 889, 157
+  orig: 889, 159
+  offset: 0, -1
+  index: -1
+pillar_01
+  rotate: false
+  xy: 891, 831
+  size: 787, 144
+  orig: 787, 144
+  offset: 0, 0
+  index: -1
+pillar_02
+  rotate: false
+  xy: 156, 202
+  size: 165, 614
+  orig: 165, 614
+  offset: 0, 0
+  index: -1
+pillar_03
+  rotate: false
+  xy: 0, 7
+  size: 154, 809
+  orig: 154, 809
+  offset: 0, 0
+  index: -1
+pillar_04
+  rotate: false
+  xy: 323, 241
+  size: 165, 575
+  orig: 165, 575
+  offset: 0, 0
+  index: -1
+

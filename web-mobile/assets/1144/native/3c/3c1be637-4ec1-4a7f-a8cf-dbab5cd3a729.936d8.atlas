@@ -1,0 +1,55 @@
+
+transition.png
+size: 1897,1784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/magic/transition_00001
+  rotate: false
+  xy: 2, 893
+  size: 500, 889
+  orig: 500, 889
+  offset: 0, 0
+  index: -1
+Images/magic/transition_00003
+  rotate: false
+  xy: 2, 2
+  size: 500, 889
+  orig: 500, 889
+  offset: 0, 0
+  index: -1
+Images/magic/transition_00005
+  rotate: true
+  xy: 504, 1282
+  size: 500, 889
+  orig: 500, 889
+  offset: 0, 0
+  index: -1
+Images/magic/transition_00007
+  rotate: false
+  xy: 1395, 893
+  size: 500, 889
+  orig: 500, 889
+  offset: 0, 0
+  index: -1
+Images/magic/transition_00009
+  rotate: true
+  xy: 504, 780
+  size: 500, 889
+  orig: 500, 889
+  offset: 0, 0
+  index: -1
+Images/magic/transition_00011
+  rotate: false
+  xy: 1395, 2
+  size: 500, 889
+  orig: 500, 889
+  offset: 0, 0
+  index: -1
+Images/magic/transition_00013
+  rotate: true
+  xy: 504, 278
+  size: 500, 889
+  orig: 500, 889
+  offset: 0, 0
+  index: -1

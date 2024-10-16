@@ -1,0 +1,601 @@
+
+dragon_arise_effect.png
+size: 2031,840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_aura_screen_mode/dragon_aura_screen_mode_07.pn
+  rotate: false
+  xy: 249, 2
+  size: 16, 12
+  orig: 194, 421
+  offset: 77, 130
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_08.pn
+  rotate: false
+  xy: 267, 2
+  size: 16, 12
+  orig: 194, 421
+  offset: 77, 130
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_09.pn
+  rotate: false
+  xy: 993, 534
+  size: 84, 72
+  orig: 194, 421
+  offset: 36, 134
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_10.pn
+  rotate: false
+  xy: 1850, 554
+  size: 100, 76
+  orig: 194, 421
+  offset: 29, 140
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_11.pn
+  rotate: true
+  xy: 1891, 652
+  size: 86, 124
+  orig: 194, 421
+  offset: 39, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_12.pn
+  rotate: false
+  xy: 1426, 42
+  size: 92, 152
+  orig: 194, 421
+  offset: 34, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_13.pn
+  rotate: false
+  xy: 1710, 347
+  size: 98, 202
+  orig: 194, 421
+  offset: 29, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_14.pn
+  rotate: true
+  xy: 1038, 196
+  size: 104, 224
+  orig: 194, 421
+  offset: 26, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_15.pn
+  rotate: true
+  xy: 1264, 196
+  size: 110, 230
+  orig: 194, 421
+  offset: 24, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_16.pn
+  rotate: false
+  xy: 1214, 308
+  size: 116, 230
+  orig: 194, 421
+  offset: 22, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_17.pn
+  rotate: false
+  xy: 1090, 308
+  size: 122, 230
+  orig: 194, 421
+  offset: 20, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_18.pn
+  rotate: false
+  xy: 1159, 608
+  size: 126, 230
+  orig: 194, 421
+  offset: 19, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_19.pn
+  rotate: false
+  xy: 895, 608
+  size: 130, 230
+  orig: 194, 421
+  offset: 18, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_20.pn
+  rotate: false
+  xy: 826, 302
+  size: 130, 230
+  orig: 194, 421
+  offset: 19, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_21.pn
+  rotate: false
+  xy: 958, 302
+  size: 130, 230
+  orig: 194, 421
+  offset: 19, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_22.pn
+  rotate: false
+  xy: 1027, 608
+  size: 130, 230
+  orig: 194, 421
+  offset: 19, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_23.pn
+  rotate: false
+  xy: 761, 608
+  size: 132, 230
+  orig: 194, 421
+  offset: 18, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_24.pn
+  rotate: false
+  xy: 1287, 608
+  size: 112, 230
+  orig: 194, 421
+  offset: 38, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_25.pn
+  rotate: false
+  xy: 1401, 608
+  size: 112, 230
+  orig: 194, 421
+  offset: 39, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_26.pn
+  rotate: false
+  xy: 1332, 314
+  size: 110, 230
+  orig: 194, 421
+  offset: 38, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_27.pn
+  rotate: true
+  xy: 1845, 23
+  size: 194, 82
+  orig: 194, 421
+  offset: 0, 202
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_28.pn
+  rotate: true
+  xy: 1929, 31
+  size: 194, 82
+  orig: 194, 421
+  offset: 0, 202
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_29.pn
+  rotate: false
+  xy: 1626, 316
+  size: 82, 230
+  orig: 194, 421
+  offset: 66, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_30.pn
+  rotate: true
+  xy: 761, 534
+  size: 72, 230
+  orig: 194, 421
+  offset: 64, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_31.pn
+  rotate: false
+  xy: 1540, 316
+  size: 84, 230
+  orig: 194, 421
+  offset: 52, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_32.pn
+  rotate: true
+  xy: 806, 193
+  size: 86, 230
+  orig: 194, 421
+  offset: 51, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_33.pn
+  rotate: false
+  xy: 1810, 369
+  size: 194, 86
+  orig: 194, 421
+  offset: 0, 200
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_34.pn
+  rotate: false
+  xy: 1609, 608
+  size: 90, 230
+  orig: 194, 421
+  offset: 50, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_35.pn
+  rotate: false
+  xy: 1515, 608
+  size: 92, 230
+  orig: 194, 421
+  offset: 50, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_36.pn
+  rotate: false
+  xy: 1444, 314
+  size: 94, 230
+  orig: 194, 421
+  offset: 50, 128
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_37.pn
+  rotate: false
+  xy: 1701, 622
+  size: 92, 216
+  orig: 194, 421
+  offset: 50, 142
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_38.pn
+  rotate: false
+  xy: 1810, 457
+  size: 194, 92
+  orig: 194, 421
+  offset: 0, 204
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_39.pn
+  rotate: true
+  xy: 1653, 6
+  size: 194, 94
+  orig: 194, 421
+  offset: 0, 204
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_40.pn
+  rotate: false
+  xy: 1795, 632
+  size: 94, 206
+  orig: 194, 421
+  offset: 49, 151
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_41.pn
+  rotate: false
+  xy: 1749, 8
+  size: 94, 194
+  orig: 194, 421
+  offset: 49, 163
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_42.pn
+  rotate: false
+  xy: 2, 8
+  size: 96, 180
+  orig: 194, 421
+  offset: 49, 178
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_43.pn
+  rotate: false
+  xy: 398, 24
+  size: 102, 166
+  orig: 194, 421
+  offset: 46, 191
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_44.pn
+  rotate: false
+  xy: 1810, 219
+  size: 108, 148
+  orig: 194, 421
+  offset: 43, 209
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_45.pn
+  rotate: false
+  xy: 1496, 200
+  size: 100, 112
+  orig: 194, 421
+  offset: 47, 251
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_46.pn
+  rotate: true
+  xy: 1598, 202
+  size: 112, 80
+  orig: 194, 421
+  offset: 41, 278
+  index: -1
+dragon_aura_screen_mode/dragon_aura_screen_mode_47.pn
+  rotate: false
+  xy: 1920, 319
+  size: 108, 48
+  orig: 194, 421
+  offset: 43, 309
+  index: -1
+dragon_normal_mode/dragon_normal_mode_04.pn
+  rotate: false
+  xy: 1486, 5
+  size: 40, 35
+  orig: 270, 585
+  offset: 93, 174
+  index: -1
+dragon_normal_mode/dragon_normal_mode_05.pn
+  rotate: true
+  xy: 1415, 546
+  size: 60, 53
+  orig: 270, 585
+  offset: 84, 174
+  index: -1
+dragon_normal_mode/dragon_normal_mode_06.pn
+  rotate: true
+  xy: 1920, 227
+  size: 90, 87
+  orig: 270, 585
+  offset: 69, 174
+  index: -1
+dragon_normal_mode/dragon_normal_mode_07.pn
+  rotate: false
+  xy: 1528, 3
+  size: 123, 195
+  orig: 270, 585
+  offset: 71, 175
+  index: -1
+dragon_normal_mode/dragon_normal_mode_08.pn
+  rotate: false
+  xy: 702, 281
+  size: 122, 250
+  orig: 270, 585
+  offset: 85, 175
+  index: -1
+dragon_normal_mode/dragon_normal_mode_09.pn
+  rotate: false
+  xy: 627, 533
+  size: 132, 305
+  orig: 270, 585
+  offset: 74, 175
+  index: -1
+dragon_normal_mode/dragon_normal_mode_10.pn
+  rotate: false
+  xy: 221, 191
+  size: 138, 322
+  orig: 270, 585
+  offset: 66, 175
+  index: -1
+dragon_normal_mode/dragon_normal_mode_11.pn
+  rotate: false
+  xy: 231, 516
+  size: 120, 322
+  orig: 270, 585
+  offset: 80, 175
+  index: -1
+dragon_normal_mode/dragon_normal_mode_12.pn
+  rotate: false
+  xy: 2, 190
+  size: 112, 323
+  orig: 270, 585
+  offset: 79, 175
+  index: -1
+dragon_normal_mode/dragon_normal_mode_13.pn
+  rotate: false
+  xy: 2, 515
+  size: 133, 323
+  orig: 270, 585
+  offset: 64, 175
+  index: -1
+dragon_normal_mode/dragon_normal_mode_14.pn
+  rotate: false
+  xy: 361, 192
+  size: 107, 322
+  orig: 108, 330
+  offset: 1, 7
+  index: -1
+dragon_normal_mode/dragon_normal_mode_15.pn
+  rotate: false
+  xy: 538, 193
+  size: 98, 321
+  orig: 102, 321
+  offset: 3, 0
+  index: -1
+dragon_normal_mode/dragon_normal_mode_16.pn
+  rotate: false
+  xy: 116, 190
+  size: 103, 323
+  orig: 270, 585
+  offset: 84, 175
+  index: -1
+dragon_normal_mode/dragon_normal_mode_17.pn
+  rotate: false
+  xy: 353, 516
+  size: 112, 322
+  orig: 270, 585
+  offset: 69, 175
+  index: -1
+dragon_normal_mode/dragon_normal_mode_18.pn
+  rotate: false
+  xy: 137, 515
+  size: 92, 323
+  orig: 270, 585
+  offset: 80, 175
+  index: -1
+dragon_normal_mode/dragon_normal_mode_19.pn
+  rotate: false
+  xy: 470, 192
+  size: 66, 322
+  orig: 72, 324
+  offset: 5, 1
+  index: -1
+dragon_normal_mode/dragon_normal_mode_20.pn
+  rotate: false
+  xy: 467, 516
+  size: 76, 322
+  orig: 270, 585
+  offset: 94, 175
+  index: -1
+dragon_normal_mode/dragon_normal_mode_21.pn
+  rotate: false
+  xy: 545, 524
+  size: 80, 314
+  orig: 270, 585
+  offset: 96, 181
+  index: -1
+dragon_normal_mode/dragon_normal_mode_22.pn
+  rotate: false
+  xy: 638, 271
+  size: 62, 260
+  orig: 270, 585
+  offset: 104, 237
+  index: -1
+dragon_normal_mode/dragon_normal_mode_23.pn
+  rotate: true
+  xy: 1633, 551
+  size: 55, 215
+  orig: 270, 585
+  offset: 97, 282
+  index: -1
+dragon_normal_mode/dragon_normal_mode_24.pn
+  rotate: true
+  xy: 1470, 548
+  size: 58, 161
+  orig: 69, 163
+  offset: 10, 1
+  index: -1
+dragon_normal_mode/dragon_normal_mode_25.pn
+  rotate: true
+  xy: 602, 2
+  size: 21, 48
+  orig: 270, 585
+  offset: 135, 449
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_04.pn
+  rotate: true
+  xy: 1710, 319
+  size: 26, 50
+  orig: 140, 304
+  offset: 45, 80
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_05.pn
+  rotate: true
+  xy: 1426, 4
+  size: 36, 58
+  orig: 140, 304
+  offset: 40, 81
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_06.pn
+  rotate: true
+  xy: 1952, 568
+  size: 82, 76
+  orig: 140, 304
+  offset: 24, 95
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_07.pn
+  rotate: true
+  xy: 1680, 204
+  size: 110, 92
+  orig: 140, 304
+  offset: 10, 101
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_08.pn
+  rotate: true
+  xy: 1891, 740
+  size: 98, 138
+  orig: 140, 304
+  offset: 18, 92
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_09.pn
+  rotate: false
+  xy: 502, 24
+  size: 98, 166
+  orig: 140, 304
+  offset: 19, 92
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_10.pn
+  rotate: false
+  xy: 602, 25
+  size: 96, 166
+  orig: 140, 304
+  offset: 19, 92
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_11.pn
+  rotate: false
+  xy: 700, 25
+  size: 96, 166
+  orig: 140, 304
+  offset: 19, 92
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_12.pn
+  rotate: false
+  xy: 798, 25
+  size: 94, 166
+  orig: 140, 304
+  offset: 20, 92
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_13.pn
+  rotate: false
+  xy: 894, 25
+  size: 92, 166
+  orig: 140, 304
+  offset: 22, 92
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_14.pn
+  rotate: false
+  xy: 988, 25
+  size: 92, 166
+  orig: 140, 304
+  offset: 21, 92
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_15.pn
+  rotate: false
+  xy: 1082, 28
+  size: 88, 166
+  orig: 140, 304
+  offset: 25, 92
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_16.pn
+  rotate: false
+  xy: 162, 14
+  size: 85, 174
+  orig: 85, 174
+  offset: 0, 0
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_17.pn
+  rotate: false
+  xy: 1172, 28
+  size: 84, 166
+  orig: 140, 304
+  offset: 26, 92
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_18.pn
+  rotate: false
+  xy: 1258, 28
+  size: 84, 166
+  orig: 140, 304
+  offset: 26, 92
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_19.pn
+  rotate: false
+  xy: 313, 17
+  size: 83, 172
+  orig: 83, 172
+  offset: 0, 0
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_20.pn
+  rotate: false
+  xy: 1344, 28
+  size: 80, 166
+  orig: 140, 304
+  offset: 27, 92
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_21.pn
+  rotate: true
+  xy: 638, 193
+  size: 76, 166
+  orig: 140, 304
+  offset: 28, 92
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_22.pn
+  rotate: false
+  xy: 249, 16
+  size: 62, 173
+  orig: 62, 173
+  offset: 0, 0
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_23.pn
+  rotate: true
+  xy: 1079, 540
+  size: 66, 166
+  orig: 140, 304
+  offset: 33, 92
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_24.pn
+  rotate: false
+  xy: 100, 13
+  size: 60, 175
+  orig: 60, 175
+  offset: 0, 0
+  index: -1
+dragon_trail_screen_mode/dragon_trail_screen_mode_25.pn
+  rotate: true
+  xy: 1247, 546
+  size: 60, 166
+  orig: 140, 304
+  offset: 40, 92
+  index: -1

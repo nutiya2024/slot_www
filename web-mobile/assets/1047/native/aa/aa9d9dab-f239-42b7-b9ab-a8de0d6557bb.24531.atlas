@@ -1,0 +1,90 @@
+
+auto_light.png
+size: 1010,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+auto_00000
+  rotate: false
+  xy: 2, 2
+  size: 142, 84
+  orig: 142, 84
+  offset: 0, 0
+  index: -1
+auto_00006
+  rotate: false
+  xy: 2, 2
+  size: 142, 84
+  orig: 142, 84
+  offset: 0, 0
+  index: -1
+auto_00001
+  rotate: false
+  xy: 146, 2
+  size: 142, 84
+  orig: 142, 84
+  offset: 0, 0
+  index: -1
+auto_00007
+  rotate: false
+  xy: 146, 2
+  size: 142, 84
+  orig: 142, 84
+  offset: 0, 0
+  index: -1
+auto_00002
+  rotate: false
+  xy: 290, 2
+  size: 142, 84
+  orig: 142, 84
+  offset: 0, 0
+  index: -1
+auto_00008
+  rotate: false
+  xy: 290, 2
+  size: 142, 84
+  orig: 142, 84
+  offset: 0, 0
+  index: -1
+auto_00003
+  rotate: false
+  xy: 434, 2
+  size: 142, 84
+  orig: 142, 84
+  offset: 0, 0
+  index: -1
+auto_00009
+  rotate: false
+  xy: 434, 2
+  size: 142, 84
+  orig: 142, 84
+  offset: 0, 0
+  index: -1
+auto_00004
+  rotate: false
+  xy: 578, 2
+  size: 142, 84
+  orig: 142, 84
+  offset: 0, 0
+  index: -1
+auto_00010
+  rotate: false
+  xy: 578, 2
+  size: 142, 84
+  orig: 142, 84
+  offset: 0, 0
+  index: -1
+auto_00005
+  rotate: false
+  xy: 722, 2
+  size: 142, 84
+  orig: 142, 84
+  offset: 0, 0
+  index: -1
+auto_00011
+  rotate: false
+  xy: 866, 2
+  size: 142, 84
+  orig: 142, 84
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+sensational.png
+size: 1687,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T1BB
+  rotate: false
+  xy: 895, 249
+  size: 276, 276
+  orig: 320, 320
+  offset: 20, 24
+  index: -1
+s_level_3
+  rotate: false
+  xy: 0, 527
+  size: 1196, 293
+  orig: 1197, 295
+  offset: 0, 1
+  index: -1
+s_star_big
+  rotate: false
+  xy: 939, 94
+  size: 158, 153
+  orig: 158, 153
+  offset: 0, 0
+  index: -1
+s_star_small
+  rotate: true
+  xy: 1493, 68
+  size: 122, 114
+  orig: 122, 114
+  offset: 0, 0
+  index: -1
+s_value_holder_09
+  rotate: false
+  xy: 1099, 96
+  size: 392, 94
+  orig: 406, 100
+  offset: 13, 5
+  index: -1
+s_value_holder_10
+  rotate: false
+  xy: 1099, 0
+  size: 392, 94
+  orig: 406, 100
+  offset: 13, 5
+  index: -1
+s_value_holder_11
+  rotate: false
+  xy: 1173, 192
+  size: 419, 103
+  orig: 428, 108
+  offset: 4, 4
+  index: -1
+s_value_holder_12
+  rotate: false
+  xy: 0, 1
+  size: 460, 119
+  orig: 466, 122
+  offset: 2, 3
+  index: -1
+s_value_holder_13
+  rotate: false
+  xy: 412, 281
+  size: 478, 122
+  orig: 480, 122
+  offset: 1, 0
+  index: -1
+s_value_holder_14
+  rotate: false
+  xy: 412, 405
+  size: 481, 120
+  orig: 482, 122
+  offset: 0, 2
+  index: -1
+s_value_holder_15
+  rotate: false
+  xy: 412, 167
+  size: 476, 112
+  orig: 478, 116
+  offset: 1, 3
+  index: -1
+s_value_holder_16
+  rotate: false
+  xy: 462, 60
+  size: 475, 105
+  orig: 475, 109
+  offset: 0, 3
+  index: -1
+s_value_holder_17
+  rotate: false
+  xy: 1173, 297
+  size: 478, 103
+  orig: 480, 107
+  offset: 1, 3
+  index: -1
+s_value_holder_18
+  rotate: false
+  xy: 1173, 402
+  size: 484, 103
+  orig: 486, 108
+  offset: 1, 4
+  index: -1
+s_value_holder_19
+  rotate: false
+  xy: 1198, 715
+  size: 489, 105
+  orig: 490, 110
+  offset: 0, 4
+  index: -1
+s_value_holder_20
+  rotate: false
+  xy: 1198, 610
+  size: 489, 103
+  orig: 489, 108
+  offset: 0, 4
+  index: -1
+s_value_holder_21
+  rotate: false
+  xy: 1198, 507
+  size: 486, 101
+  orig: 486, 106
+  offset: 0, 4
+  index: -1
+win_str_c02
+  rotate: false
+  xy: 0, 122
+  size: 410, 403
+  orig: 410, 412
+  offset: 0, 2
+  index: -1

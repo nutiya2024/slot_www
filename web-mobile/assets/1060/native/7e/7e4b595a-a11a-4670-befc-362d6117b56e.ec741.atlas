@@ -1,0 +1,76 @@
+
+dog.png
+size: 1061,1059
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bd
+  rotate: false
+  xy: 2, 529
+  size: 588, 528
+  orig: 588, 528
+  offset: 0, 0
+  index: -1
+bizi
+  rotate: false
+  xy: 576, 10
+  size: 179, 82
+  orig: 179, 82
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 592, 513
+  size: 544, 467
+  orig: 544, 467
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 2, 94
+  size: 576, 433
+  orig: 576, 433
+  offset: 0, 0
+  index: -1
+k2
+  rotate: false
+  xy: 2, 24
+  size: 572, 68
+  orig: 572, 68
+  offset: 0, 0
+  index: -1
+oo
+  rotate: true
+  xy: 694, 414
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+oo1
+  rotate: true
+  xy: 694, 380
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+s
+  rotate: true
+  xy: 580, 402
+  size: 109, 112
+  orig: 109, 112
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 757, 357
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+x1
+  rotate: true
+  xy: 694, 462
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1

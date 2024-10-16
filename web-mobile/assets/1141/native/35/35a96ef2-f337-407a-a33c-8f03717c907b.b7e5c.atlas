@@ -1,0 +1,230 @@
+
+tucl_freegame.png
+size: 1798,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left_gem_stroke_00002
+  rotate: true
+  xy: 1103, 204
+  size: 44, 41
+  orig: 166, 179
+  offset: 114, 73
+  index: -1
+left_gem_stroke_00004
+  rotate: true
+  xy: 1720, 16
+  size: 56, 46
+  orig: 166, 179
+  offset: 102, 68
+  index: -1
+left_gem_stroke_00006
+  rotate: true
+  xy: 1146, 205
+  size: 69, 50
+  orig: 166, 179
+  offset: 88, 63
+  index: -1
+left_gem_stroke_00008
+  rotate: true
+  xy: 1680, 74
+  size: 96, 69
+  orig: 166, 179
+  offset: 10, 48
+  index: -1
+left_gem_stroke_00010
+  rotate: true
+  xy: 1564, 184
+  size: 96, 70
+  orig: 166, 179
+  offset: 43, 62
+  index: -1
+left_gem_stroke_00012
+  rotate: false
+  xy: 991, 177
+  size: 110, 71
+  orig: 166, 179
+  offset: 28, 62
+  index: -1
+left_gem_stroke_00014
+  rotate: true
+  xy: 961, 22
+  size: 152, 120
+  orig: 166, 179
+  offset: 14, 13
+  index: -1
+left_gem_stroke_00016
+  rotate: false
+  xy: 835, 15
+  size: 124, 159
+  orig: 179, 166
+  offset: 8, 0
+  index: -1
+left_gem_stroke_00018
+  rotate: false
+  xy: 835, 349
+  size: 161, 169
+  orig: 166, 179
+  offset: 5, 2
+  index: -1
+left_gem_stroke_00020
+  rotate: false
+  xy: 835, 176
+  size: 154, 171
+  orig: 166, 179
+  offset: 5, 0
+  index: -1
+left_gem_stroke_00022
+  rotate: true
+  xy: 998, 374
+  size: 144, 170
+  orig: 166, 179
+  offset: 5, 0
+  index: -1
+left_gem_stroke_00024
+  rotate: false
+  xy: 1170, 380
+  size: 170, 138
+  orig: 179, 166
+  offset: 0, 23
+  index: -1
+left_gem_stroke_00026
+  rotate: true
+  xy: 1342, 381
+  size: 137, 170
+  orig: 166, 179
+  offset: 5, 0
+  index: -1
+left_gem_stroke_00028
+  rotate: true
+  xy: 1514, 388
+  size: 130, 145
+  orig: 166, 179
+  offset: 5, 24
+  index: -1
+left_gem_stroke_00030
+  rotate: true
+  xy: 998, 250
+  size: 122, 146
+  orig: 166, 179
+  offset: 5, 22
+  index: -1
+left_gem_stroke_00032
+  rotate: true
+  xy: 1083, 31
+  size: 144, 113
+  orig: 179, 166
+  offset: 22, 48
+  index: -1
+left_gem_stroke_00034
+  rotate: false
+  xy: 1514, 282
+  size: 143, 104
+  orig: 179, 166
+  offset: 23, 57
+  index: -1
+left_gem_stroke_00036
+  rotate: true
+  xy: 1459, 164
+  size: 105, 103
+  orig: 166, 179
+  offset: 5, 63
+  index: -1
+right_gem_stroke_00002
+  rotate: true
+  xy: 1751, 117
+  size: 53, 33
+  orig: 174, 146
+  offset: 117, 14
+  index: -1
+right_gem_stroke_00004
+  rotate: true
+  xy: 1680, 2
+  size: 70, 38
+  orig: 174, 146
+  offset: 100, 9
+  index: -1
+right_gem_stroke_00006
+  rotate: true
+  xy: 1661, 413
+  size: 105, 135
+  orig: 174, 146
+  offset: 64, 5
+  index: -1
+right_gem_stroke_00008
+  rotate: true
+  xy: 1198, 25
+  size: 106, 139
+  orig: 174, 146
+  offset: 54, 3
+  index: -1
+right_gem_stroke_00010
+  rotate: true
+  xy: 1170, 276
+  size: 102, 142
+  orig: 174, 146
+  offset: 48, 3
+  index: -1
+right_gem_stroke_00012
+  rotate: false
+  xy: 1342, 271
+  size: 142, 108
+  orig: 146, 174
+  offset: 4, 24
+  index: -1
+right_gem_stroke_00014
+  rotate: true
+  xy: 1198, 133
+  size: 141, 117
+  orig: 146, 174
+  offset: 5, 24
+  index: -1
+right_gem_stroke_00016
+  rotate: true
+  xy: 1661, 272
+  size: 139, 133
+  orig: 146, 174
+  offset: 7, 25
+  index: -1
+right_gem_stroke_00018
+  rotate: false
+  xy: 1339, 15
+  size: 139, 121
+  orig: 146, 174
+  offset: 7, 48
+  index: -1
+right_gem_stroke_00020
+  rotate: true
+  xy: 1480, 23
+  size: 139, 98
+  orig: 146, 174
+  offset: 7, 72
+  index: -1
+right_gem_stroke_00022
+  rotate: false
+  xy: 1636, 172
+  size: 139, 98
+  orig: 146, 174
+  offset: 7, 72
+  index: -1
+right_gem_stroke_00024
+  rotate: false
+  xy: 1580, 31
+  size: 98, 139
+  orig: 174, 146
+  offset: 4, 7
+  index: -1
+star_sky
+  rotate: true
+  xy: 1317, 138
+  size: 131, 140
+  orig: 131, 140
+  offset: 0, 0
+  index: -1
+stars
+  rotate: false
+  xy: 2, 7
+  size: 831, 511
+  orig: 858, 554
+  offset: 18, 43
+  index: -1

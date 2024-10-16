@@ -1,0 +1,34 @@
+
+tys.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+san1
+  rotate: false
+  xy: 549, 118
+  size: 268, 119
+  orig: 268, 119
+  offset: 0, 0
+  index: -1
+san2
+  rotate: false
+  xy: 2, 2
+  size: 270, 235
+  orig: 270, 235
+  offset: 0, 0
+  index: -1
+san3
+  rotate: false
+  xy: 274, 40
+  size: 273, 197
+  orig: 273, 197
+  offset: 0, 0
+  index: -1
+yizi
+  rotate: true
+  xy: 819, 17
+  size: 220, 157
+  orig: 220, 157
+  offset: 0, 0
+  index: -1

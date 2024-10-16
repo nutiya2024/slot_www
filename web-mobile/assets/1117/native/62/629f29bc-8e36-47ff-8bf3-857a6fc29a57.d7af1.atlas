@@ -1,0 +1,21 @@
+
+gool_scatter_bg.png
+size: 141,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 80, 16
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 0
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+

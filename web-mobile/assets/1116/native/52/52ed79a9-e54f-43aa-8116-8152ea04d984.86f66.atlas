@@ -1,0 +1,111 @@
+
+dhme_basegame_idle.png
+size: 1254,1254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 499, 294
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1246, 1227
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 1246, 1234
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+feather
+  rotate: true
+  xy: 499, 272
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 648, 235
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
+house
+  rotate: false
+  xy: 0, 690
+  size: 1244, 564
+  orig: 1244, 564
+  offset: 0, 0
+  index: -1
+legs
+  rotate: true
+  xy: 1246, 1242
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+mountain
+  rotate: false
+  xy: 0, 537
+  size: 1124, 151
+  orig: 1124, 151
+  offset: 0, 0
+  index: -1
+ray
+  rotate: true
+  xy: 446, 339
+  size: 196, 200
+  orig: 196, 200
+  offset: 0, 0
+  index: -1
+shadow_2
+  rotate: false
+  xy: 816, 355
+  size: 50, 180
+  orig: 50, 180
+  offset: 0, 0
+  index: -1
+sky_7
+  rotate: false
+  xy: 0, 204
+  size: 444, 331
+  orig: 444, 331
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 499, 250
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+tree_1
+  rotate: false
+  xy: 648, 368
+  size: 166, 167
+  orig: 166, 167
+  offset: 0, 0
+  index: -1
+vines_1
+  rotate: false
+  xy: 446, 235
+  size: 51, 102
+  orig: 51, 102
+  offset: 0, 0
+  index: -1
+vines_4
+  rotate: false
+  xy: 1126, 501
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1

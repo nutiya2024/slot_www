@@ -1,0 +1,55 @@
+
+Drum_Bkg.png
+size: 488,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: false
+  xy: 2, 4
+  size: 150, 150
+  orig: 152, 152
+  offset: 1, 1
+  index: -1
+chui
+  rotate: false
+  xy: 306, 46
+  size: 92, 45
+  orig: 94, 47
+  offset: 1, 1
+  index: -1
+chui2
+  rotate: true
+  xy: 400, 2
+  size: 44, 85
+  orig: 46, 87
+  offset: 1, 1
+  index: -1
+gu
+  rotate: false
+  xy: 154, 7
+  size: 150, 147
+  orig: 152, 149
+  offset: 1, 1
+  index: -1
+guangquan1
+  rotate: true
+  xy: 433, 48
+  size: 106, 53
+  orig: 108, 55
+  offset: 1, 1
+  index: -1
+guangquan2
+  rotate: false
+  xy: 306, 93
+  size: 125, 61
+  orig: 127, 63
+  offset: 1, 1
+  index: -1
+xx
+  rotate: false
+  xy: 306, 4
+  size: 55, 40
+  orig: 57, 42
+  offset: 1, 1
+  index: -1

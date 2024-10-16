@@ -1,0 +1,41 @@
+
+liudong.png
+size: 320,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pai_00000
+  rotate: false
+  xy: 2, 8
+  size: 144, 320
+  orig: 162, 339
+  offset: 10, 12
+  index: -1
+rao
+  rotate: true
+  xy: 148, 181
+  size: 147, 148
+  orig: 155, 151
+  offset: 2, 1
+  index: -1
+rao1
+  rotate: true
+  xy: 237, 12
+  size: 77, 81
+  orig: 79, 83
+  offset: 2, 0
+  index: -1
+rao2
+  rotate: false
+  xy: 148, 2
+  size: 87, 87
+  orig: 93, 89
+  offset: 6, 2
+  index: -1
+rao3
+  rotate: true
+  xy: 148, 91
+  size: 88, 95
+  orig: 88, 97
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+suru_big_win_7.png
+size: 1311,632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stars_left
+  rotate: false
+  xy: 779, 0
+  size: 532, 632
+  orig: 540, 640
+  offset: 6, 6
+  index: -1
+stars_right
+  rotate: false
+  xy: 0, 3
+  size: 777, 629
+  orig: 786, 638
+  offset: 1, 2
+  index: -1

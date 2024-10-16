@@ -1,0 +1,223 @@
+
+cabl_pic_1_red_heart_candy.png
+size: 2305,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p1
+  rotate: false
+  xy: 0, 15
+  size: 178, 159
+  orig: 178, 159
+  offset: 0, 0
+  index: -1
+pic1_bubble
+  rotate: false
+  xy: 2143, 341
+  size: 138, 131
+  orig: 138, 131
+  offset: 0, 0
+  index: -1
+pic_01_splash_00001
+  rotate: true
+  xy: 458, 40
+  size: 151, 63
+  orig: 296, 97
+  offset: 73, 7
+  index: -1
+pic_01_splash_00002
+  rotate: true
+  xy: 2042, 4
+  size: 201, 79
+  orig: 296, 97
+  offset: 49, 8
+  index: -1
+pic_01_splash_00003
+  rotate: true
+  xy: 2223, 106
+  size: 233, 82
+  orig: 296, 97
+  offset: 33, 11
+  index: -1
+pic_01_splash_00004
+  rotate: true
+  xy: 2143, 94
+  size: 245, 78
+  orig: 296, 97
+  offset: 27, 17
+  index: -1
+pic_01_splash_00005
+  rotate: true
+  xy: 2064, 217
+  size: 255, 77
+  orig: 296, 97
+  offset: 22, 18
+  index: -1
+pic_01_splash_00006
+  rotate: true
+  xy: 1988, 207
+  size: 265, 74
+  orig: 296, 97
+  offset: 17, 20
+  index: -1
+pic_01_splash_00007
+  rotate: true
+  xy: 1682, 197
+  size: 275, 70
+  orig: 296, 97
+  offset: 11, 20
+  index: -1
+pic_01_splash_00008
+  rotate: true
+  xy: 208, 191
+  size: 281, 61
+  orig: 296, 97
+  offset: 9, 25
+  index: -1
+pic_01_splash_00009
+  rotate: true
+  xy: 144, 185
+  size: 287, 62
+  orig: 296, 97
+  offset: 6, 17
+  index: -1
+pic_01_splash_00010
+  rotate: true
+  xy: 46, 182
+  size: 290, 62
+  orig: 296, 97
+  offset: 3, 9
+  index: -1
+pic_01_splash_00011
+  rotate: true
+  xy: 0, 176
+  size: 296, 44
+  orig: 296, 97
+  offset: 0, 5
+  index: -1
+pic_01_splash_00012
+  rotate: true
+  xy: 110, 183
+  size: 289, 32
+  orig: 296, 97
+  offset: 5, 5
+  index: -1
+pic_1
+  rotate: true
+  xy: 1754, 200
+  size: 272, 232
+  orig: 272, 232
+  offset: 0, 0
+  index: -1
+pic_1_shadow1
+  rotate: true
+  xy: 1904, 48
+  size: 150, 136
+  orig: 150, 136
+  offset: 0, 0
+  index: -1
+pic_1_strip
+  rotate: true
+  xy: 1635, 1
+  size: 193, 267
+  orig: 193, 267
+  offset: 0, 0
+  index: -1
+pic_1_stroke
+  rotate: true
+  xy: 271, 193
+  size: 279, 239
+  orig: 279, 239
+  offset: 0, 0
+  index: -1
+r1
+  rotate: true
+  xy: 312, 0
+  size: 191, 144
+  orig: 191, 144
+  offset: 0, 0
+  index: -1
+sparks
+  rotate: true
+  xy: 2123, 22
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+stroke_00001
+  rotate: false
+  xy: 512, 196
+  size: 193, 276
+  orig: 193, 276
+  offset: 0, 0
+  index: -1
+stroke_00003
+  rotate: true
+  xy: 523, 1
+  size: 193, 276
+  orig: 193, 276
+  offset: 0, 0
+  index: -1
+stroke_00005
+  rotate: false
+  xy: 707, 196
+  size: 193, 276
+  orig: 193, 276
+  offset: 0, 0
+  index: -1
+stroke_00007
+  rotate: true
+  xy: 801, 1
+  size: 193, 276
+  orig: 193, 276
+  offset: 0, 0
+  index: -1
+stroke_00009
+  rotate: false
+  xy: 902, 196
+  size: 193, 276
+  orig: 193, 276
+  offset: 0, 0
+  index: -1
+stroke_00011
+  rotate: true
+  xy: 1079, 1
+  size: 193, 276
+  orig: 193, 276
+  offset: 0, 0
+  index: -1
+stroke_00013
+  rotate: false
+  xy: 1097, 196
+  size: 193, 276
+  orig: 193, 276
+  offset: 0, 0
+  index: -1
+stroke_00015
+  rotate: false
+  xy: 1292, 196
+  size: 193, 276
+  orig: 193, 276
+  offset: 0, 0
+  index: -1
+stroke_00017
+  rotate: true
+  xy: 1357, 1
+  size: 193, 276
+  orig: 193, 276
+  offset: 0, 0
+  index: -1
+stroke_00019
+  rotate: false
+  xy: 1487, 196
+  size: 193, 276
+  orig: 193, 276
+  offset: 0, 0
+  index: -1
+y1
+  rotate: true
+  xy: 180, 7
+  size: 176, 130
+  orig: 176, 130
+  offset: 0, 0
+  index: -1

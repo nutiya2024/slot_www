@@ -1,0 +1,14 @@
+
+gool_bigwin_1.png
+size: 527,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_glow
+  rotate: false
+  xy: 0, 0
+  size: 527, 241
+  orig: 527, 241
+  offset: 0, 0
+  index: -1
+

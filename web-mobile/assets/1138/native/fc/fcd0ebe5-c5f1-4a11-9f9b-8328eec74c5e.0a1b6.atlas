@@ -1,0 +1,97 @@
+
+winframe.png
+size: 1544,386
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yellow/fool_winframe_alt_00
+  rotate: false
+  xy: 2, 194
+  size: 223, 190
+  orig: 288, 252
+  offset: 34, 36
+  index: -1
+yellow/fool_winframe_alt_01
+  rotate: false
+  xy: 2, 2
+  size: 223, 190
+  orig: 288, 252
+  offset: 34, 35
+  index: -1
+yellow/fool_winframe_alt_02
+  rotate: false
+  xy: 227, 194
+  size: 223, 190
+  orig: 288, 252
+  offset: 34, 35
+  index: -1
+yellow/fool_winframe_alt_03
+  rotate: false
+  xy: 227, 2
+  size: 223, 190
+  orig: 288, 252
+  offset: 34, 36
+  index: -1
+yellow/fool_winframe_alt_04
+  rotate: false
+  xy: 452, 194
+  size: 223, 190
+  orig: 288, 252
+  offset: 34, 36
+  index: -1
+yellow/fool_winframe_alt_05
+  rotate: false
+  xy: 452, 2
+  size: 223, 190
+  orig: 288, 252
+  offset: 34, 35
+  index: -1
+yellow/fool_winframe_alt_06
+  rotate: false
+  xy: 677, 194
+  size: 223, 190
+  orig: 288, 252
+  offset: 34, 36
+  index: -1
+yellow/fool_winframe_alt_07
+  rotate: false
+  xy: 677, 2
+  size: 223, 190
+  orig: 288, 252
+  offset: 34, 36
+  index: -1
+yellow/fool_winframe_alt_08
+  rotate: false
+  xy: 902, 194
+  size: 223, 190
+  orig: 288, 252
+  offset: 34, 36
+  index: -1
+yellow/fool_winframe_alt_09
+  rotate: false
+  xy: 902, 2
+  size: 223, 190
+  orig: 288, 252
+  offset: 34, 36
+  index: -1
+yellow/fool_winframe_alt_10
+  rotate: false
+  xy: 1127, 194
+  size: 223, 190
+  orig: 288, 252
+  offset: 34, 36
+  index: -1
+yellow/fool_winframe_alt_11
+  rotate: false
+  xy: 1127, 2
+  size: 223, 190
+  orig: 288, 252
+  offset: 35, 35
+  index: -1
+yellow/fool_winframe_alt_12
+  rotate: true
+  xy: 1352, 161
+  size: 223, 190
+  orig: 288, 252
+  offset: 34, 36
+  index: -1

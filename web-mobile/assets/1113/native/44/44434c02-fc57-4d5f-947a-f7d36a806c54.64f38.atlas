@@ -1,0 +1,167 @@
+
+falao.png
+size: 1193,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_p
+  rotate: true
+  xy: 2, 216
+  size: 303, 717
+  orig: 303, 717
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 843, 241
+  size: 26, 82
+  orig: 28, 86
+  offset: 2, 2
+  index: -1
+bozi
+  rotate: false
+  xy: 555, 48
+  size: 187, 114
+  orig: 194, 115
+  offset: 0, 0
+  index: -1
+dianguang
+  rotate: false
+  xy: 1112, 43
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+etou
+  rotate: true
+  xy: 1022, 6
+  size: 85, 88
+  orig: 90, 88
+  offset: 3, 0
+  index: -1
+g_k
+  rotate: false
+  xy: 2, 6
+  size: 551, 208
+  orig: 552, 216
+  offset: 1, 0
+  index: -1
+guang_h
+  rotate: false
+  xy: 721, 219
+  size: 120, 48
+  orig: 120, 48
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 942, 302
+  size: 129, 91
+  orig: 134, 93
+  offset: 5, 0
+  index: -1
+hat_1
+  rotate: false
+  xy: 838, 96
+  size: 86, 121
+  orig: 91, 122
+  offset: 2, 1
+  index: -1
+head
+  rotate: true
+  xy: 927, 93
+  size: 207, 159
+  orig: 207, 172
+  offset: 0, 1
+  index: -1
+jian
+  rotate: false
+  xy: 744, 2
+  size: 180, 92
+  orig: 180, 93
+  offset: 0, 1
+  index: -1
+ju
+  rotate: true
+  xy: 1088, 214
+  size: 100, 98
+  orig: 100, 99
+  offset: 0, 1
+  index: -1
+kuo_3
+  rotate: false
+  xy: 942, 395
+  size: 126, 124
+  orig: 130, 126
+  offset: 2, 2
+  index: -1
+lianjie_1
+  rotate: false
+  xy: 555, 9
+  size: 103, 5
+  orig: 103, 5
+  offset: 0, 0
+  index: -1
+lianjie_2
+  rotate: true
+  xy: 744, 137
+  size: 25, 78
+  orig: 36, 78
+  offset: 9, 0
+  index: -1
+shan
+  rotate: false
+  xy: 721, 302
+  size: 219, 217
+  orig: 219, 220
+  offset: 0, 3
+  index: -1
+star
+  rotate: true
+  xy: 926, 2
+  size: 89, 94
+  orig: 89, 94
+  offset: 0, 0
+  index: -1
+wai
+  rotate: false
+  xy: 1088, 116
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+wai_1
+  rotate: true
+  xy: 1070, 417
+  size: 102, 101
+  orig: 102, 101
+  offset: 0, 0
+  index: -1
+wenzi_1
+  rotate: false
+  xy: 555, 164
+  size: 281, 50
+  orig: 281, 51
+  offset: 0, 0
+  index: -1
+wenzi_2
+  rotate: true
+  xy: 721, 269
+  size: 31, 204
+  orig: 31, 204
+  offset: 0, 0
+  index: -1
+wenzi_3
+  rotate: false
+  xy: 555, 16
+  size: 157, 30
+  orig: 157, 30
+  offset: 0, 0
+  index: -1
+ying
+  rotate: true
+  xy: 1073, 316
+  size: 99, 118
+  orig: 100, 119
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,230 @@
+
+tucl_hv5.png
+size: 1985,433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+design_01
+  rotate: false
+  xy: 1784, 173
+  size: 103, 64
+  orig: 103, 64
+  offset: 0, 0
+  index: -1
+design_02
+  rotate: false
+  xy: 1784, 107
+  size: 103, 64
+  orig: 103, 64
+  offset: 0, 0
+  index: -1
+design_02_shadow
+  rotate: true
+  xy: 1889, 139
+  size: 98, 89
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+desing_01_shadow
+  rotate: true
+  xy: 1784, 4
+  size: 101, 97
+  orig: 107, 103
+  offset: 6, 0
+  index: -1
+electric_00001
+  rotate: false
+  xy: 1590, 14
+  size: 192, 199
+  orig: 298, 273
+  offset: 36, 39
+  index: -1
+electric_00022
+  rotate: false
+  xy: 1590, 14
+  size: 192, 199
+  orig: 298, 273
+  offset: 36, 39
+  index: -1
+electric_00003
+  rotate: false
+  xy: 1194, 3
+  size: 200, 192
+  orig: 298, 273
+  offset: 22, 38
+  index: -1
+electric_00046
+  rotate: false
+  xy: 1194, 3
+  size: 200, 192
+  orig: 298, 273
+  offset: 22, 38
+  index: -1
+electric_00005
+  rotate: false
+  xy: 2, 2
+  size: 246, 179
+  orig: 298, 273
+  offset: 16, 46
+  index: -1
+electric_00048
+  rotate: false
+  xy: 2, 2
+  size: 246, 179
+  orig: 298, 273
+  offset: 16, 46
+  index: -1
+electric_00008
+  rotate: true
+  xy: 2, 183
+  size: 248, 169
+  orig: 298, 273
+  offset: 17, 48
+  index: -1
+electric_00051
+  rotate: true
+  xy: 2, 183
+  size: 248, 169
+  orig: 298, 273
+  offset: 17, 48
+  index: -1
+electric_00010
+  rotate: true
+  xy: 991, 197
+  size: 234, 156
+  orig: 298, 273
+  offset: 30, 51
+  index: -1
+electric_00053
+  rotate: true
+  xy: 991, 197
+  size: 234, 156
+  orig: 298, 273
+  offset: 30, 51
+  index: -1
+electric_00013
+  rotate: true
+  xy: 817, 193
+  size: 238, 172
+  orig: 298, 273
+  offset: 31, 58
+  index: -1
+electric_00056
+  rotate: true
+  xy: 817, 193
+  size: 238, 172
+  orig: 298, 273
+  offset: 31, 58
+  index: -1
+electric_00017
+  rotate: false
+  xy: 498, 7
+  size: 239, 177
+  orig: 298, 273
+  offset: 21, 50
+  index: -1
+electric_00038
+  rotate: false
+  xy: 498, 7
+  size: 239, 177
+  orig: 298, 273
+  offset: 21, 50
+  index: -1
+electric_00060
+  rotate: false
+  xy: 498, 7
+  size: 239, 177
+  orig: 298, 273
+  offset: 21, 50
+  index: -1
+electric_00019
+  rotate: false
+  xy: 739, 7
+  size: 213, 177
+  orig: 298, 273
+  offset: 29, 49
+  index: -1
+electric_00041
+  rotate: false
+  xy: 739, 7
+  size: 213, 177
+  orig: 298, 273
+  offset: 29, 49
+  index: -1
+electric_00024
+  rotate: true
+  xy: 1396, 3
+  size: 200, 192
+  orig: 298, 273
+  offset: 22, 38
+  index: -1
+electric_00027
+  rotate: false
+  xy: 250, 2
+  size: 246, 179
+  orig: 298, 273
+  offset: 16, 46
+  index: -1
+electric_00029
+  rotate: true
+  xy: 173, 183
+  size: 248, 169
+  orig: 298, 273
+  offset: 17, 48
+  index: -1
+electric_00032
+  rotate: true
+  xy: 1149, 197
+  size: 234, 156
+  orig: 298, 273
+  offset: 30, 51
+  index: -1
+electric_00034
+  rotate: false
+  xy: 954, 19
+  size: 238, 172
+  orig: 298, 273
+  offset: 31, 58
+  index: -1
+electric_00043
+  rotate: true
+  xy: 1784, 239
+  size: 192, 199
+  orig: 298, 273
+  offset: 36, 39
+  index: -1
+frame
+  rotate: true
+  xy: 344, 186
+  size: 245, 235
+  orig: 245, 235
+  offset: 0, 0
+  index: -1
+gem
+  rotate: true
+  xy: 1307, 205
+  size: 226, 214
+  orig: 226, 214
+  offset: 0, 0
+  index: -1
+particles
+  rotate: true
+  xy: 1523, 215
+  size: 216, 198
+  orig: 216, 198
+  offset: 0, 0
+  index: -1
+shine_01
+  rotate: false
+  xy: 1723, 387
+  size: 45, 44
+  orig: 55, 53
+  offset: 5, 5
+  index: -1
+symbol_shadow
+  rotate: true
+  xy: 581, 186
+  size: 245, 234
+  orig: 245, 234
+  offset: 0, 0
+  index: -1

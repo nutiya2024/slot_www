@@ -1,0 +1,20 @@
+
+play_g.png
+size: 88,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deal_NW_c02B
+  rotate: false
+  xy: 0, 25
+  size: 54, 63
+  orig: 56, 65
+  offset: 2, 1
+  index: -1
+eft2_p005
+  rotate: false
+  xy: 0, 0
+  size: 25, 23
+  orig: 30, 26
+  offset: 2, 1
+  index: -1

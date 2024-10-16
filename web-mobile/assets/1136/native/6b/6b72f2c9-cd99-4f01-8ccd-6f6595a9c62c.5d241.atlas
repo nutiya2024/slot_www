@@ -1,0 +1,307 @@
+
+stpr_freegame.png
+size: 1873,1409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/snow_1_l
+  rotate: false
+  xy: 434, 0
+  size: 182, 137
+  orig: 182, 137
+  offset: 0, 0
+  index: -1
+blue/ware_2_l
+  rotate: true
+  xy: 1846, 187
+  size: 68, 27
+  orig: 68, 27
+  offset: 0, 0
+  index: -1
+blue/ware_3
+  rotate: false
+  xy: 1808, 257
+  size: 45, 92
+  orig: 45, 92
+  offset: 0, 0
+  index: -1
+cyan/ware_2
+  rotate: true
+  xy: 1846, 108
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+cyan/ware_4_l
+  rotate: false
+  xy: 0, 15
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+green/green_bulb_4_l_glow
+  rotate: false
+  xy: 1240, 112
+  size: 25, 25
+  orig: 32, 31
+  offset: 1, 0
+  index: -1
+green/green_bulb_off_3_r
+  rotate: false
+  xy: 779, 28
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+magenta/glow_1
+  rotate: false
+  xy: 779, 39
+  size: 112, 98
+  orig: 158, 138
+  offset: 12, 0
+  index: -1
+magenta/glow_2
+  rotate: true
+  xy: 618, 24
+  size: 113, 159
+  orig: 139, 197
+  offset: 0, 2
+  index: -1
+magenta/glow_3
+  rotate: true
+  xy: 1677, 27
+  size: 226, 167
+  orig: 245, 167
+  offset: 0, 0
+  index: -1
+magenta/glow_4
+  rotate: true
+  xy: 1406, 70
+  size: 183, 269
+  orig: 215, 323
+  offset: 0, 1
+  index: -1
+magenta/glow_5
+  rotate: false
+  xy: 893, 50
+  size: 85, 87
+  orig: 99, 110
+  offset: 0, 0
+  index: -1
+magenta/st
+  rotate: false
+  xy: 0, 40
+  size: 432, 97
+  orig: 449, 110
+  offset: 0, 0
+  index: -1
+magenta/star
+  rotate: false
+  xy: 1406, 255
+  size: 400, 94
+  orig: 408, 98
+  offset: 2, 0
+  index: -1
+magenta/star_17
+  rotate: false
+  xy: 980, 67
+  size: 57, 70
+  orig: 72, 90
+  offset: 8, 2
+  index: -1
+red/red_blub_2_l
+  rotate: false
+  xy: 1210, 109
+  size: 28, 28
+  orig: 38, 37
+  offset: 0, 1
+  index: -1
+red/snow_loop_00000
+  rotate: false
+  xy: 1411, 563
+  size: 462, 210
+  orig: 469, 210
+  offset: 4, 0
+  index: -1
+red/snow_loop_00002
+  rotate: false
+  xy: 1413, 1199
+  size: 460, 210
+  orig: 469, 210
+  offset: 5, 0
+  index: -1
+red/snow_loop_00004
+  rotate: false
+  xy: 1407, 351
+  size: 454, 210
+  orig: 469, 210
+  offset: 4, 0
+  index: -1
+red/snow_loop_00006
+  rotate: false
+  xy: 1413, 775
+  size: 456, 210
+  orig: 469, 210
+  offset: 7, 0
+  index: -1
+red/snow_loop_00008
+  rotate: false
+  xy: 0, 1199
+  size: 469, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00010
+  rotate: false
+  xy: 940, 139
+  size: 464, 210
+  orig: 469, 210
+  offset: 3, 0
+  index: -1
+red/snow_loop_00012
+  rotate: false
+  xy: 1413, 987
+  size: 457, 210
+  orig: 469, 210
+  offset: 7, 0
+  index: -1
+red/snow_loop_00014
+  rotate: false
+  xy: 0, 987
+  size: 469, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00016
+  rotate: false
+  xy: 471, 1199
+  size: 469, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00018
+  rotate: false
+  xy: 471, 351
+  size: 467, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00020
+  rotate: false
+  xy: 0, 775
+  size: 469, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00022
+  rotate: false
+  xy: 942, 563
+  size: 467, 210
+  orig: 469, 210
+  offset: 1, 0
+  index: -1
+red/snow_loop_00024
+  rotate: false
+  xy: 471, 987
+  size: 469, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00026
+  rotate: false
+  xy: 942, 1199
+  size: 469, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00028
+  rotate: false
+  xy: 0, 563
+  size: 469, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00030
+  rotate: false
+  xy: 471, 139
+  size: 467, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00032
+  rotate: false
+  xy: 471, 775
+  size: 469, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00034
+  rotate: false
+  xy: 942, 987
+  size: 469, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00036
+  rotate: false
+  xy: 0, 351
+  size: 469, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00038
+  rotate: false
+  xy: 471, 563
+  size: 469, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00040
+  rotate: false
+  xy: 940, 351
+  size: 465, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00042
+  rotate: false
+  xy: 942, 775
+  size: 469, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+red/snow_loop_00044
+  rotate: false
+  xy: 0, 139
+  size: 469, 210
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+yellow/w
+  rotate: false
+  xy: 1039, 91
+  size: 73, 46
+  orig: 78, 53
+  offset: 0, 1
+  index: -1
+yellow/ware_1
+  rotate: false
+  xy: 1114, 106
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+yellow/yellow_bulb_7_l
+  rotate: false
+  xy: 1179, 108
+  size: 29, 29
+  orig: 38, 37
+  offset: 1, 1
+  index: -1
+yellow/yellow_bulb_off_4_r
+  rotate: false
+  xy: 618, 9
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1

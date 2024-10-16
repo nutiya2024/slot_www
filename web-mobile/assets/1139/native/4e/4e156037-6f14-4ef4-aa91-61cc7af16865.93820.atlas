@@ -1,0 +1,111 @@
+
+cabl_collapse.png
+size: 1125,1056
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cabl_blast_40
+  rotate: false
+  xy: 0, 0
+  size: 76, 76
+  orig: 351, 331
+  offset: 133, 135
+  index: -1
+cabl_blast_41
+  rotate: true
+  xy: 632, 309
+  size: 142, 153
+  orig: 351, 331
+  offset: 111, 91
+  index: -1
+cabl_blast_42
+  rotate: false
+  xy: 876, 404
+  size: 249, 270
+  orig: 351, 331
+  offset: 61, 18
+  index: -1
+cabl_blast_43
+  rotate: true
+  xy: 787, 128
+  size: 274, 283
+  orig: 351, 331
+  offset: 50, 15
+  index: -1
+cabl_blast_44
+  rotate: false
+  xy: 616, 758
+  size: 289, 298
+  orig: 351, 331
+  offset: 46, 11
+  index: -1
+cabl_blast_45
+  rotate: false
+  xy: 318, 754
+  size: 296, 302
+  orig: 351, 331
+  offset: 45, 8
+  index: -1
+cabl_blast_46
+  rotate: false
+  xy: 317, 411
+  size: 313, 316
+  orig: 351, 331
+  offset: 36, 4
+  index: -1
+cabl_blast_47
+  rotate: false
+  xy: 0, 404
+  size: 315, 323
+  orig: 351, 331
+  offset: 35, 1
+  index: -1
+cabl_blast_48
+  rotate: false
+  xy: 0, 729
+  size: 316, 327
+  orig: 351, 331
+  offset: 35, 0
+  index: -1
+cabl_blast_49
+  rotate: false
+  xy: 0, 78
+  size: 314, 324
+  orig: 351, 331
+  offset: 36, 0
+  index: -1
+cabl_blast_50
+  rotate: false
+  xy: 316, 85
+  size: 314, 317
+  orig: 351, 331
+  offset: 37, 6
+  index: -1
+cabl_blast_51
+  rotate: false
+  xy: 632, 453
+  size: 242, 303
+  orig: 351, 331
+  offset: 46, 15
+  index: -1
+cabl_blast_52
+  rotate: false
+  xy: 907, 676
+  size: 194, 188
+  orig: 351, 331
+  offset: 72, 77
+  index: -1
+cabl_blast_53
+  rotate: false
+  xy: 907, 866
+  size: 193, 190
+  orig: 351, 331
+  offset: 72, 76
+  index: -1
+cabl_blast_54
+  rotate: true
+  xy: 316, 0
+  size: 83, 183
+  orig: 351, 331
+  offset: 117, 82
+  index: -1

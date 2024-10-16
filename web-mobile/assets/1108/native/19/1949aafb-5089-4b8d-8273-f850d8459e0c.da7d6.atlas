@@ -1,0 +1,41 @@
+
+pai_g1.png
+size: 194,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eft2_p001
+  rotate: false
+  xy: 101, 101
+  size: 93, 93
+  orig: 100, 100
+  offset: 4, 3
+  index: -1
+eft_exp_01
+  rotate: false
+  xy: 86, 19
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+eft_str_m03
+  rotate: false
+  xy: 0, 142
+  size: 99, 52
+  orig: 99, 52
+  offset: 0, 0
+  index: -1
+pok_FOut_k2
+  rotate: true
+  xy: 0, 72
+  size: 68, 84
+  orig: 68, 85
+  offset: 0, 1
+  index: -1
+poker_wineft_e2_01
+  rotate: true
+  xy: 0, 8
+  size: 62, 77
+  orig: 64, 78
+  offset: 1, 1
+  index: -1

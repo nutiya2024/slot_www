@@ -1,0 +1,1124 @@
+
+stpr_banner.png
+size: 2047,2038
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/decor_c_snow
+  rotate: false
+  xy: 808, 1741
+  size: 251, 57
+  orig: 255, 57
+  offset: 0, 0
+  index: -1
+blue/decor_d_snow
+  rotate: false
+  xy: 781, 1965
+  size: 203, 40
+  orig: 203, 40
+  offset: 0, 0
+  index: -1
+blue/decor_e_snow
+  rotate: false
+  xy: 314, 1927
+  size: 186, 47
+  orig: 186, 47
+  offset: 0, 0
+  index: -1
+blue/decor_f_snow
+  rotate: false
+  xy: 0, 1984
+  size: 129, 39
+  orig: 129, 39
+  offset: 0, 0
+  index: -1
+blue/decor_g_snow
+  rotate: false
+  xy: 1196, 1963
+  size: 186, 42
+  orig: 186, 42
+  offset: 0, 0
+  index: -1
+blue/decor_h_snow
+  rotate: false
+  xy: 142, 1652
+  size: 295, 88
+  orig: 295, 88
+  offset: 0, 0
+  index: -1
+blue/decor_i_snow
+  rotate: false
+  xy: 1891, 1824
+  size: 138, 56
+  orig: 138, 56
+  offset: 0, 0
+  index: -1
+blue/decor_j_snow
+  rotate: false
+  xy: 1867, 1762
+  size: 153, 60
+  orig: 153, 60
+  offset: 0, 0
+  index: -1
+blue/frame_02_snow
+  rotate: false
+  xy: 774, 1911
+  size: 1127, 39
+  orig: 1127, 39
+  offset: 0, 0
+  index: -1
+blue/frame_glow
+  rotate: false
+  xy: 385, 1149
+  size: 333, 216
+  orig: 337, 221
+  offset: 2, 2
+  index: -1
+blue/gem_1_snow
+  rotate: false
+  xy: 1630, 2001
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+blue/gem_2_snow
+  rotate: false
+  xy: 56, 2026
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+blue/meter_frame
+  rotate: false
+  xy: 0, 492
+  size: 827, 168
+  orig: 832, 173
+  offset: 2, 3
+  index: -1
+blue/meter_frame_snow
+  rotate: false
+  xy: 0, 1742
+  size: 806, 56
+  orig: 806, 56
+  offset: 0, 0
+  index: -1
+blue/snowfall_00000
+  rotate: false
+  xy: 720, 1110
+  size: 331, 220
+  orig: 335, 261
+  offset: 0, 10
+  index: -1
+blue/snowfall_00001
+  rotate: false
+  xy: 1053, 1082
+  size: 335, 220
+  orig: 335, 261
+  offset: 0, 10
+  index: -1
+blue/snowfall_00002
+  rotate: false
+  xy: 635, 887
+  size: 335, 221
+  orig: 335, 261
+  offset: 0, 9
+  index: -1
+blue/snowfall_00003
+  rotate: false
+  xy: 0, 964
+  size: 305, 220
+  orig: 335, 261
+  offset: 2, 9
+  index: -1
+blue/snowfall_00004
+  rotate: false
+  xy: 1653, 954
+  size: 311, 220
+  orig: 335, 261
+  offset: 0, 9
+  index: -1
+blue/snowfall_00005
+  rotate: false
+  xy: 972, 859
+  size: 315, 221
+  orig: 335, 261
+  offset: 0, 8
+  index: -1
+blue/snowfall_00006
+  rotate: false
+  xy: 1289, 753
+  size: 319, 221
+  orig: 335, 261
+  offset: 0, 8
+  index: -1
+blue/snowfall_00007
+  rotate: false
+  xy: 1610, 731
+  size: 323, 221
+  orig: 335, 261
+  offset: 0, 8
+  index: -1
+blue/snowfall_00008
+  rotate: false
+  xy: 304, 702
+  size: 324, 223
+  orig: 335, 261
+  offset: 2, 7
+  index: -1
+blue/snowfall_00009
+  rotate: false
+  xy: 630, 662
+  size: 321, 223
+  orig: 335, 261
+  offset: 6, 7
+  index: -1
+blue/snowfall_00010
+  rotate: false
+  xy: 953, 634
+  size: 322, 223
+  orig: 335, 261
+  offset: 9, 7
+  index: -1
+blue/snowfall_00011
+  rotate: false
+  xy: 1277, 526
+  size: 322, 225
+  orig: 335, 261
+  offset: 13, 6
+  index: -1
+blue/snowfall_00012
+  rotate: false
+  xy: 1601, 504
+  size: 312, 225
+  orig: 335, 261
+  offset: 17, 6
+  index: -1
+blue/snowfall_00013
+  rotate: false
+  xy: 829, 406
+  size: 333, 226
+  orig: 335, 261
+  offset: 0, 5
+  index: -1
+blue/snowfall_00014
+  rotate: false
+  xy: 1164, 297
+  size: 334, 227
+  orig: 335, 261
+  offset: 0, 4
+  index: -1
+blue/snowfall_00015
+  rotate: false
+  xy: 638, 176
+  size: 331, 228
+  orig: 335, 261
+  offset: 0, 4
+  index: -1
+blue/snowfall_00016
+  rotate: false
+  xy: 1300, 44
+  size: 331, 229
+  orig: 335, 261
+  offset: 4, 3
+  index: -1
+blue/snowfall_00017
+  rotate: false
+  xy: 971, 67
+  size: 327, 228
+  orig: 335, 261
+  offset: 8, 4
+  index: -1
+blue/snowfall_00018
+  rotate: false
+  xy: 0, 25
+  size: 297, 236
+  orig: 335, 261
+  offset: 0, 5
+  index: -1
+blue/snowfall_00019
+  rotate: false
+  xy: 0, 727
+  size: 302, 235
+  orig: 335, 261
+  offset: 0, 6
+  index: -1
+blue/snowfall_00020
+  rotate: true
+  xy: 1814, 195
+  size: 307, 233
+  orig: 335, 261
+  offset: 0, 7
+  index: -1
+blue/snowfall_00021
+  rotate: false
+  xy: 1500, 275
+  size: 312, 227
+  orig: 335, 261
+  offset: 0, 12
+  index: -1
+blue/snowfall_00022
+  rotate: false
+  xy: 0, 263
+  size: 316, 227
+  orig: 335, 261
+  offset: 1, 12
+  index: -1
+blue/snowfall_00023
+  rotate: false
+  xy: 318, 263
+  size: 318, 227
+  orig: 335, 261
+  offset: 4, 11
+  index: -1
+blue/snowfall_00024
+  rotate: false
+  xy: 307, 927
+  size: 326, 220
+  orig: 335, 261
+  offset: 0, 11
+  index: -1
+blue/starblast_00002
+  rotate: true
+  xy: 511, 1367
+  size: 179, 251
+  orig: 640, 360
+  offset: 248, 0
+  index: -1
+cyan/wand_glow
+  rotate: true
+  xy: 1820, 1677
+  size: 83, 150
+  orig: 86, 154
+  offset: 2, 2
+  index: -1
+cyan/wand_rays_00000
+  rotate: false
+  xy: 299, 0
+  size: 285, 261
+  orig: 355, 317
+  offset: 38, 26
+  index: -1
+cyan/wand_rays_00002
+  rotate: true
+  xy: 1390, 976
+  size: 284, 261
+  orig: 355, 317
+  offset: 39, 26
+  index: -1
+green/gem_7
+  rotate: false
+  xy: 1688, 2000
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+green/gem_green_2
+  rotate: false
+  xy: 1728, 2000
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+green/gem_green_3
+  rotate: false
+  xy: 294, 2016
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+green/gem_green_4
+  rotate: false
+  xy: 294, 2016
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+green/grass_left
+  rotate: true
+  xy: 1857, 1258
+  size: 319, 176
+  orig: 321, 178
+  offset: 2, 0
+  index: -1
+green/grass_right
+  rotate: false
+  xy: 1082, 1304
+  size: 319, 175
+  orig: 320, 178
+  offset: 0, 1
+  index: -1
+green/leaves_left
+  rotate: false
+  xy: 1127, 1632
+  size: 177, 93
+  orig: 177, 93
+  offset: 0, 0
+  index: -1
+green/leaves_right
+  rotate: false
+  xy: 1306, 1624
+  size: 176, 93
+  orig: 176, 93
+  offset: 0, 0
+  index: -1
+magenta/gem_3_snow
+  rotate: false
+  xy: 82, 2025
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+magenta/moti_ball_pirple_left
+  rotate: false
+  xy: 30, 2027
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+magenta/moti_ball_pirple_right
+  rotate: false
+  xy: 43, 2027
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+red/ball_1_left
+  rotate: true
+  xy: 1384, 1961
+  size: 44, 95
+  orig: 44, 95
+  offset: 0, 0
+  index: -1
+red/ball_1_right
+  rotate: true
+  xy: 1531, 1957
+  size: 44, 95
+  orig: 44, 95
+  offset: 0, 0
+  index: -1
+red/ball_2_left
+  rotate: true
+  xy: 368, 2011
+  size: 27, 126
+  orig: 27, 126
+  offset: 0, 0
+  index: -1
+red/ball_2_right
+  rotate: true
+  xy: 496, 2011
+  size: 27, 126
+  orig: 27, 126
+  offset: 0, 0
+  index: -1
+red/bell_1_left_shadow
+  rotate: false
+  xy: 1767, 1851
+  size: 60, 58
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+red/bell_1_right's_Shadow
+  rotate: false
+  xy: 1829, 1851
+  size: 60, 58
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+red/bell_2_left_shadow
+  rotate: false
+  xy: 1997, 1941
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+red/bell_2_right_shadow
+  rotate: false
+  xy: 0, 1932
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+red/cap
+  rotate: false
+  xy: 717, 1648
+  size: 154, 91
+  orig: 154, 91
+  offset: 0, 0
+  index: -1
+red/cap_back
+  rotate: true
+  xy: 1818, 1952
+  size: 45, 128
+  orig: 45, 128
+  offset: 0, 0
+  index: -1
+red/cap_lower
+  rotate: false
+  xy: 1954, 1993
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+red/cap_top
+  rotate: false
+  xy: 408, 1550
+  size: 166, 98
+  orig: 166, 98
+  offset: 0, 0
+  index: -1
+red/crown_shadow
+  rotate: false
+  xy: 958, 1508
+  size: 210, 122
+  orig: 210, 122
+  offset: 0, 0
+  index: -1
+red/crown_upper_shadow
+  rotate: true
+  xy: 1541, 1794
+  size: 59, 74
+  orig: 60, 75
+  offset: 1, 0
+  index: -1
+red/decor_c_snow_shadow
+  rotate: false
+  xy: 53, 1929
+  size: 259, 45
+  orig: 263, 47
+  offset: 2, 2
+  index: -1
+red/decor_d_snow_shadow
+  rotate: false
+  xy: 986, 1964
+  size: 208, 41
+  orig: 208, 44
+  offset: 0, 0
+  index: -1
+red/decor_e_snow_shadow
+  rotate: false
+  xy: 1768, 1999
+  size: 184, 39
+  orig: 187, 43
+  offset: 0, 1
+  index: -1
+red/decor_f_snow_shadow
+  rotate: false
+  xy: 684, 2009
+  size: 137, 29
+  orig: 140, 31
+  offset: 0, 0
+  index: -1
+red/decor_g_snow_shadow
+  rotate: false
+  xy: 1628, 1955
+  size: 188, 42
+  orig: 188, 46
+  offset: 0, 2
+  index: -1
+red/decor_h_snow_shadow
+  rotate: false
+  xy: 439, 1650
+  size: 276, 90
+  orig: 278, 92
+  offset: 0, 1
+  index: -1
+red/decor_i_snow_shadow
+  rotate: false
+  xy: 1729, 1789
+  size: 136, 60
+  orig: 137, 63
+  offset: 1, 3
+  index: -1
+red/decor_j_snow_shadow
+  rotate: false
+  xy: 1141, 1727
+  size: 185, 70
+  orig: 186, 72
+  offset: 0, 0
+  index: -1
+red/eaves_shdow_left
+  rotate: false
+  xy: 1606, 1610
+  size: 181, 96
+  orig: 183, 97
+  offset: 1, 0
+  index: -1
+red/eaves_shdow_right
+  rotate: false
+  xy: 224, 1554
+  size: 182, 96
+  orig: 182, 97
+  offset: 0, 0
+  index: -1
+red/gem_1_snow_shadow
+  rotate: false
+  xy: 1568, 2003
+  size: 60, 35
+  orig: 63, 40
+  offset: 1, 4
+  index: -1
+red/gem_2_snow_shadow
+  rotate: false
+  xy: 139, 2023
+  size: 28, 15
+  orig: 29, 16
+  offset: 0, 1
+  index: -1
+red/gem_3_snow_shadow
+  rotate: false
+  xy: 0, 2027
+  size: 28, 11
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+red/gem_6
+  rotate: false
+  xy: 823, 2009
+  size: 29, 29
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+red/glow_2
+  rotate: false
+  xy: 873, 1646
+  size: 99, 93
+  orig: 106, 101
+  offset: 3, 4
+  index: -1
+red/grass_left_shadow
+  rotate: false
+  xy: 194, 1374
+  size: 315, 174
+  orig: 320, 178
+  offset: 4, 2
+  index: -1
+red/grass_right_shadow
+  rotate: false
+  xy: 764, 1332
+  size: 316, 174
+  orig: 320, 178
+  offset: 0, 2
+  index: -1
+red/meter_shadow
+  rotate: false
+  xy: 502, 1924
+  size: 270, 50
+  orig: 270, 50
+  offset: 0, 0
+  index: -1
+red/moti_ball_green_left_shadow
+  rotate: false
+  xy: 318, 2015
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+red/moti_ball_green_right_shadow
+  rotate: false
+  xy: 343, 2015
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+red/moti_ball_pirple_right_shadow
+  rotate: false
+  xy: 109, 2025
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+red/moti_ball_purple_left_shadow
+  rotate: false
+  xy: 124, 2025
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+red/moti_ball_red_left
+  rotate: false
+  xy: 624, 2010
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+red/moti_ball_red_left_shadow
+  rotate: false
+  xy: 854, 2008
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+red/moti_ball_red_right
+  rotate: false
+  xy: 654, 2010
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+red/moti_ball_red_right_shadow
+  rotate: false
+  xy: 886, 2008
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+red/moti_ball_yellow_left__shadow
+  rotate: false
+  xy: 227, 2019
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+red/moti_ball_yellow_right_shadow
+  rotate: true
+  xy: 206, 2020
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+red/reabon_left
+  rotate: false
+  xy: 1410, 1719
+  size: 99, 76
+  orig: 99, 76
+  offset: 0, 0
+  index: -1
+red/reabon_right
+  rotate: false
+  xy: 1511, 1716
+  size: 99, 76
+  orig: 99, 76
+  offset: 0, 0
+  index: -1
+red/red_hat_shadow
+  rotate: false
+  xy: 1389, 1797
+  size: 150, 56
+  orig: 152, 59
+  offset: 1, 2
+  index: -1
+red/ribon_left_shadow
+  rotate: false
+  xy: 1612, 1713
+  size: 102, 79
+  orig: 103, 79
+  offset: 0, 0
+  index: -1
+red/ribon_right_Shadow
+  rotate: false
+  xy: 1716, 1708
+  size: 102, 79
+  orig: 102, 79
+  offset: 0, 0
+  index: -1
+red/spark_new
+  rotate: false
+  xy: 1170, 1491
+  size: 140, 131
+  orig: 140, 131
+  offset: 0, 0
+  index: -1
+red/wang_effect_00001
+  rotate: false
+  xy: 1617, 1794
+  size: 110, 59
+  orig: 280, 178
+  offset: 159, 100
+  index: -1
+yellow/bell_1_left
+  rotate: false
+  xy: 1903, 1885
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+yellow/bell_1_right
+  rotate: false
+  xy: 1962, 1882
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+yellow/bell_2_left
+  rotate: false
+  xy: 1481, 1958
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+yellow/bell_2_right
+  rotate: false
+  xy: 1948, 1944
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+yellow/crown
+  rotate: false
+  xy: 576, 1548
+  size: 186, 98
+  orig: 186, 98
+  offset: 0, 0
+  index: -1
+yellow/decor_a
+  rotate: false
+  xy: 1403, 1262
+  size: 250, 197
+  orig: 252, 199
+  offset: 1, 1
+  index: -1
+yellow/decor_c
+  rotate: true
+  xy: 1655, 1176
+  size: 252, 198
+  orig: 254, 200
+  offset: 1, 1
+  index: -1
+yellow/decor_d
+  rotate: false
+  xy: 1200, 1855
+  size: 187, 54
+  orig: 189, 56
+  offset: 1, 1
+  index: -1
+yellow/decor_e
+  rotate: false
+  xy: 1389, 1855
+  size: 187, 54
+  orig: 189, 56
+  offset: 1, 1
+  index: -1
+yellow/decor_f
+  rotate: false
+  xy: 1578, 1855
+  size: 187, 54
+  orig: 189, 56
+  offset: 1, 1
+  index: -1
+yellow/decor_g
+  rotate: false
+  xy: 1200, 1799
+  size: 187, 54
+  orig: 189, 56
+  offset: 1, 1
+  index: -1
+yellow/decor_i
+  rotate: false
+  xy: 1789, 1579
+  size: 222, 96
+  orig: 224, 98
+  offset: 1, 1
+  index: -1
+yellow/decor_j
+  rotate: false
+  xy: 0, 1554
+  size: 222, 96
+  orig: 224, 98
+  offset: 1, 1
+  index: -1
+yellow/frame_01
+  rotate: false
+  xy: 0, 1877
+  size: 1198, 32
+  orig: 1200, 34
+  offset: 1, 1
+  index: -1
+yellow/frame_02
+  rotate: false
+  xy: 0, 1843
+  size: 1198, 32
+  orig: 1200, 34
+  offset: 1, 1
+  index: -1
+yellow/frame_02_snow_shadow
+  rotate: false
+  xy: 0, 1800
+  size: 1144, 41
+  orig: 1148, 50
+  offset: 1, 4
+  index: -1
+yellow/frame_03
+  rotate: true
+  xy: 918, 2007
+  size: 31, 648
+  orig: 33, 650
+  offset: 1, 1
+  index: -1
+yellow/frame_04
+  rotate: true
+  xy: 131, 1976
+  size: 31, 648
+  orig: 33, 650
+  offset: 1, 1
+  index: -1
+yellow/moti_ball_green_left
+  rotate: false
+  xy: 248, 2017
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+yellow/moti_ball_green_right
+  rotate: false
+  xy: 271, 2017
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+yellow/moti_ball_yellow_left
+  rotate: true
+  xy: 169, 2022
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+yellow/moti_ball_yellow_right
+  rotate: false
+  xy: 188, 2022
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+yellow/star
+  rotate: false
+  xy: 1328, 1722
+  size: 80, 73
+  orig: 82, 75
+  offset: 1, 1
+  index: -1
+yellow/wand
+  rotate: true
+  xy: 0, 1186
+  size: 186, 383
+  orig: 188, 385
+  offset: 1, 1
+  index: -1
+yellow/wang_effect_00003
+  rotate: true
+  xy: 1484, 1617
+  size: 97, 120
+  orig: 178, 280
+  offset: 70, 7
+  index: -1
+yellow/wang_effect_00005
+  rotate: true
+  xy: 764, 1538
+  size: 106, 192
+  orig: 178, 280
+  offset: 65, 8
+  index: -1
+yellow/wang_effect_00007
+  rotate: true
+  xy: 1472, 1461
+  size: 147, 191
+  orig: 178, 280
+  offset: 24, 17
+  index: -1
+yellow/wang_effect_00009
+  rotate: true
+  xy: 0, 1403
+  size: 149, 192
+  orig: 178, 280
+  offset: 16, 40
+  index: -1
+yellow/wang_effect_00011
+  rotate: true
+  xy: 1665, 1430
+  size: 147, 190
+  orig: 178, 280
+  offset: 13, 54
+  index: -1
+yellow/wang_effect_00013
+  rotate: true
+  xy: 1312, 1481
+  size: 141, 158
+  orig: 178, 280
+  offset: 13, 109
+  index: -1
+yellow/wang_effect_00015
+  rotate: true
+  xy: 974, 1640
+  size: 95, 151
+  orig: 178, 280
+  offset: 15, 121
+  index: -1
+yellow/wang_effect_00017
+  rotate: true
+  xy: 0, 1656
+  size: 84, 140
+  orig: 178, 280
+  offset: 21, 135
+  index: -1
+yellow/wang_effect_00019
+  rotate: true
+  xy: 1061, 1737
+  size: 61, 78
+  orig: 178, 280
+  offset: 28, 192
+  index: -1
+
+stpr_banner2.png
+size: 2018,1770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/starblast_00004
+  rotate: true
+  xy: 1725, 1482
+  size: 288, 293
+  orig: 640, 360
+  offset: 189, 0
+  index: -1
+blue/starblast_00006
+  rotate: false
+  xy: 324, 1147
+  size: 396, 360
+  orig: 640, 360
+  offset: 130, 0
+  index: -1
+blue/starblast_00008
+  rotate: false
+  xy: 722, 1147
+  size: 482, 360
+  orig: 640, 360
+  offset: 78, 0
+  index: -1
+blue/starblast_00010
+  rotate: false
+  xy: 1206, 1120
+  size: 537, 360
+  orig: 640, 360
+  offset: 37, 0
+  index: -1
+blue/starblast_00012
+  rotate: false
+  xy: 0, 785
+  size: 637, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+blue/starblast_00014
+  rotate: false
+  xy: 639, 758
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+blue/starblast_00016
+  rotate: false
+  xy: 1281, 758
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+blue/starblast_00018
+  rotate: false
+  xy: 0, 396
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+blue/starblast_00020
+  rotate: false
+  xy: 642, 396
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+blue/starblast_00022
+  rotate: false
+  xy: 1284, 396
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+blue/starblast_00024
+  rotate: false
+  xy: 0, 34
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+cyan/magical_glow_3
+  rotate: true
+  xy: 0, 1216
+  size: 291, 322
+  orig: 347, 380
+  offset: 26, 20
+  index: -1
+cyan/wand_rays_00004
+  rotate: false
+  xy: 0, 1509
+  size: 284, 261
+  orig: 355, 317
+  offset: 32, 30
+  index: -1
+cyan/wand_rays_00006
+  rotate: false
+  xy: 286, 1509
+  size: 287, 261
+  orig: 355, 317
+  offset: 30, 31
+  index: -1
+cyan/wand_rays_00008
+  rotate: true
+  xy: 575, 1509
+  size: 261, 287
+  orig: 317, 355
+  offset: 30, 37
+  index: -1
+cyan/wand_rays_00010
+  rotate: true
+  xy: 864, 1509
+  size: 261, 285
+  orig: 317, 355
+  offset: 30, 38
+  index: -1
+cyan/wand_rays_00012
+  rotate: true
+  xy: 1437, 1508
+  size: 262, 286
+  orig: 317, 355
+  offset: 30, 38
+  index: -1
+cyan/wand_rays_00014
+  rotate: true
+  xy: 1151, 1509
+  size: 261, 284
+  orig: 317, 355
+  offset: 31, 39
+  index: -1
+magenta/base
+  rotate: false
+  xy: 642, 0
+  size: 762, 394
+  orig: 762, 394
+  offset: 0, 0
+  index: -1
+
+stpr_banner3.png
+size: 1739,1432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/flare_2
+  rotate: false
+  xy: 892, 0
+  size: 674, 646
+  orig: 674, 646
+  offset: 0, 0
+  index: -1
+cyan/glow
+  rotate: false
+  xy: 0, 156
+  size: 890, 490
+  orig: 890, 492
+  offset: 0, 0
+  index: -1
+red/star_blink
+  rotate: false
+  xy: 0, 648
+  size: 1739, 784
+  orig: 1739, 784
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,391 @@
+
+stpr_bigwin_banner.png
+size: 2007,1524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/snow1
+  rotate: true
+  xy: 1838, 587
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+cyan/snow
+  rotate: false
+  xy: 1527, 272
+  size: 30, 80
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+cyan/superb
+  rotate: false
+  xy: 0, 449
+  size: 631, 151
+  orig: 631, 151
+  offset: 0, 0
+  index: -1
+green/centre_frame1
+  rotate: false
+  xy: 0, 602
+  size: 685, 109
+  orig: 737, 165
+  offset: 26, 28
+  index: -1
+magenta/purple_glow_b
+  rotate: true
+  xy: 445, 2
+  size: 445, 235
+  orig: 445, 241
+  offset: 0, 3
+  index: -1
+magenta/r_wing_1
+  rotate: false
+  xy: 0, 114
+  size: 443, 333
+  orig: 443, 333
+  offset: 0, 0
+  index: -1
+magenta/r_wing_12
+  rotate: true
+  xy: 682, 132
+  size: 430, 324
+  orig: 430, 324
+  offset: 0, 0
+  index: -1
+magenta/star_streak1
+  rotate: false
+  xy: 0, 11
+  size: 420, 44
+  orig: 420, 44
+  offset: 0, 0
+  index: -1
+magenta/superb_snow
+  rotate: true
+  xy: 1211, 162
+  size: 639, 66
+  orig: 639, 67
+  offset: 0, 1
+  index: -1
+red/cap
+  rotate: false
+  xy: 1788, 20
+  size: 154, 91
+  orig: 154, 91
+  offset: 0, 0
+  index: -1
+red/cap_back
+  rotate: true
+  xy: 1958, 695
+  size: 128, 45
+  orig: 128, 45
+  offset: 0, 0
+  index: -1
+red/cap_lower
+  rotate: false
+  xy: 1855, 848
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+red/cap_top
+  rotate: true
+  xy: 1102, 577
+  size: 166, 98
+  orig: 166, 98
+  offset: 0, 0
+  index: -1
+red/circle_b
+  rotate: false
+  xy: 1795, 217
+  size: 168, 168
+  orig: 170, 170
+  offset: 1, 1
+  index: -1
+red/crown_lower
+  rotate: true
+  xy: 1838, 650
+  size: 178, 41
+  orig: 178, 41
+  offset: 0, 0
+  index: -1
+red/crown_upper_shadow
+  rotate: false
+  xy: 1944, 40
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+red/design_1
+  rotate: false
+  xy: 1357, 913
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+red/design_11
+  rotate: false
+  xy: 1788, 113
+  size: 144, 102
+  orig: 144, 102
+  offset: 0, 0
+  index: -1
+red/design_19
+  rotate: false
+  xy: 1000, 9
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+red/design_5
+  rotate: false
+  xy: 1916, 652
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+red/frame_c_left_snow_01
+  rotate: true
+  xy: 1921, 866
+  size: 178, 35
+  orig: 178, 35
+  offset: 0, 0
+  index: -1
+red/frame_c_right_snow
+  rotate: true
+  xy: 1881, 660
+  size: 163, 33
+  orig: 163, 57
+  offset: 0, 1
+  index: -1
+red/frame_c_snow
+  rotate: true
+  xy: 1801, 579
+  size: 249, 35
+  orig: 251, 35
+  offset: 1, 0
+  index: -1
+red/highlight_a
+  rotate: false
+  xy: 1211, 140
+  size: 26, 20
+  orig: 34, 31
+  offset: 5, 6
+  index: -1
+red/highlight_b
+  rotate: false
+  xy: 1426, 1046
+  size: 542, 478
+  orig: 558, 497
+  offset: 8, 8
+  index: -1
+red/m_design_4_snow
+  rotate: true
+  xy: 1239, 16
+  size: 144, 36
+  orig: 145, 36
+  offset: 0, 0
+  index: -1
+red/mega
+  rotate: false
+  xy: 1426, 895
+  size: 493, 149
+  orig: 493, 149
+  offset: 0, 0
+  index: -1
+red/mega_snow
+  rotate: false
+  xy: 1357, 830
+  size: 496, 63
+  orig: 497, 67
+  offset: 1, 4
+  index: -1
+red/nice_snow
+  rotate: false
+  xy: 0, 57
+  size: 425, 55
+  orig: 425, 55
+  offset: 0, 0
+  index: -1
+red/red_hat_shadow
+  rotate: false
+  xy: 1047, 745
+  size: 150, 56
+  orig: 152, 59
+  offset: 1, 2
+  index: -1
+red/sensational_snow
+  rotate: false
+  xy: 0, 713
+  size: 1045, 83
+  orig: 1047, 84
+  offset: 1, 1
+  index: -1
+red/sparkle_a
+  rotate: true
+  xy: 1008, 131
+  size: 431, 201
+  orig: 431, 201
+  offset: 0, 0
+  index: -1
+red/ssnow
+  rotate: true
+  xy: 633, 454
+  size: 146, 36
+  orig: 146, 36
+  offset: 0, 0
+  index: -1
+red/star_1
+  rotate: true
+  xy: 1731, 23
+  size: 63, 55
+  orig: 80, 69
+  offset: 9, 7
+  index: -1
+red/strok_00000
+  rotate: false
+  xy: 1528, 354
+  size: 265, 233
+  orig: 284, 247
+  offset: 13, 9
+  index: -1
+red/strok_00001
+  rotate: false
+  xy: 1279, 0
+  size: 278, 241
+  orig: 284, 247
+  offset: 6, 3
+  index: -1
+red/strok_00002
+  rotate: true
+  xy: 1279, 521
+  size: 280, 247
+  orig: 284, 247
+  offset: 4, 0
+  index: -1
+red/strok_00003
+  rotate: true
+  xy: 1279, 243
+  size: 276, 246
+  orig: 284, 247
+  offset: 6, 1
+  index: -1
+red/strok_00004
+  rotate: false
+  xy: 1528, 589
+  size: 271, 239
+  orig: 284, 247
+  offset: 10, 7
+  index: -1
+red/strok_00005
+  rotate: true
+  xy: 1559, 88
+  size: 264, 227
+  orig: 284, 247
+  offset: 15, 16
+  index: -1
+yellow/crown_upper
+  rotate: false
+  xy: 682, 20
+  size: 222, 110
+  orig: 222, 110
+  offset: 0, 0
+  index: -1
+yellow/design_14
+  rotate: true
+  xy: 1559, 0
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+yellow/design_15
+  rotate: true
+  xy: 1645, 0
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+yellow/design_16
+  rotate: false
+  xy: 906, 14
+  size: 92, 116
+  orig: 92, 116
+  offset: 0, 0
+  index: -1
+yellow/design_3
+  rotate: true
+  xy: 1041, 803
+  size: 164, 314
+  orig: 164, 314
+  offset: 0, 0
+  index: -1
+yellow/design_9
+  rotate: true
+  xy: 1934, 117
+  size: 98, 73
+  orig: 98, 73
+  offset: 0, 0
+  index: -1
+yellow/frame_a
+  rotate: false
+  xy: 1207, 0
+  size: 30, 129
+  orig: 30, 129
+  offset: 0, 0
+  index: -1
+yellow/frame_b
+  rotate: false
+  xy: 1174, 0
+  size: 31, 129
+  orig: 31, 129
+  offset: 0, 0
+  index: -1
+yellow/frame_c
+  rotate: true
+  xy: 1970, 825
+  size: 699, 17
+  orig: 699, 17
+  offset: 0, 0
+  index: -1
+yellow/frame_d
+  rotate: true
+  xy: 1989, 826
+  size: 698, 17
+  orig: 698, 17
+  offset: 0, 0
+  index: -1
+yellow/glow
+  rotate: false
+  xy: 1795, 387
+  size: 165, 190
+  orig: 275, 256
+  offset: 55, 33
+  index: -1
+yellow/m_design_1
+  rotate: true
+  xy: 1916, 689
+  size: 134, 40
+  orig: 135, 42
+  offset: 1, 1
+  index: -1
+yellow/nice
+  rotate: false
+  xy: 687, 564
+  size: 413, 147
+  orig: 413, 147
+  offset: 0, 0
+  index: -1
+yellow/sensational
+  rotate: false
+  xy: 0, 798
+  size: 1039, 169
+  orig: 1039, 169
+  offset: 0, 0
+  index: -1
+yellow/sparkke
+  rotate: false
+  xy: 0, 969
+  size: 1424, 555
+  orig: 1424, 555
+  offset: 0, 0
+  index: -1

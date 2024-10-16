@@ -1,0 +1,286 @@
+
+xiaochou.png
+size: 1130,1130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ys/9_g
+  rotate: false
+  xy: 0, 986
+  size: 226, 144
+  orig: 226, 144
+  offset: 0, 0
+  index: -1
+ys/xiaochou/xiaochou02
+  rotate: false
+  xy: 0, 838
+  size: 194, 146
+  orig: 201, 151
+  offset: 4, 1
+  index: -1
+ys/xiaochou/xiaochou03
+  rotate: false
+  xy: 197, 96
+  size: 195, 147
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou04
+  rotate: true
+  xy: 394, 48
+  size: 195, 147
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou05
+  rotate: true
+  xy: 981, 789
+  size: 194, 147
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou06
+  rotate: true
+  xy: 786, 641
+  size: 194, 147
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou07
+  rotate: false
+  xy: 228, 986
+  size: 194, 144
+  orig: 201, 151
+  offset: 3, 2
+  index: -1
+ys/xiaochou/xiaochou08
+  rotate: false
+  xy: 196, 838
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou09
+  rotate: false
+  xy: 392, 837
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou10
+  rotate: false
+  xy: 588, 837
+  size: 195, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou11
+  rotate: false
+  xy: 785, 837
+  size: 194, 146
+  orig: 201, 151
+  offset: 4, 0
+  index: -1
+ys/xiaochou/xiaochou12
+  rotate: false
+  xy: 0, 690
+  size: 194, 146
+  orig: 201, 151
+  offset: 4, 1
+  index: -1
+ys/xiaochou/xiaochou13
+  rotate: false
+  xy: 196, 690
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou14
+  rotate: false
+  xy: 392, 689
+  size: 195, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou15
+  rotate: false
+  xy: 589, 689
+  size: 195, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou16
+  rotate: false
+  xy: 935, 641
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 1
+  index: -1
+ys/xiaochou/xiaochou17
+  rotate: false
+  xy: 0, 542
+  size: 195, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou18
+  rotate: false
+  xy: 197, 541
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou19
+  rotate: false
+  xy: 393, 541
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou20
+  rotate: false
+  xy: 589, 541
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou21
+  rotate: false
+  xy: 785, 493
+  size: 195, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou22
+  rotate: true
+  xy: 982, 445
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou23
+  rotate: false
+  xy: 424, 985
+  size: 195, 145
+  orig: 201, 151
+  offset: 3, 1
+  index: -1
+ys/xiaochou/xiaochou24
+  rotate: false
+  xy: 543, 48
+  size: 195, 147
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou25
+  rotate: false
+  xy: 0, 394
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou26
+  rotate: false
+  xy: 196, 393
+  size: 194, 146
+  orig: 201, 151
+  offset: 4, 0
+  index: -1
+ys/xiaochou/xiaochou27
+  rotate: false
+  xy: 392, 393
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou28
+  rotate: false
+  xy: 588, 393
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou29
+  rotate: false
+  xy: 784, 345
+  size: 196, 146
+  orig: 201, 151
+  offset: 2, 1
+  index: -1
+ys/xiaochou/xiaochou30
+  rotate: true
+  xy: 982, 249
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 1
+  index: -1
+ys/xiaochou/xiaochou31
+  rotate: false
+  xy: 621, 985
+  size: 196, 145
+  orig: 201, 151
+  offset: 2, 2
+  index: -1
+ys/xiaochou/xiaochou32
+  rotate: false
+  xy: 0, 246
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 1
+  index: -1
+ys/xiaochou/xiaochou33
+  rotate: false
+  xy: 819, 985
+  size: 195, 145
+  orig: 201, 151
+  offset: 3, 2
+  index: -1
+ys/xiaochou/xiaochou34
+  rotate: false
+  xy: 196, 245
+  size: 195, 146
+  orig: 201, 151
+  offset: 3, 1
+  index: -1
+ys/xiaochou/xiaochou35
+  rotate: false
+  xy: 393, 245
+  size: 195, 146
+  orig: 201, 151
+  offset: 3, 1
+  index: -1
+ys/xiaochou/xiaochou36
+  rotate: true
+  xy: 740, 0
+  size: 195, 147
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou37
+  rotate: true
+  xy: 590, 197
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou38
+  rotate: false
+  xy: 738, 197
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou39
+  rotate: false
+  xy: 934, 101
+  size: 194, 146
+  orig: 201, 151
+  offset: 3, 0
+  index: -1
+ys/xiaochou/xiaochou40
+  rotate: false
+  xy: 0, 97
+  size: 195, 146
+  orig: 201, 151
+  offset: 3, 1
+  index: -1

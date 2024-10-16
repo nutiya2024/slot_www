@@ -1,0 +1,83 @@
+
+nvwu.png
+size: 1578,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nvwu-1
+  rotate: true
+  xy: 1338, 35
+  size: 80, 230
+  orig: 80, 230
+  offset: 0, 0
+  index: -1
+nvwu-10
+  rotate: false
+  xy: 507, 67
+  size: 195, 227
+  orig: 195, 227
+  offset: 0, 0
+  index: -1
+nvwu-11
+  rotate: false
+  xy: 876, 7
+  size: 460, 407
+  orig: 460, 407
+  offset: 0, 0
+  index: -1
+nvwu-2
+  rotate: false
+  xy: 1338, 117
+  size: 218, 297
+  orig: 218, 297
+  offset: 0, 0
+  index: -1
+nvwu-3
+  rotate: false
+  xy: 2, 105
+  size: 308, 189
+  orig: 308, 189
+  offset: 0, 0
+  index: -1
+nvwu-4
+  rotate: true
+  xy: 312, 117
+  size: 177, 193
+  orig: 177, 193
+  offset: 0, 0
+  index: -1
+nvwu-5
+  rotate: true
+  xy: 2, 6
+  size: 97, 149
+  orig: 97, 149
+  offset: 0, 0
+  index: -1
+nvwu-6
+  rotate: true
+  xy: 309, 2
+  size: 101, 107
+  orig: 103, 109
+  offset: 1, 1
+  index: -1
+nvwu-7
+  rotate: true
+  xy: 2, 296
+  size: 522, 872
+  orig: 522, 872
+  offset: 0, 0
+  index: -1
+nvwu-8
+  rotate: false
+  xy: 876, 416
+  size: 700, 402
+  orig: 700, 402
+  offset: 0, 0
+  index: -1
+nvwu-9
+  rotate: false
+  xy: 153, 11
+  size: 154, 92
+  orig: 154, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+cascading.png
+size: 844,844
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cascading_effect/cascading_effect_00006
+  rotate: false
+  xy: 0, 657
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00007
+  rotate: false
+  xy: 0, 468
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00008
+  rotate: false
+  xy: 129, 657
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00009
+  rotate: false
+  xy: 0, 279
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00010
+  rotate: false
+  xy: 129, 468
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00011
+  rotate: false
+  xy: 258, 657
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00012
+  rotate: false
+  xy: 0, 90
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00013
+  rotate: false
+  xy: 129, 279
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00014
+  rotate: false
+  xy: 258, 468
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00015
+  rotate: false
+  xy: 387, 657
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00016
+  rotate: false
+  xy: 129, 90
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00017
+  rotate: false
+  xy: 258, 279
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00018
+  rotate: false
+  xy: 387, 468
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00019
+  rotate: false
+  xy: 516, 657
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00020
+  rotate: false
+  xy: 258, 90
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00021
+  rotate: false
+  xy: 387, 279
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00022
+  rotate: false
+  xy: 516, 468
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00023
+  rotate: false
+  xy: 645, 657
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00024
+  rotate: false
+  xy: 387, 90
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00025
+  rotate: false
+  xy: 516, 279
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00026
+  rotate: false
+  xy: 645, 468
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+cascading_effect/cascading_effect_00027
+  rotate: false
+  xy: 516, 90
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00037
+  rotate: true
+  xy: 657, 6
+  size: 21, 124
+  orig: 21, 124
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00039
+  rotate: false
+  xy: 774, 584
+  size: 59, 125
+  orig: 59, 125
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00041
+  rotate: false
+  xy: 793, 70
+  size: 49, 126
+  orig: 49, 126
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00043
+  rotate: false
+  xy: 736, 198
+  size: 73, 132
+  orig: 73, 132
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00045
+  rotate: false
+  xy: 774, 711
+  size: 69, 133
+  orig: 69, 133
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00047
+  rotate: false
+  xy: 736, 332
+  size: 74, 134
+  orig: 74, 134
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00049
+  rotate: true
+  xy: 657, 29
+  size: 78, 134
+  orig: 78, 134
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00051
+  rotate: true
+  xy: 124, 2
+  size: 86, 134
+  orig: 86, 134
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00053
+  rotate: false
+  xy: 645, 195
+  size: 89, 134
+  orig: 89, 134
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00055
+  rotate: false
+  xy: 645, 331
+  size: 89, 135
+  orig: 89, 135
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00057
+  rotate: true
+  xy: 260, 3
+  size: 85, 133
+  orig: 85, 133
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00059
+  rotate: true
+  xy: 395, 2
+  size: 86, 131
+  orig: 86, 131
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00061
+  rotate: true
+  xy: 645, 109
+  size: 84, 127
+  orig: 84, 127
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00063
+  rotate: true
+  xy: 528, 1
+  size: 87, 127
+  orig: 87, 127
+  offset: 0, 0
+  index: -1
+landing_dust/landing_dust_00065
+  rotate: true
+  xy: 0, 0
+  size: 88, 122
+  orig: 88, 122
+  offset: 0, 0
+  index: -1

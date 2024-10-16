@@ -1,0 +1,125 @@
+
+zi001.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+over
+  rotate: false
+  xy: 2, 274
+  size: 1086, 202
+  orig: 1086, 202
+  offset: 0, 0
+  index: -1
+overall/overall_00000
+  rotate: false
+  xy: 692, 72
+  size: 62, 77
+  orig: 1086, 202
+  offset: 254, 70
+  index: -1
+overall/overall_00001
+  rotate: false
+  xy: 501, 14
+  size: 189, 135
+  orig: 1086, 202
+  offset: 162, 53
+  index: -1
+overall/overall_00002
+  rotate: false
+  xy: 1373, 330
+  size: 267, 146
+  orig: 1086, 202
+  offset: 128, 50
+  index: -1
+overall/overall_00003
+  rotate: false
+  xy: 2, 2
+  size: 287, 132
+  orig: 1086, 202
+  offset: 152, 50
+  index: -1
+overall/overall_00004
+  rotate: false
+  xy: 1642, 359
+  size: 251, 117
+  orig: 1086, 202
+  offset: 231, 50
+  index: -1
+overall/overall_00005
+  rotate: false
+  xy: 570, 151
+  size: 239, 121
+  orig: 1086, 202
+  offset: 293, 50
+  index: -1
+overall/overall_00006
+  rotate: false
+  xy: 1316, 185
+  size: 223, 143
+  orig: 1086, 202
+  offset: 351, 50
+  index: -1
+overall/overall_00007
+  rotate: true
+  xy: 1895, 281
+  size: 195, 146
+  orig: 1086, 202
+  offset: 419, 50
+  index: -1
+overall/overall_00008
+  rotate: false
+  xy: 300, 9
+  size: 199, 144
+  orig: 1086, 202
+  offset: 464, 50
+  index: -1
+overall/overall_00009
+  rotate: false
+  xy: 1642, 219
+  size: 219, 138
+  orig: 1086, 202
+  offset: 510, 50
+  index: -1
+overall/overall_00010
+  rotate: false
+  xy: 811, 160
+  size: 239, 112
+  orig: 1086, 202
+  offset: 555, 51
+  index: -1
+overall/overall_00011
+  rotate: false
+  xy: 300, 155
+  size: 268, 117
+  orig: 1086, 202
+  offset: 596, 51
+  index: -1
+overall/overall_00012
+  rotate: false
+  xy: 2, 136
+  size: 296, 136
+  orig: 1086, 202
+  offset: 643, 50
+  index: -1
+overall/overall_00013
+  rotate: false
+  xy: 1090, 331
+  size: 281, 145
+  orig: 1086, 202
+  offset: 682, 50
+  index: -1
+overall/overall_00014
+  rotate: false
+  xy: 1090, 195
+  size: 224, 134
+  orig: 1086, 202
+  offset: 724, 49
+  index: -1
+overall/overall_00015
+  rotate: true
+  xy: 1541, 220
+  size: 108, 93
+  orig: 1086, 202
+  offset: 767, 50
+  index: -1

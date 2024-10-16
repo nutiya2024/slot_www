@@ -1,0 +1,76 @@
+
+S08.png
+size: 1233,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S08_2_split/yellow/design_1
+  rotate: true
+  xy: 1195, 197
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+S08_2_split/yellow/design_2
+  rotate: true
+  xy: 1195, 237
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+S08_2_split/yellow/frame
+  rotate: true
+  xy: 816, 15
+  size: 260, 246
+  orig: 260, 246
+  offset: 0, 0
+  index: -1
+S08_2_split/yellow/symbol_shadow
+  rotate: true
+  xy: 2, 2
+  size: 273, 264
+  orig: 273, 264
+  offset: 0, 0
+  index: -1
+S08_3_split/red/design_1_shadow
+  rotate: true
+  xy: 1197, 121
+  size: 35, 27
+  orig: 41, 33
+  offset: 3, 3
+  index: -1
+S08_3_split/red/design_2_shadow
+  rotate: true
+  xy: 1195, 158
+  size: 37, 33
+  orig: 39, 35
+  offset: 1, 1
+  index: -1
+S08_3_split/red/particle
+  rotate: false
+  xy: 517, 15
+  size: 297, 260
+  orig: 297, 260
+  offset: 0, 0
+  index: -1
+S08_split/green/gem
+  rotate: true
+  xy: 268, 11
+  size: 264, 247
+  orig: 273, 257
+  offset: 7, 8
+  index: -1
+S08_split/green/gem_highlight_01
+  rotate: false
+  xy: 1064, 3
+  size: 131, 134
+  orig: 131, 137
+  offset: 0, 0
+  index: -1
+S08_split/green/gem_highlight_02
+  rotate: true
+  xy: 1064, 139
+  size: 136, 129
+  orig: 151, 129
+  offset: 15, 0
+  index: -1

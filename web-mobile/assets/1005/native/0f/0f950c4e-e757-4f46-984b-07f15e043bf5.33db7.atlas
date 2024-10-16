@@ -1,0 +1,160 @@
+
+wild.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WILD
+  rotate: false
+  xy: 535, 412
+  size: 251, 98
+  orig: 251, 98
+  offset: 0, 0
+  index: -1
+WILD/WILD_00000
+  rotate: false
+  xy: 939, 255
+  size: 31, 47
+  orig: 251, 98
+  offset: 64, 26
+  index: -1
+WILD/WILD_00001
+  rotate: false
+  xy: 602, 151
+  size: 49, 49
+  orig: 251, 98
+  offset: 63, 25
+  index: -1
+WILD/WILD_00002
+  rotate: false
+  xy: 534, 151
+  size: 66, 49
+  orig: 251, 98
+  offset: 64, 25
+  index: -1
+WILD/WILD_00003
+  rotate: true
+  xy: 484, 6
+  size: 76, 49
+  orig: 251, 98
+  offset: 64, 25
+  index: -1
+WILD/WILD_00004
+  rotate: true
+  xy: 432, 80
+  size: 99, 49
+  orig: 251, 98
+  offset: 66, 25
+  index: -1
+WILD/WILD_00005
+  rotate: true
+  xy: 973, 300
+  size: 106, 49
+  orig: 251, 98
+  offset: 74, 25
+  index: -1
+WILD/WILD_00006
+  rotate: true
+  xy: 483, 84
+  size: 95, 49
+  orig: 251, 98
+  offset: 92, 25
+  index: -1
+WILD/WILD_00007
+  rotate: true
+  xy: 432, 2
+  size: 76, 50
+  orig: 251, 98
+  offset: 112, 24
+  index: -1
+WILD/WILD_00008
+  rotate: false
+  xy: 534, 99
+  size: 61, 50
+  orig: 251, 98
+  offset: 127, 24
+  index: -1
+WILD/WILD_00009
+  rotate: false
+  xy: 597, 101
+  size: 47, 48
+  orig: 251, 98
+  offset: 141, 25
+  index: -1
+bg
+  rotate: false
+  xy: 289, 286
+  size: 244, 224
+  orig: 244, 224
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 250
+  size: 285, 260
+  orig: 285, 260
+  offset: 0, 0
+  index: -1
+qidian
+  rotate: false
+  xy: 2, 12
+  size: 273, 236
+  orig: 290, 290
+  offset: 8, 28
+  index: -1
+shui/s_00000
+  rotate: false
+  xy: 356, 10
+  size: 74, 169
+  orig: 128, 256
+  offset: 23, 5
+  index: -1
+shui/s_00001
+  rotate: true
+  xy: 788, 408
+  size: 102, 216
+  orig: 128, 256
+  offset: 12, 6
+  index: -1
+shui/s_00002
+  rotate: true
+  xy: 535, 306
+  size: 104, 219
+  orig: 128, 256
+  offset: 11, 15
+  index: -1
+shui/s_00003
+  rotate: true
+  xy: 756, 304
+  size: 102, 215
+  orig: 128, 256
+  offset: 12, 30
+  index: -1
+shui/s_00004
+  rotate: true
+  xy: 289, 181
+  size: 103, 207
+  orig: 128, 256
+  offset: 11, 41
+  index: -1
+shui/s_00005
+  rotate: true
+  xy: 535, 202
+  size: 102, 205
+  orig: 128, 256
+  offset: 12, 45
+  index: -1
+shui/s_00006
+  rotate: true
+  xy: 742, 207
+  size: 95, 195
+  orig: 128, 256
+  offset: 13, 57
+  index: -1
+shui/s_00007
+  rotate: false
+  xy: 277, 2
+  size: 77, 177
+  orig: 128, 256
+  offset: 30, 74
+  index: -1

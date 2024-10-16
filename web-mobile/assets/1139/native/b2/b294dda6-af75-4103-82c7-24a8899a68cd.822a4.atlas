@@ -1,0 +1,132 @@
+
+cabl_pic6_pink_striped_candy.png
+size: 1660,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic6
+  rotate: true
+  xy: 0, 29
+  size: 189, 180
+  orig: 194, 182
+  offset: 1, 2
+  index: -1
+pic6_bubbles
+  rotate: true
+  xy: 365, 40
+  size: 178, 159
+  orig: 178, 159
+  offset: 0, 0
+  index: -1
+pic6_outerstroke
+  rotate: true
+  xy: 1566, 9
+  size: 96, 94
+  orig: 96, 94
+  offset: 0, 0
+  index: -1
+pic6_strip
+  rotate: true
+  xy: 182, 34
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+pic_01_splash_00001
+  rotate: false
+  xy: 1342, 28
+  size: 151, 63
+  orig: 296, 97
+  offset: 73, 7
+  index: -1
+pic_01_splash_00002
+  rotate: false
+  xy: 1323, 93
+  size: 201, 79
+  orig: 296, 97
+  offset: 49, 8
+  index: -1
+pic_01_splash_00003
+  rotate: false
+  xy: 1107, 1
+  size: 233, 82
+  orig: 296, 97
+  offset: 33, 11
+  index: -1
+pic_01_splash_00004
+  rotate: false
+  xy: 793, 68
+  size: 245, 78
+  orig: 296, 97
+  offset: 27, 17
+  index: -1
+pic_01_splash_00005
+  rotate: false
+  xy: 526, 141
+  size: 255, 77
+  orig: 296, 97
+  offset: 21, 18
+  index: -1
+pic_01_splash_00006
+  rotate: false
+  xy: 526, 65
+  size: 265, 74
+  orig: 296, 97
+  offset: 17, 20
+  index: -1
+pic_01_splash_00007
+  rotate: false
+  xy: 783, 148
+  size: 275, 70
+  orig: 296, 97
+  offset: 12, 20
+  index: -1
+pic_01_splash_00008
+  rotate: false
+  xy: 1040, 85
+  size: 281, 61
+  orig: 296, 97
+  offset: 9, 25
+  index: -1
+pic_01_splash_00009
+  rotate: false
+  xy: 818, 4
+  size: 287, 62
+  orig: 296, 97
+  offset: 6, 17
+  index: -1
+pic_01_splash_00010
+  rotate: false
+  xy: 526, 1
+  size: 290, 62
+  orig: 296, 97
+  offset: 3, 9
+  index: -1
+pic_01_splash_00011
+  rotate: false
+  xy: 1060, 174
+  size: 296, 44
+  orig: 296, 97
+  offset: 0, 5
+  index: -1
+pic_01_splash_00012
+  rotate: false
+  xy: 182, 0
+  size: 289, 32
+  orig: 296, 97
+  offset: 5, 5
+  index: -1
+pic_1_shadow1
+  rotate: false
+  xy: 1526, 107
+  size: 106, 111
+  orig: 106, 111
+  offset: 0, 0
+  index: -1
+sparks
+  rotate: false
+  xy: 1495, 21
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1

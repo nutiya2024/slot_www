@@ -1,0 +1,139 @@
+
+cl.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chonglang/cl_00000
+  rotate: false
+  xy: 2, 713
+  size: 246, 233
+  orig: 290, 290
+  offset: 11, 7
+  index: -1
+chonglang/cl_00001
+  rotate: false
+  xy: 250, 721
+  size: 244, 225
+  orig: 290, 290
+  offset: 13, 9
+  index: -1
+chonglang/cl_00002
+  rotate: false
+  xy: 731, 737
+  size: 218, 209
+  orig: 290, 290
+  offset: 20, 17
+  index: -1
+chonglang/cl_00003
+  rotate: false
+  xy: 2, 38
+  size: 224, 211
+  orig: 290, 290
+  offset: 19, 18
+  index: -1
+chonglang/cl_00004
+  rotate: false
+  xy: 496, 723
+  size: 233, 223
+  orig: 290, 290
+  offset: 18, 15
+  index: -1
+chonglang/cl_00005
+  rotate: false
+  xy: 2, 481
+  size: 243, 230
+  orig: 290, 290
+  offset: 13, 10
+  index: -1
+cl
+  rotate: false
+  xy: 2, 251
+  size: 232, 228
+  orig: 290, 290
+  offset: 32, 32
+  index: -1
+shuihua/sh_00000
+  rotate: true
+  xy: 414, 567
+  size: 152, 139
+  orig: 211, 200
+  offset: 2, 8
+  index: -1
+shuihua/sh_00001
+  rotate: false
+  xy: 236, 170
+  size: 154, 140
+  orig: 211, 200
+  offset: 2, 9
+  index: -1
+shuihua/sh_00002
+  rotate: false
+  xy: 228, 16
+  size: 166, 152
+  orig: 211, 200
+  offset: 3, 11
+  index: -1
+shuihua/sh_00003
+  rotate: false
+  xy: 250, 571
+  size: 162, 148
+  orig: 211, 200
+  offset: 5, 12
+  index: -1
+shuihua/sh_00004
+  rotate: false
+  xy: 731, 578
+  size: 173, 157
+  orig: 211, 200
+  offset: 4, 13
+  index: -1
+shuihua/sh_00005
+  rotate: false
+  xy: 396, 2
+  size: 150, 130
+  orig: 211, 200
+  offset: 4, 14
+  index: -1
+shuihua/sh_00006
+  rotate: false
+  xy: 555, 438
+  size: 150, 136
+  orig: 211, 200
+  offset: 6, 13
+  index: -1
+shuihua/sh_00007
+  rotate: false
+  xy: 392, 422
+  size: 159, 143
+  orig: 211, 200
+  offset: 7, 14
+  index: -1
+shuihua/sh_00008
+  rotate: false
+  xy: 396, 134
+  size: 151, 140
+  orig: 211, 200
+  offset: 8, 14
+  index: -1
+shuihua/sh_00009
+  rotate: false
+  xy: 392, 276
+  size: 157, 144
+  orig: 211, 200
+  offset: 9, 14
+  index: -1
+shuihua/sh_00010
+  rotate: false
+  xy: 555, 576
+  size: 159, 145
+  orig: 211, 200
+  offset: 8, 15
+  index: -1
+shuihua/sh_00011
+  rotate: true
+  xy: 236, 312
+  size: 167, 154
+  orig: 211, 200
+  offset: 6, 12
+  index: -1

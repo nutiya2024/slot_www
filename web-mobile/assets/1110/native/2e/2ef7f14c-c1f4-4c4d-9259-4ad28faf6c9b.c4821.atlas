@@ -1,0 +1,20 @@
+
+symbol05.png
+size: 240,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eft_lw_bol_02
+  rotate: false
+  xy: 204, 119
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+symbol05
+  rotate: false
+  xy: 0, 0
+  size: 202, 155
+  orig: 210, 155
+  offset: 3, 0
+  index: -1

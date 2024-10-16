@@ -1,0 +1,251 @@
+
+gool_hv_2.png
+size: 603,603
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_particle_00001
+  rotate: true
+  xy: 335, 497
+  size: 106, 104
+  orig: 106, 104
+  offset: 0, 0
+  index: -1
+back_particle_00003
+  rotate: true
+  xy: 218, 388
+  size: 102, 110
+  orig: 102, 110
+  offset: 0, 0
+  index: -1
+back_particle_00005
+  rotate: true
+  xy: 218, 497
+  size: 106, 115
+  orig: 106, 115
+  offset: 0, 0
+  index: -1
+back_particle_00007
+  rotate: true
+  xy: 473, 492
+  size: 111, 118
+  orig: 111, 118
+  offset: 0, 0
+  index: -1
+base1
+  rotate: true
+  xy: 252, 87
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+base2
+  rotate: false
+  xy: 330, 387
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+base_shadow
+  rotate: false
+  xy: 351, 124
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+design
+  rotate: false
+  xy: 327, 5
+  size: 144, 80
+  orig: 144, 80
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 0, 387
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 0, 206
+  size: 158, 179
+  orig: 158, 179
+  offset: 0, 0
+  index: -1
+glass_glow
+  rotate: false
+  xy: 270, 29
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+glass_glow_2nd
+  rotate: false
+  xy: 270, 29
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+glass_mid_gold
+  rotate: false
+  xy: 270, 29
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+gold_stroke_00000
+  rotate: true
+  xy: 555, 428
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+gold_stroke_00001
+  rotate: false
+  xy: 193, 1
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+gold_stroke_00002
+  rotate: false
+  xy: 111, 1
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+mask
+  rotate: true
+  xy: 254, 230
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+moving_particles_00001
+  rotate: true
+  xy: 254, 307
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+moving_particles_00003
+  rotate: false
+  xy: 327, 314
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+moving_particles_00005
+  rotate: true
+  xy: 356, 233
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+moving_particles_00007
+  rotate: false
+  xy: 408, 314
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+moving_particles_00009
+  rotate: true
+  xy: 429, 233
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+moving_particles_00011
+  rotate: true
+  xy: 489, 323
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+moving_particles_00013
+  rotate: true
+  xy: 457, 152
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+moving_particles_00015
+  rotate: true
+  xy: 502, 242
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+moving_particles_00017
+  rotate: true
+  xy: 530, 161
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+moving_particles_00019
+  rotate: true
+  xy: 530, 80
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+piller_01
+  rotate: true
+  xy: 351, 89
+  size: 33, 92
+  orig: 33, 92
+  offset: 0, 0
+  index: -1
+piller_02
+  rotate: false
+  xy: 562, 338
+  size: 41, 88
+  orig: 41, 88
+  offset: 0, 0
+  index: -1
+piller_03
+  rotate: true
+  xy: 252, 53
+  size: 32, 73
+  orig: 32, 73
+  offset: 0, 0
+  index: -1
+piller_04
+  rotate: false
+  xy: 440, 419
+  size: 25, 76
+  orig: 25, 76
+  offset: 0, 0
+  index: -1
+rays
+  rotate: false
+  xy: 467, 404
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 0, 0
+  size: 204, 109
+  orig: 204, 109
+  offset: 0, 0
+  index: -1
+swirl_effect
+  rotate: true
+  xy: 111, 53
+  size: 151, 139
+  orig: 151, 139
+  offset: 0, 0
+  index: -1
+upper_part
+  rotate: true
+  xy: 160, 227
+  size: 158, 92
+  orig: 158, 92
+  offset: 0, 0
+  index: -1

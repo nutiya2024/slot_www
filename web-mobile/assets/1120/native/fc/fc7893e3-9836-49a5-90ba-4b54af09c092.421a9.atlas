@@ -1,0 +1,20 @@
+
+xmsw_transition.png
+size: 702,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/blue_solid
+  rotate: false
+  xy: 452, 5
+  size: 250, 445
+  orig: 250, 445
+  offset: 0, 0
+  index: -1
+images/snow_flake_1
+  rotate: false
+  xy: 0, 0
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1

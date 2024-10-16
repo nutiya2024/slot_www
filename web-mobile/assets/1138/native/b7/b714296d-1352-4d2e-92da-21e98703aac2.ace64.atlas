@@ -1,0 +1,69 @@
+
+S07.png
+size: 1178,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S07_2_split/red/design_01_shadow
+  rotate: false
+  xy: 1113, 19
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+S07_2_split/red/design_02_shadow
+  rotate: true
+  xy: 1148, 226
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+S07_2_split/red/particle
+  rotate: false
+  xy: 2, 15
+  size: 297, 260
+  orig: 297, 260
+  offset: 0, 0
+  index: -1
+S07_2_split/red/symbol_shadow
+  rotate: true
+  xy: 301, 2
+  size: 273, 242
+  orig: 273, 242
+  offset: 0, 0
+  index: -1
+S07_split/yellow/design_01
+  rotate: false
+  xy: 1063, 17
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+S07_split/yellow/design_02
+  rotate: false
+  xy: 1013, 16
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+S07_split/yellow/frame
+  rotate: true
+  xy: 783, 15
+  size: 260, 228
+  orig: 260, 228
+  offset: 0, 0
+  index: -1
+S07_split/yellow/gem
+  rotate: true
+  xy: 545, 10
+  size: 265, 236
+  orig: 265, 236
+  offset: 0, 0
+  index: -1
+S07_split/yellow/highlight
+  rotate: false
+  xy: 1013, 49
+  size: 133, 226
+  orig: 133, 226
+  offset: 0, 0
+  index: -1

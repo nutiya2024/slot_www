@@ -1,0 +1,41 @@
+
+freegame.png
+size: 781,781
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FG_str_c02
+  rotate: false
+  xy: 0, 231
+  size: 410, 403
+  orig: 410, 412
+  offset: 0, 2
+  index: -1
+FG_text_01
+  rotate: true
+  xy: 418, 458
+  size: 323, 325
+  orig: 323, 325
+  offset: 0, 0
+  index: -1
+FG_text_03
+  rotate: false
+  xy: 0, 636
+  size: 416, 145
+  orig: 416, 145
+  offset: 0, 0
+  index: -1
+FG_text_e1
+  rotate: false
+  xy: 745, 745
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+FG_text_light_01
+  rotate: false
+  xy: 412, 193
+  size: 317, 263
+  orig: 317, 263
+  offset: 0, 0
+  index: -1

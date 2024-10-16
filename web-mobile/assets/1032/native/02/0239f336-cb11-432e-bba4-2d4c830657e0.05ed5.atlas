@@ -1,0 +1,244 @@
+
+09_Mining.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+07_1_Marvel
+  rotate: false
+  xy: 625, 104
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+9_01_cap
+  rotate: false
+  xy: 420, 2
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+9_02_arm_L
+  rotate: true
+  xy: 385, 140
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+9_03_Collar_L
+  rotate: true
+  xy: 72, 8
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+9_04_face
+  rotate: false
+  xy: 577, 175
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+9_04_face_Lower teeth
+  rotate: false
+  xy: 173, 92
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+9_04_face_Oral cavity
+  rotate: true
+  xy: 517, 8
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+9_04_face_Upper teeth
+  rotate: true
+  xy: 522, 139
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+9_05_head_Cap_bk
+  rotate: false
+  xy: 133, 91
+  size: 38, 8
+  orig: 38, 8
+  offset: 0, 0
+  index: -1
+9_06_Collar_R
+  rotate: false
+  xy: 467, 5
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+9_07_arm_Lower arm_R Finger
+  rotate: false
+  xy: 461, 131
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+9_08_Axe_T
+  rotate: true
+  xy: 113, 9
+  size: 79, 121
+  orig: 79, 121
+  offset: 0, 0
+  index: -1
+9_09_1_Shoes_L
+  rotate: false
+  xy: 665, 36
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+9_09_2_foot_L
+  rotate: true
+  xy: 2, 8
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+9_09_3_foot_R
+  rotate: true
+  xy: 653, 186
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+9_09_4_Shoes_R
+  rotate: true
+  xy: 720, 197
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+9_09_body
+  rotate: false
+  xy: 133, 101
+  size: 129, 152
+  orig: 129, 152
+  offset: 0, 0
+  index: -1
+9_10_arm_Lower arm_R
+  rotate: true
+  xy: 588, 2
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+9_11_arm_Upper arm_R
+  rotate: true
+  xy: 679, 118
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+9_12_D_Cap
+  rotate: true
+  xy: 722, 17
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+9_13_D_fCollar_L
+  rotate: false
+  xy: 487, 36
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+9_14_D_face_1
+  rotate: false
+  xy: 420, 35
+  size: 65, 94
+  orig: 65, 94
+  offset: 0, 0
+  index: -1
+9_15_D_face_2
+  rotate: false
+  xy: 510, 160
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+9_16_D_face_3
+  rotate: false
+  xy: 559, 67
+  size: 64, 91
+  orig: 64, 91
+  offset: 0, 0
+  index: -1
+9_16_D_face_3_Tears
+  rotate: true
+  xy: 541, 11
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+9_17_D_arm_below_L
+  rotate: false
+  xy: 264, 130
+  size: 119, 123
+  orig: 119, 123
+  offset: 0, 0
+  index: -1
+9_18_D_arm_below_R_ Finger
+  rotate: true
+  xy: 264, 102
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+9_19_D_Axe_D
+  rotate: false
+  xy: 301, 6
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+9_19_D_Axe_D_shadow
+  rotate: false
+  xy: 236, 2
+  size: 57, 97
+  orig: 57, 97
+  offset: 0, 0
+  index: -1
+9_20_D_arm_below_L_ Finger
+  rotate: false
+  xy: 492, 133
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+9_21_D_face_BG
+  rotate: false
+  xy: 2, 90
+  size: 129, 163
+  orig: 129, 163
+  offset: 0, 0
+  index: -1
+9_22_D_arm_below_R
+  rotate: false
+  xy: 459, 147
+  size: 49, 106
+  orig: 49, 106
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 385, 131
+  size: 74, 7
+  orig: 74, 7
+  offset: 0, 0
+  index: -1
+stra
+  rotate: false
+  xy: 722, 66
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1

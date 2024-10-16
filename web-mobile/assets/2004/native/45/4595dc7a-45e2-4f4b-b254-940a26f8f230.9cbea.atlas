@@ -1,0 +1,76 @@
+
+lhstartstop.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hundred_bg
+  rotate: false
+  xy: 2, 2
+  size: 567, 229
+  orig: 660, 250
+  offset: 46, 11
+  index: -1
+hundred_start
+  rotate: false
+  xy: 1594, 387
+  size: 347, 96
+  orig: 440, 120
+  offset: 46, 12
+  index: -1
+hundred_stop
+  rotate: false
+  xy: 1594, 288
+  size: 346, 97
+  orig: 440, 120
+  offset: 47, 12
+  index: -1
+line_0
+  rotate: false
+  xy: 1001, 121
+  size: 183, 118
+  orig: 200, 150
+  offset: 10, 16
+  index: -1
+redblack_bg
+  rotate: false
+  xy: 2, 233
+  size: 658, 250
+  orig: 660, 250
+  offset: 1, 0
+  index: -1
+redblack_start
+  rotate: false
+  xy: 1162, 365
+  size: 430, 118
+  orig: 440, 120
+  offset: 5, 1
+  index: -1
+redblack_stop
+  rotate: false
+  xy: 662, 241
+  size: 435, 120
+  orig: 440, 120
+  offset: 0, 0
+  index: -1
+tigerdragon_bg
+  rotate: false
+  xy: 662, 363
+  size: 498, 120
+  orig: 498, 120
+  offset: 0, 0
+  index: -1
+tigerdragon_start
+  rotate: false
+  xy: 571, 53
+  size: 335, 92
+  orig: 498, 120
+  offset: 81, 14
+  index: -1
+tigerdragon_stop
+  rotate: false
+  xy: 662, 147
+  size: 337, 92
+  orig: 498, 120
+  offset: 80, 14
+  index: -1

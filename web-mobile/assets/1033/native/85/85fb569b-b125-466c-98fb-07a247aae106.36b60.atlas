@@ -1,0 +1,20 @@
+
+wood.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+board
+  rotate: false
+  xy: 2, 291
+  size: 987, 696
+  orig: 987, 696
+  offset: 0, 0
+  index: -1
+rope_2
+  rotate: true
+  xy: 2, 255
+  size: 34, 926
+  orig: 34, 926
+  offset: 0, 0
+  index: -1

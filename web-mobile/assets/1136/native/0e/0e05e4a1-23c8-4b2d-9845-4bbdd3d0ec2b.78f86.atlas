@@ -1,0 +1,146 @@
+
+stpr_winframe.png
+size: 1415,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+strp_winframe_00000
+  rotate: false
+  xy: 1122, 506
+  size: 266, 250
+  orig: 298, 273
+  offset: 19, 13
+  index: -1
+strp_winframe_00001
+  rotate: false
+  xy: 0, 257
+  size: 266, 250
+  orig: 298, 273
+  offset: 19, 13
+  index: -1
+strp_winframe_00002
+  rotate: false
+  xy: 268, 257
+  size: 266, 250
+  orig: 298, 273
+  offset: 19, 13
+  index: -1
+strp_winframe_00003
+  rotate: false
+  xy: 536, 254
+  size: 267, 251
+  orig: 298, 273
+  offset: 18, 15
+  index: -1
+strp_winframe_00004
+  rotate: false
+  xy: 805, 254
+  size: 267, 251
+  orig: 298, 273
+  offset: 18, 15
+  index: -1
+strp_winframe_00005
+  rotate: false
+  xy: 1074, 253
+  size: 277, 251
+  orig: 298, 273
+  offset: 8, 14
+  index: -1
+strp_winframe_00006
+  rotate: false
+  xy: 0, 4
+  size: 277, 251
+  orig: 298, 273
+  offset: 8, 14
+  index: -1
+strp_winframe_00007
+  rotate: false
+  xy: 564, 507
+  size: 277, 249
+  orig: 298, 273
+  offset: 8, 13
+  index: -1
+strp_winframe_00008
+  rotate: false
+  xy: 843, 507
+  size: 277, 249
+  orig: 298, 273
+  offset: 8, 13
+  index: -1
+strp_winframe_00009
+  rotate: false
+  xy: 580, 758
+  size: 272, 247
+  orig: 298, 273
+  offset: 13, 15
+  index: -1
+strp_winframe_00010
+  rotate: false
+  xy: 854, 758
+  size: 272, 247
+  orig: 298, 273
+  offset: 13, 15
+  index: -1
+strp_winframe_00011
+  rotate: false
+  xy: 1128, 758
+  size: 272, 247
+  orig: 298, 273
+  offset: 13, 15
+  index: -1
+strp_winframe_00012
+  rotate: false
+  xy: 279, 1
+  size: 285, 251
+  orig: 298, 273
+  offset: 11, 12
+  index: -1
+strp_winframe_00013
+  rotate: false
+  xy: 566, 1
+  size: 285, 251
+  orig: 298, 273
+  offset: 11, 12
+  index: -1
+strp_winframe_00014
+  rotate: false
+  xy: 0, 759
+  size: 288, 246
+  orig: 298, 273
+  offset: 10, 15
+  index: -1
+strp_winframe_00015
+  rotate: false
+  xy: 290, 759
+  size: 288, 246
+  orig: 298, 273
+  offset: 10, 15
+  index: -1
+strp_winframe_00016
+  rotate: false
+  xy: 0, 509
+  size: 280, 248
+  orig: 298, 273
+  offset: 18, 11
+  index: -1
+strp_winframe_00017
+  rotate: false
+  xy: 282, 509
+  size: 280, 248
+  orig: 298, 273
+  offset: 18, 11
+  index: -1
+strp_winframe_00018
+  rotate: false
+  xy: 853, 0
+  size: 280, 251
+  orig: 298, 273
+  offset: 18, 10
+  index: -1
+strp_winframe_00019
+  rotate: false
+  xy: 1135, 0
+  size: 280, 251
+  orig: 298, 273
+  offset: 18, 10
+  index: -1

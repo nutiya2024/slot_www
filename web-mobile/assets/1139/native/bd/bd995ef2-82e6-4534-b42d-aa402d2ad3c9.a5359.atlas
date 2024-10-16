@@ -1,0 +1,221 @@
+
+cabl_transition.png
+size: 2281,1890
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cabl_transition_00001
+  rotate: true
+  xy: 501, 945
+  size: 444, 250
+  orig: 444, 250
+  offset: 0, 0
+  index: -1
+cabl_transition_00003
+  rotate: true
+  xy: 501, 499
+  size: 444, 250
+  orig: 444, 250
+  offset: 0, 0
+  index: -1
+cabl_transition_00005
+  rotate: true
+  xy: 0, 55
+  size: 444, 250
+  orig: 444, 250
+  offset: 0, 0
+  index: -1
+cabl_transition_00011
+  rotate: false
+  xy: 0, 1391
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00013
+  rotate: true
+  xy: 890, 1002
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00015
+  rotate: true
+  xy: 0, 501
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00017
+  rotate: false
+  xy: 753, 501
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00019
+  rotate: false
+  xy: 1391, 1391
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00021
+  rotate: true
+  xy: 1643, 249
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00023
+  rotate: false
+  xy: 753, 0
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00053
+  rotate: false
+  xy: 1391, 1139
+  size: 444, 250
+  orig: 444, 250
+  offset: 0, 0
+  index: -1
+cabl_transition_00055
+  rotate: false
+  xy: 1837, 1139
+  size: 444, 250
+  orig: 444, 250
+  offset: 0, 0
+  index: -1
+cabl_transition_00057
+  rotate: true
+  xy: 252, 53
+  size: 444, 250
+  orig: 444, 250
+  offset: 0, 0
+  index: -1
+
+cabl_transition2.png
+size: 2391,1890
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cabl_transition_00025
+  rotate: false
+  xy: 0, 1391
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00027
+  rotate: true
+  xy: 890, 1002
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00029
+  rotate: true
+  xy: 0, 501
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00031
+  rotate: false
+  xy: 501, 501
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00033
+  rotate: true
+  xy: 1391, 1002
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00035
+  rotate: true
+  xy: 1391, 112
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00037
+  rotate: false
+  xy: 0, 0
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00039
+  rotate: true
+  xy: 1892, 1002
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00041
+  rotate: true
+  xy: 1892, 112
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+
+cabl_transition3.png
+size: 2319,1389
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cabl_transition_00007
+  rotate: true
+  xy: 1892, 501
+  size: 888, 427
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00009
+  rotate: false
+  xy: 1391, 8
+  size: 888, 491
+  orig: 888, 499
+  offset: 0, 8
+  index: -1
+cabl_transition_00043
+  rotate: false
+  xy: 0, 890
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00045
+  rotate: true
+  xy: 890, 501
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00047
+  rotate: true
+  xy: 0, 0
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00049
+  rotate: true
+  xy: 1391, 501
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cabl_transition_00051
+  rotate: false
+  xy: 501, 0
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1

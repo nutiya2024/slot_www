@@ -1,0 +1,286 @@
+
+BisonGolden.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_G
+  rotate: false
+  xy: 2, 475
+  size: 310, 547
+  orig: 310, 547
+  offset: 0, 0
+  index: -1
+Ear_Back_G
+  rotate: false
+  xy: 938, 259
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+Ear_G
+  rotate: true
+  xy: 210, 2
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+Eye01_G
+  rotate: true
+  xy: 92, 2
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Eye02_G
+  rotate: true
+  xy: 134, 2
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Eye03_G
+  rotate: true
+  xy: 134, 2
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Eye04_G
+  rotate: true
+  xy: 360, 31
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+EyeL01_G
+  rotate: true
+  xy: 659, 475
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+EyeL02_G
+  rotate: false
+  xy: 258, 207
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+EyeL03_G
+  rotate: false
+  xy: 645, 67
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+EyeL04_G
+  rotate: true
+  xy: 731, 510
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+Face_G
+  rotate: false
+  xy: 2, 155
+  size: 189, 318
+  orig: 189, 318
+  offset: 0, 0
+  index: -1
+Hair_G
+  rotate: false
+  xy: 710, 181
+  size: 226, 154
+  orig: 226, 154
+  offset: 0, 0
+  index: -1
+Horn_L_G
+  rotate: true
+  xy: 547, 118
+  size: 77, 137
+  orig: 77, 137
+  offset: 0, 0
+  index: -1
+Horn_R_G
+  rotate: false
+  xy: 2, 2
+  size: 88, 151
+  orig: 88, 151
+  offset: 0, 0
+  index: -1
+Leg_Back_G
+  rotate: true
+  xy: 210, 57
+  size: 74, 211
+  orig: 74, 211
+  offset: 0, 0
+  index: -1
+Leg_G
+  rotate: true
+  xy: 314, 459
+  size: 74, 343
+  orig: 74, 343
+  offset: 0, 0
+  index: -1
+Lip_G
+  rotate: false
+  xy: 275, 23
+  size: 83, 32
+  orig: 83, 32
+  offset: 0, 0
+  index: -1
+MouthInside_G
+  rotate: false
+  xy: 869, 120
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+Mouth_G
+  rotate: false
+  xy: 791, 120
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+NoseSmoke
+  rotate: true
+  xy: 193, 258
+  size: 215, 90
+  orig: 215, 90
+  offset: 0, 0
+  index: -1
+Nose_G
+  rotate: false
+  xy: 537, 21
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: -1
+Pow_Down_G
+  rotate: false
+  xy: 193, 179
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+Smoke01
+  rotate: false
+  xy: 423, 24
+  size: 112, 107
+  orig: 112, 107
+  offset: 0, 0
+  index: -1
+Smoke02
+  rotate: true
+  xy: 92, 28
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+Snow10
+  rotate: false
+  xy: 576, 861
+  size: 260, 161
+  orig: 260, 161
+  offset: 0, 0
+  index: -1
+Snow11
+  rotate: false
+  xy: 314, 535
+  size: 260, 161
+  orig: 260, 161
+  offset: 0, 0
+  index: -1
+Snow12
+  rotate: false
+  xy: 576, 698
+  size: 260, 161
+  orig: 260, 161
+  offset: 0, 0
+  index: -1
+Snow7
+  rotate: false
+  xy: 314, 861
+  size: 260, 161
+  orig: 260, 161
+  offset: 0, 0
+  index: -1
+Snow8
+  rotate: false
+  xy: 314, 698
+  size: 260, 161
+  orig: 260, 161
+  offset: 0, 0
+  index: -1
+Snow9
+  rotate: true
+  xy: 838, 762
+  size: 260, 161
+  orig: 260, 161
+  offset: 0, 0
+  index: -1
+Tail_G
+  rotate: true
+  xy: 686, 109
+  size: 70, 103
+  orig: 70, 103
+  offset: 0, 0
+  index: -1
+Teeth_G
+  rotate: false
+  xy: 659, 500
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Tongue_G
+  rotate: false
+  xy: 176, 10
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+snow1
+  rotate: false
+  xy: 576, 535
+  size: 260, 161
+  orig: 260, 161
+  offset: 0, 0
+  index: -1
+snow2
+  rotate: true
+  xy: 838, 500
+  size: 260, 161
+  orig: 260, 161
+  offset: 0, 0
+  index: -1
+snow3
+  rotate: false
+  xy: 285, 296
+  size: 260, 161
+  orig: 260, 161
+  offset: 0, 0
+  index: -1
+snow4
+  rotate: false
+  xy: 285, 133
+  size: 260, 161
+  orig: 260, 161
+  offset: 0, 0
+  index: -1
+snow5
+  rotate: true
+  xy: 547, 197
+  size: 260, 161
+  orig: 260, 161
+  offset: 0, 0
+  index: -1
+snow6
+  rotate: false
+  xy: 710, 337
+  size: 260, 161
+  orig: 260, 161
+  offset: 0, 0
+  index: -1

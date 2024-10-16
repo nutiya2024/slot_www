@@ -1,0 +1,35 @@
+
+gool_bigwin.png
+size: 1828,442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mega
+  rotate: false
+  xy: 778, 6
+  size: 626, 192
+  orig: 626, 192
+  offset: 0, 0
+  index: -1
+nice
+  rotate: false
+  xy: 1311, 253
+  size: 517, 189
+  orig: 517, 189
+  offset: 0, 0
+  index: -1
+sensational
+  rotate: false
+  xy: 0, 200
+  size: 1309, 242
+  orig: 1309, 242
+  offset: 0, 0
+  index: -1
+superb
+  rotate: false
+  xy: 0, 0
+  size: 776, 198
+  orig: 776, 198
+  offset: 0, 0
+  index: -1
+

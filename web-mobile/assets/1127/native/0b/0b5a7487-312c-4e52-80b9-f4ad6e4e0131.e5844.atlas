@@ -1,0 +1,83 @@
+
+h_car_a_atlas_symbols.png
+size: 407,303
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+car_base
+  rotate: true
+  xy: 305, 6
+  size: 134, 77
+  orig: 134, 77
+  offset: 0, 0
+  index: -1
+car_bonnet
+  rotate: false
+  xy: 2, 2
+  size: 143, 109
+  orig: 145, 109
+  offset: 2, 0
+  index: -1
+car_door_L
+  rotate: false
+  xy: 368, 235
+  size: 30, 66
+  orig: 34, 70
+  offset: 2, 2
+  index: -1
+car_door_R
+  rotate: false
+  xy: 149, 223
+  size: 45, 78
+  orig: 51, 78
+  offset: 3, 0
+  index: -1
+car_flare
+  rotate: false
+  xy: 225, 220
+  size: 141, 81
+  orig: 141, 81
+  offset: 0, 0
+  index: -1
+car_fx01
+  rotate: true
+  xy: 147, 11
+  size: 100, 76
+  orig: 101, 76
+  offset: 1, 0
+  index: -1
+car_fx02
+  rotate: true
+  xy: 149, 118
+  size: 100, 76
+  orig: 101, 76
+  offset: 1, 0
+  index: -1
+car_fx03
+  rotate: true
+  xy: 225, 16
+  size: 100, 76
+  orig: 101, 76
+  offset: 1, 0
+  index: -1
+car_fx04
+  rotate: true
+  xy: 227, 118
+  size: 100, 76
+  orig: 101, 76
+  offset: 1, 0
+  index: -1
+car_fx05
+  rotate: false
+  xy: 305, 142
+  size: 100, 76
+  orig: 101, 76
+  offset: 1, 0
+  index: -1
+h_car_shdw
+  rotate: true
+  xy: 2, 113
+  size: 188, 145
+  orig: 195, 161
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,55 @@
+
+0000b8f231b66184f9e55c6bc79ecde9.png
+size: 338,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_S02_overlay_00
+  rotate: false
+  xy: 139, 99
+  size: 197, 110
+  orig: 265, 265
+  offset: 2, -32
+  index: -1
+s_S11_overlay_00
+  rotate: false
+  xy: 0, 2
+  size: 173, 95
+  orig: 265, 265
+  offset: 2, -34
+  index: -1
+s_S06_overlay_00
+  rotate: false
+  xy: 0, 289
+  size: 164, 72
+  orig: 265, 265
+  offset: -5, -41
+  index: -1
+s_S07_overlay_00
+  rotate: false
+  xy: 0, 123
+  size: 107, 70
+  orig: 265, 265
+  offset: -8, -10
+  index: -1
+s_S08_overlay_00
+  rotate: false
+  xy: 166, 211
+  size: 153, 77
+  orig: 265, 265
+  offset: -2, -17
+  index: -1
+s_S09_overlay_00
+  rotate: false
+  xy: 166, 290
+  size: 127, 71
+  orig: 265, 265
+  offset: 2, -27
+  index: -1
+s_S10_overlay_00
+  rotate: false
+  xy: 0, 195
+  size: 137, 92
+  orig: 265, 265
+  offset: -3, -18
+  index: -1

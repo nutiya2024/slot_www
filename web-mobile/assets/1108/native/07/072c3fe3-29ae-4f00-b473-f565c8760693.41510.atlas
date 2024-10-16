@@ -1,0 +1,48 @@
+
+guang.png
+size: 330,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FG_ever_c02
+  rotate: false
+  xy: 58, 123
+  size: 32, 108
+  orig: 34, 133
+  offset: 1, 19
+  index: -1
+deal_NW_c01
+  rotate: false
+  xy: 0, 95
+  size: 56, 235
+  orig: 58, 240
+  offset: 1, 4
+  index: -1
+deal_NW_nef_01
+  rotate: true
+  xy: 58, 111
+  size: 10, 61
+  orig: 11, 80
+  offset: 0, 10
+  index: -1
+eft2_p001
+  rotate: false
+  xy: 0, 0
+  size: 93, 93
+  orig: 100, 100
+  offset: 4, 3
+  index: -1
+eft2_p002
+  rotate: false
+  xy: 92, 195
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+eft_spe03
+  rotate: false
+  xy: 58, 233
+  size: 61, 97
+  orig: 62, 108
+  offset: 1, 10
+  index: -1

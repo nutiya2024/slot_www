@@ -1,0 +1,230 @@
+
+multiplier_fx.png
+size: 1371,1025
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+multiplier_fx_2_split/red/fool_fx_00018
+  rotate: false
+  xy: 760, 689
+  size: 577, 58
+  orig: 957, 126
+  offset: 36, 36
+  index: -1
+multiplier_fx_2_split/red/fool_fx_00020
+  rotate: false
+  xy: 687, 543
+  size: 438, 49
+  orig: 957, 126
+  offset: 35, 37
+  index: -1
+multiplier_fx_2_split/red/fool_fx_v209
+  rotate: false
+  xy: 2, 2
+  size: 581, 111
+  orig: 957, 126
+  offset: 31, 7
+  index: -1
+multiplier_fx_2_split/red/fool_fx_v210
+  rotate: false
+  xy: 756, 594
+  size: 439, 93
+  orig: 957, 126
+  offset: 34, 19
+  index: -1
+multiplier_fx_split/yellow/fool_fx_00000
+  rotate: false
+  xy: 1197, 571
+  size: 147, 35
+  orig: 957, 126
+  offset: 785, 18
+  index: -1
+multiplier_fx_split/yellow/fool_fx_00002
+  rotate: false
+  xy: 862, 18
+  size: 263, 55
+  orig: 957, 126
+  offset: 669, 16
+  index: -1
+multiplier_fx_split/yellow/fool_fx_00004
+  rotate: false
+  xy: 688, 349
+  size: 391, 76
+  orig: 957, 126
+  offset: 537, 18
+  index: -1
+multiplier_fx_split/yellow/fool_fx_00006
+  rotate: false
+  xy: 798, 823
+  size: 536, 81
+  orig: 957, 126
+  offset: 384, 26
+  index: -1
+multiplier_fx_split/yellow/fool_fx_00008
+  rotate: false
+  xy: 2, 316
+  size: 682, 79
+  orig: 957, 126
+  offset: 215, 37
+  index: -1
+multiplier_fx_split/yellow/fool_fx_00010
+  rotate: false
+  xy: 2, 826
+  size: 794, 80
+  orig: 957, 126
+  offset: 83, 39
+  index: -1
+multiplier_fx_split/yellow/fool_fx_00012
+  rotate: false
+  xy: 2, 632
+  size: 752, 75
+  orig: 957, 126
+  offset: 60, 34
+  index: -1
+multiplier_fx_split/yellow/fool_fx_00014
+  rotate: false
+  xy: 2, 231
+  size: 676, 83
+  orig: 957, 126
+  offset: 42, 28
+  index: -1
+multiplier_fx_split/yellow/fool_fx_00016
+  rotate: false
+  xy: 760, 749
+  size: 601, 72
+  orig: 957, 126
+  offset: 36, 34
+  index: -1
+multiplier_fx_split/yellow/fool_fx_v200
+  rotate: false
+  xy: 1197, 608
+  size: 153, 79
+  orig: 957, 126
+  offset: 785, 6
+  index: -1
+multiplier_fx_split/yellow/fool_fx_v201
+  rotate: false
+  xy: 585, 7
+  size: 275, 103
+  orig: 957, 126
+  offset: 669, 3
+  index: -1
+multiplier_fx_split/yellow/fool_fx_v202
+  rotate: false
+  xy: 688, 427
+  size: 405, 114
+  orig: 957, 126
+  offset: 537, 3
+  index: -1
+multiplier_fx_split/yellow/fool_fx_v203
+  rotate: false
+  xy: 798, 906
+  size: 540, 117
+  orig: 957, 126
+  offset: 384, 3
+  index: -1
+multiplier_fx_split/yellow/fool_fx_v204
+  rotate: false
+  xy: 2, 514
+  size: 683, 116
+  orig: 957, 126
+  offset: 214, 5
+  index: -1
+multiplier_fx_split/yellow/fool_fx_v205
+  rotate: false
+  xy: 2, 908
+  size: 794, 115
+  orig: 957, 126
+  offset: 83, 6
+  index: -1
+multiplier_fx_split/yellow/fool_fx_v206
+  rotate: false
+  xy: 2, 709
+  size: 756, 115
+  orig: 957, 126
+  offset: 56, 6
+  index: -1
+multiplier_fx_split/yellow/fool_fx_v207
+  rotate: false
+  xy: 2, 397
+  size: 684, 115
+  orig: 957, 126
+  offset: 35, 5
+  index: -1
+multiplier_fx_split/yellow/fool_fx_v208
+  rotate: false
+  xy: 2, 115
+  size: 606, 114
+  orig: 957, 126
+  offset: 32, 5
+  index: -1
+multiplier_fx_split/yellow/spark_00000
+  rotate: false
+  xy: 973, 266
+  size: 212, 81
+  orig: 355, 135
+  offset: 70, 27
+  index: -1
+multiplier_fx_split/yellow/spark_00001
+  rotate: false
+  xy: 967, 173
+  size: 230, 91
+  orig: 355, 135
+  offset: 62, 23
+  index: -1
+multiplier_fx_split/yellow/spark_00002
+  rotate: false
+  xy: 1127, 476
+  size: 240, 93
+  orig: 244, 98
+  offset: 2, 2
+  index: -1
+multiplier_fx_split/yellow/spark_00003
+  rotate: true
+  xy: 1199, 117
+  size: 258, 95
+  orig: 355, 135
+  offset: 47, 23
+  index: -1
+multiplier_fx_split/yellow/spark_00004
+  rotate: false
+  xy: 1095, 377
+  size: 274, 97
+  orig: 355, 135
+  offset: 39, 22
+  index: -1
+multiplier_fx_split/yellow/spark_00005
+  rotate: false
+  xy: 896, 75
+  size: 278, 96
+  orig: 355, 135
+  offset: 37, 24
+  index: -1
+multiplier_fx_split/yellow/spark_00006
+  rotate: false
+  xy: 610, 112
+  size: 284, 80
+  orig: 355, 135
+  offset: 34, 25
+  index: -1
+multiplier_fx_split/yellow/spark_00007
+  rotate: false
+  xy: 686, 270
+  size: 285, 77
+  orig: 355, 135
+  offset: 34, 27
+  index: -1
+multiplier_fx_split/yellow/spark_00008
+  rotate: false
+  xy: 680, 194
+  size: 285, 74
+  orig: 355, 135
+  offset: 34, 32
+  index: -1
+multiplier_fx_split/yellow/spark_00009
+  rotate: true
+  xy: 1296, 157
+  size: 218, 52
+  orig: 355, 135
+  offset: 67, 54
+  index: -1

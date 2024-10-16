@@ -1,0 +1,265 @@
+
+stpr_bigwin_banner.png
+size: 1142,1142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+centre_frame1
+  rotate: true
+  xy: 339, 506
+  size: 516, 116
+  orig: 516, 116
+  offset: 0, 0
+  index: -1
+circle_b
+  rotate: false
+  xy: 679, 524
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+crown_lower
+  rotate: true
+  xy: 686, 897
+  size: 125, 29
+  orig: 125, 29
+  offset: 0, 0
+  index: -1
+crown_upper
+  rotate: false
+  xy: 457, 525
+  size: 155, 77
+  orig: 155, 77
+  offset: 0, 0
+  index: -1
+design_1
+  rotate: false
+  xy: 1033, 705
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+design_11
+  rotate: true
+  xy: 235, 175
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+design_14
+  rotate: false
+  xy: 614, 542
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+design_15
+  rotate: false
+  xy: 235, 30
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+design_16
+  rotate: false
+  xy: 235, 92
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+design_19
+  rotate: true
+  xy: 235, 278
+  size: 120, 84
+  orig: 120, 84
+  offset: 0, 0
+  index: -1
+design_3
+  rotate: true
+  xy: 457, 604
+  size: 115, 220
+  orig: 115, 220
+  offset: 0, 0
+  index: -1
+design_5
+  rotate: false
+  xy: 686, 767
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+design_9
+  rotate: true
+  xy: 1091, 582
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1
+frame_a
+  rotate: false
+  xy: 1107, 664
+  size: 21, 90
+  orig: 21, 90
+  offset: 0, 0
+  index: -1
+frame_b
+  rotate: false
+  xy: 1107, 756
+  size: 22, 90
+  orig: 22, 90
+  offset: 0, 0
+  index: -1
+frame_c
+  rotate: true
+  xy: 1079, 653
+  size: 489, 12
+  orig: 489, 12
+  offset: 0, 0
+  index: -1
+frame_d
+  rotate: true
+  xy: 1093, 653
+  size: 489, 12
+  orig: 489, 12
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 783, 329
+  size: 193, 179
+  orig: 193, 179
+  offset: 0, 0
+  index: -1
+highlight_a
+  rotate: true
+  xy: 614, 518
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+highlight_b
+  rotate: true
+  xy: 729, 751
+  size: 391, 348
+  orig: 391, 348
+  offset: 0, 0
+  index: -1
+m_design_1
+  rotate: true
+  xy: 686, 800
+  size: 95, 29
+  orig: 95, 29
+  offset: 0, 0
+  index: -1
+mega
+  rotate: false
+  xy: 686, 645
+  size: 345, 104
+  orig: 345, 104
+  offset: 0, 0
+  index: -1
+nice
+  rotate: false
+  xy: 800, 540
+  size: 289, 103
+  orig: 289, 103
+  offset: 0, 0
+  index: -1
+purple_glow_b
+  rotate: true
+  xy: 0, 400
+  size: 622, 337
+  orig: 622, 337
+  offset: 0, 0
+  index: -1
+r_wing_1
+  rotate: true
+  xy: 0, 88
+  size: 310, 233
+  orig: 310, 233
+  offset: 0, 0
+  index: -1
+r_wing_12
+  rotate: true
+  xy: 457, 721
+  size: 301, 227
+  orig: 301, 227
+  offset: 0, 0
+  index: -1
+sensational
+  rotate: false
+  xy: 0, 1024
+  size: 727, 118
+  orig: 727, 118
+  offset: 0, 0
+  index: -1
+sparkle_a
+  rotate: true
+  xy: 964, 236
+  size: 302, 141
+  orig: 302, 141
+  offset: 0, 0
+  index: -1
+star_1
+  rotate: true
+  xy: 0, 38
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+star_streak1
+  rotate: true
+  xy: 1107, 848
+  size: 294, 31
+  orig: 294, 31
+  offset: 0, 0
+  index: -1
+strok_00000
+  rotate: false
+  xy: 321, 223
+  size: 199, 173
+  orig: 199, 173
+  offset: 0, 0
+  index: -1
+strok_00001
+  rotate: true
+  xy: 522, 197
+  size: 199, 173
+  orig: 199, 173
+  offset: 0, 0
+  index: -1
+strok_00002
+  rotate: true
+  xy: 308, 22
+  size: 199, 173
+  orig: 199, 173
+  offset: 0, 0
+  index: -1
+strok_00003
+  rotate: true
+  xy: 697, 128
+  size: 199, 173
+  orig: 199, 173
+  offset: 0, 0
+  index: -1
+strok_00004
+  rotate: false
+  xy: 483, 22
+  size: 199, 173
+  orig: 199, 173
+  offset: 0, 0
+  index: -1
+strok_00005
+  rotate: false
+  xy: 872, 61
+  size: 199, 173
+  orig: 199, 173
+  offset: 0, 0
+  index: -1
+superb
+  rotate: false
+  xy: 339, 398
+  size: 442, 106
+  orig: 442, 106
+  offset: 0, 0
+  index: -1

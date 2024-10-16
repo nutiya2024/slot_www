@@ -1,0 +1,377 @@
+
+S01.png
+size: 1981,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_dots
+  rotate: false
+  xy: 1509, 37
+  size: 118, 100
+  orig: 118, 100
+  offset: 0, 0
+  index: -1
+crystal_ball
+  rotate: false
+  xy: 2, 319
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+effect_01
+  rotate: false
+  xy: 1478, 260
+  size: 129, 133
+  orig: 129, 133
+  offset: 0, 0
+  index: -1
+effect_02
+  rotate: false
+  xy: 1349, 257
+  size: 127, 136
+  orig: 127, 136
+  offset: 0, 0
+  index: -1
+effect_03
+  rotate: true
+  xy: 1858, 55
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 837, 2
+  size: 88, 71
+  orig: 89, 73
+  offset: 0, 1
+  index: -1
+magic_effect
+  rotate: false
+  xy: 1259, 90
+  size: 122, 137
+  orig: 124, 140
+  offset: 1, 1
+  index: -1
+particles/particles_00000
+  rotate: false
+  xy: 2, 10
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+particles/particles_00002
+  rotate: false
+  xy: 143, 11
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+particles/particles_00004
+  rotate: false
+  xy: 818, 222
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+particles/particles_00006
+  rotate: false
+  xy: 959, 222
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+particles/particles_00008
+  rotate: false
+  xy: 555, 62
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+particles/particles_00010
+  rotate: false
+  xy: 696, 63
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+particles/particles_00012
+  rotate: false
+  xy: 837, 75
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+particles/particles_00014
+  rotate: false
+  xy: 978, 75
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+particles/particles_00015
+  rotate: false
+  xy: 1100, 222
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ring_00000
+  rotate: false
+  xy: 1119, 80
+  size: 138, 140
+  orig: 138, 140
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00000
+  rotate: true
+  xy: 1819, 398
+  size: 130, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00002
+  rotate: true
+  xy: 1657, 397
+  size: 131, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00004
+  rotate: true
+  xy: 1495, 396
+  size: 132, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00006
+  rotate: true
+  xy: 1171, 395
+  size: 133, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00008
+  rotate: true
+  xy: 1333, 395
+  size: 133, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00010
+  rotate: false
+  xy: 487, 368
+  size: 134, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00012
+  rotate: false
+  xy: 2, 157
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00014
+  rotate: false
+  xy: 213, 368
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00016
+  rotate: false
+  xy: 350, 368
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00018
+  rotate: false
+  xy: 623, 369
+  size: 135, 159
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00020
+  rotate: false
+  xy: 275, 208
+  size: 135, 158
+  orig: 135, 160
+  offset: 0, 1
+  index: -1
+ring_effect/ring_effect_00022
+  rotate: false
+  xy: 760, 369
+  size: 135, 159
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00024
+  rotate: false
+  xy: 412, 208
+  size: 135, 158
+  orig: 135, 160
+  offset: 0, 1
+  index: -1
+ring_effect/ring_effect_00026
+  rotate: false
+  xy: 284, 48
+  size: 134, 158
+  orig: 135, 160
+  offset: 0, 1
+  index: -1
+ring_effect/ring_effect_00028
+  rotate: false
+  xy: 139, 158
+  size: 134, 159
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00030
+  rotate: false
+  xy: 549, 209
+  size: 133, 157
+  orig: 135, 160
+  offset: 0, 2
+  index: -1
+ring_effect/ring_effect_00032
+  rotate: false
+  xy: 684, 210
+  size: 132, 157
+  orig: 135, 160
+  offset: 0, 2
+  index: -1
+ring_effect/ring_effect_00034
+  rotate: false
+  xy: 420, 47
+  size: 133, 159
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00036
+  rotate: false
+  xy: 897, 369
+  size: 135, 159
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+ring_effect/ring_effect_00038
+  rotate: false
+  xy: 1034, 369
+  size: 135, 159
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+size_2
+  rotate: false
+  xy: 1241, 229
+  size: 106, 164
+  orig: 106, 164
+  offset: 0, 0
+  index: -1
+size_3
+  rotate: false
+  xy: 1747, 47
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+size_4
+  rotate: true
+  xy: 1259, 6
+  size: 82, 106
+  orig: 82, 106
+  offset: 0, 0
+  index: -1
+size_5
+  rotate: true
+  xy: 927, 8
+  size: 65, 106
+  orig: 65, 106
+  offset: 0, 0
+  index: -1
+size_6
+  rotate: false
+  xy: 1035, 18
+  size: 106, 55
+  orig: 106, 55
+  offset: 0, 0
+  index: -1
+size_7
+  rotate: false
+  xy: 1143, 31
+  size: 106, 47
+  orig: 106, 47
+  offset: 0, 0
+  index: -1
+smoke_00026
+  rotate: false
+  xy: 1383, 121
+  size: 124, 134
+  orig: 124, 134
+  offset: 0, 0
+  index: -1
+sphere_particle/sphere_particle_00000
+  rotate: false
+  xy: 1509, 139
+  size: 116, 119
+  orig: 116, 119
+  offset: 0, 0
+  index: -1
+sphere_particle/sphere_particle_00002
+  rotate: true
+  xy: 1609, 275
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+sphere_particle/sphere_particle_00004
+  rotate: false
+  xy: 1727, 276
+  size: 116, 119
+  orig: 116, 119
+  offset: 0, 0
+  index: -1
+sphere_particle/sphere_particle_00006
+  rotate: false
+  xy: 1845, 277
+  size: 116, 119
+  orig: 116, 119
+  offset: 0, 0
+  index: -1
+sphere_particle/sphere_particle_00008
+  rotate: false
+  xy: 1627, 154
+  size: 116, 119
+  orig: 116, 119
+  offset: 0, 0
+  index: -1
+sphere_particle/sphere_particle_00010
+  rotate: true
+  xy: 1745, 155
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+sphere_particle/sphere_particle_00012
+  rotate: true
+  xy: 1863, 156
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+sphere_particle/sphere_particle_00014
+  rotate: false
+  xy: 1383, 3
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+sphere_particle/sphere_particle_00016
+  rotate: false
+  xy: 1629, 33
+  size: 116, 119
+  orig: 116, 119
+  offset: 0, 0
+  index: -1

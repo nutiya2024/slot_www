@@ -1,0 +1,20 @@
+
+win_final.png
+size: 950,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 2
+  size: 560, 548
+  orig: 560, 606
+  offset: 0, 26
+  index: -1
+guang2
+  rotate: true
+  xy: 564, 96
+  size: 454, 384
+  orig: 560, 492
+  offset: 16, 62
+  index: -1

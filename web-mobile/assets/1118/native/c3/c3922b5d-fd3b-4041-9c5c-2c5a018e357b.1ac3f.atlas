@@ -1,0 +1,140 @@
+
+stpr_freegame_idle.png
+size: 2000,1718
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 717
+  size: 1777, 999
+  orig: 1777, 999
+  offset: 0, 0
+  index: -1
+left_glow
+  rotate: false
+  xy: 1781, 661
+  size: 174, 184
+  orig: 174, 184
+  offset: 0, 0
+  index: -1
+lower_trail5
+  rotate: false
+  xy: 1326, 408
+  size: 441, 307
+  orig: 441, 307
+  offset: 0, 0
+  index: -1
+left_glowing_clouds
+  rotate: false
+  xy: 781, 13
+  size: 302, 375
+  orig: 302, 375
+  offset: 0, 0
+  index: -1
+upper_trail3
+  rotate: false
+  xy: 1781, 1212
+  size: 142, 504
+  orig: 142, 504
+  offset: 0, 0
+  index: -1
+lower_trail2
+  rotate: false
+  xy: 1085, 2
+  size: 272, 399
+  orig: 272, 399
+  offset: 0, 0
+  index: -1
+lower_trail4
+  rotate: false
+  xy: 1713, 70
+  size: 152, 336
+  orig: 152, 336
+  offset: 0, 0
+  index: -1
+right_bottom_glow
+  rotate: false
+  xy: 1781, 847
+  size: 140, 363
+  orig: 140, 363
+  offset: 0, 0
+  index: -1
+right_green_smoke
+  rotate: false
+  xy: 1359, 67
+  size: 352, 339
+  orig: 352, 339
+  offset: 0, 0
+  index: -1
+right_purple_cloud_01
+  rotate: false
+  xy: 1769, 463
+  size: 153, 196
+  orig: 153, 196
+  offset: 0, 0
+  index: -1
+right_purple_cloud_02
+  rotate: false
+  xy: 376, 33
+  size: 403, 355
+  orig: 403, 355
+  offset: 0, 0
+  index: -1
+right_small_trail
+  rotate: false
+  xy: 376, 390
+  size: 487, 325
+  orig: 487, 325
+  offset: 0, 0
+  index: -1
+starbig_2
+  rotate: false
+  xy: 2, 12
+  size: 342, 219
+  orig: 342, 219
+  offset: 0, 0
+  index: -1
+shooting stars
+  rotate: false
+  xy: 1359, 5
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1867, 321
+  size: 131, 140
+  orig: 131, 140
+  offset: 0, 0
+  index: -1
+starbig_1
+  rotate: false
+  xy: 2, 233
+  size: 372, 482
+  orig: 372, 482
+  offset: 0, 0
+  index: -1
+starbig_3
+  rotate: false
+  xy: 1925, 1369
+  size: 73, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1
+starbig_4
+  rotate: false
+  xy: 1925, 1484
+  size: 64, 232
+  orig: 64, 232
+  offset: 0, 0
+  index: -1
+upper_trail2
+  rotate: false
+  xy: 865, 403
+  size: 459, 312
+  orig: 459, 312
+  offset: 0, 0
+  index: -1
+

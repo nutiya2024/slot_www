@@ -1,0 +1,384 @@
+
+stpr_hv3.png
+size: 922,922
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+candle_01
+  rotate: false
+  xy: 852, 557
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+candle_01_glow
+  rotate: false
+  xy: 775, 44
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+candle_02
+  rotate: false
+  xy: 197, 367
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+candle_03
+  rotate: false
+  xy: 0, 9
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+candle_light_00001
+  rotate: false
+  xy: 850, 87
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+candle_light_00002
+  rotate: false
+  xy: 850, 37
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+candle_light_00003
+  rotate: false
+  xy: 162, 9
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+candle_light_00004
+  rotate: true
+  xy: 184, 59
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+candle_light_00005
+  rotate: true
+  xy: 284, 64
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+candle_light_00006
+  rotate: true
+  xy: 334, 64
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+candle_light_00007
+  rotate: true
+  xy: 384, 64
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+candle_light_00008
+  rotate: false
+  xy: 200, 9
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+candle_light_00009
+  rotate: false
+  xy: 238, 11
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+candle_light_00010
+  rotate: false
+  xy: 276, 11
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+common_star_spk (2)
+  rotate: false
+  xy: 0, 666
+  size: 259, 256
+  orig: 259, 256
+  offset: 0, 0
+  index: -1
+dropshadow_a
+  rotate: false
+  xy: 836, 164
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+dropshadow_b
+  rotate: false
+  xy: 852, 794
+  size: 70, 128
+  orig: 70, 128
+  offset: 0, 0
+  index: -1
+dropshadow_c
+  rotate: false
+  xy: 852, 664
+  size: 70, 128
+  orig: 70, 128
+  offset: 0, 0
+  index: -1
+dropshadow_d
+  rotate: false
+  xy: 837, 248
+  size: 85, 46
+  orig: 85, 46
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 599, 393
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+frame_base
+  rotate: false
+  xy: 445, 388
+  size: 152, 158
+  orig: 152, 158
+  offset: 0, 0
+  index: -1
+glow01
+  rotate: true
+  xy: 852, 581
+  size: 81, 57
+  orig: 81, 57
+  offset: 0, 0
+  index: -1
+highlight
+  rotate: false
+  xy: 836, 137
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+l_part
+  rotate: true
+  xy: 0, 31
+  size: 64, 123
+  orig: 64, 123
+  offset: 0, 0
+  index: -1
+layer_1354
+  rotate: true
+  xy: 775, 2
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+layer_1355
+  rotate: false
+  xy: 125, 0
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+layer_1356
+  rotate: true
+  xy: 234, 61
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+layer_1357
+  rotate: false
+  xy: 125, 59
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+m_part
+  rotate: true
+  xy: 197, 391
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+moon
+  rotate: true
+  xy: 837, 296
+  size: 88, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+moon_bg_00000
+  rotate: false
+  xy: 197, 231
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+moon_bg_00002
+  rotate: false
+  xy: 197, 102
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+moon_bg_00004
+  rotate: false
+  xy: 325, 231
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+moon_bg_00006
+  rotate: false
+  xy: 325, 102
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+moon_bg_00008
+  rotate: false
+  xy: 453, 259
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+moon_bg_00010
+  rotate: false
+  xy: 453, 130
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+moon_bg_00012
+  rotate: false
+  xy: 453, 1
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+moon_bg_00014
+  rotate: false
+  xy: 581, 259
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+moon_bg_00016
+  rotate: false
+  xy: 581, 130
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+moon_bg_00018
+  rotate: false
+  xy: 581, 1
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+moon_bg_00020
+  rotate: false
+  xy: 709, 257
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+particle_00000
+  rotate: false
+  xy: 261, 736
+  size: 195, 186
+  orig: 195, 186
+  offset: 0, 0
+  index: -1
+particle_00001
+  rotate: false
+  xy: 0, 285
+  size: 195, 186
+  orig: 195, 186
+  offset: 0, 0
+  index: -1
+particle_00002
+  rotate: false
+  xy: 458, 736
+  size: 195, 186
+  orig: 195, 186
+  offset: 0, 0
+  index: -1
+particle_00003
+  rotate: false
+  xy: 0, 97
+  size: 195, 186
+  orig: 195, 186
+  offset: 0, 0
+  index: -1
+particle_00004
+  rotate: false
+  xy: 655, 736
+  size: 195, 186
+  orig: 195, 186
+  offset: 0, 0
+  index: -1
+particle_00005
+  rotate: false
+  xy: 261, 548
+  size: 195, 186
+  orig: 195, 186
+  offset: 0, 0
+  index: -1
+particle_00006
+  rotate: false
+  xy: 458, 548
+  size: 195, 186
+  orig: 195, 186
+  offset: 0, 0
+  index: -1
+particle_00007
+  rotate: false
+  xy: 655, 548
+  size: 195, 186
+  orig: 195, 186
+  offset: 0, 0
+  index: -1
+particle_00008
+  rotate: false
+  xy: 248, 360
+  size: 195, 186
+  orig: 195, 186
+  offset: 0, 0
+  index: -1
+purple_gem
+  rotate: false
+  xy: 709, 129
+  size: 125, 126
+  orig: 125, 126
+  offset: 0, 0
+  index: -1
+r_part
+  rotate: false
+  xy: 709, 4
+  size: 64, 123
+  orig: 64, 123
+  offset: 0, 0
+  index: -1
+shadow_a
+  rotate: true
+  xy: 754, 386
+  size: 160, 135
+  orig: 160, 135
+  offset: 0, 0
+  index: -1
+stpr_hv3_00000
+  rotate: false
+  xy: 0, 473
+  size: 246, 191
+  orig: 246, 191
+  offset: 0, 0
+  index: -1

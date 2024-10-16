@@ -1,0 +1,34 @@
+
+shousuo.png
+size: 408,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ju_1
+  rotate: false
+  xy: 328, 20
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+ju_2
+  rotate: true
+  xy: 221, 2
+  size: 96, 105
+  orig: 96, 105
+  offset: 0, 0
+  index: -1
+shan
+  rotate: true
+  xy: 2, 6
+  size: 219, 217
+  orig: 219, 220
+  offset: 0, 3
+  index: -1
+shou_2
+  rotate: true
+  xy: 221, 100
+  size: 125, 135
+  orig: 128, 137
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+jinzita.png
+size: 872,771
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Declare_Building
+  rotate: true
+  xy: 735, 461
+  size: 178, 98
+  orig: 178, 98
+  offset: 0, 0
+  index: -1
+Declare_Stairs
+  rotate: false
+  xy: 0, 178
+  size: 548, 593
+  orig: 548, 593
+  offset: 0, 0
+  index: -1
+Declare_Stone
+  rotate: false
+  xy: 550, 180
+  size: 103, 459
+  orig: 104, 459
+  offset: 1, 0
+  index: -1
+Declare_leaf_01
+  rotate: false
+  xy: 835, 475
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+Declare_leaf_02
+  rotate: false
+  xy: 765, 25
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+Declare_leaf_03
+  rotate: true
+  xy: 676, 74
+  size: 102, 63
+  orig: 102, 63
+  offset: 0, 0
+  index: -1
+Declare_leaf_04
+  rotate: true
+  xy: 772, 207
+  size: 110, 75
+  orig: 110, 75
+  offset: 0, 0
+  index: -1
+Declare_leaf_05
+  rotate: false
+  xy: 606, 10
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+Declare_leaf_06
+  rotate: true
+  xy: 741, 92
+  size: 84, 53
+  orig: 84, 53
+  offset: 0, 0
+  index: -1
+Declare_leaf_07
+  rotate: false
+  xy: 796, 105
+  size: 73, 35
+  orig: 73, 35
+  offset: 0, 0
+  index: -1
+Declare_leaf_08
+  rotate: true
+  xy: 679, 8
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+Declare_leaf_09
+  rotate: true
+  xy: 796, 75
+  size: 28, 71
+  orig: 28, 71
+  offset: 0, 0
+  index: -1
+Declare_leaf_10
+  rotate: false
+  xy: 796, 142
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+Declare_leaf_11
+  rotate: false
+  xy: 772, 178
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+Declare_leaf_13
+  rotate: true
+  xy: 847, 428
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+Declare_leaf_14
+  rotate: false
+  xy: 847, 379
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+Declare_stone_02
+  rotate: true
+  xy: 550, 641
+  size: 130, 322
+  orig: 130, 322
+  offset: 0, 0
+  index: -1
+Declare_stone_03
+  rotate: false
+  xy: 655, 293
+  size: 78, 346
+  orig: 78, 346
+  offset: 0, 0
+  index: -1
+Declare_tree
+  rotate: true
+  xy: 0, 0
+  size: 18, 212
+  orig: 18, 212
+  offset: 0, 0
+  index: -1
+FG_Txt_Borad
+  rotate: false
+  xy: 0, 20
+  size: 453, 156
+  orig: 458, 169
+  offset: 5, 4
+  index: -1
+FG_light
+  rotate: true
+  xy: 735, 319
+  size: 140, 110
+  orig: 140, 115
+  offset: 0, 5
+  index: -1
+LT_01
+  rotate: true
+  xy: 455, 26
+  size: 150, 149
+  orig: 163, 163
+  offset: 6, 7
+  index: -1
+Light_04
+  rotate: false
+  xy: 655, 178
+  size: 115, 113
+  orig: 117, 115
+  offset: 1, 1
+  index: -1
+Mask
+  rotate: false
+  xy: 871, 136
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Mask_End
+  rotate: false
+  xy: 871, 139
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+skylight
+  rotate: true
+  xy: 835, 528
+  size: 111, 23
+  orig: 120, 28
+  offset: 6, 4
+  index: -1
+slot_shine
+  rotate: false
+  xy: 606, 73
+  size: 68, 103
+  orig: 68, 103
+  offset: 0, 0
+  index: -1

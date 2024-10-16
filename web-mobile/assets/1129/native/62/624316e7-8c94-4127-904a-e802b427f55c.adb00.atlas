@@ -1,0 +1,132 @@
+
+revolver.png
+size: 1606,1161
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_ambient_vfx_a_screen.pn
+  rotate: false
+  xy: 2, 11
+  size: 550, 550
+  orig: 550, 550
+  offset: 0, 0
+  index: -1
+bonus_revolver_multiplier.pn
+  rotate: false
+  xy: 2, 563
+  size: 581, 596
+  orig: 581, 596
+  offset: 0, 0
+  index: -1
+main_ambient_vfx_a_screen.pn
+  rotate: false
+  xy: 554, 50
+  size: 500, 511
+  orig: 500, 511
+  offset: 0, 0
+  index: -1
+main_revolver_multiplier.pn
+  rotate: false
+  xy: 585, 566
+  size: 581, 593
+  orig: 581, 593
+  offset: 0, 0
+  index: -1
+multi_vfx_a_screen.pn
+  rotate: true
+  xy: 1470, 554
+  size: 261, 99
+  orig: 261, 99
+  offset: 0, 0
+  index: -1
+multi_vfx_b_screen.pn
+  rotate: false
+  xy: 1400, 97
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+multi_vfx_c_add_01.pn
+  rotate: false
+  xy: 1168, 518
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+multi_vfx_d_add_01.pn
+  rotate: false
+  xy: 1160, 402
+  size: 326, 114
+  orig: 425, 250
+  offset: 67, 41
+  index: -1
+multi_vfx_d_add_02.pn
+  rotate: false
+  xy: 1160, 204
+  size: 336, 94
+  orig: 425, 250
+  offset: 61, 65
+  index: -1
+multi_vfx_d_add_03.pn
+  rotate: false
+  xy: 1056, 104
+  size: 342, 98
+  orig: 425, 250
+  offset: 57, 64
+  index: -1
+multi_vfx_d_add_04.pn
+  rotate: false
+  xy: 1160, 300
+  size: 334, 100
+  orig: 425, 250
+  offset: 53, 64
+  index: -1
+multi_vfx_d_add_05.pn
+  rotate: false
+  xy: 1056, 2
+  size: 338, 100
+  orig: 425, 250
+  offset: 51, 64
+  index: -1
+multi_vfx_d_add_06.pn
+  rotate: true
+  xy: 1502, 817
+  size: 342, 102
+  orig: 425, 250
+  offset: 49, 64
+  index: -1
+multi_vfx_d_add_07.pn
+  rotate: true
+  xy: 1056, 218
+  size: 346, 102
+  orig: 425, 250
+  offset: 46, 64
+  index: -1
+multi_vfx_d_add_08.pn
+  rotate: false
+  xy: 1496, 302
+  size: 100, 250
+  orig: 425, 250
+  offset: 139, 0
+  index: -1
+multi_vfx_d_add_09.pn
+  rotate: true
+  xy: 1507, 20
+  size: 280, 74
+  orig: 425, 250
+  offset: 55, 63
+  index: -1
+multi_vfx_d_add_10.pn
+  rotate: false
+  xy: 554, 20
+  size: 52, 28
+  orig: 425, 250
+  offset: 288, 98
+  index: -1
+revolver_blur.pn
+  rotate: false
+  xy: 1168, 820
+  size: 332, 339
+  orig: 332, 339
+  offset: 0, 0
+  index: -1

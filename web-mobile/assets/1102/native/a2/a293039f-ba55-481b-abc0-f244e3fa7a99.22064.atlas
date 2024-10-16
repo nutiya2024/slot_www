@@ -1,0 +1,384 @@
+
+8fae07bf89d7cf64880ada5aae6f71ce.png
+size: 888,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_Bubble
+  rotate: false
+  xy: 560, 327
+  size: 325, 114
+  orig: 325, 143
+  offset: 0, -15
+  index: -1
+s_Bubble_1
+  rotate: false
+  xy: 560, 327
+  size: 325, 114
+  orig: 325, 143
+  offset: 0, -15
+  index: -1
+s_Button_Normal
+  rotate: false
+  xy: 656, 45
+  size: 42, 41
+  orig: 46, 46
+  offset: 0, 1
+  index: -1
+s_Button_Normal_Black_1
+  rotate: false
+  xy: 514, 45
+  size: 42, 41
+  orig: 46, 46
+  offset: 0, 1
+  index: -1
+s_Button_Normal_1
+  rotate: false
+  xy: 656, 45
+  size: 42, 41
+  orig: 46, 46
+  offset: 0, 1
+  index: -1
+s_Button_Normal_Black
+  rotate: false
+  xy: 514, 45
+  size: 42, 41
+  orig: 46, 46
+  offset: 0, 1
+  index: -1
+s_bar
+  rotate: false
+  xy: 0, 256
+  size: 888, 69
+  orig: 888, 69
+  offset: 0, 0
+  index: -1
+s_DynamicCollider
+  rotate: false
+  xy: 852, 98
+  size: 2, 2
+  orig: 8, 8
+  offset: -3, 3
+  index: -1
+s_DynamicCollider_1
+  rotate: false
+  xy: 852, 98
+  size: 2, 2
+  orig: 8, 8
+  offset: -3, 3
+  index: -1
+s_bar_1
+  rotate: false
+  xy: 0, 256
+  size: 888, 69
+  orig: 888, 69
+  offset: 0, 0
+  index: -1
+s_GambleCard_Black
+  rotate: false
+  xy: 606, 17
+  size: 46, 69
+  orig: 79, 107
+  offset: -1, 0
+  index: -1
+s_GambleCard_Black_1
+  rotate: false
+  xy: 606, 17
+  size: 46, 69
+  orig: 79, 107
+  offset: -1, 0
+  index: -1
+s_GambleCard_Red
+  rotate: false
+  xy: 558, 17
+  size: 46, 69
+  orig: 79, 107
+  offset: -1, 0
+  index: -1
+s_SoundButton_Loading_1
+  rotate: false
+  xy: 692, 443
+  size: 74, 74
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+s_GambleCard_Red_1
+  rotate: false
+  xy: 558, 17
+  size: 46, 69
+  orig: 79, 107
+  offset: -1, 0
+  index: -1
+s_GambleItemBG
+  rotate: false
+  xy: 682, 90
+  size: 162, 164
+  orig: 218, 213
+  offset: 2, -4
+  index: -1
+s_PragmaticPlay
+  rotate: false
+  xy: 692, 519
+  size: 166, 17
+  orig: 185, 17
+  offset: -10, 0
+  index: -1
+s_GambleItemBG_1
+  rotate: false
+  xy: 682, 90
+  size: 162, 164
+  orig: 218, 213
+  offset: 2, -4
+  index: -1
+s_PragmaticPlay_1
+  rotate: false
+  xy: 692, 519
+  size: 166, 17
+  orig: 185, 17
+  offset: -10, 0
+  index: -1
+s_collider
+  rotate: false
+  xy: 852, 112
+  size: 2, 2
+  orig: 8, 8
+  offset: -3, 3
+  index: -1
+s_gradient
+  rotate: false
+  xy: 838, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+s_Gamble_Black_Normal
+  rotate: false
+  xy: 768, 443
+  size: 65, 65
+  orig: 120, 118
+  offset: -2, 1
+  index: -1
+s_Gamble_Black_Normal_1
+  rotate: false
+  xy: 768, 443
+  size: 65, 65
+  orig: 120, 118
+  offset: -2, 1
+  index: -1
+s_Gamble_Red_Normal
+  rotate: false
+  xy: 771, 23
+  size: 65, 65
+  orig: 120, 118
+  offset: 1, 1
+  index: -1
+s_circle
+  rotate: false
+  xy: 700, 19
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+s_spin_normal
+  rotate: false
+  xy: 0, 0
+  size: 255, 254
+  orig: 255, 255
+  offset: 0, -1
+  index: -1
+s_Gamble_Red_Normal_1
+  rotate: false
+  xy: 771, 23
+  size: 65, 65
+  orig: 120, 118
+  offset: 1, 1
+  index: -1
+s_circle_1
+  rotate: false
+  xy: 700, 19
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+s_spin_normal_1
+  rotate: false
+  xy: 0, 0
+  size: 255, 254
+  orig: 255, 255
+  offset: 0, -1
+  index: -1
+s_HelpButton_Normal
+  rotate: false
+  xy: 668, 13
+  size: 30, 30
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+s_HelpButton_Normal_1
+  rotate: false
+  xy: 668, 13
+  size: 30, 30
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+s_SoundButton_Loading
+  rotate: false
+  xy: 692, 443
+  size: 74, 74
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+s_SoundButton_Normal_4slider
+  rotate: false
+  xy: 514, 13
+  size: 30, 30
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+s_SoundButton_Normal_4slider_1
+  rotate: false
+  xy: 514, 13
+  size: 30, 30
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+s_Spin_Stop_Icon
+  rotate: false
+  xy: 602, 443
+  size: 88, 88
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+s_Spin_Stop_Icon_1
+  rotate: false
+  xy: 602, 443
+  size: 88, 88
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+s_WhiteSquare
+  rotate: false
+  xy: 838, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+s_ananas
+  rotate: false
+  xy: 835, 443
+  size: 48, 49
+  orig: 181, 178
+  offset: -67, 65
+  index: -1
+s_WhiteSquare_1
+  rotate: false
+  xy: 838, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+s_ananas_1
+  rotate: false
+  xy: 835, 443
+  size: 48, 49
+  orig: 181, 178
+  offset: -67, 65
+  index: -1
+s_Window
+  rotate: false
+  xy: 560, 443
+  size: 40, 108
+  orig: 40, 108
+  offset: 0, 0
+  index: -1
+s_collider_1
+  rotate: false
+  xy: 852, 112
+  size: 2, 2
+  orig: 8, 8
+  offset: -3, 3
+  index: -1
+s_gradient_1
+  rotate: false
+  xy: 838, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+s_Window_1
+  rotate: false
+  xy: 560, 443
+  size: 40, 108
+  orig: 40, 108
+  offset: 0, 0
+  index: -1
+s_ananas_circle
+  rotate: false
+  xy: 514, 88
+  size: 166, 166
+  orig: 181, 178
+  offset: 8, -6
+  index: -1
+s_ananas_circle_1
+  rotate: false
+  xy: 514, 88
+  size: 166, 166
+  orig: 181, 178
+  offset: 8, -6
+  index: -1
+s_lobby_thumb
+  rotate: false
+  xy: 0, 327
+  size: 331, 160
+  orig: 339, 180
+  offset: 0, 5
+  index: -1
+s_spin_hover
+  rotate: false
+  xy: 257, 0
+  size: 255, 254
+  orig: 255, 255
+  offset: 0, -1
+  index: -1
+s_lobby_thumb_1
+  rotate: false
+  xy: 0, 327
+  size: 331, 160
+  orig: 339, 180
+  offset: 0, 5
+  index: -1
+s_spin_hover_1
+  rotate: false
+  xy: 257, 0
+  size: 255, 254
+  orig: 255, 255
+  offset: 0, -1
+  index: -1
+s_sound
+  rotate: false
+  xy: 838, 56
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+s_sound_1
+  rotate: false
+  xy: 838, 56
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+s_spin_pressed
+  rotate: false
+  xy: 333, 327
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+s_spin_pressed_1
+  rotate: false
+  xy: 333, 327
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1

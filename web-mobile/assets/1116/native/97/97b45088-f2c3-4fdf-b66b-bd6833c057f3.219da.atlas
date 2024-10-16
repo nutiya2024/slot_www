@@ -1,0 +1,27 @@
+
+RedPocket.png
+size: 226,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 6
+  rotate: false
+  xy: 168, 104
+  size: 58, 120
+  orig: 58, 120
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 0, 31
+  size: 131, 99
+  orig: 131, 99
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 0, 132
+  size: 166, 92
+  orig: 166, 92
+  offset: 0, 0
+  index: -1

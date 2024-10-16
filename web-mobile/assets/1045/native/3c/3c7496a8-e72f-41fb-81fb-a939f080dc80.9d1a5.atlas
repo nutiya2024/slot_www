@@ -1,0 +1,41 @@
+
+UI_Game_FKD8.png
+size: 279,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: true
+  xy: 94, 31
+  size: 94, 173
+  orig: 96, 175
+  offset: 1, 1
+  index: -1
+dong
+  rotate: true
+  xy: 234, 220
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+gan
+  rotate: false
+  xy: 2, 2
+  size: 90, 268
+  orig: 90, 268
+  offset: 0, 0
+  index: -1
+jiantou
+  rotate: false
+  xy: 234, 136
+  size: 41, 82
+  orig: 42, 82
+  offset: 1, 0
+  index: -1
+tou
+  rotate: true
+  xy: 94, 127
+  size: 143, 138
+  orig: 143, 141
+  offset: 0, 0
+  index: -1

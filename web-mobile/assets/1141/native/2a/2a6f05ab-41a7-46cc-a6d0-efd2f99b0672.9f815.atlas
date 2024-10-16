@@ -1,0 +1,227 @@
+
+tucl_transition.png
+size: 1801,1929
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/tucl_transition_00009
+  rotate: false
+  xy: 2, 1901
+  size: 79, 26
+  orig: 888, 499
+  offset: 74, 220
+  index: -1
+cyan/tucl_transition_00011
+  rotate: false
+  xy: 83, 1710
+  size: 373, 217
+  orig: 888, 499
+  offset: 124, 0
+  index: -1
+cyan/tucl_transition_00013
+  rotate: false
+  xy: 458, 1520
+  size: 521, 407
+  orig: 888, 499
+  offset: 158, 0
+  index: -1
+cyan/tucl_transition_00015
+  rotate: false
+  xy: 848, 1004
+  size: 775, 499
+  orig: 888, 499
+  offset: 84, 0
+  index: -1
+cyan/tucl_transition_00017
+  rotate: false
+  xy: 2, 1029
+  size: 844, 489
+  orig: 888, 499
+  offset: 44, 0
+  index: -1
+cyan/tucl_transition_00019
+  rotate: false
+  xy: 790, 503
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cyan/tucl_transition_00021
+  rotate: false
+  xy: 2, 2
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cyan/tucl_transition_00023
+  rotate: false
+  xy: 892, 2
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+yellow/tucl_transition_00063
+  rotate: false
+  xy: 2, 528
+  size: 786, 499
+  orig: 888, 499
+  offset: 66, 0
+  index: -1
+yellow/tucl_transition_00065
+  rotate: false
+  xy: 981, 1505
+  size: 818, 422
+  orig: 888, 499
+  offset: 47, 18
+  index: -1
+
+tucl_transition2.png
+size: 1782,2006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cyan/tucl_transition_00025
+  rotate: false
+  xy: 2, 1505
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cyan/tucl_transition_00027
+  rotate: false
+  xy: 2, 1004
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cyan/tucl_transition_00029
+  rotate: false
+  xy: 892, 1505
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cyan/tucl_transition_00031
+  rotate: false
+  xy: 2, 503
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cyan/tucl_transition_00033
+  rotate: false
+  xy: 892, 1004
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cyan/tucl_transition_00035
+  rotate: false
+  xy: 2, 2
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cyan/tucl_transition_00037
+  rotate: false
+  xy: 892, 503
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+cyan/tucl_transition_00039
+  rotate: false
+  xy: 892, 2
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+
+tucl_transition3.png
+size: 1782,2006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/tucl_transition_00041
+  rotate: false
+  xy: 2, 1505
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+blue/tucl_transition_00043
+  rotate: false
+  xy: 2, 1004
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+blue/tucl_transition_00045
+  rotate: false
+  xy: 892, 1505
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+blue/tucl_transition_00047
+  rotate: false
+  xy: 2, 503
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+blue/tucl_transition_00049
+  rotate: false
+  xy: 892, 1004
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+blue/tucl_transition_00051
+  rotate: false
+  xy: 2, 2
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+blue/tucl_transition_00053
+  rotate: false
+  xy: 892, 503
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+red/tucl_transition_00055
+  rotate: false
+  xy: 892, 2
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+
+tucl_transition4.png
+size: 1505,892
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+red/tucl_transition_00057
+  rotate: true
+  xy: 2, 2
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+yellow/tucl_transition_00059
+  rotate: true
+  xy: 503, 2
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1
+yellow/tucl_transition_00061
+  rotate: true
+  xy: 1004, 2
+  size: 888, 499
+  orig: 888, 499
+  offset: 0, 0
+  index: -1

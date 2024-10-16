@@ -1,0 +1,167 @@
+
+window.png
+size: 1241,1241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_frame
+  rotate: false
+  xy: 0, 663
+  size: 991, 578
+  orig: 991, 578
+  offset: 0, 0
+  index: -1
+congratulations
+  rotate: false
+  xy: 0, 525
+  size: 914, 136
+  orig: 914, 136
+  offset: 0, 0
+  index: -1
+credits
+  rotate: false
+  xy: 472, 6
+  size: 261, 63
+  orig: 261, 63
+  offset: 0, 0
+  index: -1
+flower_particals_0010
+  rotate: false
+  xy: 735, 15
+  size: 208, 50
+  orig: 208, 50
+  offset: 0, 0
+  index: -1
+flower_particals_0012
+  rotate: false
+  xy: 475, 146
+  size: 403, 65
+  orig: 403, 65
+  offset: 0, 0
+  index: -1
+flower_particals_0014
+  rotate: false
+  xy: 587, 359
+  size: 466, 68
+  orig: 466, 68
+  offset: 0, 0
+  index: -1
+flower_particals_0016
+  rotate: false
+  xy: 477, 213
+  size: 466, 73
+  orig: 466, 73
+  offset: 0, 0
+  index: -1
+flower_particals_0018
+  rotate: false
+  xy: 542, 288
+  size: 471, 69
+  orig: 471, 69
+  offset: 0, 0
+  index: -1
+flower_particals_0020
+  rotate: false
+  xy: 0, 64
+  size: 470, 75
+  orig: 470, 75
+  offset: 0, 0
+  index: -1
+flower_particals_0022
+  rotate: false
+  xy: 0, 141
+  size: 473, 75
+  orig: 473, 75
+  offset: 0, 0
+  index: -1
+flower_particals_0024
+  rotate: true
+  xy: 1145, 768
+  size: 473, 78
+  orig: 473, 78
+  offset: 0, 0
+  index: -1
+flower_particals_0026
+  rotate: false
+  xy: 0, 218
+  size: 475, 85
+  orig: 475, 85
+  offset: 0, 0
+  index: -1
+flower_particals_0028
+  rotate: true
+  xy: 1058, 764
+  size: 477, 85
+  orig: 477, 85
+  offset: 0, 0
+  index: -1
+flower_particals_0030
+  rotate: false
+  xy: 587, 429
+  size: 429, 94
+  orig: 429, 94
+  offset: 0, 0
+  index: -1
+num_frame_0012
+  rotate: false
+  xy: 0, 0
+  size: 291, 62
+  orig: 291, 62
+  offset: 0, 0
+  index: -1
+num_frame_0013
+  rotate: false
+  xy: 475, 71
+  size: 297, 73
+  orig: 297, 73
+  offset: 0, 0
+  index: -1
+num_frame_0014
+  rotate: false
+  xy: 774, 67
+  size: 297, 77
+  orig: 297, 77
+  offset: 0, 0
+  index: -1
+num_frame_0015
+  rotate: true
+  xy: 1058, 465
+  size: 297, 77
+  orig: 297, 77
+  offset: 0, 0
+  index: -1
+num_frame_0016
+  rotate: true
+  xy: 1137, 465
+  size: 297, 76
+  orig: 297, 76
+  offset: 0, 0
+  index: -1
+num_frame_0017
+  rotate: false
+  xy: 945, 214
+  size: 293, 72
+  orig: 293, 72
+  offset: 0, 0
+  index: -1
+number_frame
+  rotate: false
+  xy: 0, 379
+  size: 585, 144
+  orig: 585, 144
+  offset: 0, 0
+  index: -1
+tap_anywhere_to_continue
+  rotate: true
+  xy: 993, 666
+  size: 575, 63
+  orig: 575, 63
+  offset: 0, 0
+  index: -1
+you_have_won
+  rotate: false
+  xy: 0, 305
+  size: 540, 72
+  orig: 540, 72
+  offset: 0, 0
+  index: -1

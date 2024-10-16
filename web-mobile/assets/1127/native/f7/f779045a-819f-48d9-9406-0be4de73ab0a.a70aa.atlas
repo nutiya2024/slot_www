@@ -1,0 +1,41 @@
+
+h_watch_a_atlas_symbols.png
+size: 444,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_g_fx_glitter
+  rotate: false
+  xy: 257, 20
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+h_watch
+  rotate: true
+  xy: 322, 21
+  size: 146, 120
+  orig: 146, 124
+  offset: 0, 0
+  index: -1
+h_watch_belt
+  rotate: true
+  xy: 181, 5
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+h_watch_belt_02
+  rotate: false
+  xy: 181, 43
+  size: 139, 124
+  orig: 139, 124
+  offset: 0, 0
+  index: -1
+h_watch_shdw
+  rotate: false
+  xy: 2, 2
+  size: 177, 165
+  orig: 187, 187
+  offset: 8, 2
+  index: -1
