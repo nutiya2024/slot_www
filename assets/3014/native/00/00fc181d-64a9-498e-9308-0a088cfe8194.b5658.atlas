@@ -1,0 +1,13 @@
+
+25FreezingBomb.png
+size: 504,319
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maskBlue
+  rotate: false
+  xy: 2, 2
+  size: 500, 315
+  orig: 500, 315
+  offset: 0, 0
+  index: -1

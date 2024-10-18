@@ -1,0 +1,153 @@
+
+dieani_fish15_17.png
+size: 463,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+36ss
+  rotate: false
+  xy: 2, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_00022
+  rotate: false
+  xy: 2, 262
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+gold5_0
+  rotate: true
+  xy: 349, 297
+  size: 91, 73
+  orig: 100, 100
+  offset: 5, 12
+  index: -1
+gold5_1
+  rotate: false
+  xy: 260, 301
+  size: 87, 87
+  orig: 100, 100
+  offset: 7, 6
+  index: -1
+gold5_10
+  rotate: true
+  xy: 388, 14
+  size: 95, 14
+  orig: 100, 100
+  offset: 3, 41
+  index: -1
+gold5_11
+  rotate: true
+  xy: 400, 113
+  size: 89, 43
+  orig: 100, 100
+  offset: 6, 26
+  index: -1
+gold5_2
+  rotate: true
+  xy: 260, 121
+  size: 89, 81
+  orig: 100, 100
+  offset: 6, 9
+  index: -1
+gold5_3
+  rotate: true
+  xy: 390, 427
+  size: 91, 55
+  orig: 100, 100
+  offset: 5, 21
+  index: -1
+gold5_4
+  rotate: true
+  xy: 447, 423
+  size: 95, 14
+  orig: 100, 100
+  offset: 3, 41
+  index: -1
+gold5_5
+  rotate: true
+  xy: 343, 20
+  size: 89, 43
+  orig: 100, 100
+  offset: 6, 26
+  index: -1
+gold5_6
+  rotate: true
+  xy: 349, 204
+  size: 91, 73
+  orig: 100, 100
+  offset: 5, 12
+  index: -1
+gold5_7
+  rotate: false
+  xy: 260, 212
+  size: 87, 87
+  orig: 100, 100
+  offset: 7, 6
+  index: -1
+gold5_8
+  rotate: true
+  xy: 260, 30
+  size: 89, 81
+  orig: 100, 100
+  offset: 6, 9
+  index: -1
+gold5_9
+  rotate: true
+  xy: 343, 111
+  size: 91, 55
+  orig: 100, 100
+  offset: 5, 21
+  index: -1
+xulie_shitou1
+  rotate: true
+  xy: 260, 2
+  size: 26, 51
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+xulie_shitou2
+  rotate: true
+  xy: 390, 393
+  size: 32, 55
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+xulie_shitou3
+  rotate: false
+  xy: 424, 336
+  size: 30, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+xulie_shitou4
+  rotate: false
+  xy: 424, 284
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+xulie_shitou5
+  rotate: false
+  xy: 424, 230
+  size: 22, 52
+  orig: 22, 52
+  offset: 0, 0
+  index: -1
+xulie_shitou8
+  rotate: false
+  xy: 404, 55
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+yanhuo_00201
+  rotate: false
+  xy: 260, 390
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+29Bomb.png
+size: 1511,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+32131
+  rotate: true
+  xy: 1288, 40
+  size: 245, 42
+  orig: 256, 256
+  offset: 0, 106
+  index: -1
+AAACN
+  rotate: false
+  xy: 2, 4
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+fangsheguang_00142
+  rotate: false
+  xy: 1030, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_00005
+  rotate: true
+  xy: 1288, 287
+  size: 229, 221
+  orig: 256, 256
+  offset: 16, 18
+  index: -1
+glow_00022
+  rotate: false
+  xy: 1030, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+monk_handsofLightning_lineSwirl
+  rotate: false
+  xy: 516, 4
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

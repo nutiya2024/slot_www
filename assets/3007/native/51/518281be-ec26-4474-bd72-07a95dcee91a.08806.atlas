@@ -1,0 +1,104 @@
+
+sunwukong.png
+size: 380,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L-arm
+  rotate: false
+  xy: 279, 10
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+L-leg
+  rotate: true
+  xy: 331, 30
+  size: 25, 26
+  orig: 27, 28
+  offset: 1, 1
+  index: -1
+R-arm
+  rotate: true
+  xy: 359, 59
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+R-leg
+  rotate: true
+  xy: 282, 30
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+arm-yifu
+  rotate: false
+  xy: 350, 5
+  size: 28, 23
+  orig: 30, 25
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 222, 40
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+eyel
+  rotate: false
+  xy: 359, 40
+  size: 14, 17
+  orig: 16, 19
+  offset: 1, 1
+  index: -1
+eyer
+  rotate: true
+  xy: 279, 2
+  size: 6, 11
+  orig: 8, 13
+  offset: 1, 1
+  index: -1
+jingubang
+  rotate: false
+  xy: 178, 10
+  size: 42, 92
+  orig: 44, 94
+  offset: 1, 1
+  index: -1
+l-armyifu
+  rotate: false
+  xy: 317, 5
+  size: 31, 23
+  orig: 33, 25
+  offset: 1, 1
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 3
+  size: 103, 99
+  orig: 103, 99
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 107, 8
+  size: 69, 94
+  orig: 69, 94
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: true
+  xy: 222, 2
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+yumao2
+  rotate: false
+  xy: 282, 57
+  size: 75, 45
+  orig: 75, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+22RedPhoenix.png
+size: 774,921
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boom1
+  rotate: false
+  xy: 635, 601
+  size: 61, 54
+  orig: 164, 166
+  offset: 50, 59
+  index: -1
+boom10
+  rotate: true
+  xy: 2, 151
+  size: 151, 152
+  orig: 164, 166
+  offset: 6, 5
+  index: -1
+boom11
+  rotate: true
+  xy: 159, 457
+  size: 152, 154
+  orig: 164, 166
+  offset: 6, 5
+  index: -1
+boom12
+  rotate: false
+  xy: 621, 301
+  size: 151, 153
+  orig: 164, 166
+  offset: 6, 5
+  index: -1
+boom13
+  rotate: false
+  xy: 160, 611
+  size: 154, 153
+  orig: 164, 166
+  offset: 6, 6
+  index: -1
+boom14
+  rotate: true
+  xy: 477, 767
+  size: 152, 156
+  orig: 164, 166
+  offset: 5, 4
+  index: -1
+boom15
+  rotate: true
+  xy: 158, 305
+  size: 150, 154
+  orig: 164, 166
+  offset: 6, 5
+  index: -1
+boom16
+  rotate: true
+  xy: 320, 766
+  size: 153, 155
+  orig: 164, 166
+  offset: 6, 5
+  index: -1
+boom17
+  rotate: true
+  xy: 316, 614
+  size: 150, 157
+  orig: 164, 166
+  offset: 5, 4
+  index: -1
+boom18
+  rotate: false
+  xy: 471, 303
+  size: 148, 157
+  orig: 164, 166
+  offset: 8, 3
+  index: -1
+boom19
+  rotate: true
+  xy: 477, 613
+  size: 152, 156
+  orig: 164, 166
+  offset: 5, 3
+  index: -1
+boom2
+  rotate: true
+  xy: 635, 657
+  size: 129, 132
+  orig: 164, 166
+  offset: 14, 16
+  index: -1
+boom20
+  rotate: true
+  xy: 471, 462
+  size: 149, 156
+  orig: 164, 166
+  offset: 7, 3
+  index: -1
+boom21
+  rotate: true
+  xy: 466, 152
+  size: 149, 151
+  orig: 164, 166
+  offset: 7, 6
+  index: -1
+boom22
+  rotate: true
+  xy: 2, 458
+  size: 152, 155
+  orig: 164, 166
+  offset: 4, 4
+  index: -1
+boom23
+  rotate: true
+  xy: 161, 766
+  size: 153, 157
+  orig: 164, 166
+  offset: 5, 3
+  index: -1
+boom24
+  rotate: false
+  xy: 316, 459
+  size: 153, 153
+  orig: 164, 166
+  offset: 6, 6
+  index: -1
+boom25
+  rotate: true
+  xy: 2, 612
+  size: 152, 156
+  orig: 164, 166
+  offset: 6, 3
+  index: -1
+boom26
+  rotate: true
+  xy: 2, 304
+  size: 152, 154
+  orig: 164, 166
+  offset: 6, 6
+  index: -1
+boom27
+  rotate: true
+  xy: 312, 3
+  size: 148, 151
+  orig: 164, 166
+  offset: 7, 7
+  index: -1
+boom28
+  rotate: false
+  xy: 2, 2
+  size: 148, 147
+  orig: 164, 166
+  offset: 6, 7
+  index: -1
+boom29
+  rotate: false
+  xy: 629, 456
+  size: 143, 143
+  orig: 164, 166
+  offset: 7, 8
+  index: -1
+boom3
+  rotate: false
+  xy: 619, 11
+  size: 142, 142
+  orig: 164, 166
+  offset: 11, 11
+  index: -1
+boom30
+  rotate: true
+  xy: 635, 788
+  size: 131, 136
+  orig: 164, 166
+  offset: 13, 12
+  index: -1
+boom4
+  rotate: true
+  xy: 619, 155
+  size: 144, 149
+  orig: 164, 166
+  offset: 9, 6
+  index: -1
+boom5
+  rotate: true
+  xy: 156, 4
+  size: 146, 152
+  orig: 164, 166
+  offset: 7, 5
+  index: -1
+boom6
+  rotate: true
+  xy: 312, 153
+  size: 150, 152
+  orig: 164, 166
+  offset: 5, 9
+  index: -1
+boom7
+  rotate: false
+  xy: 315, 305
+  size: 152, 152
+  orig: 164, 166
+  offset: 5, 6
+  index: -1
+boom8
+  rotate: true
+  xy: 158, 152
+  size: 151, 152
+  orig: 164, 166
+  offset: 7, 6
+  index: -1
+boom9
+  rotate: true
+  xy: 2, 766
+  size: 153, 157
+  orig: 164, 166
+  offset: 6, 4
+  index: -1

@@ -1,0 +1,216 @@
+
+RedPhoenixBall.png
+size: 1981,796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RedPhoenixBall_1
+  rotate: true
+  xy: 422, 394
+  size: 195, 258
+  orig: 240, 300
+  offset: 23, 31
+  index: -1
+RedPhoenixBall_10
+  rotate: false
+  xy: 212, 282
+  size: 204, 255
+  orig: 240, 300
+  offset: 15, 34
+  index: -1
+RedPhoenixBall_11
+  rotate: false
+  xy: 2, 539
+  size: 209, 255
+  orig: 240, 300
+  offset: 15, 34
+  index: -1
+RedPhoenixBall_12
+  rotate: false
+  xy: 213, 539
+  size: 207, 255
+  orig: 240, 300
+  offset: 18, 34
+  index: -1
+RedPhoenixBall_13
+  rotate: true
+  xy: 680, 592
+  size: 202, 256
+  orig: 240, 300
+  offset: 22, 33
+  index: -1
+RedPhoenixBall_14
+  rotate: true
+  xy: 941, 397
+  size: 198, 256
+  orig: 240, 300
+  offset: 22, 33
+  index: -1
+RedPhoenixBall_15
+  rotate: true
+  xy: 1720, 205
+  size: 195, 258
+  orig: 240, 300
+  offset: 22, 31
+  index: -1
+RedPhoenixBall_16
+  rotate: true
+  xy: 1199, 203
+  size: 194, 258
+  orig: 240, 300
+  offset: 24, 31
+  index: -1
+RedPhoenixBall_17
+  rotate: true
+  xy: 674, 2
+  size: 194, 259
+  orig: 240, 300
+  offset: 23, 30
+  index: -1
+RedPhoenixBall_18
+  rotate: true
+  xy: 938, 597
+  size: 197, 259
+  orig: 240, 300
+  offset: 22, 30
+  index: -1
+RedPhoenixBall_19
+  rotate: true
+  xy: 1459, 402
+  size: 195, 259
+  orig: 240, 300
+  offset: 23, 30
+  index: -1
+RedPhoenixBall_2
+  rotate: true
+  xy: 418, 206
+  size: 186, 259
+  orig: 240, 300
+  offset: 27, 30
+  index: -1
+RedPhoenixBall_20
+  rotate: true
+  xy: 1459, 206
+  size: 194, 259
+  orig: 240, 300
+  offset: 23, 30
+  index: -1
+RedPhoenixBall_21
+  rotate: true
+  xy: 1720, 402
+  size: 195, 259
+  orig: 240, 300
+  offset: 23, 30
+  index: -1
+RedPhoenixBall_22
+  rotate: true
+  xy: 1459, 18
+  size: 186, 259
+  orig: 240, 300
+  offset: 27, 30
+  index: -1
+RedPhoenixBall_23
+  rotate: true
+  xy: 1199, 399
+  size: 196, 258
+  orig: 240, 300
+  offset: 22, 31
+  index: -1
+RedPhoenixBall_24
+  rotate: true
+  xy: 935, 2
+  size: 194, 257
+  orig: 240, 300
+  offset: 22, 32
+  index: -1
+RedPhoenixBall_25
+  rotate: true
+  xy: 1199, 4
+  size: 197, 256
+  orig: 240, 300
+  offset: 20, 33
+  index: -1
+RedPhoenixBall_26
+  rotate: true
+  xy: 422, 591
+  size: 203, 256
+  orig: 240, 300
+  offset: 15, 33
+  index: -1
+RedPhoenixBall_27
+  rotate: false
+  xy: 2, 282
+  size: 208, 255
+  orig: 240, 300
+  offset: 16, 34
+  index: -1
+RedPhoenixBall_28
+  rotate: false
+  xy: 2, 25
+  size: 207, 255
+  orig: 240, 300
+  offset: 18, 34
+  index: -1
+RedPhoenixBall_29
+  rotate: false
+  xy: 211, 24
+  size: 200, 256
+  orig: 240, 300
+  offset: 23, 33
+  index: -1
+RedPhoenixBall_3
+  rotate: true
+  xy: 1459, 599
+  size: 195, 259
+  orig: 240, 300
+  offset: 23, 30
+  index: -1
+RedPhoenixBall_30
+  rotate: true
+  xy: 1720, 6
+  size: 197, 257
+  orig: 240, 300
+  offset: 23, 32
+  index: -1
+RedPhoenixBall_4
+  rotate: true
+  xy: 1720, 599
+  size: 195, 259
+  orig: 240, 300
+  offset: 22, 30
+  index: -1
+RedPhoenixBall_5
+  rotate: true
+  xy: 679, 198
+  size: 194, 259
+  orig: 240, 300
+  offset: 23, 30
+  index: -1
+RedPhoenixBall_6
+  rotate: true
+  xy: 413, 10
+  size: 194, 259
+  orig: 240, 300
+  offset: 23, 30
+  index: -1
+RedPhoenixBall_7
+  rotate: true
+  xy: 1199, 597
+  size: 197, 258
+  orig: 240, 300
+  offset: 22, 31
+  index: -1
+RedPhoenixBall_8
+  rotate: true
+  xy: 682, 394
+  size: 196, 257
+  orig: 240, 300
+  offset: 22, 32
+  index: -1
+RedPhoenixBall_9
+  rotate: true
+  xy: 941, 198
+  size: 197, 256
+  orig: 240, 300
+  offset: 17, 33
+  index: -1

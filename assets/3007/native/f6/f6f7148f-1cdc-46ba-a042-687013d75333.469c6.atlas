@@ -1,0 +1,20 @@
+
+jingubang.png
+size: 253,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinfen
+  rotate: true
+  xy: 2, 2
+  size: 232, 234
+  orig: 234, 236
+  offset: 1, 1
+  index: -1
+zhenjingubang
+  rotate: false
+  xy: 2, 236
+  size: 249, 32
+  orig: 249, 32
+  offset: 0, 0
+  index: -1

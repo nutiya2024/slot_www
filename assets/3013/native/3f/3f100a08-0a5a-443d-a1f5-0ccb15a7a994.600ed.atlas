@@ -1,0 +1,153 @@
+
+30HappyFish.png
+size: 823,367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8
+  rotate: false
+  xy: 2, 6
+  size: 361, 359
+  orig: 409, 409
+  offset: 25, 25
+  index: -1
+glow_00022
+  rotate: false
+  xy: 365, 109
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+jinbi2_1
+  rotate: false
+  xy: 690, 41
+  size: 63, 63
+  orig: 65, 64
+  offset: 1, 0
+  index: -1
+jinbi2_10
+  rotate: true
+  xy: 755, 40
+  size: 65, 62
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+jinbi2_11
+  rotate: false
+  xy: 623, 105
+  size: 65, 63
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+jinbi2_12
+  rotate: false
+  xy: 755, 107
+  size: 63, 63
+  orig: 65, 64
+  offset: 2, 0
+  index: -1
+jinbi2_13
+  rotate: false
+  xy: 432, 50
+  size: 64, 57
+  orig: 65, 64
+  offset: 1, 4
+  index: -1
+jinbi2_14
+  rotate: true
+  xy: 622, 39
+  size: 64, 47
+  orig: 65, 64
+  offset: 1, 9
+  index: -1
+jinbi2_15
+  rotate: false
+  xy: 431, 2
+  size: 63, 46
+  orig: 65, 64
+  offset: 2, 8
+  index: -1
+jinbi2_16
+  rotate: false
+  xy: 365, 50
+  size: 65, 57
+  orig: 65, 64
+  offset: 0, 3
+  index: -1
+jinbi2_17
+  rotate: false
+  xy: 689, 172
+  size: 65, 63
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+jinbi2_18
+  rotate: true
+  xy: 690, 106
+  size: 64, 63
+  orig: 65, 64
+  offset: 1, 0
+  index: -1
+jinbi2_2
+  rotate: true
+  xy: 623, 170
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+jinbi2_3
+  rotate: true
+  xy: 753, 301
+  size: 64, 63
+  orig: 65, 64
+  offset: 1, 0
+  index: -1
+jinbi2_4
+  rotate: false
+  xy: 498, 50
+  size: 63, 57
+  orig: 65, 64
+  offset: 2, 3
+  index: -1
+jinbi2_5
+  rotate: false
+  xy: 365, 2
+  size: 64, 46
+  orig: 65, 64
+  offset: 1, 8
+  index: -1
+jinbi2_6
+  rotate: false
+  xy: 496, 3
+  size: 63, 45
+  orig: 65, 64
+  offset: 2, 9
+  index: -1
+jinbi2_7
+  rotate: true
+  xy: 563, 44
+  size: 63, 57
+  orig: 65, 64
+  offset: 1, 2
+  index: -1
+jinbi2_8
+  rotate: false
+  xy: 753, 237
+  size: 65, 62
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+jinbi2_9
+  rotate: false
+  xy: 756, 173
+  size: 65, 62
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+yanhuo_00201
+  rotate: false
+  xy: 623, 237
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

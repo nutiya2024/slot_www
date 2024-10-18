@@ -1,0 +1,83 @@
+
+dieani_fish18_19.png
+size: 1814,1431
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+005
+  rotate: true
+  xy: 2, 937
+  size: 492, 491
+  orig: 512, 512
+  offset: 10, 10
+  index: -1
+008
+  rotate: true
+  xy: 975, 1014
+  size: 415, 406
+  orig: 512, 512
+  offset: 56, 54
+  index: -1
+009
+  rotate: false
+  xy: 1383, 1025
+  size: 409, 404
+  orig: 512, 512
+  offset: 60, 55
+  index: -1
+010
+  rotate: true
+  xy: 453, 8
+  size: 442, 435
+  orig: 512, 512
+  offset: 44, 38
+  index: -1
+011
+  rotate: false
+  xy: 2, 5
+  size: 449, 445
+  orig: 512, 512
+  offset: 41, 31
+  index: -1
+012
+  rotate: true
+  xy: 890, 2
+  size: 451, 454
+  orig: 512, 512
+  offset: 43, 22
+  index: -1
+013
+  rotate: true
+  xy: 963, 472
+  size: 476, 469
+  orig: 512, 512
+  offset: 28, 17
+  index: -1
+014
+  rotate: true
+  xy: 1346, 3
+  size: 467, 466
+  orig: 512, 512
+  offset: 40, 17
+  index: -1
+015
+  rotate: true
+  xy: 483, 455
+  size: 480, 478
+  orig: 512, 512
+  offset: 32, 13
+  index: -1
+016
+  rotate: true
+  xy: 495, 950
+  size: 479, 478
+  orig: 512, 512
+  offset: 33, 13
+  index: -1
+017
+  rotate: false
+  xy: 2, 452
+  size: 479, 483
+  orig: 512, 512
+  offset: 33, 10
+  index: -1

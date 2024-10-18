@@ -1,0 +1,55 @@
+
+haichao.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lang
+  rotate: true
+  xy: 1104, 395
+  size: 240, 780
+  orig: 240, 780
+  offset: 0, 0
+  index: -1
+lang1
+  rotate: true
+  xy: 1104, 153
+  size: 240, 780
+  orig: 240, 780
+  offset: 0, 0
+  index: -1
+pp7
+  rotate: false
+  xy: 1891, 948
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+shuidi2
+  rotate: true
+  xy: 2, 2
+  size: 252, 850
+  orig: 252, 850
+  offset: 0, 0
+  index: -1
+tuowei1s
+  rotate: true
+  xy: 1104, 637
+  size: 374, 785
+  orig: 374, 785
+  offset: 0, 0
+  index: -1
+tuowei2
+  rotate: false
+  xy: 2, 256
+  size: 549, 755
+  orig: 549, 755
+  offset: 0, 0
+  index: -1
+tuowei3
+  rotate: false
+  xy: 553, 256
+  size: 549, 755
+  orig: 549, 755
+  offset: 0, 0
+  index: -1
